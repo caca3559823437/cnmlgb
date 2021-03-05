@@ -26,6 +26,7 @@ NOW新聞,http://anbo.hicloud.co/index.php?id=396
 凤凰资讯台,http://39.134.182.236/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 凤凰资讯台,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 J2台,http://anbo.hicloud.co/index.php?id=392
+J2台,http://61.238.6.49:8001/bysid/82
 J2台,http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
 寰宇新闻,https://iptv008.club/ublive2088283316791.php?id=171
 寰宇新闻,http://anbo.hicloud.co/index.php?id=304
@@ -74,6 +75,33 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 非凡新闻,https://iptv008.club/ublive2088283316791.php?id=164
 非凡新闻,http://anbo.hicloud.co/index.php?id=314
 非凡新闻,http://154.215.142.99/1/sb.php?id=314
+TVB 翡翠台,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=15
+J2台,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=18
+无线财经,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=14
+无线新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=13
+有线新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=6
+NOW新聞,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=21
+民视新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=37
+台视新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=31
+华视新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=33
+中天新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=26
+东森新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=27
+三立新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=35
+TVB 翡翠台,http://173.242.121.138/A2021.php?id=30
+TVB 翡翠台,http://173.242.121.138/A2021.php?id=390
+TVB明珠,http://173.242.121.138/A2021.php?id=391
+无线新闻,http://173.242.121.138/A2021.php?id=394
+无线财经,http://173.242.121.138/A2021.php?id=393
+有线新闻,http://173.242.121.138/A2021.php?id=395
+NOW新聞,http://173.242.121.138/A2021.php?id=396
+J2台,http://173.242.121.138/A2021.php?id=392
+凤凰资讯台,http://stream.guihet.com/t/ifeng2.php?id=1
+凤凰中文台,http://stream.guihet.com/t/ifeng2.php?id=2
+凤凰香港台,http://stream.guihet.com/t/ifeng2.php?id=3
+凤凰资讯台,http://zyj520ljzfjzfx.xyz/ifeed.php?id=1
+凤凰中文台,http://zyj520ljzfjzfx.xyz/ifeed.php?id=2
+凤凰香港台,http://zyj520ljzfjzfx.xyz/ifeed.php?id=3
+壹新闻,https://tx2play1.douyucdn.cn/douyuhls/8117007rduhcdjIZ.flv
 东森财经,http://154.215.142.99/1/sb.php?id=12
 东森财经,http://anbo.hicloud.co/index.php?id=12
 东森财经,http://seb.sason.top/sc/dscjxw_fhd.m3u8
@@ -120,6 +148,8 @@ AXN,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 Blue Ant Entertainment,https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 Cinemax,http://136.243.177.164/CINEMAX/index.m3u8
 Cinemax,http://bos.00387.info:8080/Cinemax1/index.m3u8?token=test
+Celestial Movies,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+Thrill,http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 FOX family,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 Fox Life,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
 Fox_Movies,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
@@ -198,6 +228,17 @@ NOW新聞,http://154.215.142.99/1/sb.php?id=400
 广东珠江,http://154.215.142.99/1/sb.php?id=1034
 三立都会台,http://154.215.142.99/1/sb.php?id=1001
 全佳,http://154.215.142.99/1/sb.php?id=427
+VIUTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+港臺31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+港臺32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+无线财经,http://61.238.6.49:8001/bysid/83
+无线财经,http://61.238.6.49:8001/bysid/85
+TVB 翡翠台,http://61.238.6.49:8000/bysid/1
+TVB 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰中文台,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 TVB 翡翠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
 Channel [CNA],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -221,7 +262,7 @@ TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_
 TVB 翡翠台,http://anbo.hicloud.co/index.php?id=390
 TVB 翡翠台,http://anbo.hicloud.co/index.php?id=30
 NOW直播,http://anbo.hicloud.co/index.php?id=400
-耀华财经,http://anbo.hicloud.co/index.php?id=355
+耀才財經台,http://anbo.hicloud.co/index.php?id=355
 美国之音,http://anbo.hicloud.co/index.php?id=22
 TVBS亚洲,http://8.210.39.156/mytv.php?playurl=http://51.79.208.139:61980/myplay/c_58033/index.m3u8
 TVB 星河台,http://8.210.39.156/mytv.php?playurl=http://51.79.208.139:61980/myplay/c_58031/index.m3u8
@@ -291,6 +332,8 @@ TVBS新聞,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=2
 澳門衛星,http://anbo.hicloud.co/index.php?id=29
 三立都会,http://anbo.hicloud.co/index.php?id=1001
 VIUTV,http://hls.globaliptv.ml/viu99.php
+有线603台,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=8
+VIUTV,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=20
 VIUTV6,http://hls.globaliptv.ml/viu96.php
 VIUTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 港臺32,http://anbo.hicloud.co/index.php?id=397
@@ -636,7 +679,6 @@ CinemaWorld,P2p://198.255.74.56:41196/602fedc0000ee2f179f96e5271d29cde
 美亚电影台,P2p://198.255.74.56:41196/602fedc0000dfb8579f96e16cab1e51e
 星卫HD电影,P2p://198.255.74.56:41196/602fedc0000d1bf479f96ddd873f4664
 星卫娱乐,P2p://198.255.74.56:41196/602fedc0000cd9b479f96dcc20b72a3c
-
 天映频道,p5p://198.255.106.42:16871/5ecfb28400055004967ec4954fccfd7f#p5p://0198.02686.cc:16871/5ecfb28400055004967ec4954fccfd7f
 天映经典,p5p://198.255.106.42:16871/5f2f935d000124722250d0dff4066d74#p5p://0198.02686.cc:16871/5f2f935d000124722250d0dff4066d74
 卫视卡式台,p5p://198.255.106.42:16871/5f48bada00043d2824039410317b1853#p5p://0198.02686.cc:16871/5f48bada00043d2824039410317b1853
@@ -675,8 +717,6 @@ FOXMOVIES,P2p://198.255.74.56:41196/602fedba000c420979f956357cb6c4b9
 FOX家庭影院,P2p://198.255.74.56:41196/602fedba000b5f0c79f955fb8f62eef5
 FOXCRIME,P2p://198.255.74.56:41196/602fedba000a7ac979f955c1251dd7ec
 FOXNEWS,P2p://198.255.74.56:41196/602fedba0009950679f955865f88d797
-
-港台测试2,#genre#
 TVBS新聞,tvbus://5LFtjMDFSxRdXcHM8iCW5WzgMDKBSJcWtkrKq4dbcpkbL7YrrQTBfypj1MAJB
 TVBS新聞,tvbus://7CyU6ZP3BBpcF91MruJCdXjLyFZeSniyanTBASwG47S3fLTQx9 
 壹電視新聞台,tvbus://6HAaEgfgUnyuir85rt9epacbB99a2XyEzmGkwUidf2dwjDSZ15at8d8AouURP
@@ -1037,14 +1077,14 @@ FX,tvbus://5mNudv1NY7oPmaoFhPdfh4HbvUVkppCsqHn1wmQPHo2jVYCveHurYcfbfHSQF
 影视04,http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
 惊悚悬疑,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
 自由搏击,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-动作电影,http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
+CHC动作电影,http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
 经典电影,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 经典电影,http://hpull.kktv8.com/livekktv/104621340/playlist.m3u8
 影视经典,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-賭片動作,http://106.54.30.243/dl/YY.php?t=1352469735
+CHC动作电影,http://106.54.30.243/dl/YY.php?t=1352469735
 經典搞笑,http://106.54.30.243/dl/YY.php?t=28205255
 女鬼相親,http://106.54.30.243/dl/YY.php?t=24066336
-CHC高清電影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
+CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 CHC高清电影,http://61.189.255.139/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1#http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1060,15 +1100,15 @@ CHC家庭影院,http://61.189.255.139/live.aishang.ctlcdn.com/00000110240323_1/e
 亚洲影院,http://125.210.152.18:9090/live/YZYY.m3u8
 精品剧场,http://125.210.152.18:9090/live/JPJC.m3u8
 邵氏电影,http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
-家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 邵氏电影,http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 邵氏电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 私人影院1,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
 私人影院2,http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
 私人影院3,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
-经典电影6,http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
+经典电影,http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 斗鱼1厅7,http://tx2play1.douyucdn.cn:80/live/122402rK7MO9bXSq.flv
 玄幻影院,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 CHC蓝光电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
@@ -1082,9 +1122,9 @@ CHC动作电影,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭电影,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC家庭电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC家庭电影,http://125.210.152.18:9090/live/JTYYHD.m3u8
+CHC家庭影院,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD.m3u8
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 百视通 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
 百视通 8M720,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227036/index.m3u8
@@ -1113,87 +1153,40 @@ KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 影音馆(欧美),http://cn-zjwz-dx-live-01.bilivideo.com/live-bvc/live_522565132_68094389_1500.m3u8
 福州影视台,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 各国赌片,http://121.12.115.14/tx.hls.huya.com/src/1394565207-1394565207-5989611956204470272-2789253870-10057-A-0-1-imgplus_2000.m3u8
-动作电影,http://111.13.111.242/000000001000/1000000004000018653/index.m3u8
-高清电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/01.m3u8
-动作电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/01.m3u8
-家庭影院,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/01.m3u8
+CHC动作电影,http://111.13.111.242/000000001000/1000000004000018653/index.m3u8
+CHC高清电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/01.m3u8
+CHC动作电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/01.m3u8
+CHC家庭影院,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/01.m3u8
 华语影视,http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
 华语经典,http://tx2play1.douyucdn.cn:80/live/122402rK7MO9bXSq.flv
 欧美科幻,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
 女鬼相親,http://106.54.30.243/dl/YY.php?t=24066336
 鬼片500部,http://106.54.30.243/dl/YY.php?t=1353059120
-你想要的,http://ftp9524803.host166.gotoip4.cn/huya.php?id=23358446
-警匪大片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=23358421
-喜剧大片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=23352525
-爱情大片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=23358431
-动作大片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=23352535
-悬疑大片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=23358441
-高分大片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=23352530
-猜你喜欢,http://ftp9524803.host166.gotoip4.cn/huya.php?id=23352563
-小时代啊,http://ftp9524803.host166.gotoip4.cn/huya.php?id=23358457
-电影院,https://1f97bd333ceef73bfdbd7e9987650b18.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_145086784.m3u8
-经典,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
-科幻,https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/602395/live_52370715_1734265.m3u8
-动作,https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/806317/live_268522326_2538218.m3u8
-华语,https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/843832/live_199793349_7660540.m3u8
-星仔,https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/760197/live_255137759_7132099.m3u8
-鬼片,https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/322112/live_261831479_8429255.m3u8
-恐怖,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/428049/live_280698572_9101071.m3u8
-西游,https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/548349/live_82436982_2406441.m3u8
-电影1,http://tv.rdys888.top/bak/proxy/youku.php?id=8022366
-电影2,http://tv.rdys888.top/bak/proxy/youku.php?id=8022040
-电影3,http://tv.rdys888.top/bak/proxy/youku.php?id=8022038
-电影4,http://tv.rdys888.top/bak/proxy/youku.php?id=8020381
-电影5,http://tv.rdys888.top/bak/proxy/youku.php?id=8020331
-电影6,http://tv.rdys888.top/bak/proxy/youku.php?id=8018618
-电影7,http://tv.rdys888.top/bak/proxy/youku.php?id=8031710
-电影8,http://tv.rdys888.top/bak/proxy/youku.php?id=8031706
-电影9,http://tv.rdys888.top/bak/proxy/youku.php?id=8031704
-电影10,http://tv.rdys888.top/bak/proxy/youku.php?id=8031620
-电影11,http://tv.rdys888.top/bak/proxy/youku.php?id=8031623
-电影13,http://tv.rdys888.top/bak/proxy/youku.php?id=8031592
-电影14,http://tv.rdys888.top/bak/proxy/youku.php?id=8031589
-电影15,http://tv.rdys888.top/bak/proxy/youku.php?id=8031587
-电影16,http://tv.rdys888.top/bak/proxy/youku.php?id=8031580
-电影17,http://tv.rdys888.top/bak/proxy/youku.php?id=8031574
-电影18,http://tv.rdys888.top/bak/proxy/youku.php?id=8028239
-电影19,http://tv.rdys888.top/bak/proxy/youku.php?id=8027873
-电影20,http://tv.rdys888.top/bak/proxy/youku.php?id=8026516
-电影21,http://tv.rdys888.top/bak/proxy/youku.php?id=8026514
-电影22,http://tv.rdys888.top/bak/proxy/youku.php?id=8020409
-电影23,http://tv.rdys888.top/bak/proxy/youku.php?id=8020410
-电影24,http://tv.rdys888.top/bak/proxy/youku.php?id=8020408
-电影25,http://tv.rdys888.top/bak/proxy/youku.php?id=8035190
-电影26,http://pull.kktv8.com/livekktv/143960119.flv
-电影27,http://pull.kktv8.com/livekktv/128600025.flv
-电影28,http://pull.kktv8.com/livekktv/99350550.flv
-电影29,http://pull.kktv8.com/livekktv/99592190.flv
-1,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=402
-2,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=403
-3,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=404
-4,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=408
-5,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=410
-6,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=411
-7,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=413
-8,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=406
-9,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=405
-10,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=414
-11,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=415
-12,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=416
-13,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=407
-14,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=412
-15,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=409
-16,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=456
-17,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=454
-18,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=458
-19,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=451
-20,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=462
-21,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=452
-22,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=459
-23,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=457
-24,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=453
-25,http://154.209.228.81:5656/ttttxxbb917/xmao888/xfm.php?id=461
-
+3D电影00,https://mcu.mindbox.workers.dev/0:/MCU/4.Thor.mkv
+3D电影01,https://mcu.mindbox.workers.dev/0:/MCU/5.Captain%20America%20The%20First%20Avenger%203D.mkv
+3D电影02,https://mcu.mindbox.workers.dev/0:/MCU/5.Captain%20America%20The%20First%20Avenger.mkv
+3D电影03,https://mcu.mindbox.workers.dev/0:/MCU/6.Avengers%203D.mkv
+3D电影04,https://mcu.mindbox.workers.dev/0:/MCU/6.Avengers.mp4
+3D电影05,https://mcu.mindbox.workers.dev/0:/MCU/7.IronMan%203.mkv
+3D电影06,https://mcu.mindbox.workers.dev/0:/MCU/8.Thor%20The%20Dark%20World%203D.mkv
+3D电影07,https://mcu.mindbox.workers.dev/0:/MCU/8.Thor%20The%20Dark%20World.mp4
+3D电影08,https://mcu.mindbox.workers.dev/0:/MCU/9.Captain%20America%20The%20Winter%20Soldier%203d.mkv
+3D电影09,https://mcu.mindbox.workers.dev/0:/MCU/9.Captain%20America%20The%20Winter%20Soldier.mkv
+3D电影10,https://mcu.mindbox.workers.dev/0:/MCU/10.Guardians%20of%20the%20Galaxy%203D.mkv
+3D电影11,https://mcu.mindbox.workers.dev/0:/MCU/10.Guardians%20of%20the%20Galaxy.mkv
+3D电影12,https://mcu.mindbox.workers.dev/0:/MCU/11.Avengers%20Age%20of%20Ultron%203D.mkv
+3D电影13,https://mcu.mindbox.workers.dev/0:/MCU/11.Avengers%20Age%20of%20Ultron.mkv
+3D电影14,https://mcu.mindbox.workers.dev/0:/MCU/12.AntMan%203d.mkv
+3D电影15,https://mcu.mindbox.workers.dev/0:/MCU/12.AntMan.mkv
+3D电影16,https://mcu.mindbox.workers.dev/0:/MCU/13.Captain%20America%20Civil%20War%203D.mkv
+3D电影17,https://mcu.mindbox.workers.dev/0:/MCU/13.Captain%20America%20Civil%20War.mkv
+3D电影18,https://mcu.mindbox.workers.dev/0:/MCU/14.Doctor%20Strange%203D.mkv
+3D电影19,https://mcu.mindbox.workers.dev/0:/MCU/14.Doctor%20Strange.mkv
+3D电影20,https://mcu.mindbox.workers.dev/0:/MCU/15.Guardians%20Of%20The%20Galaxy%20Vol.2%203D.mkv
+3D电影21,https://mcu.mindbox.workers.dev/0:/MCU/15.Guardians%20Of%20The%20Galaxy%20Vol.2.mkv
+3D电影22,https://mcu.mindbox.workers.dev/0:/MCU/16.Spider-Man%20Homecoming%203D.mkv
+3D电影23,https://mcu.mindbox.workers.dev/0:/MCU/16.Spider-Man%20Homecoming.mkv
+3D电影24,https://mcu.mindbox.workers.dev/0:/MCU/17.Thor%20Ragnarok%203d.mkv
 
 美女 D J,#genre#
 长效源DJ歌曲,https://vd3.bdstatic.com/mda-kfgpwjjez3dsysvt/v1-cae/mda-kfgpwjjez3dsysvt.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&pd=20
@@ -1426,6 +1419,118 @@ DJ6,http://shiguang.80dj.cn/video/2018/06/17/m3u8/2w5L3rDM4X4jRxNhzTRz/3eOOI.m3u
 广东爱情,https://vd4.bdstatic.com/mda-kem89w1diei4p3b6/hd/mda-kem89w1diei4p3b6.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&auth_key=1610694216-0-0-a1531f14944ef16b13231081ec3c4806&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=all
 舞蹈丝袜高跟鞋,https://vd3.bdstatic.com/mda-kgmhzxxx0nnqfbfg/hd/mda-kgmhzxxx0nnqfbfg.mp4?playlist=%5B%22hd%22%5D&auth_key=1610694720-0-0-4e80a6721e27b61ca3a88516c16c6b53&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=all
 性感稳定,https://vd3.bdstatic.com/mda-kdrkshk8rwik4kmp/hd/mda-kdrkshk8rwik4kmp.mp4?auth_key=1610694788-0-0-7e56dc347c7ae46282a2b7c4a9ed7fa9&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=all
+4KMV-GALIN - VSE NAPRED-[591M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtP6n9AUogIurHQ.mp4
+4KMV-GALIN - SMENYAM TI ADRESA-[533M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgs-6n9AUot7u2mQM.mp4
+4KMV-GALIN - PARATA AKO HVANA-[571M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtf6n9AUogJDL3AY.mp4
+4KMV-Gain - Truth or Dare-[438M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqf6n9AUovoGuuwc.mp4
+4KMV-Ga In&amp;amp;Bumkey - Fxxk U-[450M.mp4-2160P,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgiP6n9AUok5vzxgQ.mp4
+4KMV-EMILIA - DA BYAH OT GADNITE-[422M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgiP6n9AUorPakiwM.mp4
+4KMV-DZHENA - NEVERNITSI-[423M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjP6n9AUo2IGo-Qc.mp4
+4KMV-DIMANA&amp;SIANA - SHTE OTSELEYA-[728M.mp4-21,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi-6n9AUogPDYoQc.mp4
+4KMV-DAYANA - COME BACK-[394M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--2n9AUo78SCOg.mp4
+4KMV-Dasoni - Good Bye-[350M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzP2n9AUoobiw7wc.mp4
+4KMV-BESTie - Pitapat-[556M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0v2n9AUooNHsaQ.mp4
+4KMV-BESTie - Love Options-[356M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2v2n9AUoiM70nAc.mp4
+4KMV-Ingrit Gjoni&amp;Gjeto Luca - Mbretereshe-[57,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-2n9AUopI7jnwM.mp4
+4KMV-ILIYAN FT USTATA - HVANI ME AKO MOZHESH-[346M,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzP2n9AUogIiMnAc.mp4
+4KMV-ILIAN - MOETO MOMICHE-[611M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgiv2n9AUo8YKbwAY.mp4
+4KMV-SONGJIEUN - Pretty Age Twenty-Five-[599M.mp4-,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnfen9AUokoulyAY.mp4
+4KMV-Song Ji Eun - False Hope-[368M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgofen9AUo6tb3vAE.mp4
+4KMV-朴孝敏 - 美体-[1.28G.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo-en9AUo4IPU0Ac.mp4
+4KMV-Zajmina&amp;Elgit Doda - Blackout-[463M.mp4-2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqven9AUoqYLY7wc.mp4
+4KMV-YUNONA - NA 2 SEKUNDI-[248M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2van9AUowPD9UQ.mp4
+张惠妹自虐2160P,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-Pan9AUok_LE0QI.mp4
+4KMV-TATYANA - DO TRI-[620M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5Pan9AUooqW53wc.mp4
+4KMV-T-ARA - Because I Know-[525M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjvan9AUoi7aNyAQ.mp4
+4KMV-SunnyHill&amp;Hareem - Darling Of All Hearts-,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpPan9AUo26jN2gI.mp4
+4KMV-SunnyHill - Once In Summer-[491M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-an9AUoiM3XmQM.mp4
+#39;t Say Anything-[344M.mp4-,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguPan9AUohJr7sQE.mp4
+4KMV-SONYA NEMSKA - PEPERUDITE-[501M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpfan9AUogM_FWQ.mp4
+4KMV-SONYA NEMSKA - KAK MI DEYSTVASH-[542M.mp4-216,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3vWn9AUoqOCj-AE.mp4
+4KMV-PRESLAVA&amp;VANYA - NOKAUT-[462M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1vun9AUozKvLpAE.mp4
+4KMV-PRESLAVA - REZHIM -NEPRILICHNA-[333M.mp4-2160,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguPun9AUo_dHyhQE.mp4
+4KMV-POWERS - HOT-[588M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglfun9AUoxaC83wE.mp4
+4KMV-Playboys - Fajna jest ta dziewczyna-[484M.mp4,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkvun9AUooMeu8wQ.mp4
+4KMV-NS Yoon - Yasisi-[365M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgifun9AUosMDYxgM.mp4
+4KMV-Ngọc Kayla - You Are A Lie-[430M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmvun9AUogJzn-wM.mp4
+4KMV-NELINA - GOSPODIN ZAET-[461M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjvun9AUokJS-mwI.mp4
+#39;m Different-[442M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1vqn9AUoz62A6gE.mp4
+4KMV-MARIA&amp;X&amp;DEE - Lyubima greshka-[483M.m,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzfqn9AUojoT73wE.mp4
+4KMV-MARIA&amp;AZIS - MOLYA TE NE MI ZVANI-[375M.m,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2vqn9AUotqvBggM.mp4
+4KMV-MARIA&amp;AZIS - CHUY ME-[567M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5fqn9AUooIHmjwc.mp4
+4KMV-MARIA &amp; AZIS - KAZA LI GO-[455M.mp4-2160P,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk-qn9AUo0snB3AI.mp4
+YY音乐,http://106.53.212.251/daili/yy.php?id=54880976
+Alan Walker feat. Iselin Solheim - Faded,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
+Miranda.Lambert-Kerosene-[395M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgq8DQ_QUozLf12AM.mp4
+Taylor Swift - Mine-[110M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6vHY_QUoltiMpwc.mp4
+Sugababes - Hole In The Head-[344M.mpg-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5-HY_QUo4NjN5gU.mp4
+Nickelback-Saving Me-[488M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4fHY_QUo2dqvtwU.mp4
+Carrie Underwood-Jesus Take The Wheel-[456M.ts-108,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6PHY_QUonu3ysAY.mp4
+Anna Nalick - In The Rough-[352M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4fHY_QUo0Iq40QQ.mp4
+NickelBack-Photograph-[558M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk8DQ_QUo0Pfa2wU.mp4
+Jason.Aldean-Why-[306M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo8DQ_QUo4ODLzgY.mp4
+Hoobastank-If.I.Were.You-[419M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7b-Q_QUoiI2VjAI.mp4
+Feist-Mushaboom-[370M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1r-Q_QUo5fLQ7QM.mp4
+ines erbus - dim od cigareta-[103M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp_y74wUowMWvkwU.mp4
+#39;re making love-[131M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg__m74wUo4Ma8gQE.mp4
+Mama! - MV鐗�-[107M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz_i74wUoqqig5gI.mp4
+Yves V銆丏imitri Vangelis &amp; Wyman - Daylight - 绾,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgrb204wUoyILjPQ.mp4
+twoloud - higher off the ground-[112M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg97y04wUomPPJiQY.mp4
+Robin Skouteris - PopLove 4-[319M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-ru04wUo-uK89gc.mp4
+Quintino銆丣oey Dale銆丆hannii Monroe - Lights Out - M,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6Lq04wUo9Mzy8wM.mp4
+Mashup-Germany - Top of the Pops 2014-[142M.mp4-10,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghLq04wUo9ZfwvgY.mp4
+#39;m Madonna(Sander Kleinenberg Remix Ver.)-[99M.,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwbm04wUomqqqDQ.mp4
+sigma銆乪lla henderson - glitterball-[113M.mp4-1080P,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguaOk4wUomJ7ueA.mp4
+Sharon Doorson - How You Like It-[112M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-qCk4wUo2I3d5QU.mp4
+sandra n. - ballerina-[ 95M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl5_k4wUom-bC1wc.mp4
+redfoo銆乻tevie wonder - where the sun goes-[146M.mp,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4
+prince royce銆乻noop dogg - stuck on a feeling-[123M,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo5uk4wUozPitRQ.mp4
+Prince Royce銆丳itbull - Back It Up-[99M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7Zmk4wUo64uOUA.mp4
+Becky G_ Natti Natasha - Sin Pijama (Official Vide,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtrTW4gUous_5gQM.mp4
+Becky G - Mayores (Official Music Video) ft. Bad B,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4
+Cvetelina Qneva - Prazna staq-[279M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmP_I_AUogtqtuQE.mp4
+Cvetelina Qneva - Oshte kolko noshti-[309M.ts-1080,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnf_I_AUop8aV5Qc.mp4
+Cvetelina Qneva &nbsp;Konstantin - Do Bezumie-[296,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkv_I_AUo8M-ILQ.mp4
+Cvetelina Qneva - Broi me-[352M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6P6I_AUo5ub3lQc.mp4
+Cvetelina Qneva - Alergichna-[402M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7v6I_AUoiKzK5wc.mp4
+Taylor Swift - Love Story-[154M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3ZqY9wUoy--cnAY.mp4
+Selena Gomez &amp; The Scene - Love You Like A Lov,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4
+Michael Jackson &amp; Akon - Hold My Hand-[92M.mkv,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg89L77QUogoiRlwY.mp4
+Meg &amp; Dia -American Spirit-[223M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgldP77QUoyIuoNw.mp4
+MARINA - Orange Trees-[79M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-NL77QUomoC-1Ac.mp4
+#39;t ft. YG-[137M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-tL77QUonL7F7QE.mp4
+Mariah Carey - GTFO-[105M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0tL77QUoxsHs9gE.mp4
+Maggie Lindemann - Would I-[86M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyNL77QUoqpOU7AM.mp4
+Maddie Poppe - Going Going Gone-[49M.mkv-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgytL77QUonufRmwQ.mp4
+#39;m OKAY-[107M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9L77QUogLPaqwI.mp4
+Luis Fonsi - Sola-[105M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz9L77QUop4ORuAM.mp4
+Lola Blanc - The Magic-[61M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpNL77QUoteDXngY.mp4
+Little Mix銆丯icki Minaj - Woman Like Me-[145M.mp4-1,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpNL77QUohKrDmgU.mp4
+Laura Marano - Lie to Me-[135M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqtL77QUo9_mcBw.mp4
+Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
+Trouble Maker- Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
+Trouble Maker- Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgism34gUo0rqhhAE.mp4
+Stellar-Vibrato,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
+After-School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
+AOA Mini skart-短裙,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4
+Sistar - Give It To Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
+After School - 初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
+Dal Shabet - Joker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
+Dalshabet - Joker(Areia Kpop Remix),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
+佳仁 - Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
+HELLOVENUS - StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
+EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
+Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
+AOA - Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
+AOA - 动摇,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
+AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
+金泫雅-鸟叔客串-HyunA-Ice Cream,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
+蔡依林 - Beast,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
+郑意文、郭健荣-123 我爱你,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4sGv5wUo5bvaxwM.mp4
+Foreign Figures - Fire,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2h7QUohIem5AQ.mp4
+Stereoact&Jaques Raupé feat. Peter Schilling - Ter,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyL-s7QUoo_-L5AE.mp4
+Kronic & Krunk - Hey Ho!,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNTV4gUo9PrW7wM.mp4
+Clara Mae ft. Jake Miller - Better Me Better You,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl8-77QUo2KnZ-AU.mp4
 
 韩国女团,#genre#
 韩国太妍01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
@@ -1866,8 +1971,6 @@ DJ6,http://shiguang.80dj.cn/video/2018/06/17/m3u8/2w5L3rDM4X4jRxNhzTRz/3eOOI.m3u
 韩国音乐172,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228434396337.mp4
 韩国音乐173,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228352508139.mp4
 韩国音乐174,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228644627887.mp4
-
-美女写真,#genre#
 美女写真001,https://kumilist.obs22.top/CDC729106D474B4FC633241E7AD8989C.m3u8
 美女写真002,https://kumilist.obs22.top/C329EDA0D71E6FA471A928C27680F938.m3u8
 美女写真003,https://kumilist.obs22.top/2FE41C24118C747CD4C54CC1244F7B64.m3u8
@@ -2036,120 +2139,6 @@ DJ6,http://shiguang.80dj.cn/video/2018/06/17/m3u8/2w5L3rDM4X4jRxNhzTRz/3eOOI.m3u
 美女写真191,https://kumilist.obs22.top/9A8C96D625063240B61795A2C1205D22.m3u8
 美女写真192,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
 
-4 K M V,#genre#
-4KMV-GALIN - VSE NAPRED-[591M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtP6n9AUogIurHQ.mp4
-4KMV-GALIN - SMENYAM TI ADRESA-[533M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgs-6n9AUot7u2mQM.mp4
-4KMV-GALIN - PARATA AKO HVANA-[571M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtf6n9AUogJDL3AY.mp4
-4KMV-Gain - Truth or Dare-[438M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqf6n9AUovoGuuwc.mp4
-4KMV-Ga In&amp;amp;Bumkey - Fxxk U-[450M.mp4-2160P,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgiP6n9AUok5vzxgQ.mp4
-4KMV-EMILIA - DA BYAH OT GADNITE-[422M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgiP6n9AUorPakiwM.mp4
-4KMV-DZHENA - NEVERNITSI-[423M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjP6n9AUo2IGo-Qc.mp4
-4KMV-DIMANA&amp;SIANA - SHTE OTSELEYA-[728M.mp4-21,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi-6n9AUogPDYoQc.mp4
-4KMV-DAYANA - COME BACK-[394M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--2n9AUo78SCOg.mp4
-4KMV-Dasoni - Good Bye-[350M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzP2n9AUoobiw7wc.mp4
-4KMV-BESTie - Pitapat-[556M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0v2n9AUooNHsaQ.mp4
-4KMV-BESTie - Love Options-[356M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2v2n9AUoiM70nAc.mp4
-4KMV-Ingrit Gjoni&amp;Gjeto Luca - Mbretereshe-[57,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-2n9AUopI7jnwM.mp4
-4KMV-ILIYAN FT USTATA - HVANI ME AKO MOZHESH-[346M,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzP2n9AUogIiMnAc.mp4
-4KMV-ILIAN - MOETO MOMICHE-[611M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgiv2n9AUo8YKbwAY.mp4
-4KMV-SONGJIEUN - Pretty Age Twenty-Five-[599M.mp4-,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnfen9AUokoulyAY.mp4
-4KMV-Song Ji Eun - False Hope-[368M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgofen9AUo6tb3vAE.mp4
-4KMV-朴孝敏 - 美体-[1.28G.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo-en9AUo4IPU0Ac.mp4
-4KMV-Zajmina&amp;Elgit Doda - Blackout-[463M.mp4-2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqven9AUoqYLY7wc.mp4
-4KMV-YUNONA - NA 2 SEKUNDI-[248M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2van9AUowPD9UQ.mp4
-张惠妹自虐2160P,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-Pan9AUok_LE0QI.mp4
-4KMV-TATYANA - DO TRI-[620M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5Pan9AUooqW53wc.mp4
-4KMV-T-ARA - Because I Know-[525M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjvan9AUoi7aNyAQ.mp4
-4KMV-SunnyHill&amp;Hareem - Darling Of All Hearts-,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpPan9AUo26jN2gI.mp4
-4KMV-SunnyHill - Once In Summer-[491M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-an9AUoiM3XmQM.mp4
-#39;t Say Anything-[344M.mp4-,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguPan9AUohJr7sQE.mp4
-4KMV-SONYA NEMSKA - PEPERUDITE-[501M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpfan9AUogM_FWQ.mp4
-4KMV-SONYA NEMSKA - KAK MI DEYSTVASH-[542M.mp4-216,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3vWn9AUoqOCj-AE.mp4
-4KMV-PRESLAVA&amp;VANYA - NOKAUT-[462M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1vun9AUozKvLpAE.mp4
-4KMV-PRESLAVA - REZHIM -NEPRILICHNA-[333M.mp4-2160,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguPun9AUo_dHyhQE.mp4
-4KMV-POWERS - HOT-[588M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglfun9AUoxaC83wE.mp4
-4KMV-Playboys - Fajna jest ta dziewczyna-[484M.mp4,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkvun9AUooMeu8wQ.mp4
-4KMV-NS Yoon - Yasisi-[365M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgifun9AUosMDYxgM.mp4
-4KMV-Ngọc Kayla - You Are A Lie-[430M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmvun9AUogJzn-wM.mp4
-4KMV-NELINA - GOSPODIN ZAET-[461M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjvun9AUokJS-mwI.mp4
-#39;m Different-[442M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1vqn9AUoz62A6gE.mp4
-4KMV-MARIA&amp;X&amp;DEE - Lyubima greshka-[483M.m,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzfqn9AUojoT73wE.mp4
-4KMV-MARIA&amp;AZIS - MOLYA TE NE MI ZVANI-[375M.m,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2vqn9AUotqvBggM.mp4
-4KMV-MARIA&amp;AZIS - CHUY ME-[567M.mp4-2160P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5fqn9AUooIHmjwc.mp4
-4KMV-MARIA &amp; AZIS - KAZA LI GO-[455M.mp4-2160P,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk-qn9AUo0snB3AI.mp4
-YY音乐,http://106.53.212.251/daili/yy.php?id=54880976
-Alan Walker feat. Iselin Solheim - Faded,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
-Miranda.Lambert-Kerosene-[395M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgq8DQ_QUozLf12AM.mp4
-Taylor Swift - Mine-[110M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6vHY_QUoltiMpwc.mp4
-Sugababes - Hole In The Head-[344M.mpg-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5-HY_QUo4NjN5gU.mp4
-Nickelback-Saving Me-[488M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4fHY_QUo2dqvtwU.mp4
-Carrie Underwood-Jesus Take The Wheel-[456M.ts-108,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6PHY_QUonu3ysAY.mp4
-Anna Nalick - In The Rough-[352M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4fHY_QUo0Iq40QQ.mp4
-NickelBack-Photograph-[558M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk8DQ_QUo0Pfa2wU.mp4
-Jason.Aldean-Why-[306M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo8DQ_QUo4ODLzgY.mp4
-Hoobastank-If.I.Were.You-[419M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7b-Q_QUoiI2VjAI.mp4
-Feist-Mushaboom-[370M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1r-Q_QUo5fLQ7QM.mp4
-ines erbus - dim od cigareta-[103M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp_y74wUowMWvkwU.mp4
-#39;re making love-[131M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg__m74wUo4Ma8gQE.mp4
-Mama! - MV鐗�-[107M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz_i74wUoqqig5gI.mp4
-Yves V銆丏imitri Vangelis &amp; Wyman - Daylight - 绾,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgrb204wUoyILjPQ.mp4
-twoloud - higher off the ground-[112M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg97y04wUomPPJiQY.mp4
-Robin Skouteris - PopLove 4-[319M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-ru04wUo-uK89gc.mp4
-Quintino銆丣oey Dale銆丆hannii Monroe - Lights Out - M,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6Lq04wUo9Mzy8wM.mp4
-Mashup-Germany - Top of the Pops 2014-[142M.mp4-10,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghLq04wUo9ZfwvgY.mp4
-#39;m Madonna(Sander Kleinenberg Remix Ver.)-[99M.,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwbm04wUomqqqDQ.mp4
-sigma銆乪lla henderson - glitterball-[113M.mp4-1080P,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguaOk4wUomJ7ueA.mp4
-Sharon Doorson - How You Like It-[112M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-qCk4wUo2I3d5QU.mp4
-sandra n. - ballerina-[ 95M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl5_k4wUom-bC1wc.mp4
-redfoo銆乻tevie wonder - where the sun goes-[146M.mp,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4
-prince royce銆乻noop dogg - stuck on a feeling-[123M,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo5uk4wUozPitRQ.mp4
-Prince Royce銆丳itbull - Back It Up-[99M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7Zmk4wUo64uOUA.mp4
-Becky G_ Natti Natasha - Sin Pijama (Official Vide,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtrTW4gUous_5gQM.mp4
-Becky G - Mayores (Official Music Video) ft. Bad B,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4
-Cvetelina Qneva - Prazna staq-[279M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmP_I_AUogtqtuQE.mp4
-Cvetelina Qneva - Oshte kolko noshti-[309M.ts-1080,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnf_I_AUop8aV5Qc.mp4
-Cvetelina Qneva &nbsp;Konstantin - Do Bezumie-[296,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkv_I_AUo8M-ILQ.mp4
-Cvetelina Qneva - Broi me-[352M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6P6I_AUo5ub3lQc.mp4
-Cvetelina Qneva - Alergichna-[402M.ts-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7v6I_AUoiKzK5wc.mp4
-Taylor Swift - Love Story-[154M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3ZqY9wUoy--cnAY.mp4
-Selena Gomez &amp; The Scene - Love You Like A Lov,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4
-Michael Jackson &amp; Akon - Hold My Hand-[92M.mkv,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg89L77QUogoiRlwY.mp4
-Meg &amp; Dia -American Spirit-[223M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgldP77QUoyIuoNw.mp4
-MARINA - Orange Trees-[79M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-NL77QUomoC-1Ac.mp4
-#39;t ft. YG-[137M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-tL77QUonL7F7QE.mp4
-Mariah Carey - GTFO-[105M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0tL77QUoxsHs9gE.mp4
-Maggie Lindemann - Would I-[86M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyNL77QUoqpOU7AM.mp4
-Maddie Poppe - Going Going Gone-[49M.mkv-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgytL77QUonufRmwQ.mp4
-#39;m OKAY-[107M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9L77QUogLPaqwI.mp4
-Luis Fonsi - Sola-[105M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz9L77QUop4ORuAM.mp4
-Lola Blanc - The Magic-[61M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpNL77QUoteDXngY.mp4
-Little Mix銆丯icki Minaj - Woman Like Me-[145M.mp4-1,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpNL77QUohKrDmgU.mp4
-Laura Marano - Lie to Me-[135M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqtL77QUo9_mcBw.mp4
-Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
-Trouble Maker- Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
-Trouble Maker- Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgism34gUo0rqhhAE.mp4
-Stellar-Vibrato,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
-After-School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
-AOA Mini skart-短裙,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4
-Sistar - Give It To Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
-After School - 初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
-Dal Shabet - Joker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
-Dalshabet - Joker(Areia Kpop Remix),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
-佳仁 - Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
-HELLOVENUS - StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
-EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
-Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
-AOA - Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
-AOA - 动摇,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
-AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
-金泫雅-鸟叔客串-HyunA-Ice Cream,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
-蔡依林 - Beast,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
-郑意文、郭健荣-123 我爱你,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4sGv5wUo5bvaxwM.mp4
-Foreign Figures - Fire,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2h7QUohIem5AQ.mp4
-Stereoact&Jaques Raupé feat. Peter Schilling - Ter,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyL-s7QUoo_-L5AE.mp4
-Kronic & Krunk - Hey Ho!,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNTV4gUo9PrW7wM.mp4
-Clara Mae ft. Jake Miller - Better Me Better You,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl8-77QUo2KnZ-AU.mp4
-
 功夫表演_666,#genre#
 香蕉台,http://aga2.mfjlb.top:19876/xmjk.php?id=408
 松視1,http://aga2.mfjlb.top:19876/xmjk.php?id=402
@@ -2165,6 +2154,14 @@ happy,http://aga2.mfjlb.top:19876/xmjk.php?id=412
 彩虹電影,http://aga2.mfjlb.top:19876/xmjk.php?id=413
 一本道,http://aga2.mfjlb.top:19876/xmjk.php?id=414
 二本道,http://aga2.mfjlb.top:19876/xmjk.php?id=415
+一本道01,http://videony.rhsj520.com:8091/SR0802/010119-001/1500kb/hls/index.m3u8
+一本道02,http://videony.rhsj520.com:8091/SR0802/012618-002/1500kb/hls/index.m3u8
+一本道03,http://videony.rhsj520.com:8091/SR0802/012518-001/1500kb/hls/index.m3u8
+一本道04,http://videony.rhsj520.com:8091/SR0802/012018-210/1500kb/hls/index.m3u8
+教师来擦我,http://videomy.yongaomy.com:8091/20200727/c2euk4Bf/index.m3u8
+教师来擦我01,http://videomy.yongaomy.com:8091/20200727/SoJqNB8Z/index.m3u8
+色狼来擦我,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/8/PPPD-663/index.m3u8
+擦骚,http://video1.rhsj520.com:8091/nyrm3/wuma/heyzo_hd_1956_full/1500kb/hls/index.m3u8
 東京熱,http://aga2.mfjlb.top:19876/xmjk.php?id=416
 潘朵拉完美,http://ubtv.ngys.xyz/ubtv21/crtv.php?id=410
 彩虹电影,http://ubtv.ngys.xyz/ubtv21/crtv.php?id=413
