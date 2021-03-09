@@ -74,7 +74,6 @@ J2,http://173.242.121.138/A2021.php?id=392
 天映频道,http://154.215.142.99/1/sb.php?id=441
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8
 东森电影,http://154.215.142.99/1/sb.php?id=350
 东森洋片,http://154.215.142.99/1/sb.php?id=32
 龙华电影,http://154.215.142.99/1/sb.php?id=311
@@ -118,23 +117,6 @@ FOX CRIME,http://anbo.hicloud.co/index.php?id=386
 HBO_HD,http://anbo.hicloud.co/index.php?id=332
 CineMAX,http://anbo.hicloud.co/index.php?id=346
 HBO原創,http://anbo.hicloud.co/index.php?id=329
-FOX,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065302
-FOX MOVIES,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065304
-FOX MOVIES,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065305
-FOX CRIME,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065306
-FOX CRIME,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065307
-FOX FAMILY,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065308
-FOX FAMILY,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065309
-FOX LIFE,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065310
-FOX LIFE,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065311
-FOX MOVIES,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065312
-FOX MOVIES,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065313
-HBO,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065314
-HBO HD,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065315
-HBO FAMILY,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065316
-HBO FAMILY,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065317
-HBO HITS,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065318
-HBO HITS,https://m3u-editor.com/serve/6c7b5000-7e1b-11eb-9fc6-21ec1159563b/231065319
 寰宇综合,http://anbo.hicloud.co/index.php?id=190
 ELTA綜合,http://api.wakds.xyz/twtv.php?play=1137
 壹综合,http://154.215.142.99/1/sb.php?id=305
@@ -373,13 +355,13 @@ HBO,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=hbo
 CINEMAX,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cinemax
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 MTV音乐,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=mtv
-韩国KBS 1,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=1
-韩国KBS 2,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=2
-韩国KBS 24,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=24
-韩国KBS Drama,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=drama
-韩国KBS Joy,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=joy
-韩国KBS Kids,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=kids
-韩国KBS Life,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=life
+韩国KBS 01,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=1
+韩国KBS 02,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=2
+韩国KBS 03,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=24
+韩国KBS 04,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=drama
+韩国KBS 05,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=joy
+韩国KBS 06,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=kids
+
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 TVBS欢乐,rtmp://59.124.75.156:1935/sat/tv421
