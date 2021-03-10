@@ -14,7 +14,6 @@
 寰宇新闻,mitv://198.255.74.56:41196/602fedcc0001a5af79f999cea86390a1
 东森新闻,mitv://198.255.74.56:41196/602fedfa000dfaab79fa50a6a148e602
 TVBS新闻,mitv://198.255.74.56:41196/602fed7a0000192b79f859191911fd67
-
 中视典,mitv://198.255.74.56:41196/602fede9000c7d4279fa0ddd790111eb
 中视,mitv://198.255.74.56:41196/602fede9000ba5a379fa0da5225a9874
 东森超市,mitv://198.255.74.56:41196/602fed7400067f0f79f8434c8d376cb7
@@ -104,7 +103,6 @@ CinemaWorld,mitv://198.255.74.56:41196/602fedc0000ee2f179f96e5271d29cde
 美亚电影台,mitv://198.255.74.56:41196/602fedc0000dfb8579f96e16cab1e51e
 星卫HD电影,mitv://198.255.74.56:41196/602fedc0000d1bf479f96ddd873f4664
 星卫娱乐,mitv://198.255.74.56:41196/602fedc0000cd9b479f96dcc20b72a3
-
 J2,mitv://198.255.74.56:41196/602fedf4000a656879fa384be71fdc50
 J2,mitv://198.255.74.56:41196/602fed750000c5b479f845bdea465bea
 翡翠台,mitv://198.255.74.56:41196/602fedf4000925c079fa37fa8f7a5539
@@ -133,7 +131,6 @@ TVB华丽台,mitv://198.255.74.56:41196/602fed74000bb76679f844a268cf9423
 Sport Plus1,mitv://198.255.74.56:41196/602fed740009294e79f843fb4ec1df88
 卫视卡式台,mitv://198.255.74.56:41196/602fed740007589479f84384bbd55de6
 Thrill电影台,mitv://198.255.74.56:41196/602fed74000637c179f8433adc8d8a94
-
 WarnerTV,mitv://198.255.74.56:41196/602fedfb00023e4179fa518d7433c740
 WarnerTV,mitv://198.255.74.56:41196/602feda9000850af79f912cba7e5256c
 CINEMAX,mitv://198.255.74.56:41196/602fedba0008ab6479f9554a1ea29573
@@ -146,7 +143,6 @@ FOXMOVIES,mitv://198.255.74.56:41196/602fedba000c420979f956357cb6c4b9
 FOX家庭影院,mitv://198.255.74.56:41196/602fedba000b5f0c79f955fb8f62eef5
 FOXCRIME,mitv://198.255.74.56:41196/602fedba000a7ac979f955c1251dd7ec
 FOXNEWS,mitv://198.255.74.56:41196/602fedba0009950679f955865f88d797
-
 J2,P2p://198.255.74.56:41196/602fedf4000a656879fa384be71fdc50
 J2,P2p://198.255.74.56:41196/602fed750000c5b479f845bdea465bea
 无线新闻,p5p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e
@@ -1044,7 +1040,6 @@ MTV音乐,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=mtv
 韩国KBS 04,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=drama
 韩国KBS 05,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=joy
 韩国KBS 06,http://cdn.chxjon.cn/iptv/QQ582185381/kbs.php?id=kids
-
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 TVBS欢乐,rtmp://59.124.75.156:1935/sat/tv421
@@ -2162,6 +2157,22 @@ AOA - 动摇,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
 美女写真192,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
 
 功夫表演_666,#genre#
+香蕉台,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=408
+松視1,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=402#p8p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts#vjms://50.7.253.59:8500/live/cid=262#mitv://ns2.hellotvvod.com:9906/5f897f67000298ef2eafc978696968c5.ts
+松視2,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=403#p8p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts#vjms://50.7.253.59:8500/live/cid=267#mitv://ns2.hellotvvod.com:9906/5f89837900017eef2ebfaf7a483e2b6a.ts
+松視3,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=404#p8p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts#vjms://50.7.253.59:8500/live/cid=268
+HOT,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=407
+happy,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=412
+彩虹E,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=405
+潘朵拉粉紅,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=411
+Hustler HD,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=451
+SCT Classic,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=462
+Redlight HD,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=452
+SEX ATION HD,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=459
+Super One HD,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=457
+Prıvate TV,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=453
+Passie,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=461
+Vivid Red HD,http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=455
 松視2,http://aga2.mfjlb.top:19876/xmjk.php?id=403
 松視3,http://aga2.mfjlb.top:19876/xmjk.php?id=404
 HOT,http://aga2.mfjlb.top:19876/xmjk.php?id=407
