@@ -576,52 +576,6 @@ CTV_TWO|SD,tvbus://64Qyaatv3ewoVcbmU7xDUMS5pqpoyPJbXi9otr4av4bDoy1iE8hyJx8LKkHf7
 CTV_TORONTO|SD,tvbus://6DtvmrHzE2QrDpxkEPKkzv5NhW6SHUyMudroq7rX3pMpk94ZCvfqDS3Z38nHx
 CTV_NEWS|SD,tvbus://66DSH9erdnKvzHiuVhTviV8Ri3xmJiwX3nt1aUWdZUkpJoiiDo13t7hD5Ya2f
 CTV_MONTREAL|SD,tvbus://6LgaCmcUc9SgxBJfW2epjkfQwpy77izxnZo9hwdMGb9nH4kuE7gjtzwBwLbgq
-TVB翡翠,mitv://147.135.39.171:9906/5f1735610009ecf919efbac0734102e1&kss=333
-
-TVB翡翠,mitv://198.255.74.56:41196/602fed74000bb76679f844a268cf9423
-
-ViU TV,mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
-
-有線新聞,mitv://198.255.74.56:41196/602fedef0000059b79fa221c723e419c
-有線新聞,mitv://147.135.39.171:9906/5f33ec18000de7fc8a19af945eb25962&kss=333
-有線新聞mitv://147.135.39.171:9906/5f33ec18000de7fc8a19af945eb25962.flv
-
-东风37,mitv://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df#mitv://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df
-
-东风37,mitv://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df#mitv://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df
-
-TVBS新聞,mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2&kss=333
-东森新闻,mitv://198.255.74.56:41196/602fede2000d50d079f9f2bbb444676e
-
-东森超视,mitv://147.135.39.171:9906/5e7cf271000168dd3da7beac2d47191e&link=123
-
-三立新闻,mitv://198.255.74.56:41196/602feddd0001270e79f9dc162874c3fc
-
-中天新闻,mitv://147.135.39.171:9906/5eec7db90008195bf160a77f5d316f05.ts
-壹新闻,mitv://147.135.39.171:9906/5ede0911000cbd09b8e8e6d42be1693c.ts
-
-龙祥时代,mitv://147.135.39.171:9906/5e7cf98e000cd16b3dc38ae278e073ec.ts
-
-东森电影,mitv://147.135.39.171:9906/5defe13e0007d9d56eba3f090a5f5661.ts
-
-东森洋片,mitv://147.135.39.171:9906/5ea13baf000efb4ecb66256578d5166f.ts
-
-衛視電影,mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362&kss=333
-
-衛視電影,mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
-
-博斯无限(体育),mitv://147.135.39.171:9906/5defdab600015d2f6ea0ba230ef664fe&link=123
-探索,mitv://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289&link=123
-
-探索EVE,mitv://147.135.39.171:9906/5ea13fe100060397cb76867304774d14&link=123
-
-探索亚洲,mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f&link=123
-
-探索动力,mitv://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97&link=123
-
-探索科学,mitv://147.135.39.171:9906/5ea13fe1000b88c3cb7687db43d01a4a&link=123
-
-国家地理,mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts
 
 JoyTV直播,#genre#
 翡翠臺,tvbus://7Vg9rBaLjf76dvHX9hT4fXkeVwYybQ35gzxjBXtC7vML5dZCq2
@@ -694,12 +648,6 @@ TLC旅遊生活,tvbus://6ZoepDKPgs2BA5dBFEdB4iTUWd4JJJvhff1VX4t3V2B8Vde4MpAwrkkM
 TLC旅遊生活（備）,p2p://0198.02686.cc:16871/5f2e54d6000c0f901d7494527e9c38a8.ts
 動物星球,tvbus://6SPfmkT19m1ckp3MBcEhkxUqXGzzBXBxNffqaEviMgW56WJ3Hzoc5skNVKojq
 動物星球（備）,p2p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
-迪士尼（備）,p2p://0198.02686.cc:16871/5f2e56c60009eeab1d7c254786d1c06b.ts
-迪士尼,tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX
-MOMO親子（備）,p2p://0198.02686.cc:16871/5f2e5717000701821d7d60ef00cb8bd5.ts
-MOMO親子,tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16sHebm9L8Xqn
-東森幼幼（備）,p2p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
-東森幼幼,tvbus://6QCZY2EVkFP5ebQcSLx9Bn1GJ95zvxkQDW1ia3fy6gQZETKgvBh1yXLtYaZnd
 緯來綜合（備）,p2p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418.ts
 緯來綜合,tvbus://5vv8ngW7EBMnpjCvuYFLbNN9nfaYptrEiTXZ79tBQd4VQgArPtThhrd16ZYe7
 八大第一（備）,p2p://0198.02686.cc:16871/5f2e57da0005d0d41d805a59362e19d4.ts
@@ -808,9 +756,6 @@ Fox_Action（備）,p2p://0198.02686.cc:16871/5f3808b6000cee3f435b378b1bcb616f.t
 龍華洋片,tvbus://6V8xXw3yHZrGVLyzCjzdVLntF2PJPXbWQFrFAsurARw4Y2U9jJXjyau8Xcnox
 龍華洋片（備）,p2p://0198.02686.cc:16871/5f380822000f29a54358f5fe211c161a.ts
 公視二台,tvbus://5TiPr2DjeUVndyJeyKN4scd8hyRYWMSYHcvLpK6XMHKzowB3vrMx9oVvxBJf2
-人間衛視,tvbus://5uA9xkrnZnnrQq4kwjDfkEvX9m1h929DSFnFiJACuAXDiyKWDh8Mv2QEMwzvn
-人間衛視（備）,p2p://0198.02686.cc:16871/5f37c6ad00084a6b4259433384fa1e14.ts
-華藏衛視,tvbus://5mc4YGnb9mgXJvHxju6oHsdxxMPKAiQkRtYpJvr1dbHmjAbarVqwcecF6g7qi
 TELETOON,p2p://0198.02686.cc:16871/5de32736000470046b727b5c866d8fd0.ts
 亞洲旅遊台,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM
 亞洲旅遊台（備）,p2p://0198.02686.cc:16871/5f37daf50006d78842a87c149a44362d.ts
@@ -833,9 +778,6 @@ Fight_Sport_HD（備）,p2p://0198.02686.cc:16871/5f3805dd0003b40b43501587f25789
 寰宇綜合台,tvbus://5f4kxWyyy3TUyNbMWFS3ve28vpr4RNs69W8C5XMdveFUUnDdpBYWscA4vMFVB
 寰宇綜合台（備）,p2p://0198.02686.cc:16871/5f3802c0000567f14343ecae4c29c3d5.ts
 壹電視資訊綜合臺,p2p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
-大愛二臺,p2p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
-好消息2,tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
-好消息2（備）,p2p://0198.02686.cc:16871/5f38014400094dc8433e214ef2f02448.ts
 CNBC_Asia_Channel,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5xspipEdxZi
 CNBC_Asia_Channel（備）,p2p://0198.02686.cc:16871/5f38003b00051a3e433a1512b028035e.ts
 BBC_Earth,tvbus://5jkr9rqSSwpXVNyXbTcvXFzDoVRmBRccFcm4rPbbs59pWNerQZKtingMexZ4m
@@ -4211,6 +4153,627 @@ DDTV,http://kltvx.5ay.xyz/ub/ub.php?id=1138
 Thairath TV,http://kltvx.5ay.xyz/ub/ub.php?id=1139
 ChanneL8,http://kltvx.5ay.xyz/ub/ub.php?id=1140
 
+凤凰资讯,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1080
+凤凰资讯,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=359
+凤凰中文,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=357
+凤凰香港,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=358
+香港卫视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=399
+翡翠台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=390
+翡翠台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=429
+翡翠台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1084
+J2台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=392
+J2台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=392
+明珠台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=391
+NOW新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=396
+NOW直播,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=400
+TVB星河台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1079
+TVB经典台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1083
+无线财经,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=393
+无线新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=394
+无线新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=45
+有线娱乐,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=360
+有线新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=395
+有线电影台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=354
+卫视电影,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=93
+星卫电影,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=496
+凤凰电影,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=19
+thrill,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=18
+爆谷台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=152
+卫视卡式台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1085
+影迷数位电影,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=497
+美亚电影台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=375
+龙祥时代,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=373
+东森电影,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=350
+东森洋片,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1128
+纬来电影,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=96
+龙华电影,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=311
+靖天电影台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=110
+好莱坞电影,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=37
+天映经典,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=328
+天映频道,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=441
+AXN最爱电影,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=92
+CATCHPLAY电影台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=362
+卫视西片,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=369
+HBO Comedy,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1109
+HBO1US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1110
+HBO2US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1111
+HBO Signature,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1112
+HBO Family,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1113
+HBO Comedy East,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=269
+BET,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=270
+HBO East,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=271
+HBO Signature,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=272
+HBO Zone East,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=273
+HBO,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=464
+澳门莲花,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=70
+澳视葡语,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=24
+澳门卫星,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=29
+有线体育1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=401
+有线体育2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=356
+18台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=44
+RTHK31,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=353
+RTHK32,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=397
+ViUtv,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=72
+香港开电视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=17
+星卫娱乐台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=89
+三立台湾台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=21
+新时代温哥华,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1032
+新时代多伦多2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1033
+台视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=27
+台视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=326
+台视新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1
+台视综合,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=309
+台视财经,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=300
+民视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=26
+民视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=336
+民视新闻台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=13
+民视综艺,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=98
+民视第一台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=34
+民视台湾台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=36
+民视影剧,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1023
+民视旅游,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=78
+华视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=32
+华视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=327
+华视资讯,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=6
+华纳电影,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=83
+华艺综合台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=310
+中视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=333
+中视经典,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=185
+中视新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=7
+中视新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=28
+中视菁采,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=74
+中天新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=3
+中天综合,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=54
+中天娱乐,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=324
+中天综合,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=325
+中天亚洲台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=322
+公视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=86
+公视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=59
+公视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=361
+公视戏剧,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=69
+八大精彩台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1024
+八大综合台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=90
+八大戏剧台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=81
+东森幼幼,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=371
+东森综合台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=372
+东森新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=9
+东森新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=12
+东森戏剧,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=321
+龙华经典,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=364
+龙华戏剧,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=365
+龙华经典,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=100
+龙华偶像,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=347
+龙华日韩,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=382
+纬来,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=46
+纬来,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=337
+纬来体育,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=52
+纬来体育,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=118
+纬来育乐,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=312
+靖天育乐台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1029
+靖天国际台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=345
+靖天映画,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=349
+靖洋戏剧台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=319
+靖天综合台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=308
+靖天日本台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=108
+靖天戏剧台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=109
+靖天资讯台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=49
+靖天欢乐台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=51
+TVBS,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=16
+TVBS,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=88
+TVBS欢乐台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=40
+TVBS精采台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=66
+三立LIVE新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=4
+三立台湾台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=35
+三立都会台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=38
+三立戏剧台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=64
+寰宇综合,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=190
+寰宇新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=304
+寰宇新闻台湾,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=87
+寰宇财经台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=320
+壹综合,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=305
+壹新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=303
+YouTube健康2.0,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=2
+JET综合,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=41
+SET iNEWS,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=8
+幸福空间居家,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=61
+采昌影剧,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=62
+国兴卫视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=65
+达文西频道,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=68
+时尚运动X,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=71
+娱乐,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=73
+HakkqTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=76
+亚洲旅游,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=77
+卫视体育,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=79
+智林体育,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=82
+CinemaWorld,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=84
+爆笑频道,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=85
+世新综合5,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=95
+高点综合,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=99
+国兴卫视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=105
+博斯魅力,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=175
+金光布袋戲,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1060
+第1商业,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=186
+EYE戏剧,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=191
+Boomerang,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=57
+AFN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=195
+中文字Smithsonian,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=291
+中文字FoodNetwork,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=294
+Eleven 体育2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=301
+国家地理,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=302
+非凡商业,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=187
+年代新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=236
+探索亚洲,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=306
+探索频道,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1035
+国家野生,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1038
+AFN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=307
+空中英语教,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=313
+非凡新闻,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=314
+立综合台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=315
+曼迪台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=316
+中华财经台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=317
+生活英语台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=323
+探索科学,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=343
+ELTA娱乐,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=351
+Love Nature,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=388
+TV5MONDE STYLE,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=389
+ELTA影剧,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=500
+CLASSICA 古典乐,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1027
+ELTA综合,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1137
+猪哥亮歌厅秀,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=75
+爱放,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1127
+爱放2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=299
+愛放3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=259
+光影歐洲,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1157
+History 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1158
+CI罪案偵查,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1159
+AXN亞洲,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1066
+Z频道,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1130
+Cartoon,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=48
+FOX 体育1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1131
+FOX 体育2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1132
+FOX,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=384
+FOX ACTION,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=385
+FOX CRIME,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=386
+Eleven 体育1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1133
+TRACE体育Stars,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1037
+动物星球1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=367
+动物星球2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=368
+博斯高球1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=377
+博斯无限,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=381
+博斯无限2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=426
+博斯高球2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=378
+博斯运动1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=379
+博斯运动2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=380
+博斯网球,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=498
+爱尔达体育1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=192
+爱尓达体育2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=193
+爱尔达体育3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=194
+双星,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1086
+CERIA,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1161
+AOD351,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1162
+AOD352,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1163
+AOD353,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1164
+AOD354,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1165
+AOD355,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1166
+WWE,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1167
+EGG,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1168
+OKTO,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1169
+TVN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1170
+BNC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1171
+Arena,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1172
+CRICKET,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1173
+IKIM TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1147
+AOD353,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1067
+AOD354,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1068
+AOD355,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1069
+ASSP1_,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1070
+ASSP2_,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1071
+ASSP3_,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1072
+AEC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1073
+ASSP4,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1074
+OKEY,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1075
+Suria,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1076
+Channel U,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1077
+Vasantham,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1078
+AXN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1044
+BNC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1045
+ARENA,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1049
+AOD351,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1050
+全佳,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=427
+AOD,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=428
+双星,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=431
+欢喜台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=432
+Astro AEC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=433
+Astro suria,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=434
+TV1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=435
+TV2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=436
+TV3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=437
+TV9,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=438
+NTV7 Awani,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=439
+Astro Awani,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=440
+TV8,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=442
+AOD352,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=450
+Channel5,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=141
+Channel8,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=142
+AWANI,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1151
+Disney j,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=47
+Disneyxd,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=31
+Nickj,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=53
+Nickelodeon europe,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=56
+BabyFirst,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=173
+BBC CBeebies,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=115
+Babylu,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1129
+国外5,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=5
+皇马足球,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=20
+VOA衛視,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=22
+Animax,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=60
+Travel Channel,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=63
+cnex,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=91
+M2O音乐,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=94
+BBC earth,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=97
+BLVE ANT EXTREME,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=103
+音樂MTV Live,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=106
+LUXE.TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=112
+Fashion One,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=113
+History,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=116
+BBC 1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=158
+BBC Parliament,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=159
+BBC Entertainment,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=160
+BBC Alba,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=161
+BBC Parliament,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=162
+虬江路TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=163
+BBC News,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=164
+英国BBC 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=157
+BT Sport 1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=165
+BT Sport 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=166
+BT Sport 3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=167
+BT Sport ESPN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=168
+英国Channel 4,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=169
+ESPNU,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=170
+Sky Sport 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=171
+Sky Sports 1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=172
+車迷TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=352
+VIUTV6,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=176
+体育MainEvent,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=177
+Sky Sports Action,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=178
+Sky Sports Cricket,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=179
+Sky Sports Golf,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=180
+Sky Sports PremierLeague,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=181
+Sky Sports,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=182
+Sky Sport 3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=183
+Medici Arts,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=188
+Bloomberg Europe,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=370
+VTV4,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=341
+FOX Sport 3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=376
+FOX Family,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=383
+CW LIVE,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=420
+BBC world news,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=421
+BBC lifestyle,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=424
+Ginx csrortstv,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=425
+探索EVE,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1036
+體育WWE,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1081
+FOX WILD CARA,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1083
+印尼Karaoke,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1141
+印尼Jakarta Globe,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1142
+印尼InsanTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1143
+印尼CNN Indonesia,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1145
+印尼MetroTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1124
+DW德国之聲,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1059
+VOA之音,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=495
+5 Star Max,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1174
+Action Max,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1175
+MoreMax,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1176
+Hallmark Channel,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1177
+Hallmark Drama,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1178
+Hallmark Movie,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1179
+TCM,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1180
+Starz in Black,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1181
+ESPN 1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1182
+ESPN 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1183
+NBC Sport,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1184
+NBA TV US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1185
+Fox Sport 1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1186
+Fox Sport 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1187
+Tennis,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1188
+NFL Network,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1189
+Golf,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1190
+WWE,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1191
+UFC PASS,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1192
+Willow,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1193
+NHL Network,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1194
+Bein Sports USA,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1195
+ESPN U,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1196
+Big Ten Network,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1197
+Discovery Channel,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1198
+Motor Trend,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1199
+National Geographic,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1200
+Nat Geo Wild,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1201
+Investigation Discovery US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1202
+Animal Planet,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1203
+History,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1204
+SMITHSONIAN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1205
+TLC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1206
+Science,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1207
+Disney,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1208
+Disney XD,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1209
+Disney Junior,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1210
+Cartoon Network US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1211
+Nickelodeon US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1212
+Nick Junior,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1213
+Boomerang,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1214
+Universal Kids,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1215
+ABC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1216
+NBC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1217
+FOX,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1218
+CBS,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1219
+CW,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1220
+SYFY,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1221
+E!,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1222
+Comedy Central,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1223
+TNT US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1224
+Bravo US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1225
+LifeTime US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1226
+Arts and Entertainment,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1227
+AMC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1228
+WE TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1229
+USA Network,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1230
+BET,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1231
+Lifetime Movie Network,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1232
+VH1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1233
+TBS,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1234
+OWN US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1235
+GSN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1236
+HGTV US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1237
+Cooking Channel,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1238
+MTV US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1239
+FYI,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1240
+BabyTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1241
+TVB1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1242
+TVB DRAMA,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1243
+TVBJ1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1244
+TVBE,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1245
+NOWTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1246
+CNN USA,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1102
+FOX,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1103
+MSNBC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1104
+The Weather,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1105
+CNBC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1106
+Bloomberg,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1107
+Fox Business,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1108
+ShowTime 1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1114
+ShowTime 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1115
+ShowCase US,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1116
+Starz,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1117
+Starz Comedy,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1118
+Starz Edge,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1119
+Starz Kids Family,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1120
+Starz Encore,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1121
+Starz Encore Westerns,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1122
+Cinemax,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1123
+30A TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1052
+American Horrors,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1054
+Atlanta,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1055
+Panama City,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1056
+Pawleys Island,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1057
+HGTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=274
+HISTORY,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=275
+GOD TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=276
+Box Nation,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=277
+Big Ten Network,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=278
+Sec Network,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=279
+NFL RedZone,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=280
+NESN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=281
+Tennis,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=282
+UFC Network,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=283
+TNT,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=284
+NATGEO,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=285
+MTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=286
+CP 24 Canada,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1247
+CBC News,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1248
+CTV News,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1249
+Business Network News,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1250
+The Weather Network,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1251
+CBC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1252
+CTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1253
+Global,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1254
+City,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1255
+CHCH,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1256
+CTV 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1257
+OMNI 1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1258
+OMNI 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1259
+TVO,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1260
+Discovery Canada,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1261
+TLC Canada,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1262
+Love Nature,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1263
+Food Network Cabada,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1265
+Cooking Channel Canada,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1266
+CTV Comedy,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1267
+CTV SciFi,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1268
+Crave 1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1269
+Crave 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1270
+Crave 3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1271
+Crave 4,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1272
+TSN 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1274
+TSN 1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1273
+TSN 3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1275
+TSN 4,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1276
+TSN 5,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1277
+SportNet ON,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1278
+SportNet One,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1279
+SportNet World,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1280
+SportNet 360,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1281
+NBA CA,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1282
+TreeHouse,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1283
+Teletoon,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1284
+YTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1285
+新时代东部,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1286
+新时代西部,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1287
+城市电视,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1289
+新时代2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1288
+DD News,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=463
+ZeeNews,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=465
+TEN1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=466
+TEN2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=467
+TEN3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=468
+And Pictures,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=469
+Colors,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=470
+NDTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=471
+Zee Tamil,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=472
+India TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=473
+Sony Mix,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=474
+Sony Sab,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=475
+Star Movies,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=478
+Star Plus,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=479
+Zee Marathi,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=480
+Zee Studio,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=481
+Zee TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=482
+Sony,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=483
+Zee Cinema,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=484
+Zee Classic,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=485
+Tv9 Bharatvarsh,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1125
+TVN MOVIE,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1082
+YTN Science,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1092
+EBS 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1093
+EBS Kids,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1094
+EBS English,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1095
+EBSPlus 1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1096
+EBSPlus 2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1097
+EBS1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1098
+UBC SBS,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1099
+KTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1100
+SBS Star,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1101
+YTN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1061
+KBS Dram,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1062
+NGC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1064
+??TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1065
+SBS??,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=486
+SBS Sports,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=487
+OCN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=488
+iNet,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=490
+????,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=492
+半島国際新聞,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=494
+OCNMOVIES,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1020
+KBS joy,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1154
+Tconvers,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1134
+Mnet,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1136
+KBS2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=250
+KBS1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=174
+MBC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=251
+SBS,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=252
+JTBC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=253
+SBS FUNE,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=254
+SBS CNBC,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=255
+CNTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=256
+MBN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=257
+Channel A,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=258
+虬江路TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=261
+SBS PLus,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=262
+KBSN???,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=264
+MBC???+,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=265
+Spotv,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=266
+Spotv2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=267
+JTBC??,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=268
+MBCevery1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=476
+NHK World,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=117
+NTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=119
+NHKE,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=120
+NHKG,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=121
+tvtokyo,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=123
+TBS,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=124
+大阪TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=126
+ABC朝日,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=127
+bs1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=128
+jsport1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=129
+jsport2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=130
+jsport3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=131
+jsport4,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=132
+wowo1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=133
+wowo2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=134
+wowo3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=135
+STAR1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=136
+STAR2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=137
+STAR3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=138
+animax,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=139
+Green,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=140
+読売テレビ,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=198
+毎日放送,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=199
+関西テレビ,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=235
+テレビ朝日,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=237
+BSプレミアム,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=238
+BSプレミアム,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=239
+BS日テレ,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=240
+BS朝日,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=241
+BSTBS,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=242
+BSテレビ東京,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=243
+BSFUJI,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=244
+GREEN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=245
+SKY A,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=247
+Golf Network,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=249
+Tokyo MX1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=33
+Japan Channel DX,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=39
+News24,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=42
+時代劇の専門家,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=287
+MUSIC JAPAN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=288
+KIDS,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=289
+Discovery,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=290
+衛星劇場,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=298
+虬江路TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1148
+THHN,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1290
+LA34,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1291
+THGL,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1292
+PTP,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1293
+QRT,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1294
+THBT,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1295
+KonTumTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1296
+BPTV1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1297
+BPTV2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1298
+VITV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1299
+ANTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1300
+ANTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1301
+HBTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1302
+KienGiangTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1309
+KienGiangTV1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1310
+AnGiangTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1311
+ANTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1312
+BenTreTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1313
+BinhPhuocTV1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1314
+BinhPhuocTV2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1315
+Da Nang TV1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1316
+DakLakTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1317
+KhanhHoaTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1318
+KienGiangTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1319
+KienGiangTV1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1320
+PhuYenTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1323
+QuangNamTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1324
+KonTumTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1325
+LongAnTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1321
+NhanDanTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1322
+Thai PBS,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1047
+NBT,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1048
+DDTV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1138
+Thairath TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1139
+ChanneL8,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=1140
+
 电影频道,#genre#
 影视02,http://39.134.182.236/PLTV/88888888/224/3221226181/index.m3u8
 影视03,http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
@@ -5283,6 +5846,43 @@ Babes TV HD,http://kltvx.5ay.xyz/ub/ub.php?id=458
 SEX ATION HD,http://kltvx.5ay.xyz/ub/ub.php?id=459
 Passie,http://kltvx.5ay.xyz/ub/ub.php?id=461
 SCT Classic,http://kltvx.5ay.xyz/ub/ub.php?id=462
+
+松視1,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=402
+松視2,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=403
+松視3,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=404
+彩虹E,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=405
+彩虹K,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=406
+HOT,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=407
+香蕉台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=408
+驚豔台,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=409
+潘朵拉完美,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=410
+潘朵拉粉紅,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=411
+happy,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=412
+彩虹電影,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=413
+一本道,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=414
+二本道,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=415
+東京熱,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=416
+Hustler HD,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=451
+Redlight HD,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=452
+Pr?vate TV,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=453
+Dorcel HD,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=454
+Erox HD,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=456
+Super One HD,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=457
+Babes TV HD,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=458
+SEX ATION HD,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=459
+Passie,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=461
+SCT Classic,http://dapengtown254-1.tc.kingnet.net.tw:1112/543.php?id=462
+
+松視1,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
+松視2,,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
+潘多拉完美,tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
+彩虹電影,tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
+彩虹e台,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
+LOOKHD,tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
+惊艳电影台,tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
+极限电影台,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR 
+松視一台(720P),rtmp://161.202.204.248:1935/tv/ttv11
+HAPPY成人(720P),rtmp://161.202.204.248:1935/tv/ttv12
 
 欧美松视_666,#genre#
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
@@ -10210,858 +10810,3 @@ brazzers300,http://static.brazzers.com/scenes/3632/180sec.flv
 俄罗斯风光373,https://video1.tizam.cc/top/A-40-Year-Old-Widow-40.mp4
 俄罗斯风光374,https://video1.tizam.cc/top/La-journaliste.mp4
 
-日韩风光0_666,#genre#
-ATID-397办公室极品美臀OL 筱田优,https://videojccdn.wzj9.com:8091/20200220/TJuKZAi2/1000kb/hls/index.m3u8
-MDYD-706被老公上司侵犯的人妻 遥惠美,https://videojccdn.wzj9.com:8091/20200313/8Q71XQfn/1000kb/hls/index.m3u8
-IPX-460让我使出全力协助您自慰 深田咏美,https://videojccdn.wzj9.com:8091/20200313/2pCV99Se/1000kb/hls/index.m3u8
-JUL-156高潮的美人妻 生驹满,https://videojccdn.wzj9.com:8091/20200313/hazuU76J/1000kb/hls/index.m3u8
-IPX-458被丑陋絶伦大叔搞到持续高潮 初音实,https://videojccdn.wzj9.com:8091/20200313/VZCkFZMB/1000kb/hls/index.m3u8
-IPZ-573在丈夫面前被干到高潮天海翼,https://videojccdn.wzj9.com:8091/20200305/mH53EiyV/1000kb/hls/index.m3u8
-GVG-230为了报杀父之仇的人妻主动去照顾黑道老头,https://videojccdn.wzj9.com:8091/20200510/h9iaW6xr/1000kb/hls/index.m3u8
-HAVD-837狂乱的接吻与性交新婚妻子水岛津实被父亲强行寝取堕落,https://videojccdn.wzj9.com:8091/20200510/8rnM1i0w/1000kb/hls/index.m3u8
-HEYZO-0865 对平时傲慢的黑丝女部长,https://videojccdn.wzj9.com:8091/20200510/hOdCwkOE/1000kb/hls/index.m3u8
-Heyzo-1878 お姐 – 佐々木优奈,https://videocdn.hndtl.com:8091/20190301/hd_heyzo-1878/1000kb/hls/index.m3u8
-ssni-458华丽女友被巨汉前辈骑马 架乃由罗,https://videojccdn.wzj9.com:8091/20191020/ZBOXsCWl/1000kb/hls/index.m3u8
-DV-1514性欲太强的人妻 麻美由真,https://videojccdn.wzj9.com:8091/20200129/sx3G4NHN/1000kb/hls/index.m3u8
-SSNI-294 电车揉奶痴汉堕落M女巨乳人妻 这田咲,https://videojccdn.wzj9.com:8091/20191020/uKRYBrbN/1000kb/hls/index.m3u8
-SSNI-269与中年上司的激情 吉泽明步,https://videojccdn.wzj9.com:8091/20191020/Wl2YRIre/1000kb/hls/index.m3u8
-AVOP-166周年庆吞精国际大赛水菜丽,https://videojccdn.wzj9.com:8091/20200129/kLzRzqiL/1000kb/hls/index.m3u8
-hnd-661 讨厌着瞪着我也沉着干到怀孕 有坂深雪,https://videojccdn.wzj9.com:8091/20200202/oFJ3spxg/1000kb/hls/index.m3u8
-JUL-171人妻在公公身上找到了温暖 妃光莉,https://videojccdn.wzj9.com:8091/20200402/FyiuU9mU/1000kb/hls/index.m3u8
-JUY-243被公公看到失禁的人妻 佐佐木明希,https://videojccdn.wzj9.com:8091/20200216/aMMYtRue/1000kb/hls/index.m3u8
-JUL-124人妻水户香奈被丈夫的哥哥亲藩,https://videojccdn.wzj9.com:8091/20200220/eZmTKuMb/1000kb/hls/index.m3u8
-JUL-146 www.1168av.com/,https://videojccdn.wzj9.com:8091/20200305/knugheYz/1000kb/hls/index.m3u8
-DNJR-030 強制男友穿女裝而興奮的變態美少女,https://videojccdn.wzj9.com:8091/20200920/YM0914203/10000kb/hls/index.m3u8
-ADN-162 侵犯人妻傢政婦 松下紗榮子,https://videojccdn.wzj9.com:8091/20200319/ziEdbzWJ/1000kb/hls/index.m3u8
-SSPD-142全心全意照顾住院丈夫的人妻松下纱容子,https://videojccdn.wzj9.com:8091/20200426/ri95w2Ut/1000kb/hls/index.m3u8
-IPX-461 人妻巨乳女上司 松下紗榮子,https://videojccdn.wzj9.com:8091/20200313/gKc3jqsN/1000kb/hls/index.m3u8
-IPTD-914 濡れ透けノーブラ着衣巨乳舞咲み,https://videojccdn.wzj9.com:8091/20201125/iptd00914-Part-1/10000kb/hls/index.m3u8
-NHDTA-786 喝下媚藥的OL在自慰中一次次高潮的時候突然闖入強暴,https://m3u8.cdnpan.com/Xv9dvyZV.m3u8
-NDRA-021 排卵日好色的管理員,https://m3u8.cdnpan.com/uGGqD2ZL.m3u8
-NASH-331 夜まで我慢できない！朝から婿に求められる五十路義母,https://m3u8.cdnpan.com/ZW8WNnC3.m3u8
-REAL-740 人妻NTRビデオレター拡散脅迫中出しFUCK,https://m3u8.cdnpan.com/Mu5tyzhY.m3u8
-MEYD-094 趁人妻排卵日內射的蒙面強姦魔 藤浦惠,https://m3u8.cdnpan.com/2KOiT6q3.m3u8
-PPPD-853 突然の豪雨で故障したエレベーターで濡れ透け巨乳に痴女られたボク 深田えいみ,https://m3u8.cdnpan.com/MowVL91y.m3u8
-MIAA-165 エレベーターの故障で2人っきり… 汗だく密着性交 波多野結衣,https://m3u8.cdnpan.com/j1V31Ods.m3u8
-MIAA-086 エレベーターの故障で2人っきり… 汗だく密着性交 篠田ゆう,https://m3u8.cdnpan.com/yfoZojB6.m3u8
-MEKI-001 外は灼熱の真夏日なのに部屋のエアコンが故障！？暑さに我慢奥,https://m3u8.cdnpan.com/oea5pCYQ.m3u8
-SSNI-788 年下のクセに俺より仕事が出来る同僚と社内で2人きり… ゲリラ豪雨の夜、俺の理性は吹き飛んだ。 新名あみん,https://m3u8.cdnpan.com/EikMT9nD.m3u8
-SSNI-722 ゲリラ豪雨で帰宅不能になった介護ヘルパーが朝まで絶倫高齢者とセックスした全記録 乃木蛍,https://m3u8.cdnpan.com/FdhAI3I9.m3u8
-MIDE-742 突然のゲリラ豪雨 グラドルと遭難小屋で朝まで二人きり… 高橋しょう子,https://m3u8.cdnpan.com/OpR0Wm0p.m3u8
-HUNTA-652 教室内のブラ透け度200％で目のやり場に困る,https://m3u8.cdnpan.com/OjuIKb8D.m3u8
-AP-661 突然のゲリラ豪雨でずぶ濡れ下着スケスケのまま満員バスに乗車してきた敏感娘を集団痴漢で地獄イキ！！,https://m3u8.cdnpan.com/9y3Ey3tP.m3u8
-AP-067 満員電車,https://m3u8.cdnpan.com/LFZDrnur.m3u8
-AP-130_媚薬マスク通学バス_お嬢様女子校,https://m3u8.cdnpan.com/cah5obY7.m3u8
-PRED-203 深夜バイトNTR ～最愛の妻とイケメンバーテ,https://www.fhbf9.com/20210110/qHpFxWug/800kb/hls/index.m3u8
-JUY-015伯母太漂亮 忍不住就搞上,https://bobolj.com/20201112/ORODwJG6/500kb/hls/index.m3u8
-STARS-237寂寞后妈古川伊织无法按捺住的性欲视频,https://videozm.whqhyg.com:8091/20200610/ax6lmRWy/1000kb/hls/index.m3u8
-STAR-981慢慢仔细地把你引到高潮,https://videozm.whqhyg.com:8091/20200822/J5n9MqZb/1000kb/hls/index.m3u8
-MEYD-582绝伦老爹让妻发情危险日夜袭还中出,https://videozm.whqhyg.com:8091/20200427/mTGx9ETP/1000kb/hls/index.m3u8
-SSNI-507游泳人妻Hame无限泳池痴汉奥田咲,https://videozm.whqhyg.com:8091/20201214/PTM1gnci/1000kb/hls/index.m3u8
-NACR-207寡妇岳母久保今日子,https://videozm.whqhyg.com:8091/20200930/ctLgEOC8/1000kb/hls/index.m3u8
-ADN-217你，原谅我…。 織笠るみ,https://videozm.whqhyg.com:8091/20201211/HBQyM5ex/1000kb/hls/index.m3u8
-ADN-219成为妻子背德的午后松下纱荣子,https://videozm.whqhyg.com:8091/20201211/YcYNQ76P/1000kb/hls/index.m3u8
-HJMO-408夫妇挑战,https://videozm.whqhyg.com:8091/20201212/zIafFh3D/1000kb/hls/index.m3u8
-MEYD-143 被弟弟玷污的嫂子浅井舞香,https://video1.feimanzb.com:8091/20171215/MEYD-143-C/550kb/hls/index.m3u8
-JUY-885丈夫的上司侵犯后的第7天，我失去了理智…。星奈爱,https://videozm.whqhyg.com:8091/20201213/SaNp2jgL/1000kb/hls/index.m3u8
-欲求不满人妻与大叔中出偷情,https://vip4.ddyunbo.com/20201104/hbsstESu/600kb/hls/index.m3u8
-MEYD-433 老公带来养子是巨大肉棒 希岛爱理,https://videozm.whqhyg.com:8091/20200523/YfREJhdI/1000kb/hls/index.m3u8
-【无码破解】少女教主至尊魔王『希美真由』被凌辱的搜查官ipz-124,http://mozart.horowitzclass.com/media/videos/mp4/8219_240p.mp4?st=n5bnVqqqa04QPqwi-eUAAg&amp;e=1613237584
-STAR-409 PART2 唯美又激烈地啪啪 做完身体微抽搐 jav无码破解版流出,http://mozart.horowitzclass.com/media/videos/mp4/9622_240p.mp4?st=W3WvjAmUH_-b_9ytK-8xLA&amp;e=1613237669
-SNIS-286 吉沢明歩 03 JP無碼破解,http://mozart.horowitzclass.com/media/videos/mp4/12231_240p.mp4?st=kSsPo25l8f32JcvZaCUWtQ&amp;e=1613237852
-我今天要强奸她。暗恋的社长秘书 柚月向日葵 ATID-303,https://videocdn2.quweikm.com:8091/20181131/AQKG0RL303/1000kb/hls/index.m3u8
-MEYD-237 淫乱继母捕食儿子 两人独处就变身发情野兽性交 东凛,https://video.feimanzb.com:8091/20180310/DVO0UTH237/650kb/hls/index.m3u8
-MEYD-274 少妻的春光诱惑 今井真由美,https://video.feimanzb.com:8091/20180301/DK8OJY274/650kb/hls/index.m3u8
-黑蝎的诱惑高清字幕版,http://bbcos.vip:2100/20201224/Ls90khZ4/mp4/Ls90khZ4.mp4
-字幕版欲望之岛,http://bbcos.vip:2100/20210104/qOs4o7FI/mp4/qOs4o7FI.mp4
-猛男诞生记韩语中字,http://bbcos.vip:2100/20210112/qlyH6o7M/mp4/qlyH6o7M.mp4
-奸臣高清修复字幕版,http://bbcos.vip:2100/20210125/22AUP3qp/mp4/22AUP3qp.mp4
-情宿高清未删减完整字幕版,http://bbcos.vip:2100/20201221/h932xzA4/mp4/h932xzA4.mp4
-SNIS-896 国民偶像被突然插入的4部作品 三上悠亚,https://video.lllwo2o.com:8091/20180601/SRH1JYO896/650kb/hls/index.m3u8
-ssni-344 从第一次被公公侵犯的那天起… 三上悠亚,https://videocdn.dlyilian.com:8091/20190501/SS1HTEBH344/1000kb/hls/index.m3u8
-SSNI-229 无法抵抗顺从电车癡汉,https://videocdn2.quweikm.com:8091/20181131/SKI8RNY229/1000kb/hls/index.m3u8
-SDAB-115 青春洋溢的可爱女高中生 松本一香,https://videozmcdn.stz8.com:8091/20200228/DvKSXNkT/1000kb/hls/index.m3u8
-MIAA-258 跟玩伴练习幹砲肏到中出 松本一香,https://videozm.whqhyg.com:8091/20200427/QlIM7HzG/1000kb/hls/index.m3u8
-DASD-588 从肉棒喷发的珍奶、要喝看看吗？ 渚光希,https://videozmcdn.stz8.com:8091/20191112/1YUlWqZB/1000kb/hls/index.m3u8
-NACR-239 持续被絶伦父和宅男哥哥内射的性处理道具 渚光希,https://videocdn.dlyilian.com:8091/20190731/NACR-239_CH_SD/1000kb/hls/index.m3u8
-GS-113 往图书馆的书架上放黄书,https://video.feimanzb.com:8091/20180310/DTH1JOR113/650kb/hls/index.m3u8
-HZGD-067 禁断的近亲强姦,https://video.feimanzb.com:8091/20180401/HMJ8RTY067/650kb/hls/index.m3u8
-IENE-682 继妹与我约定「只有摩擦而已哦」,https://video.lllwo2o.com:8091/20180501/EJO8RYB682/650kb/hls/index.m3u8
-AP-287 双巨根下体紧贴痴汉,https://video.feimanzb.com:8091/20171215/AP-287-C/550kb/hls/index.m3u8
-RCT-805 用肉棒摩擦站着读书的女人,https://video.feimanzb.com:8091/20171110/RCT-805-C/550kb/hls/index.m3u8
-IENF-023 能隔着一张保鲜膜和朋友摩擦下体吗？,https://videomy.yongaomy.com/20191117/IENF-023/1500kb/hls/index.m3u8
-HUNTA-474 不做爱也可以的哦,https://videocdn.dlyilian.com:8091/20190331/HUM3YTS474/1000kb/hls/index.m3u8
-HUNTA-161 不行不行插进来了,https://video.feimanzb.com:8091/20171116/HUNTA-161-C/550kb/hls/index.m3u8
-AP-541 咖啡店打工 癡汉用勃起的肉棒摩擦她下面,https://videocdn.dlyilian.com:8091/20190301/AQL7GAR541/hls/index.m3u8
-IENE-770 同情没有异性缘的我,https://video2.feimanzb.com:8091/20180420/EJO2RY770/650kb/hls/index.m3u8
-IENE-621 女上司可怜我,https://video.feimanzb.com:8091/20171116/IENE-621-C/550kb/hls/index.m3u8
-WANZ-492 腿交痴汉用肉棒摩擦,https://video1.feimanzb.com:8091/20171215/WANZ-492-C/550kb/hls/index.m3u8
-SDMU-719 水嫰屁股的套餐,https://video.feimanzb.com:8091/20180401/SJOE5TH719/650kb/hls/index.m3u8
-VRTM-246 给超短裙女高中生下媚药,https://video2.feimanzb.com:8091/20180420/MET1ROJ246/650kb/hls/index.m3u8
-SCPX-226 骗邻居的老婆喝下媚药,https://videocdn2.quweikm.com:8091/20180801/SJITR3HY226/650kb/hls/index.m3u8
-SNIS-629 妻子被没有常识的巨根男们下媚药掠夺的故事 鸣沢ゆり,https://video1.feimanzb.com:8091/20171215/SNIS-629-C/550kb/hls/index.m3u8
-WANZ-743 喝下媚药的弟弟疯狂抽插姐姐 仲间明日香,https://videocdn.dlyilian.com:8091/20190603/WANZ-743_CH_SD/1000kb/hls/index.m3u8
-UMSO-128 媚药近亲相姦,https://video2.feimanzb.com:8091/20180420/OBJ4FOW128/650kb/hls/index.m3u8
-DOCP-142 女儿家教媚药发情,https://vd7.zhiyuanhongda.com/20200804/menv8ZkY/1000kb/hls/index.m3u8
-SDMU-810 SOD romance 狂舔儿子晨勃大屌的淫乱继母 君岛美绪,https://videocdn.dlyilian.com:8091/20190101/SKH0TRY810/1000kb/hls/index.m3u8
-SDMU-881 SOD式浪漫 不假思索就狠狠吞入儿子晨勃肉棒的淫乱义母 铃木里美,https://videocdn.dlyilian.com:8091/20190301/SQKI4FD881/hls/index.m3u8
-SDMU-832 SOD浪漫 电车癡汉~很爱自己的丈夫但是沉浸在癡汉带来的变态淫乱的快感世界～ 三原穗花,https://videocdn.dlyilian.com:8091/20190201/SQKIG7FEL832/1000kb/hls/index.m3u8
-SDMU-869 SODRomance 癡汉上班电车～年轻人妻因与癡汉的悖德性事而兴奋～ 高岛优香,https://videocdn.dlyilian.com:8091/20190201/SQK4LFE869/1000kb/hls/index.m3u8
-AP-316 「你要看着女儿被中出呢，还是自己来？」被迫做出选择的父亲,https://video.feimanzb.com:8091/20171109/AP-316-C/550kb/hls/index.m3u8
-MILD-985 痴汉愿望女子校生,https://video1.feimanzb.com:8091/20180131/MILD-985-C/550kb/hls/index.m3u8
-SSNI-390 图书馆癡汉～在公众面前被侵犯的年轻人妻～ 葵都香纱,https://videocdn.dlyilian.com:8091/20190401/SS3IODW390/1000kb/hls/index.m3u8
-SNIS-900 在图书馆里被色狼侵犯不敢出声干到爽 梦乃爱华,https://video2.feimanzb.com:8091/20180420/SKO5RY900/650kb/hls/index.m3u8
-RCT-830 在图书馆静音慢抽插,https://video.lllwo2o.com:8091/20180601/TRM5HPC830/650kb/hls/index.m3u8
-AP-421 图书馆大量跳蛋癡汉,https://video1.feimanzb.com:8091/20180210/PET0HLGK421/650kb/hls/index.m3u8
-AP-483 在图书馆捅着裤袜插入大量射精的癡汉,https://video2.feimanzb.com:8091/20180420/AJIU7HET483/650kb/hls/index.m3u8
-NHDTA-788 在图书馆里无法出声爽到爱液成丝敏感女孩17遥控玩具SP,https://video1.feimanzb.com:8091/20171215/NHDTA-788-C/550kb/hls/index.m3u8
-NHDTA-680 在图书馆里无法出声爽到爱液成丝敏感女孩 15,https://video.feimanzb.com:8091/20171120/NHDTA-680-C/550kb/hls/index.m3u8
-EBOD-565 授种图书馆癡汉 无法拒绝，没发出声的状态下被中出高潮堕落的不起眼巨乳女高中生 铃木心春,https://videocdn.dlyilian.com:8091/20190610/EBOD-565_CH_SD/1000kb/hls/index.m3u8
-GDTM-092 图书馆里认真读书的清纯姑娘被色狼盯上了！2,https://video.feimanzb.com:8091/20171115/GDTM-092-C/550kb/hls/index.m3u8
-AP-431 对图书馆母女同时素股癡汉,https://video1.feimanzb.com:8091/20180210/PH1RJK431/650kb/hls/index.m3u8
-GS-013 在图书馆里邻座的近视女大学生眼镜掉了让我帮找,https://video.feimanzb.com:8091/20171113/GS-013-C/550kb/hls/index.m3u8
-HTMS-118 亨利冢本 绝对好撸 视频小黄书,https://videocdn.dlyilian.com:8091/20190331/HTN1WEF118/1000kb/hls/index.m3u8
-GS-114 紧急速报！在深夜看黄书和AV的年轻女孩激增中,https://video2.feimanzb.com:8091/20180420/SKP3RJY114/650kb/hls/index.m3u8
-MUDR-047 我用春药无套侵犯内射外甥女 麻里梨夏,https://videozmcdn.stz8.com:8091/zw0111-1231/MUDR-047/1000kb/hls/index.m3u8
-IENE-916 看上去很保守的继母其实非常好色！我被她魅惑后在家人的旁边内射了她！,https://videocdn.dlyilian.com:8091/20181231/IKV3ELQ916/1000kb/hls/index.m3u8
-SW-453 对孩子的家庭教师快要勃起的年轻肉棒兴奋的妈妈 孩子学习的时候在旁边偷偷品尝老师的巨根,https://video.lllwo2o.com:8091/20180520/WJO2HG453/650kb/hls/index.m3u8
-IML-007 年轻人妻第一次出轨 今天把弟弟的老婆睡了 。 柊沙希,https://video.feimanzb.com:8091/20180701/LB4WMJ007/650kb/hls/index.m3u8
-HBAD-356 近亲相姦 被灌输中年男的味道沉溺于快乐的年轻人妻 麻生遥,https://videocdn.dlyilian.com:8091/20190101/HOLH2ET356/1000kb/hls/index.m3u8
-HBAD-379 昭和女子 夜间潜行 丈夫出外赚钱留在家里的年轻人妻的美让男人们无法抑制自己的慾望趁丈夫不在潜入侵犯了她 佐佐木明希,https://video.feimanzb.com:8091/20180301/DAH5NER379/650kb/hls/index.m3u8
-AP-613 年轻人妻乳头被来回玩弄 不断高潮然后把她内射的癡汉 停车场,https://videozm.dlyilian.com:8091/20190716/AP-613_CH_SD/1000kb/hls/index.m3u8
-AP-642 巨乳年轻人妻 健康诊断玩弄乳头内射癡汉,https://videocdn.dlyilian.com:8091/20190520/AP-642_CH_SD/1000kb/hls/index.m3u8
-AP-489 在女高中生健康诊断时素股内射的色狼,https://video.feimanzb.com:8091/20180401/PJK3EBT489/650kb/hls/index.m3u8
-NHDTB-274 被叔父开发屁眼,https://videozm.dlyilian.com:8091/20190831/NHDTB-274_CH_SD/1000kb/hls/index.m3u8
-MIAE-028 被我癡汉的女高中生喜欢上了我 荣川乃亚,https://video.lllwo2o.com:8091/20180501/EJP8ETH028/650kb/hls/index.m3u8
-XRW-326 诱惑女高中生提供的独特性爱服务,https://video2.feimanzb.com:8091/20180220/WJK7HET326/650kb/hls/index.m3u8
-TEAM-074 上学路上遭遇痴汉被教会绝顶的女高中生 凑莉久,https://video1.feimanzb.com:8091/20171215/TEAM-074-C/550kb/hls/index.m3u8
-ATID-262 巨根强制连続絶顶 清廉女高中生、堕落的轨迹 あかね杏珠,https://video.feimanzb.com:8091/20171109/ATID-262-C/550kb/hls/index.m3u8
-AT-157 趁妈妈不在强奸的跟踪狂,https://video1.feimanzb.com:8091/20180115/AT-157-C/550kb/hls/index.m3u8
-NHDTA-649 强迫在医院等诊查中的妈妈的超敏感萝莉女高中生顺从淫语play,https://video.feimanzb.com:8091/20171120/NHDTA-649-C/550kb/hls/index.m3u8
-IPX-311 被泳衣收藏癖盯上的巨乳泳池监视员 益坂美亚 纠缠跟踪狂的疯狂歇斯底里凌辱,https://videozm.dlyilian.com:8091/20190709/IPX-311_CH_SD/1000kb/hls/index.m3u8
-HND-599 如果发出声音就往里面发出！！被跟踪狂威胁的偶像 枢木葵,https://videozm.dlyilian.com:8091/20191020/pcPj8YQz/1000kb/hls/index.m3u8
-IPZ-675 猎奇邻人跟踪狂 比起男友她肯定更希望被我侵犯 中村梨乃,https://video1.feimanzb.com:8091/20180115/IPZ-675-C/550kb/hls/index.m3u8
-HND-557被跟踪狂威胁的OL 有坂深雪,https://videozm.whqhyg.com:8091/20200806/ioyv8dEk/1000kb/hls/index.m3u8
-HND-634逼迫的孕育×普~被跟踪狂威胁的制服女子~星奈爱,https://videozm.whqhyg.com:8091/20201019/xL6Px35t/1000kb/hls/index.m3u8
-SHKD-797 专属家庭教师计画 佐佐波绫,https://videocdn2.quweikm.com:8091/20181201/SQKL9GFR797/1000kb/hls/index.m3u8
-SHKD-758 专属家庭教师计画 河南实里,https://video.feimanzb.com:8091/20180301/DJIT0RHY758/650kb/hls/index.m3u8
-WANZ-773 许久不见的姪女因为成长成毫无防备的巨乳妹而每天为所欲为 岩濑理名,https://videocdn.dlyilian.com:8091/20190101/WQKG21RHL773/1000kb/hls/index.m3u8
-JUX-863 拜託别和老公说 人妻被邻居盯上 吉川爱美,https://video.lllwo2o.com:8091/20180601/SKI9UTN863/650kb/hls/index.m3u8
-SNIS-513 被邻居盯上的美人妻 早乙女美々,https://video.feimanzb.com:8091/20171120/SNIS-513-C/550kb/hls/index.m3u8
-MIST-243 妊娠近亲相姦4 被哥哥调教成肉便器的妹妹 葵玲奈,https://videocdn.dlyilian.com:8091/20190501/MI5IOFW243/1000kb/hls/index.m3u8
-SSNI-486斯克被水狂热者们盯上…。羽咲,https://videozm.whqhyg.com:8091/20201127/MGjivCLO/1000kb/hls/index.m3u8
-SHKD-857 耻辱姦计 只属于我的家庭教师 明里紬,https://videozm.dlyilian.com:8091/20190716/SHKD-857_CH_SD/1000kb/hls/index.m3u8
-JUY-543 暴风雨 与憧憬的家庭教师二人单独相处的夜晚 君岛美绪,https://videocdn.dlyilian.com:8091/20190201/JWK4GRL543/1000kb/hls/index.m3u8
-GVG-356 对思春期肉棒兴奋的猥亵女家庭教师所做的事情的全纪录 5 碧诗乃,https://video.lllwo2o.com:8091/20180501/GR5YKO356/650kb/hls/index.m3u8
-GVG-481 对思春期肉棒兴奋的猥亵女家庭教师所做的事情的全纪录 10 通野未帆,https://video2.feimanzb.com:8091/20180310/GRJ6OWG481/650kb/hls/index.m3u8
-KKU-002 「…不行，不要拔出去，就射在里面吧」,https://videocdn2.quweikm.com:8091/20180901/KJO3WE002/650kb/hls/index.m3u8
-JUY-219 总被人看着… 被偷窥的人妻 前田可奈子,https://video.feimanzb.com:8091/20171103/YJK4LRY219/550kb/hls/index.m3u8
-GVG-460 禁断的看护 笹仓杏,https://video.feimanzb.com:8091/20171103/GM0BRL460/550kb/hls/index.m3u8
-GVG-557 禁断的看护 若菜奈央,https://videocdn2.quweikm.com:8091/20181101/GBSR2JLM557/1000kb/hls/index.m3u8
-GETS-026 为了预防癡汉的女生去武馆学习护身术，她好像很喜欢我非常的听话然后就在训练中对她性骚扰,https://video2.feimanzb.com:8091/20180420/SRH0YKO026/650kb/hls/index.m3u8
-GETS-071 为了对付痴汉来到护身术道场的女子,https://videocdn2.quweikm.com:8091/20180901/GJK2BET071/650kb/hls/index.m3u8
-GETS-082 为了对付痴汉来到护身术道场的女子,https://videocdn.dlyilian.com:8091/20190101/GEFK3LGR082/1000kb/hls/index.m3u8
-KIL-096 防身术道场是容易被痴汉的满是破绽的女孩的汇聚地！练习中性骚扰…vol.2,https://video.feimanzb.com:8091/20171113/KIL-096-C/550kb/hls/index.m3u8
-KIL-086 送快递的女生看到我全裸身体，胯下肉棒勃起，由羞涩变的兴奋,https://video.feimanzb.com:8091/20171113/KIL-086-C/550kb/hls/index.m3u8
-KIL-085 防灾训练时，我忍不住碰触女社员的娇躯,https://video.feimanzb.com:8091/20171113/KIL-085-C/550kb/hls/index.m3u8
-ABP-714超高级淫语疗癒沙龙 爱音麻里亚,https://videojccdn.wzj9.com:8091/20200319/EKlUz0qS/1000kb/hls/index.m3u8
-JUL-135知性淫语吊带袜秘书 遥彩音,https://videozmcdn.stz8.com:8091/20200229/JUL-135/1000kb/hls/index.m3u8
-ES-664女律师的淫语裁判 上原亚衣,https://videozmcdn.stz8.com:8091/20200106/2eagB8Yq/1000kb/hls/index.m3u8
-JUFD-739痴女淫语挑逗 不让我射的儿子女友 藤浦惠,https://videozmcdn.stz8.com:8091/20200130/t0pzN2z1/1000kb/hls/index.m3u8
-[070916-204] 我想看看妻子被玷污的地方,https://videony.rhsj520.com/20191006/070916-204/1500kb/hls/index.m3u8
-[021916-100] 坂口美惠乃突然被插入的无套性爱视觉盛宴,https://videony.rhsj520.com/20191006/021916-100/1500kb/hls/index.m3u8
-[091512-130] 欢乐与羞耻的中出体验,https://videony.rhsj520.com/20191112/091512-130/1500kb/hls/index.m3u8
-[042816_288] 我的女朋友是有贺由爱,https://videony.rhsj520.com/20191006/042816_288/1500kb/hls/index.m3u8
-[121318_398]吞精人妻 73 ～连丈夫的精液都没吞过却～ 一之濑飞鸟,https://videony.rhsj520.com/SR0802/121318-398/1500kb/hls/index.m3u8
-[110919-001] 绝对不想怀孕的清秀系女子VS中出身的叔叔,https://videomy.yongaomy.com/20191207/FCfJ7nyf/1500kb/hls/index.m3u8
-090112-118撒娇甜心 Vol.22 绫见光,https://videozm.dlyilian.com:8091/20191107/ndtIj8HE/1000kb/hls/index.m3u8
-少女的美穴流出的精液,https://videony.rhsj520.com/20191104/33dRrjM4/1500kb/hls/index.m3u8
-[062312-056-1] 第一季 撒娇甜心 Vol.21 筑紫,https://videony.rhsj520.com/20191112/062312-056-1/1500kb/hls/index.m3u8
-062312-056-2第二季 撒娇甜心 Vol.21 筑紫,https://videojccdn.wzj9.com:8091/20191106/Ppy8VExI/1000kb/hls/index.m3u8
-[060812-043] 度过假日的方法～爱撒娇版本～ 梦实空美,https://videony.rhsj520.com/20191112/060812-043/1500kb/hls/index.m3u8
-XVSR-539与爱撒娇的新婚妻子的同居生活绀野光,https://videojccdn.wzj9.com:8091/20200510/jBqufJyp/1000kb/hls/index.m3u8
-[030919_047]自己身体当成武器的撒娇人妻 小桥理惠子,https://videony.rhsj520.com/SR0802/030919-047/1500kb/hls/index.m3u8
-NGOD-115老婆的美臀被擅长撒娇的公司 美谷朱里,https://videozmcdn.stz8.com:8091/20200116/0jk8H2mb/1000kb/hls/index.m3u8
-[102919-001] 快速拔出,https://videomy.yongaomy.com/20191207/wCt0Iq2y/1500kb/hls/index.m3u8
-OKSN-118-C美女老妈波多野结衣把儿子的肉棒照顾的无微不至,https://videozm.whqhyg.com:8091/20200629/OKSN-118-C/1000kb/hls/index.m3u8
-GVG-382 見子巨根發情母子姦 一條綺美香,https://video.lllwo2o.com:8091/20180501/GJO3HTE382/650kb/hls/index.m3u8
-VENU-658 近親［無言］相姦 爸爸在隔壁啊… 一條綺美香,https://video.lllwo2o.com:8091/20180520/UJW0ROP658/650kb/hls/index.m3u8
-NATR-607 和未亡人嶽母玩在一起 一條綺美香,https://videozm.dlyilian.com/20190815/NATR-607_CH_SD/1000kb/hls/90ww81354002.ts
-NACR-231 50歲熟媽媽淫誘惑 一條綺美香,http://awslsn1.sisuoyun.com/81820200417/YM0325203/1000kb/hls/index.m3u8
-MDVHJ-001] 未亡人の柔肌 一條綺美香,https://m3u8.cdnpan.com/HIj3Bjg0.m3u8
-NSPS-535 為瞭心愛的老公，我隻要忍耐一次的話... 一條綺美香,https://video2.feimanzb.com:8091/20180420/SZK8OGR535/650kb/hls/index.m3u8
-YPAA-01 內射査定肉感美人妻 一條綺美香,https://videocdn2.quweikm.com:8091/20180901/YMJH7BQ01/650kb/hls/index.m3u8
-YST-118 我來當你媽媽 一條綺美香,https://video2.feimanzb.com:8091/20180220/TOK0ERH118/650kb/hls/index.m3u8
-HTMS-090-屋根裏部屋肉體 一條綺美香,https://ginocdn.bybzj.com:8091/youma/20180401/HTMS-090/650kb/hls/index.m3u8
-MUNJ-023-矯正下著… 一條綺美香,https://videocdn.quweikm.com:8091/20180830/MUNJ-023/1000kb/hls/index.m3u8
-HND-251 丈夫不在傢，與兒子激情愛愛的熟母 一條綺美香,https://video.feimanzb.com:8091/20171116/HND-251-C/550kb/hls/index.m3u8
-HBAD-347-夫の親族未亡人 一條綺美香,https://ginocdn.bybzj.com:8091/youma/20180401/HBAD-347/650kb/hls/index.m3u8
-OKSN-251-母子寢取物語 安野由美,https://ginocdn.bybzj.com:8091/20180531/5h2BJHQb/650kb/hls/index.m3u8
-OKSN-251-母子寢取物語 安野由美,https://v2.77zyw.live/20200613/6uN4UYao/1000kb/hls/index.m3u8
-OKSN-251-母子寢取物語 安野由美,https://hls3.gslb.ru/hls/Cen/OKSN-215.mp4/index.m3u8?token=TGtYqhz1qcM69JzcQ8Y86A
-MEKI-006 VR夢中のお兄SEX,https://videocdn.hndtl.com:8091/20190113/hd_meki-006/1000kb/hls/index.m3u8
-MEKI-006 VR夢中のお兄SEX,https://hls3.gslb.ru/hls/Cen/MEKI-006.mp4/index.m3u8?token=jrd4yoHjpJrnnapXDE0KRw
-MIAE-238 從義理父親帶來的哥哥來的每天吞精近親相奸 一之瀬梓,https://videocdn.quweikm.com:8091/20180710/MIAE-238/1000kb/hls/index.m3u8
-MIAE-238 從義理父親帶來的哥哥來的每天吞精近親相奸 一之瀬梓,https://videozm.dlyilian.com/20190927/urYIinbi/1000kb/hls/index.m3u8
-MIAE-238 從義理父親帶來的哥哥來的每天吞精近親相奸 一之瀬梓,https://videony.rhsj520.com/0717/MIAE-238/1500kb/hls/index.m3u8
-MIAE-238 從義理父親帶來的哥哥來的每天吞精近親相奸 一之瀬梓,https://videojc.hndtl.com/20190918/kw708mJv/1000kb/hls/index.m3u8
-SSNI-780穿著衣服也擋不住巨乳的三上悠亞,https://m3u8.cdnpan.com/Olb6SJ20.m3u8
-TYOD-277淫亂社區人妻 香山美櫻ZZ,https://m3u8.cdnpan.com/lP6Sd8aF.m3u8
-SABA-304 鄉下隱藏巨乳放蕩女高中生ZZ,https://m3u8.cdnpan.com/ppqcLxp7.m3u8
-NHDTA-743] 襲擊靈敏度上升的人妻們ZZ,https://m3u8.cdnpan.com/pgTxy12y.m3u8
-RBD-806] 凌辱連鎖 潮吹外賣按摩 石原莉奈ZZ,https://m3u8.cdnpan.com/YGVFn6Lg.m3u8
-SAMA-982] 肉食人妻幹砲轟趴ZZ,https://m3u8.cdnpan.com/7aVdgf3s.m3u8
-AKA-038 變態性交 1 波木遙ZZ,https://m3u8.cdnpan.com/4DFl3YBD.m3u8
-CEAD-129大姐控 7 愛原紗江ZZ,https://m3u8.cdnpan.com/JR5g7EXR.m3u8
-SUPA-108完全初拍素人妹 小葵ZZ,https://m3u8.cdnpan.com/NEFY0ruL.m3u8
-FERA-99 男根誘惑,https://videocdn2.quweikm.com:8091/20181131/FGW4LSA99/1000kb/hls/index.m3u8
-JUFD-415 男根を漁る日焼け妻の誘惑 風間ゆみ,https://videojccdn.wzj9.com:8091/20201007/jufd00415/10000kb/hls/index.m3u8
-MIDE-705 我的男根被巨乳媳婦自己扭腰抽插巨乳持續高潮 水卜櫻,https://bofa.cangtianbfq.com/2020/08/21/htGhEvTNQZo5fQLO/playlist.m3u8
-MIDE-705 我的男根被巨乳媳婦自己扭腰抽插巨乳持續高潮 水卜櫻,http://cdn.mainvyou.com/20191217/G5gipxqf/index.m3u8
-NHDTA-960 癡漢實況影片ZZ,https://m3u8.cdnpan.com/TohXETA5.m3u8
-TMRD-735] 下流整人,https://m3u8.cdnpan.com/A1b2b7DP.m3u8
-VEC-300 朋友的母親 佐倉寧寧ZZ,https://m3u8.cdnpan.com/mfWvHKsx.m3u8
-MIAD-849] 扮裝妹搭上癡漢巴士ZZ,https://m3u8.cdnpan.com/Fd3Ik1gP.m3u8
-MIAD-826] 超敏感美尻精油按摩ZZ,https://m3u8.cdnpan.com/qksjs360.m3u8
-SHKD-735 強姦目標 09 中谷有希ZZ,https://m3u8.cdnpan.com/LL5IHqbv.m3u8
-SHKD-480 老爸不在傢時被逃獄者強奸內射的巨乳女孩佐藤遙希,https://videozm.whqhyg.com:8091/20200510/gAuKhfla/1000kb/hls/index.m3u8
-SHKD-576越獄者薄霧果穗,http://cdn.mainvyou.com/20201112/TO9f113a/index.m3u8
-SHKD-626c-脫獄者 春菜はな,https://videocdn.quweikm.com:8091/20180623/kYYeVoZW/850kb/hls/index.m3u8
-SHKD-676 逃獄者 石原莉奈ZZ,https://m3u8.cdnpan.com/kXFgmHOx.m3u8
-SHKD-700 逃獄者希美真由中文字幕,https://v.oywine.com:8091/zimu/20161030/DJY7ORH700/1/hls/index.m3u8
-SHKD-704 逃獄者 君戶步實中文字幕,https://ginocdn.bybzj.com:8091/zimu/20170406/DOJ6NHY704/1/hls/index.m3u8
-SHKD-714-脫獄者 緒川りお,https://ginocdn.bybzj.com:8091/youma/20180501/SHKD-714/650kb/hls/index.m3u8
-SHKD-723 逃獄者 天海翼ZZ,https://m3u8.cdnpan.com/JrCrWqxW.m3u8
-SHKD-730 逃獄者 希島愛理,https://video.lllwo2o.com:8091/20180501/DBT3JOE730/650kb/hls/index.m3u8
-SHKD-741 逃獄者 香椎梨亞,https://video2.feimanzb.com:8091/20180420/DOE0TKI741/650kb/hls/index.m3u8
-SHKD-750 逃獄者 八神沙織,https://video.feimanzb.com:8091/20180301/DJK0TYU750/650kb/hls/index.m3u8
-SHKD-815 逃獄者高杉麻裡,https://cdn.cangtianbfq.com/2019/12/29/G5rZkBr5XuXMmIyp/playlist.m3u8
-SHKD-821 越獄者 明裡紬,https://videocdn.dlyilian.com:8091/20190401/SH5UIGQ821/1000kb/hls/index.m3u8
-SHKD-822 逃獄者 明裡紬,https://videojccdn.wzj9.com:8091/20200327/fzzfuhTT/1000kb/hls/index.m3u8
-SHKD-833 逃獄者 富田優衣,https://videony.rhsj520.com/20190831/SHKD-833/1500kb/hls/index.m3u8
-SHKD-850 逃獄者 河南實裡 高清版,https://videozm.dlyilian.com/20190731/SHKD-850_HD_CH/1000kb/hls/index.m3u8
-ADN-253越獄者春風光,http://cdn.mainvyou.com/20201022/XnsYZTVB/index.m3u8
-MEYD-025男根的誘惑 佳澄果穗,https://video1.rhsj520.com/nyrm3/nvyou/3kLyscPj/1500kb/hls/index.m3u8
-MEYD-037 上朋友他媽 一條綺美香ZZ,https://m3u8.cdnpan.com/OOarVNWa.m3u8
-MEYD-043 男根の誘い 東凜,https://video1.feimanzb.com:8091/20180131/MEYD-043-C/550kb/hls/index.m3u8
-MEYD-063 隔壁的少妻 東凜ZZ,https://m3u8.cdnpan.com/TP3JXo90.m3u8
-MEYD-122男根的誘惑 円城瞳ZZ,https://m3u8.cdnpan.com/6iIhozCl.m3u8
-MEYD-132男根的誘惑 谷原希美ZZ,https://m3u8.cdnpan.com/PzCON1Gf.m3u8
-MEYD-148男根的誘惑 澀谷果步ZZ,https://m3u8.cdnpan.com/tSbsqLZG.m3u8
-MEYD-167 男根的誘惑 澤村麗子,https://video.lllwo2o.com:8091/20180501/DJO9KRU167/650kb/hls/index.m3u8
-
-日韩风光1_666,#genre#
-HND-552c-純樸笑顔...,http://videocdn.hndtl.com:8091/20190401/HND-552c/index.m3u8
-DVDMS-299c-福岡 博多発！素股の天才,http://videocdn.hndtl.com:8091/20190401/DVDMS-299c/index.m3u8
-GVG-533c-P●A會長生徒會 小西悠,http://videocdn.hndtl.com:8091/20190401/GVG-533c/index.m3u8
-DVDMS-298c-女子○生不能忍耐,http://videocdn.hndtl.com:8091/20190401/DVDMS-298c/index.m3u8
-ABP-771c-有村のぞみ 悶絶10本番！！！,http://videocdn.hndtl.com:8091/20190401/ABP-771c/index.m3u8
-GDHH-116c-絶対彼女...,http://videocdn.hndtl.com:8091/20190401/GDHH-116c/index.m3u8
-DVDMS-296c-人妻自宅の連続射精...,http://videocdn.hndtl.com:8091/20190401/DVDMS-296c/index.m3u8
-ABP-770c-神乳Gcup性感覚醒3本番 ...,http://videocdn.hndtl.com:8091/20190401/ABP-770c/index.m3u8
-GDHH-067c-30歳収入安定...,http://videocdn.hndtl.com:8091/20190401/GDHH-067c/index.m3u8
-DVDMS-295c-一般素人女子大生...,http://videocdn.hndtl.com:8091/20190401/DVDMS-295c/index.m3u8
-ABP-768c-人妻 裡美ゆりあ 人妻妄想性活4 WIFE.01,http://videocdn.hndtl.com:8091/20190401/ABP-768c/index.m3u8
-FSET-783c-無防備二人の密室...,http://videocdn.hndtl.com:8091/20190401/FSET-783c/index.m3u8
-DASD-454c-先生。 富田優衣,http://videocdn.hndtl.com:8091/20190401/DASD-454c/index.m3u8
-ABP-766c-絶対的完全主観！！！藤江史帆,http://videocdn.hndtl.com:8091/20190401/ABP-766c/index.m3u8
-EMAZ-363c-夫同伴のAV出演2 みずき,http://videocdn.hndtl.com:8091/20190401/EMAZ-363c/index.m3u8
-DANDY-619c-探望隔壁来的新娘.,http://videocdn.hndtl.com:8091/20190401/DANDY-619c/index.m3u8
-VOSS-103c-謝罪の母親...,http://videocdn.hndtl.com:8091/20190131/VOSS-103c/index.m3u8
-EIKI-079Bc-夜這中出寢顔...,http://videocdn.hndtl.com:8091/20190401/EIKI-079Bc/index.m3u8
-CHN-160c-新素人娘、仮名）瀬良エマ（咖啡厅店員）22歳。,http://videocdn.hndtl.com:8091/20190401/CHN-160c/index.m3u8
-VENU-805c-最高の乳首近親性交～母の敏感美乳首...,http://videocdn.hndtl.com:8091/20190131/VENU-805c/index.m3u8
-EIKI-079Ac-中出寢顔...,http://videocdn.hndtl.com:8091/20190401/EIKI-079Ac/index.m3u8
-CESD-433c-禁欲10日目の媚薬12 麻生希,http://videocdn.hndtl.com:8091/20190401/CESD-433c/index.m3u8
-XRW-541c-溫泉 一泊二日！ 宮川ありさ,http://videocdn.hndtl.com:8091/20190131/XRW-541c/index.m3u8
-EIKI-078c-愛娘傢庭教師寢取...,http://videocdn.hndtl.com:8091/20190401/EIKI-078c/index.m3u8
-BF-551c-誘惑中出傢政婦 篠田ゆう,http://videocdn.hndtl.com:8091/20190401/BF-551c/index.m3u8
-WANZ-659c-浮気中出亂交...,http://videocdn.hndtl.com:8091/20190131/WANZ-659c/index.m3u8
-AKA-043c-真面目女子覚醒 坂內裡奈,http://videocdn.hndtl.com:8091/20190401/AKA-043c/index.m3u8
-VOSS-104c-大好叔母...,http://videocdn.hndtl.com:8091/20190131/VOSS-104c/index.m3u8
-XRW-544c-夫の5回中出若奧様 みおさん 君島みお,http://videocdn.hndtl.com:8091/20190131/XRW-544c/index.m3u8
-XVSR-261c-人妻の秘密 愛の儀式 長瀬麻美,http://videocdn.hndtl.com:8091/20190131/XVSR-261c/index.m3u8
-XRW-542c-美女の卑猥中出SEX 一二三鈴,http://videocdn.hndtl.com:8091/20190131/XRW-542c/index.m3u8
-TOEN-07c-彼女の母親 田中れいみ,http://videocdn.hndtl.com:8091/20190131/TOEN-07c/index.m3u8
-XVSR-407c-現役聲優の人生初！生中出SEX密著！！ 美月まい,http://videocdn.hndtl.com:8091/20190131/XVSR-407c/index.m3u8
-TMHP-090c-兴奋的女人们,http://videocdn.hndtl.com:8091/20190131/TMHP-090c/index.m3u8
-XVSR-406c-蕓能人 衝撃真性中出SEX 藤原小夜,http://videocdn.hndtl.com:8091/20190131/XVSR-406c/index.m3u8
-TMHP-089c-同人的女孩,http://videocdn.hndtl.com:8091/20190131/TMHP-089c/index.m3u8
-XVSR-405c-FEROSEX 友田彩也香,http://videocdn.hndtl.com:8091/20190131/XVSR-405c/index.m3u8
-TMEM-101c-爆乳淫亂彼女,http://videocdn.hndtl.com:8091/20190131/TMEM-101c/index.m3u8
-XVSR-411c-中出！ 浜崎真緒,http://videocdn.hndtl.com:8091/20190131/XVSR-411c/index.m3u8
-SW-575c-出汗了，拜托了,http://videocdn.hndtl.com:8091/20190131/SW-575c/index.m3u8
-XVSR-410c-朝晩隠語SEX 長瀬麻美,http://videocdn.hndtl.com:8091/20190131/XVSR-410c/index.m3u8
-SVDVD-679c-體育大學の女子大生妊娠,http://videocdn.hndtl.com:8091/20190131/SVDVD-679c/index.m3u8
-XVSR-409c-奉仕美少女 有花もえ,http://videocdn.hndtl.com:8091/20190131/XVSR-409c/index.m3u8
-STAR-959c-竹田ゆめ 妊娠淫語 子宮中出SEX,http://videocdn.hndtl.com:8091/20190131/STAR-959c/index.m3u8
-VENU-803c-嫁の姉の1泊2日 川上ゆう,http://videocdn.hndtl.com:8091/20190131/VENU-803c/index.m3u8
-STAR-955c-青山希愛 超大量潮吹 5600cc,http://videocdn.hndtl.com:8091/20190131/STAR-955c/index.m3u8
-TRUM-014c-浮気相手の肉體労働者...,http://videocdn.hndtl.com:8091/20190131/TRUM-014c/index.m3u8
-STAR-954c-唯井まひろ 學園生活,http://videocdn.hndtl.com:8091/20190131/STAR-954c/index.m3u8
-STAR-953c-性欲強 小倉由菜,http://videocdn.hndtl.com:8091/20190131/STAR-953c/index.m3u8
-STAR-952c-超密著！ 天真爛漫 桐谷まつり,http://videocdn.hndtl.com:8091/20190131/STAR-952c/index.m3u8
-STAR-951c-市川まさみ 600時間禁欲...,http://videocdn.hndtl.com:8091/20190131/STAR-951c/index.m3u8
-SDNM-157c-変態嗜好。 宮園さゆり 32歳 第2章...,http://videocdn.hndtl.com:8091/20190131/SDNM-157c/index.m3u8
-STAR-950c-飛鳥りん 精子全部飲。,http://videocdn.hndtl.com:8091/20190131/STAR-950c/index.m3u8
-SDMU-862c-OL癡漢...,http://videocdn.hndtl.com:8091/20190131/SDMU-862c/index.m3u8
-RCTD-139c-友達同士の男女癡女體験2,http://videocdn.hndtl.com:8091/20190131/RCTD-139c/index.m3u8
-STAR-949c-古川いおり 超敏感絶頂SEX,http://videocdn.hndtl.com:8091/20190131/STAR-949c/index.m3u8
-SDDE-548c-「常性交」比基尼按摩 7,http://videocdn.hndtl.com:8091/20190131/SDDE-548c/index.m3u8
-RCTD-137c-親子近親相姦大亂交,http://videocdn.hndtl.com:8091/20190131/RCTD-137c/index.m3u8
-SSNI-284c-爆発痙攣...,http://videocdn.hndtl.com:8091/20190131/SSNI-284c/index.m3u8
-SDAB-066c-保護欲童顔巨乳 ...,http://videocdn.hndtl.com:8091/20190131/SDAB-066c/index.m3u8
-RBD-911c-奴隷色41,http://videocdn.hndtl.com:8091/20190131/RBD-911c/index.m3u8
-SSNI-281c-毫不留情絶頂,http://videocdn.hndtl.com:8091/20190131/SSNI-281c/index.m3u8
-SDAB-065c-J○校內癡漢強制絶頂 橋本菜都,http://videocdn.hndtl.com:8091/20190131/SDAB-065c/index.m3u8
-PRTD-018c-囮捜査官潛入中出し編- 三田杏,http://videocdn.hndtl.com:8091/20190131/PRTD-018c/index.m3u8
-SNTH-019c-SEX隠撮 する23,http://videocdn.hndtl.com:8091/20190131/SNTH-019c/index.m3u8
-SCPX-292c-友人の上腰...,http://videocdn.hndtl.com:8091/20190131/SCPX-292c/index.m3u8
-PRED-101c-背後癡漢開発巨乳女子大生 相沢夏帆,http://videocdn.hndtl.com:8091/20190131/PRED-101c/index.m3u8
-SNIS-985c-新歓NTR 爆乳の幼馴染,http://videocdn.hndtl.com:8091/20190131/SNIS-985c/index.m3u8
-RUKO-012c-狙兄嫁,http://videocdn.hndtl.com:8091/20190131/RUKO-012c/index.m3u8
-PRED-100c-筆下専門中出小悪魔 神谷充希,http://videocdn.hndtl.com:8091/20190131/PRED-100c/index.m3u8
-SNIS-974c-新米教師の輪姦合宿。 吉沢明歩,http://videocdn.hndtl.com:8091/20190131/SNIS-974c/index.m3u8
-RKI-473c-一番 篠田ゆう...,http://videocdn.hndtl.com:8091/20190131/RKI-473c/index.m3u8
-PRED-099c-誘惑美尻逢花先生 山岸逢花,http://videocdn.hndtl.com:8091/20190131/PRED-099c/index.m3u8
-SDNM-158c-不貞。 倉田恵 34歳 最終章...,http://videocdn.hndtl.com:8091/20190131/SDNM-158c/index.m3u8
-RD-889c-素人妻面接中,http://videocdn.hndtl.com:8091/20190131/RD-889c/index.m3u8
-PRED-098c-早漏解禁中出大絶顶...,http://videocdn.hndtl.com:8091/20190131/PRED-098c/index.m3u8
-RCTD-140c-専用瞬間記,http://videocdn.hndtl.com:8091/20190131/RCTD-140c/index.m3u8
-PRED-096c-同窓會NTR 浮気中出し映像～ 麻倉憂,http://videocdn.hndtl.com:8091/20190131/PRED-096c/index.m3u8
-PPPD-691c-女子大生の勝負下著監禁中出 相沢夏帆,http://videocdn.hndtl.com:8091/20190131/PPPD-691c/index.m3u8
-PPPD-689c-彼女のお姉巨乳中出誘惑 八乃つばさ,http://videocdn.hndtl.com:8091/20190131/PPPD-689c/index.m3u8
-PPPD-694c-Gcup巨乳店員婚約中,http://videocdn.hndtl.com:8091/20190131/PPPD-694c/index.m3u8
-NHDTB-166c-膣痙攣振動部..,http://videocdn.hndtl.com:8091/20190131/NHDTB-166c/index.m3u8
-PPPD-688c-密著SEX 爆乳O罩杯快感射精 Hitomi,http://videocdn.hndtl.com:8091/20190131/PPPD-688c/index.m3u8
-MVSD-360c-時間停止 援交娘中出 有坂深雪,http://videocdn.hndtl.com:8091/20190131/MVSD-360c/index.m3u8
-OFKU-091c-地方の工作的女士  戸澤佳子51歳,http://videocdn.hndtl.com:8091/20190131/OFKU-091c/index.m3u8
-MVSD-358c-全身固定強制3穴...,http://videocdn.hndtl.com:8091/20190131/MVSD-358c/index.m3u8
-OFKU-090c-磐田から…爆乳義母 冴島加戀 44歳,http://videocdn.hndtl.com:8091/20190131/OFKU-090c/index.m3u8
-MUDR-049c- 向井藍,http://videocdn.hndtl.com:8091/20190131/MUDR-049c/index.m3u8
-OBA-374c-真面目友達の母...,http://videocdn.hndtl.com:8091/20190131/OBA-374c/index.m3u8
-MUDR-048c-無垢『部活編』 腹筋の女子野球部少女 中出 平手茜,http://videocdn.hndtl.com:8091/20190131/MUDR-048c/index.m3u8
-NKKD-099c-NTR3 車載,http://videocdn.hndtl.com:8091/20190131/NKKD-099c/index.m3u8
-MUDR-047c-俺姪理由 麻裡梨夏,http://videocdn.hndtl.com:8091/20190131/MUDR-047c/index.m3u8
-NKKD-097c-泥酔BBQNTR 妻の會社18,http://videocdn.hndtl.com:8091/20190131/NKKD-097c/index.m3u8
-MRSS-058c-僕の愛妻寢取...,http://videocdn.hndtl.com:8091/20190131/MRSS-058c/index.m3u8
-NHDTB-169c-癡漢師美乳女,http://videocdn.hndtl.com:8091/20190131/NHDTB-169c/index.m3u8
-MOKO-007c-人妻生保契約,http://videocdn.hndtl.com:8091/20190131/MOKO-007c/index.m3u8
-NHDTB-168c-背後唾液手淫,http://videocdn.hndtl.com:8091/20190131/NHDTB-168c/index.m3u8
-MMYM-023c-卑猥語女 滝本エレナ,http://videocdn.hndtl.com:8091/20190131/MMYM-023c/index.m3u8
-MIST-225c-生中出。 海空花 松田真奈,http://videocdn.hndtl.com:8091/20190131/MIST-225c/index.m3u8
-MIST-224c-素人人妻派遣完全盜撮 葵百合香,http://videocdn.hndtl.com:8091/20190131/MIST-224c/index.m3u8
-MIST-223c-不做的J○refresa店的女孩子,http://videocdn.hndtl.com:8091/20190131/MIST-223c/index.m3u8
-MIAE-294c-我傢の巨乳娘性欲強親父...,http://videocdn.hndtl.com:8091/20190131/MIAE-294c/index.m3u8
-MIFD-052c-普通の學生 河合ののか,http://videocdn.hndtl.com:8091/20190131/MIFD-052c/index.m3u8
-JUY-596c-人妻介護 飯倉芽衣,http://videocdn.hndtl.com:8091/20190131/JUY-596c/index.m3u8
-JUY-582c-人妻 相原結衣 32歳,http://videocdn.hndtl.com:8091/20190131/JUY-582c/index.m3u8
-MIFD-051c-AV非常喜欢的哥哥制作自满过敏的妹妹,http://videocdn.hndtl.com:8091/20190131/MIFD-051c/index.m3u8
-JUY-595c-天然誘惑息子の嫁 南あや,http://videocdn.hndtl.com:8091/20190131/JUY-595c/index.m3u8
-JUY-581c-15周年記念大作 第1弾！！ 大型専屬W初共演！！ 逆3P,http://videocdn.hndtl.com:8091/20190131/JUY-581c/index.m3u8
-MIDE-576c-让人心情舒畅的追击口交 くん つぼみ,http://videocdn.hndtl.com:8091/20190131/MIDE-576c/index.m3u8
-JUY-593c-对于我来说，  壇えみ,http://videocdn.hndtl.com:8091/20190131/JUY-593c/index.m3u8
-JUFD-958c-下品癡女の肉尻性交 ...,http://videocdn.hndtl.com:8091/20190131/JUFD-958c/index.m3u8
-MIDE-575c-乳感度上昇 高橋しょう子,http://videocdn.hndtl.com:8091/20190131/MIDE-575c/index.m3u8
-JUY-589c-妻子被别人抱着～ 一ノ瀬梓,http://videocdn.hndtl.com:8091/20190131/JUY-589c/index.m3u8
-JUFD-957c-痙攣性交 君島みお 巨乳秘書..,http://videocdn.hndtl.com:8091/20190131/JUFD-957c/index.m3u8
-MIDE-574c-超密著慢焦癡女 初川みなみ,http://videocdn.hndtl.com:8091/20190131/MIDE-574c/index.m3u8
-JUY-588c-童貞青年人妻 大島優香,http://videocdn.hndtl.com:8091/20190131/JUY-588c/index.m3u8
-JUFD-956c-密著唾液癡女 星奈あい,http://videocdn.hndtl.com:8091/20190131/JUFD-956c/index.m3u8
-MIDE-573Bc-現役女子大生19歳AV 二宮ひかり,http://videocdn.hndtl.com:8091/20190131/MIDE-573Bc/index.m3u8
-JUY-587c-工藤まなみ 緊縛解禁！ 緊縛人妻,http://videocdn.hndtl.com:8091/20190131/JUY-587c/index.m3u8
-JUFD-955Bc-本番中出爆乳...,http://videocdn.hndtl.com:8091/20190131/JUFD-955Bc/index.m3u8
-MIDE-573Ac-現役女子大生19歳AV 二宮ひかり,http://videocdn.hndtl.com:8091/20190131/MIDE-573Ac/index.m3u8
-JUY-586c-人妻女教師癡漢電車 ～ 友田真希,http://videocdn.hndtl.com:8091/20190131/JUY-586c/index.m3u8
-JUFD-955Ac-本番中出爆乳...,http://videocdn.hndtl.com:8091/20190131/JUFD-955Ac/index.m3u8
-MIAE-299c-W癡女連射！！ AIKA,http://videocdn.hndtl.com:8091/20190131/MIAE-299c/index.m3u8
-JUY-585c-今日夫人。 白木優子,http://videocdn.hndtl.com:8091/20190131/JUY-585c/index.m3u8
-JUFD-950c-介護士緊縛奴隷 ～爆乳麻縄調教～ 寶田もなみ,http://videocdn.hndtl.com:8091/20190131/JUFD-950c/index.m3u8
-JUY-583c-清秀的牛郎,http://videocdn.hndtl.com:8091/20190131/JUY-583c/index.m3u8
-JUFD-949c-猛烈騎乗位 尻女上司 加瀬かなこ,http://videocdn.hndtl.com:8091/20190131/JUFD-949c/index.m3u8
-JUFD-776c-淫語中出 藤咲エレン,http://videocdn.hndtl.com:8091/20190131/JUFD-776c/index.m3u8
-JUFD-781c-子宮疼女教師連続中出強制勃起 香椎りあ,http://videocdn.hndtl.com:8091/20190131/JUFD-781c/index.m3u8
-IPZ-996c-SEX怒濤の3本番,http://videocdn.hndtl.com:8091/20190131/IPZ-996c/index.m3u8
-HUSR-146c-120cmL罩杯西洋の美魔女,http://videocdn.hndtl.com:8091/20190131/HUSR-146c/index.m3u8
-IPX-200c-連射約束,http://videocdn.hndtl.com:8091/20190131/IPX-200c/index.m3u8
-HTMS-119c-弄脏的乳房（おっぱい）,http://videocdn.hndtl.com:8091/20190131/HTMS-119c/index.m3u8
-IPX-194c-BODY大痙攣絶顶..,http://videocdn.hndtl.com:8091/20190131/IPX-194c/index.m3u8
-HOMA-021c-美人大傢催眠術中出共同生活。 清城ゆき,http://videocdn.hndtl.com:8091/20190131/HOMA-021c/index.m3u8
-IML-011c-母娘二世代同時寢取,http://videocdn.hndtl.com:8091/20190131/IML-011c/index.m3u8
-HND-559c-彼女の妹性活 巖瀬りな,http://videocdn.hndtl.com:8091/20190131/HND-559c/index.m3u8
-IENE-920c-高杉麻裡 朝晩中出33,http://videocdn.hndtl.com:8091/20190131/IENE-920c/index.m3u8
-HND-558c-絶対妊娠！中出しSEX！ 三田杏,http://videocdn.hndtl.com:8091/20190131/HND-558c/index.m3u8
-IENE-916c-真面目堅義母の誘惑...,http://videocdn.hndtl.com:8091/20190131/IENE-916c/index.m3u8
-HND-557c-聲出中出OL,http://videocdn.hndtl.com:8091/20190131/HND-557c/index.m3u8
-IANF-026c-因果応報！彼女..,http://videocdn.hndtl.com:8091/20190131/IANF-026c/index.m3u8
-HND-553c-文系妻...,http://videocdn.hndtl.com:8091/20190131/HND-553c/index.m3u8
-HUSR-149c-妹弟…変態兄妹...,http://videocdn.hndtl.com:8091/20190131/HUSR-149c/index.m3u8
-HND-550c- 60日間禁欲大痙攣中出3本番絶頂267回..,http://videocdn.hndtl.com:8091/20190131/HND-550c/index.m3u8
-HUSR-147c-美褐色の黒人美女,http://videocdn.hndtl.com:8091/20190131/HUSR-147c/index.m3u8
-HAWA-149c-素人妻一般黒人留學生の自宅...,http://videocdn.hndtl.com:8091/20190131/HAWA-149c/index.m3u8
-GIGL-518Bc-主人秘密浮気妻...,http://videocdn.hndtl.com:8091/20190131/GIGL-518Bc/index.m3u8
-GIGL-518Ac-主人浮気妻...,http://videocdn.hndtl.com:8091/20190131/GIGL-518Ac/index.m3u8
-GIGL-517c-人妻中出発射,http://videocdn.hndtl.com:8091/20190131/GIGL-517c/index.m3u8
-DVDMS-299c-福岡博多発！素股の天才,http://videocdn.hndtl.com:8091/20190131/DVDMS-299c/index.m3u8
-GDHH-116c-絶対彼女...,http://videocdn.hndtl.com:8091/20190131/GDHH-116c/index.m3u8
-DVDMS-298c-女子○生の尻...,http://videocdn.hndtl.com:8091/20190131/DVDMS-298c/index.m3u8
-CLUB-498c-把巨乳按摩师带回家。,http://videocdn.hndtl.com:8091/20190131/CLUB-498c/index.m3u8
-GDHH-115Bc-転校學校...,http://videocdn.hndtl.com:8091/20190131/GDHH-115Bc/index.m3u8
-DVDMS-296c-人妻自宅1発10萬円の連続射精筆お...,http://videocdn.hndtl.com:8091/20190131/DVDMS-296c/index.m3u8
-CLUB-497Bc-會社の上司同僚...,http://videocdn.hndtl.com:8091/20190131/CLUB-497Bc/index.m3u8
-GDHH-115Ac-転校學校...,http://videocdn.hndtl.com:8091/20190131/GDHH-115Ac/index.m3u8
-DIC-052c-普通の女の子密著！ 天然爆乳G罩杯...,http://videocdn.hndtl.com:8091/20190131/DIC-052c/index.m3u8
-CLUB-497Ac-會社の上司同僚...,http://videocdn.hndtl.com:8091/20190131/CLUB-497Ac/index.m3u8
-FUFU-159c-美人の內向的妻…180分,http://videocdn.hndtl.com:8091/20190131/FUFU-159c/index.m3u8
-DASD-452c-復活。天然美少女 椎名そら,http://videocdn.hndtl.com:8091/20190131/DASD-452c/index.m3u8
-CLUB-494Bc-人妻回春 中出交渉盜撮,http://videocdn.hndtl.com:8091/20190131/CLUB-494Bc/index.m3u8
-FUFU-158c-実録10歳年上の妻...,http://videocdn.hndtl.com:8091/20190131/FUFU-158c/index.m3u8
-DASD-451c-自宅の寢室。 美保結衣,http://videocdn.hndtl.com:8091/20190131/DASD-451c/index.m3u8
-CLUB-494Ac-人妻回春中出交渉盜撮,http://videocdn.hndtl.com:8091/20190131/CLUB-494Ac/index.m3u8
-EKDV-496c-AV女優。淺田結梨,http://videocdn.hndtl.com:8091/20190131/EKDV-496c/index.m3u8
-DASD-450c-癡女。りあ 禦坂りあ,http://videocdn.hndtl.com:8091/20190131/DASD-450c/index.m3u8
-CJOD-156c-先生の誘惑！ 高杉麻裡,http://videocdn.hndtl.com:8091/20190131/CJOD-156c/index.m3u8
-EIKI-079Bc-夜這中出寢顔...,http://videocdn.hndtl.com:8091/20190131/EIKI-079Bc/index.m3u8
-DASD-449c-素顔丸出一泊旅行。,http://videocdn.hndtl.com:8091/20190131/DASD-449c/index.m3u8
-CJOD-155c-聖水 波多野結衣,http://videocdn.hndtl.com:8091/20190131/CJOD-155c/index.m3u8
-EIKI-079Ac-寢子夜這中出...,http://videocdn.hndtl.com:8091/20190131/EIKI-079Ac/index.m3u8
-DANDY-619c-挑発若妻...,http://videocdn.hndtl.com:8091/20190131/DANDY-619c/index.m3u8
-CJOD-154c-路地裏拘束の巨乳お姉,http://videocdn.hndtl.com:8091/20190131/CJOD-154c/index.m3u8
-CMI-116c-極映像 人妻23人目,http://videocdn.hndtl.com:8091/20190131/CMI-116c/index.m3u8
-CJOD-153c-時間無制限！発射無制限！M男専用超高級中出淫語プ 八乃つばさ,http://videocdn.hndtl.com:8091/20190131/CJOD-153c/index.m3u8
-CAND-176c-鬱勃起 FX地元の後輩,http://videocdn.hndtl.com:8091/20190131/CAND-176c/index.m3u8
-CHN-159c-新 絶対的美少女、有原あゆみ（AV女優）25歳。,http://videocdn.hndtl.com:8091/20190131/CHN-159c/index.m3u8
-BSY-014c-自慢のBODY溫泉 羽生ありさ,http://videocdn.hndtl.com:8091/20190131/BSY-014c/index.m3u8
-ADN-181c-夫の目の前侵犯妻 柳みゆう,http://videocdn.hndtl.com:8091/20190131/ADN-181c/index.m3u8
-BIJN-138c-母乳巨乳人妻の欲求不満淫亂濃厚精液連続中出SEX！ ...,http://videocdn.hndtl.com:8091/20190131/BIJN-138c/index.m3u8
-ABP-765c-人生初狀態絶頂,http://videocdn.hndtl.com:8091/20190131/ABP-765c/index.m3u8
-ATID-312c-人妻NTR  松永さな,http://videocdn.hndtl.com:8091/20190131/ATID-312c/index.m3u8
-WANZ-787c-射精痙攣...,http://videocdn.hndtl.com:8091/20181120/WANZ-787c/index.m3u8
-ATID-311c-証券 神咲詩織,http://videocdn.hndtl.com:8091/20190131/ATID-311c/index.m3u8
-WANZ-786c-時間停止10連続中出し！,http://videocdn.hndtl.com:8091/20181120/WANZ-786c/index.m3u8
-AP-574c-絶倫少年 美乳義妹連続中出癡漢,http://videocdn.hndtl.com:8091/20190131/AP-574c/index.m3u8
-WANZ-789c-朝はすっご媚薬...,http://videocdn.hndtl.com:8091/20181120/WANZ-789c/index.m3u8
-AKA-062c-美人OL！特濃精子20発,http://videocdn.hndtl.com:8091/20190131/AKA-062c/index.m3u8
-WANZ-788c-251発の媚薬濃縮精液註入 佐々木あき,http://videocdn.hndtl.com:8091/20181120/WANZ-788c/index.m3u8
-ADN-184c-夏の姦係 希崎ジェシカ,http://videocdn.hndtl.com:8091/20190131/ADN-184c/index.m3u8
-WANZ-792c-妊娠OK！！不倫人妻 JULIA,http://videocdn.hndtl.com:8091/20181120/WANZ-792c/index.m3u8
-ADN-183c-女教師 姦禁教室 柚月ひまわり,http://videocdn.hndtl.com:8091/20190131/ADN-183c/index.m3u8
-WANZ-791c-乳首絶頂 有坂深雪,http://videocdn.hndtl.com:8091/20181120/WANZ-791c/index.m3u8
-ADN-182c-想要被你爱。 霧島さくら,http://videocdn.hndtl.com:8091/20190131/ADN-182c/index.m3u8
-WANZ-790c-彼女のお姉追撃中出...,http://videocdn.hndtl.com:8091/20181120/WANZ-790c/index.m3u8
-WANZ-785c-義父夜這… 三田杏,http://videocdn.hndtl.com:8091/20181120/WANZ-785c/index.m3u8
-WANZ-784c-淒生★中出SEX！ 佳苗るか,http://videocdn.hndtl.com:8091/20181120/WANZ-784c/index.m3u8
-URE-044c-話題の背徳NTR同人作傢原作の人気作品忠実実寫化人妻...,http://videocdn.hndtl.com:8091/20181120/URE-044c/index.m3u8
-STAR-960c-最高可愛加藤ももか近親相姦生活,http://videocdn.hndtl.com:8091/20181120/STAR-960c/index.m3u8
-YRH-168Bc-婚活女子×PRESTIGE PREMIUM 02,http://videocdn.hndtl.com:8091/20181120/YRH-168Bc/index.m3u8
-STAR-958c-榎本美咲 SNS得體の粘著,http://videocdn.hndtl.com:8091/20181120/STAR-958c/index.m3u8
-SSNI-297c-癡女美少女,http://videocdn.hndtl.com:8091/20181120/SSNI-297c/index.m3u8
-YRH-168Ac-婚活女子×PRESTIGE PREMIUM 02,http://videocdn.hndtl.com:8091/20181120/YRH-168Ac/index.m3u8
-STAR-875Bc-桐谷まつり,http://videocdn.hndtl.com:8091/20181120/STAR-875Bc/index.m3u8
-SSNI-296c-巨乳制服少女 初の本格凌辱作品！！,http://videocdn.hndtl.com:8091/20181120/SSNI-296c/index.m3u8
-WANZ-793c-黒人英會話NTR 紗々原ゆり,http://videocdn.hndtl.com:8091/20181120/WANZ-793c/index.m3u8
-STAR-875Ac- 桐谷まつり,http://videocdn.hndtl.com:8091/20181120/STAR-875Ac/index.m3u8
-SSNI-295c-夏の約束お姉.,http://videocdn.hndtl.com:8091/20181120/SSNI-295c/index.m3u8
-TSP-404c-故人の三回忌 未亡人妻,http://videocdn.hndtl.com:8091/20181120/TSP-404c/index.m3u8
-SSNI-294c-週5日間通勤電車巨乳人妻 奧田咲,http://videocdn.hndtl.com:8091/20181120/SSNI-294c/index.m3u8
-TNB-020c-出會若妻桐谷なぎさ（23歳）...,http://videocdn.hndtl.com:8091/20181120/TNB-020c/index.m3u8
-SSNI-293c-直後追撃 小島みなみ,http://videocdn.hndtl.com:8091/20181120/SSNI-293c/index.m3u8
-STAR-965c-戸田真琴 最大身長差30cm以上最大體重差60kg以上,http://videocdn.hndtl.com:8091/20181120/STAR-965c/index.m3u8
-SSNI-292c-最近下半身...,http://videocdn.hndtl.com:8091/20181120/SSNI-292c/index.m3u8
-STAR-964c-紗倉まな 結婚式最中の新郎強制中出美人,http://videocdn.hndtl.com:8091/20181120/STAR-964c/index.m3u8
-SSNI-300c-大絶頂3本番 初乃ふみか,http://videocdn.hndtl.com:8091/20181120/SSNI-300c/index.m3u8
-SSNI-291c-嗚咽追撃FUCK14連発 ...,http://videocdn.hndtl.com:8091/20181120/SSNI-291c/index.m3u8
-STAR-962c-白石茉莉奈 不貞中出妻,http://videocdn.hndtl.com:8091/20181120/STAR-962c/index.m3u8
-SSNI-299c-體液、濃密 音あずさ,http://videocdn.hndtl.com:8091/20181120/SSNI-299c/index.m3u8
-SSNI-290c-粘著集団輪姦ー RION,http://videocdn.hndtl.com:8091/20181120/SSNI-290c/index.m3u8
-SSNI-298c-AV業界No.1 あやみ旬果,http://videocdn.hndtl.com:8091/20181120/SSNI-298c/index.m3u8
-SHKD-809c-顧問教師の凌辱 川上奈々美,http://videocdn.hndtl.com:8091/20181120/SHKD-809c/index.m3u8
-SHKD-807c-証券監査員の女 夏目彩春,http://videocdn.hndtl.com:8091/20181120/SHKD-807c/index.m3u8
-SHKD-808c-捜査官 松下紗栄子,http://videocdn.hndtl.com:8091/20181120/SHKD-808c/index.m3u8
-SHKD-806c-絶対女子大生編 樞木あおい,http://videocdn.hndtl.com:8091/20181120/SHKD-806c/index.m3u8
-SCPX-295c-姉の入浴...,http://videocdn.hndtl.com:8091/20181120/SCPX-295c/index.m3u8
-SGSR-217c-病院…25時～28時限定,http://videocdn.hndtl.com:8091/20181120/SGSR-217c/index.m3u8
-SCPX-294Bc-個人的出來事,http://videocdn.hndtl.com:8091/20181120/SCPX-294Bc/index.m3u8
-SGA-117c-最高の愛人、最高の中出性交。 31 天然G罩杯柔乳美女,http://videocdn.hndtl.com:8091/20181120/SGA-117c/index.m3u8
-SCPX-294Ac-個人的出來事,http://videocdn.hndtl.com:8091/20181120/SCPX-294Ac/index.m3u8
-SDNM-159c-山口菜穂 38歳 第4章 ...,http://videocdn.hndtl.com:8091/20181120/SDNM-159c/index.m3u8
-SABA-452Bc-旦那発狂,http://videocdn.hndtl.com:8091/20181120/SABA-452Bc/index.m3u8
-SDMU-869c-SOD癡漢通勤電車,http://videocdn.hndtl.com:8091/20181120/SDMU-869c/index.m3u8
-SABA-452Ac-旦那発狂,http://videocdn.hndtl.com:8091/20181120/SABA-452Ac/index.m3u8
-SDMU-867c-癡漢願望書店員...,http://videocdn.hndtl.com:8091/20181120/SDMU-867c/index.m3u8
-RD-891c-喪服の五十路未亡人,http://videocdn.hndtl.com:8091/20181120/RD-891c/index.m3u8
-SDMU-865c-男性30分間SOD女子社員...,http://videocdn.hndtl.com:8091/20181120/SDMU-865c/index.m3u8
-POST-456c-高偏差値！令嬢女子大生撮影...,http://videocdn.hndtl.com:8091/20181120/POST-456c/index.m3u8
-SDEN-034c-自宅4人の美少女突撃...,http://videocdn.hndtl.com:8091/20181120/SDEN-034c/index.m3u8
-POST-455c-夏の盆踴...,http://videocdn.hndtl.com:8091/20181120/POST-455c/index.m3u8
-SDDE-549c-貴方専用奉仕,http://videocdn.hndtl.com:8091/20181120/SDDE-549c/index.m3u8
-POST-454c-彼女の誕生招待...,http://videocdn.hndtl.com:8091/20181120/POST-454c/index.m3u8
-POST-453c-壽退社彼女の上司,http://videocdn.hndtl.com:8091/20181120/POST-453c/index.m3u8
-OKAX-412Bc-傢族鬼畜近親相姦映像240分,http://videocdn.hndtl.com:8091/20181120/OKAX-412Bc/index.m3u8
-OKAX-412Ac-傢族鬼畜近親相姦映像240分,http://videocdn.hndtl.com:8091/20181120/OKAX-412Ac/index.m3u8
-MUDR-050c-実寫版 南梨央奈,http://videocdn.hndtl.com:8091/20181120/MUDR-050c/index.m3u8
-NNPJ-296c-在都内的街上找到了最强的搭档！,http://videocdn.hndtl.com:8091/20181120/NNPJ-296c/index.m3u8
-MISM-104c-おじさんの寶物にしてください。 肛門がなんだかムズムズするんです。お尻の穴...,http://videocdn.hndtl.com:8091/20181120/MISM-104c/index.m3u8
-MIAE-304c-寢取 篠田ゆう,http://videocdn.hndtl.com:8091/20181120/MIAE-304c/index.m3u8
-NKKD-098c-観戦中僕の彼女,http://videocdn.hndtl.com:8091/20181120/NKKD-098c/index.m3u8
-MISM-102c-清楚系の艺人,http://videocdn.hndtl.com:8091/20181120/MISM-102c/index.m3u8
-MIAE-303c-女子活性...,http://videocdn.hndtl.com:8091/20181120/MIAE-303c/index.m3u8
-NASS-910c-【閲覧註意】た炎上動畫勝手発売...,http://videocdn.hndtl.com:8091/20181120/NASS-910c/index.m3u8
-MIFD-053c-工業校出身超敏感A罩杯美少女,http://videocdn.hndtl.com:8091/20181120/MIFD-053c/index.m3u8
-MIAE-302c-吸引 妃月るい,http://videocdn.hndtl.com:8091/20181120/MIAE-302c/index.m3u8
-NASS-905c-濃厚密著工作女の日常,http://videocdn.hndtl.com:8091/20181120/NASS-905c/index.m3u8
-MIDE-580c-追撃絶頂！美乳Gcup,http://videocdn.hndtl.com:8091/20181120/MIDE-580c/index.m3u8
-MIAE-301c-人気No.1聲優激似竹○彩○,http://videocdn.hndtl.com:8091/20181120/MIAE-301c/index.m3u8
-NASS-904Bc-夜這人妻,http://videocdn.hndtl.com:8091/20181120/NASS-904Bc/index.m3u8
-MIDE-579c-性欲のお姉。 伊東ちなみ,http://videocdn.hndtl.com:8091/20181120/MIDE-579c/index.m3u8
-MIAE-297c-絶頂 高杉麻裡,http://videocdn.hndtl.com:8091/20181120/MIAE-297c/index.m3u8
-NASS-904Ac-夜這人妻,http://videocdn.hndtl.com:8091/20181120/NASS-904Ac/index.m3u8
-MIDE-578c-痙攣性感開発 七沢みあ,http://videocdn.hndtl.com:8091/20181120/MIDE-578c/index.m3u8
-MIAE-296c-青春記録。 神宮寺ナオ,http://videocdn.hndtl.com:8091/20181120/MIAE-296c/index.m3u8
-NASS-903Bc-密著義母絶頂,http://videocdn.hndtl.com:8091/20181120/NASS-903Bc/index.m3u8
-MIAE-307c-女教師の誘惑絶対領域 波多野結衣,http://videocdn.hndtl.com:8091/20181120/MIAE-307c/index.m3u8
-MIAE-295c-お姉 阿由葉あみ,http://videocdn.hndtl.com:8091/20181120/MIAE-295c/index.m3u8
-NASS-903Ac-義母絶頂,http://videocdn.hndtl.com:8091/20181120/NASS-903Ac/index.m3u8
-MIAE-306c-我傢の無邪気乳首 相沢夏帆,http://videocdn.hndtl.com:8091/20181120/MIAE-306c/index.m3u8
-MEYD-421c-追撃巨乳妻 寶生リリー,http://videocdn.hndtl.com:8091/20181120/MEYD-421c/index.m3u8
-MIAE-305c-中出し専用肉便器 永井みひな,http://videocdn.hndtl.com:8091/20181120/MIAE-305c/index.m3u8
-MEYD-420c-隣露出人妻SEX...,http://videocdn.hndtl.com:8091/20181120/MEYD-420c/index.m3u8
-MEYD-416c-妻の殘業NTR…。 神宮寺ナオ,http://videocdn.hndtl.com:8091/20181120/MEYD-416c/index.m3u8
-MEYD-415c-浮気の天才！ 矢田美紀子,http://videocdn.hndtl.com:8091/20181120/MEYD-415c/index.m3u8
-MEYD-417c-偶然出會背徳の濃厚接吻...,http://videocdn.hndtl.com:8091/20181120/MEYD-417c/index.m3u8
-KMHR-047c-开发灵敏度100倍,http://videocdn.hndtl.com:8091/20181120/KMHR-047c/index.m3u8
-MEYD-414c-隣傢の高慢美人妻...,http://videocdn.hndtl.com:8091/20181120/MEYD-414c/index.m3u8
-KAWD-930c-大型新人！kawaii史上最高の美少女,http://videocdn.hndtl.com:8091/20181120/KAWD-930c/index.m3u8
-MEYD-413c-傢賃 笑 東凜,http://videocdn.hndtl.com:8091/20181120/MEYD-413c/index.m3u8
-KAWD-926c-美少女 さとうゆも20歳 大開腳,http://videocdn.hndtl.com:8091/20181120/KAWD-926c/index.m3u8
-MEYD-412c-妻の犯… 希島あいり,http://videocdn.hndtl.com:8091/20181120/MEYD-412c/index.m3u8
-KAWD-925c-絶頂3本番 朝陽そら,http://videocdn.hndtl.com:8091/20181120/KAWD-925c/index.m3u8
-MEYD-411c-結婚8年目34歳のー人妻決意の出演,http://videocdn.hndtl.com:8091/20181120/MEYD-411c/index.m3u8
-KAWD-924c-蕓能人の3本番 立花めい,http://videocdn.hndtl.com:8091/20181120/KAWD-924c/index.m3u8
-MDTM-407Bc-女子●生中出膣內大量放出SP 10人4時間BEST,http://videocdn.hndtl.com:8091/20181120/MDTM-407Bc/index.m3u8
-KAWD-923c-理性性交3本番 小栗もなか,http://videocdn.hndtl.com:8091/20181120/KAWD-923c/index.m3u8
-MDTM-407Ac-女子●生中出膣內大量放出SP 10人4時間BEST,http://videocdn.hndtl.com:8091/20181120/MDTM-407Ac/index.m3u8
-KAWD-922c-第一次品尝绝顶,http://videocdn.hndtl.com:8091/20181120/KAWD-922c/index.m3u8
-KRI-069c-背徳人妻の願望 2,http://videocdn.hndtl.com:8091/20181120/KRI-069c/index.m3u8
-KAWD-921c-大放尿 大失禁 鈴木心春,http://videocdn.hndtl.com:8091/20181120/KAWD-921c/index.m3u8
-KRI-068c-連部屋 1,http://videocdn.hndtl.com:8091/20181120/KRI-068c/index.m3u8
-KAWD-920c-终于解禁了！轻松地舔舐,http://videocdn.hndtl.com:8091/20181120/KAWD-920c/index.m3u8
-KANE-007c-在青山工作的美人婚礼员,http://videocdn.hndtl.com:8091/20181120/KANE-007c/index.m3u8
-JUY-605c-聲我慢 人妻社長秘書,http://videocdn.hndtl.com:8091/20181120/JUY-605c/index.m3u8
-JUY-604c-接觸事故多発...,http://videocdn.hndtl.com:8091/20181120/JUY-604c/index.m3u8
-JRZD-830c-初撮り五十路妻 谷崎鈴,http://videocdn.hndtl.com:8091/20181120/JRZD-830c/index.m3u8
-JUY-603c-暴風雨  凜音とうか,http://videocdn.hndtl.com:8091/20181120/JUY-603c/index.m3u8
-IPX-208c-女教師癡女,http://videocdn.hndtl.com:8091/20181120/IPX-208c/index.m3u8
-IPX-198c-痙攣絶頂後...,http://videocdn.hndtl.com:8091/20181120/IPX-198c/index.m3u8
-JUY-602c-著衣性交。 澤村レイコ,http://videocdn.hndtl.com:8091/20181120/JUY-602c/index.m3u8
-IPX-207c-祝解禁！人生初生中出！偽りなし,http://videocdn.hndtl.com:8091/20181120/IPX-207c/index.m3u8
-IPX-197Bc-10周年特別企畫 風俗店潛入...,http://videocdn.hndtl.com:8091/20181120/IPX-197Bc/index.m3u8
-JUY-597c-學生寮の中毒...,http://videocdn.hndtl.com:8091/20181120/JUY-597c/index.m3u8
-IPX-206c-軽蔑美人姉 天海つばさ,http://videocdn.hndtl.com:8091/20181120/IPX-206c/index.m3u8
-IPX-197Ac-10周年特別企畫 風俗店潛入...,http://videocdn.hndtl.com:8091/20181120/IPX-197Ac/index.m3u8
-JUY-592c-寢取人妻～ 有坂深雪,http://videocdn.hndtl.com:8091/20181120/JUY-592c/index.m3u8
-IPX-205c-親の1週間義理の兄軽蔑妹 岬ななみ,http://videocdn.hndtl.com:8091/20181120/IPX-205c/index.m3u8
-IPX-196c-潮！潮！潮！ 長身美巨乳お姉...,http://videocdn.hndtl.com:8091/20181120/IPX-196c/index.m3u8
-JUFD-954c-射精爆乳密著...,http://videocdn.hndtl.com:8091/20181120/JUFD-954c/index.m3u8
-IPX-204c-美少女の顔射狀態...,http://videocdn.hndtl.com:8091/20181120/IPX-204c/index.m3u8
-IENE-923c-超高級SEX,http://videocdn.hndtl.com:8091/20181120/IENE-923c/index.m3u8
-JUFD-947c-射精の回春旅館 森ほたる,http://videocdn.hndtl.com:8091/20181120/JUFD-947c/index.m3u8
-IPX-203c-地味読書女子...,http://videocdn.hndtl.com:8091/20181120/IPX-203c/index.m3u8
-IENE-921c-叔母の湯上...,http://videocdn.hndtl.com:8091/20181120/IENE-921c/index.m3u8
-JUFD-946c-絶対乳首SEX 初中出 ...,http://videocdn.hndtl.com:8091/20181120/JUFD-946c/index.m3u8
-IPX-202c-輪姦新任女教師,http://videocdn.hndtl.com:8091/20181120/IPX-202c/index.m3u8
-HTHD-155c-友達の母親～最終章～ 水野優香,http://videocdn.hndtl.com:8091/20181120/HTHD-155c/index.m3u8
-JUFD-945c-超絶倫弟誘惑...,http://videocdn.hndtl.com:8091/20181120/JUFD-945c/index.m3u8
-IPX-201c-超高級泡店お姉 桜空もも,http://videocdn.hndtl.com:8091/20181120/IPX-201c/index.m3u8
-HND-563c-中出連続膣癡女お姉 西野翔,http://videocdn.hndtl.com:8091/20181120/HND-563c/index.m3u8
-IPX-199c-女子大生傢庭教師 七実りな,http://videocdn.hndtl.com:8091/20181120/IPX-199c/index.m3u8
-HND-552c-有着亲和力笑容的女孩,http://videocdn.hndtl.com:8091/20181120/HND-552c/index.m3u8
-HJMO-388Ac-按摩棒羞耻企画- 一ノ瀬恋,http://videocdn.hndtl.com:8091/20181120/HJMO-388Ac/index.m3u8
-GS-207c-炎热的暑假，赤裸地徘徊…,http://videocdn.hndtl.com:8091/20181120/GS-207c/index.m3u8
-HJMO-388Bc-按摩棒羞耻企画- 一ノ瀬恋,http://videocdn.hndtl.com:8091/20181120/HJMO-388Bc/index.m3u8
-EBOD-654c-全國大會10位の有名大學...,http://videocdn.hndtl.com:8091/20181120/EBOD-654c/index.m3u8
-GES-042c-極溫泉 貸切湯22組目,http://videocdn.hndtl.com:8091/20181120/GES-042c/index.m3u8
-EBOD-652c-山梨遠征田舎娘...,http://videocdn.hndtl.com:8091/20181120/EBOD-652c/index.m3u8
-FSET-783c-二人の密室勃起...,http://videocdn.hndtl.com:8091/20181120/FSET-783c/index.m3u8
-EBOD-651c-某周刊杂志写真选拔冠军！,http://videocdn.hndtl.com:8091/20181120/EBOD-651c/index.m3u8
-FSET-782c-OL誘惑神美腳,http://videocdn.hndtl.com:8091/20181120/FSET-782c/index.m3u8
-FERA-97c-让妈妈献礼的话…,http://videocdn.hndtl.com:8091/20181120/FERA-97c/index.m3u8
-EYAN-128c-纯白苗条的美身材欲求不满人妻…,http://videocdn.hndtl.com:8091/20181120/EYAN-128c/index.m3u8
-ESK-304c- みう20さい,http://videocdn.hndtl.com:8091/20181120/ESK-304c/index.m3u8
-EBOD-656c-J罩杯超爆乳辣妹...,http://videocdn.hndtl.com:8091/20181120/EBOD-656c/index.m3u8
-EBOD-655c-極上姉妹愛人2人中出,http://videocdn.hndtl.com:8091/20181120/EBOD-655c/index.m3u8
-1Pondo-091815_155  木村美羽 余裕三連発極上の女優,http://videocdn.hndtl.com:8091/20190331/hd_1pondo-091815_155/index.m3u8
-1Pondo-092215_157 模特  神尾舞,http://videocdn.hndtl.com:8091/20190331/hd_1pondo-092215_157/index.m3u8
-1Pondo-092515_160  巨乳 清水理紗,http://videocdn.hndtl.com:8091/20190331/hd_1pondo-092515_160/index.m3u8
-1Pondo-100115_163  美人汁 藤井なな,http://videocdn.hndtl.com:8091/20190331/hd_1pondo-100115_163/index.m3u8
-1Pondo-121518_783 一本道  渋谷まなか,http://videocdn.hndtl.com:8091/20181220/hd_1pondo-121518_783/index.m3u8
-10musume-071715_01  天然素人 透明中满足,http://videocdn.hndtl.com:8091/20181220/hd_10musume-071715_01/index.m3u8
-Caribbeancom-082715_001 図鑑 松本メイ,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082715_001/index.m3u8
-Caribbeancom-082815_958 ダイナマイト,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082815_958/index.m3u8
-10musume-071717_01   つるのゆう,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071717_01/index.m3u8
-10musume-071817_01   まさき,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071817_01/index.m3u8
-10musume-071915_01  SEX!格好 佐々木愛美,http://videocdn.hndtl.com:8091/20181220/hd_10musume-071915_01/index.m3u8
-Caribbeancom-082715_001 図鑑 松本メイ,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082715_001/index.m3u8
-Caribbeancom-082815_958 ダイナマイト,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082815_958/index.m3u8
-10musume-081415_01  初体験,http://videocdn.hndtl.com:8091/20181231/hd_10musume-081415_01/index.m3u8
-10musume-081515_01    宮本るみ,http://videocdn.hndtl.com:8091/20181231/hd_10musume-081515_01/index.m3u8
-10musume-081615_01 美香の入門 沢野美香,http://videocdn.hndtl.com:8091/20181231/hd_10musume-081615_01/index.m3u8
-10musume-081617_01   Best30 Part 3,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081617_01/index.m3u8
-10musume-081815_01   秘蔵～ 有馬美帆,http://videocdn.hndtl.com:8091/20181231/hd_10musume-081815_01/index.m3u8
-10musume-082015_01  確認～ 宮本るみ,http://videocdn.hndtl.com:8091/20181231/hd_10musume-082015_01/index.m3u8
-10musume-082115_01    処女喪失,http://videocdn.hndtl.com:8091/20181231/hd_10musume-082115_01/index.m3u8
-10musume-082215_01  愛美  佐々木愛美,http://videocdn.hndtl.com:8091/20181231/hd_10musume-082215_01/index.m3u8
-10musume-080815_01 美容～  佐々木うの,http://videocdn.hndtl.com:8091/20181231/hd_10musume-080815_01/index.m3u8
-10musume-081015_01   巨乳娘 葉山楓,http://videocdn.hndtl.com:8091/20181231/hd_10musume-081015_01/index.m3u8
-10musume-081115_01  酒飲娘～浜崎かな,http://videocdn.hndtl.com:8091/20181231/hd_10musume-081115_01/index.m3u8
-10musume-082515_01   自慢の浴衣  谷中晴美,http://videocdn.hndtl.com:8091/20181231/hd_10musume-082515_01/index.m3u8
-10musume-092115_01   SEX初体験~綾瀬まゆ,http://videocdn.hndtl.com:8091/20190331/hd_10musume-092115_01/index.m3u8
-10musume-092515_01   素人ＡＶ面接  現役美容師  藤田由美子,http://videocdn.hndtl.com:8091/20190331/hd_10musume-092515_01/index.m3u8
-10musume-121518_01     生中出 瀬戸愛莉,http://videocdn.hndtl.com:8091/20181220/hd_10musume-121518_01/index.m3u8
-1000giri-120330 3次元！！,http://videocdn.hndtl.com:8091/20190331/hd_1000giri-120330/index.m3u8
-1000giri-150918 电动按摩～ PAI.6,http://videocdn.hndtl.com:8091/20190331/hd_1000giri-150918/index.m3u8
-1000giri-150925  純コス,http://videocdn.hndtl.com:8091/20190331/hd_1000giri-150925/index.m3u8
-1000giri-150928 F罩杯女子校生【再配信】,http://videocdn.hndtl.com:8091/20190331/hd_1000giri-150928/index.m3u8
-1919gogo-7794 盗撮作品 話題の人気1,http://videocdn.hndtl.com:8091/20181231/hd_1919gogo-7794/index.m3u8
-1919gogo-7797 隠見vol.436人気下着通販雑誌美人女子大生達,http://videocdn.hndtl.com:8091/20181231/hd_1919gogo-7797/index.m3u8
-1919gogo-7841 話題の人気,http://videocdn.hndtl.com:8091/20190331/hd_1919gogo-7841/index.m3u8
-1919gogo-7844 SwimmingShop競泳水着試着盗撮35,http://videocdn.hndtl.com:8091/20190331/hd_1919gogo-7844/index.m3u8
-1919gogo-7845 美容沙龙,http://videocdn.hndtl.com:8091/20190331/hd_1919gogo-7845/index.m3u8
-1919gogo-7956 吉原高級盗撮vol.6 前編,http://videocdn.hndtl.com:8091/20190331/hd_1919gogo-7956/index.m3u8
-2018延边女士风味季-导演版,http://youku1.dianfubang.com/20190315/ZwT9CaOH/index.m3u8
-AV9898-1712 卑褻行為傑作選3時間,http://videocdn.hndtl.com:8091/20181231/hd_av9898-1712_0/index.m3u8
-AV9898-1732 放課後!藤井なな,http://videocdn.hndtl.com:8091/20190331/hd_av9898-1732/index.m3u8
-AV9898-1733 視界侵入！～木村美羽,http://videocdn.hndtl.com:8091/20190331/hd_av9898-1733/index.m3u8
-AV9898-1735 愛沢かりん,http://videocdn.hndtl.com:8091/20190331/hd_av9898-1735/index.m3u8
-AV9898-1738 美神あや！,http://videocdn.hndtl.com:8091/20190331/hd_av9898-1738/index.m3u8
-C0930-hitozuma1019 広野鈴菜 Suzuna Hirono,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1019_0/index.m3u8
-C0930-hitozuma1020 人妻斬り 笹原小乃璃 Konori Sasahara,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1020_0/index.m3u8
-C0930-hitozuma1023 笹原小乃璃 Konori Sasahara,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1023_0/index.m3u8
-C0930-hitozuma1024 岡島奈穂美 Naomi Okajima,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1024_0/index.m3u8
-C0930-hitozuma1026 山口雪音 Yukine Yamaguchi,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1026_0/index.m3u8
-C0930-hitozuma1035 相馬梢 Kozue Soma,http://videocdn.hndtl.com:8091/20190331/hd_c0930-hitozuma1035/index.m3u8
-C0930-ki150815 人妻斬り 自画撮手淫 特集46 Self Shot,http://videocdn.hndtl.com:8091/20181231/hd_c0930-ki150815/index.m3u8
-Caribbeancompr-082115_331  Z～極上中出し！～舞咲みくに,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancompr-082115_331/index.m3u8
-Caribbeancompr-082115_332  性欲処理,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancompr-082115_332/index.m3u8
-Caribbeancompr-082115_337  酒井ももか,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancompr-082115_337/index.m3u8
-FC2_PPV-637868 【個人撮影】みほ36歳　欲求不満の美人大量中出,http://videocdn.hndtl.com:8091/20181220/hd_fc2_ppv-637868/index.m3u8
-FC2_PPV-998677  20歳 180度開脚,http://videocdn.hndtl.com:8091/20181220/hd_fc2_ppv-998677/index.m3u8
-FC2_PPV-998950 【個人撮影】志保39歳,http://videocdn.hndtl.com:8091/20181220/hd_fc2_ppv-998950/index.m3u8
-FC2_PPV-999012 完全顔出色白Ｅ罩杯美巨乳交尾生中出懇願,http://videocdn.hndtl.com:8091/20181220/hd_fc2_ppv-999012/index.m3u8
-G_Queen-sweeping_03   3 2015 Special Sweeping ! Vol.3,http://videocdn.hndtl.com:8091/20181231/hd_g_queen-sweeping_03/index.m3u8
-Gachinco-gachi885 純子－実録面接72,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachi885/index.m3u8
-Gachinco-gachi886  悠里－露出体験27,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachi886/index.m3u8
-Gachinco-gachi889 弥生－実録面接73,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachi889/index.m3u8
-Gachinco-gachi890 葵　－日常97－,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachi890/index.m3u8
-Gachinco-gachi891  鈴香　－彼女の性癖33－,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachi891/index.m3u8
-Gachinco-gachi892  純子 ＆ 弥生－性感女郎3　前編,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachi892/index.m3u8
-H0930-gol158 長内美佳 Mika Osanai,http://videocdn.hndtl.com:8091/20181231/hd_h0930-gol158_0/index.m3u8
-Gachinco-gachippv1057 アン　－露出体験DX　～ AN ～－,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-gachippv1057_0/index.m3u8
-Gachinco-PPV294  まゆか　他,http://videocdn.hndtl.com:8091/20181231/hd_gachinco-ppv294_0/index.m3u8
-H0930-ori1267  守山絢音 Ayane Moriyama,http://videocdn.hndtl.com:8091/20181231/hd_h0930-ori1267_0/index.m3u8
-H0930-ori1269 長内美佳 Mika Osanai,http://videocdn.hndtl.com:8091/20181231/hd_h0930-ori1269/index.m3u8
-Heydouga-4017_193 美形素人１１人!,http://videocdn.hndtl.com:8091/20181231/hd_heydouga-4017_193_0/index.m3u8
-Heydouga-4041_172 娘姦白書 PPV172 レナ,http://videocdn.hndtl.com:8091/20181231/hd_heydouga-4041_172/index.m3u8
-Heydouga-4090_056   加藤ツバキ,http://videocdn.hndtl.com:8091/20181231/hd_heydouga-4090_056/index.m3u8
-Heydouga-4117_064 MAX BROTHERS PPV064 深田もも,http://videocdn.hndtl.com:8091/20181231/hd_heydouga-4117_064_0/index.m3u8
-Heydouga-4132_047  個人撮影美人中出素人,http://videocdn.hndtl.com:8091/20181220/hd_heydouga-4132_047/index.m3u8
-Heydouga-4132_049  個人撮影高学歴女子大生の素人,http://videocdn.hndtl.com:8091/20181220/hd_heydouga-4132_049/index.m3u8
-Heydouga-4140_051  顔の美女!!感度良好個人撮影,http://videocdn.hndtl.com:8091/20181220/hd_heydouga-4140_051/index.m3u8
-Heydouga-4148_128 撮影仕事塩対応,http://videocdn.hndtl.com:8091/20181220/hd_heydouga-4148_128/index.m3u8
-Heydouga-4148_129 綺麗お姉～西尾かおり 編,http://videocdn.hndtl.com:8091/20181220/hd_heydouga-4148_129/index.m3u8
-Heydouga-4148_130 １８歳妊婦,http://videocdn.hndtl.com:8091/20181220/hd_heydouga-4148_130/index.m3u8
-Heydouga-4148_131 Ｍ爆乳,http://videocdn.hndtl.com:8091/20181220/hd_heydouga-4148_131/index.m3u8
-Heyzo-0922 家庭教師妄想～  藤原沙耶,http://videocdn.hndtl.com:8091/20181231/hd_heyzo-0922/index.m3u8
-Heyzo-0923 俄罗斯系素人,http://videocdn.hndtl.com:8091/20181231/hd_heyzo-0923/index.m3u8
-Heyzo-0926 興味津々！  内村りな,http://videocdn.hndtl.com:8091/20181231/hd_heyzo-0926/index.m3u8
-Heyzo-0927 続々生中～野外～ 宮下華奈,http://videocdn.hndtl.com:8091/20181231/hd_heyzo-0927/index.m3u8
-Heyzo-0928 青梅竹马成长了身体 ～  真野ゆりあ,http://videocdn.hndtl.com:8091/20181231/hd_heyzo-0928/index.m3u8
-Heyzo-0930 出会素人娘三昧！  神崎セイラ,http://videocdn.hndtl.com:8091/20181231/hd_heyzo-0930/index.m3u8
-Heyzo-0931 SEX娘～  咲月りこ,http://videocdn.hndtl.com:8091/20181231/hd_heyzo-0931/index.m3u8
-Heyzo-0932 性処理用 君島アンナ,http://videocdn.hndtl.com:8091/20181231/hd_heyzo-0932/index.m3u8
-Heyzo-0933 美人姉妹丼前編  小野麻里亜 京野結衣,http://videocdn.hndtl.com:8091/20181231/hd_heyzo-0933/index.m3u8
-Heyzo-0935 派遣社員！  上条藍,http://videocdn.hndtl.com:8091/20181231/hd_heyzo-0935/index.m3u8
-
-日韩风光2_666,#genre#
-Z真白愛梨,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/3/4/346e9cf427285a5cfa7bfc8f913209de1486995037-1280-720-1542-h264.mp4/master.m3u8
-復掃真央,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/4/b/4b1dc42613a50405884270ca2b6364431476575103-1280-720-1384-h264.mp4/master.m3u8
-伊籐果夏,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/4/943e75dc2e01641e5db293ab9698f0121486995615-1280-720-1203-h264.mp4/master.m3u8
-中出鄰居姐姐乾優那,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/4/0/40e16c546dcd8b002efd7f9a80dc48ff1486995022-1280-720-1231-h264.mp4/master.m3u8
-巨乳网球社团女大学生,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/e/2/e23b31ba6c94be18a5ed41a9ef8dd62b1482877526-720-480-852-h264.mp4/master.m3u8
-美痴女先生,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/7/a/7a15b06dc81bdb7081fbed1d6ebc61351487075127-1280-720-1595-h264.mp4/master.m3u8
-SEX相親千葉,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/1/6/1675c05df835324da5ec738c7a59c18c1486994404-1280-720-1854-h264.mp4/master.m3u8
-我們在校外教學的夜晚被持續一整晚侵犯了。紗世悠,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/5/d/5d7f7c9bf037d6bf42f1534a2a08edd71482817242-720-480-1241-h264.mp4/master.m3u8
-视界侵入,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/a/e/ae284abc3af267e10b97777895c8ce6e1487128203-1280-720-1229-h264.mp4/master.m3u8
-风扇感谢祭,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/1/3/134a056848d7d5f1f8aec075c9329f821487130335-1280-720-2143-h264.mp4/master.m3u8
-美尻俱乐部,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/a/0/a0fd0180d90347c4d99fb438fc59ce851476273018-1280-720-1585-h264.mp4/master.m3u8
-木村粉統感謝祭,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/4/f4801e64dac12ff893e3a017da62e25f1475536502-1280-720-2738-h264.mp4/master.m3u8
-大島奈,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/b/f/bfbcb4f28f98adfbd6551c52a21628471487073919-1280-720-1554-h264.mp4/master.m3u8
-女熱大陸原亞衣,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/b/7/b73ef6f3754611c000bf4c86c5d683c81476521708-1280-720-1346-h264.mp4/master.m3u8
-本山茉莉,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/c/9c949b9097d3813f934084c83763a3081487076335-1280-720-1558-h264.mp4/master.m3u8
-自宅侵入強暴!,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/c/d/cda6d1a86f78e4528ca2338e3525fea51481139002-720-480-1205-h264.mp4/master.m3u8
-其實，我老公的主管上了我好多次杏,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/2/92cd0ce8d844c10076da7c6d98fab6891481157326-720-480-891-h264.mp4/master.m3u8
-究极奉仕 水谷,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/5/6/56eb807283d98875dd6e5a42aaf90dbb1487073339-1280-720-1997-h264.mp4/master.m3u8
-究极奉仕 水谷,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/0/1/014da2a0c415eaeb00993091f3d5c3fe1487073311-1280-720-1714-h264.mp4/master.m3u8
-究极奉仕 水谷,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/b/9/b97342f0cf0ecd5415765dd75d1fab081487073333-1280-720-1429-h264.mp4/master.m3u8
-美痴女先生 碧,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/d/6/d65c382a5e1221cb0bdac70390f91ee01487073034-1280-720-1718-h264.mp4/master.m3u8
-Z 真白爱梨,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/5/c/5c1c5049ce7547e7040cde4aafa299921486997164-1280-720-1481-h264.mp4/master.m3u8
-Z 真白爱梨,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/c/fc3caa1d0d05ec7f5137338ac34243c11486995025-1280-720-1563-h264.mp4/master.m3u8
-HAMEZO vol.37 水野优奈,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/6/c/6cb3b0115513e99ec6a7cb7211300ebd1486994705-1280-720-1537-h264.mp4/master.m3u8
-HAMEZO vol.37 水野优奈,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/3/e/3e32e4d7ceea588d353dfc8dcc4a8b8e1486994722-1280-720-1541-h264.mp4/master.m3u8
-HAMEZO vol.37 水野优奈,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/d/d/ddf1480205a4bbbf5069ea3681ede8a91486995310-1280-720-1586-h264.mp4/master.m3u8
-SEX相亲 千叶,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/6/0/60ce1f7bf2e744be60ef5e0c87b8210c1486994725-1280-720-2010-h264.mp4/master.m3u8
-SEX相亲 千叶,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/2/2/222d914efcba9177c48e42473cb342dc1486994709-1280-720-1676-h264.mp4/master.m3u8
-卑猥企画,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/1/1/112bc6e590cfcbb011c739cdfe2c9a2f1486994421-1280-720-1460-h264.mp4/master.m3u8
-卑猥企画,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/0/2/0245c8097ab7865a34dc77994cb942c31486994418-1280-720-1287-h264.mp4/master.m3u8
-浴衣姿欲情,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/4/94f90c2feee4de53b7b4c3d90b67e3b01486994410-1280-720-2212-h264.mp4/master.m3u8
-浴衣姿欲情,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/a/1/a10e1bcf408f96b8f74f2cd4179575cf1486994707-1280-720-1778-h264.mp4/master.m3u8
-浴衣姿欲情,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/3/b/3ba2ab09c42b0c6bb4a05a408cd34bd31486994127-1280-720-1815-h264.mp4/master.m3u8
-淫亵邮购 星川,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/5/e/5e2e4aecf4f72b34fee563da3e93e2601486994402-1280-720-1190-h264.mp4/master.m3u8
-淫亵邮购 星川,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/5/f577862d7e2eedb76daeb2231c993c0d1486994405-1280-720-1523-h264.mp4/master.m3u8
-他人妻味 郡司结子,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/a/2/a23e8cc2ab4f128b8d1f26b91469ce981486994128-1280-720-1451-h264.mp4/master.m3u8
-他人妻味 郡司结子,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/6/8/68312aa7ef1c6bd3c7150ceb1ea16ae51486994407-1280-720-1405-h264.mp4/master.m3u8
-续生中 有贺,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/c/2/c2f62b91a972393a266b7c6808eaba3c1486994130-1280-720-1342-h264.mp4/master.m3u8
-AV女优 加藤,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/8/a/8a5f55d5b35b9d8d85b219d8c3837b941486993238-1280-720-1141-h264.mp4/master.m3u8
-AV女优 加藤,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/e/6/e62ba4407021742045688e70b80f06c91486995617-1280-720-1506-h264.mp4/master.m3u8
-AV女优 加藤,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/e/9ea3eb4a05d962b4db273de38c6ced991486995925-1280-720-1653-h264.mp4/master.m3u8
-乾优那,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/b/c/bc8c233f459b4f7a63e9478963f12e901486993555-1280-720-987-h264.mp4/master.m3u8
-雾生,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/a/fa581625e2ca211a9359e01da9d201801486993527-1280-720-1573-h264.mp4/master.m3u8
-雾生,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/8/f89a1e4926d1874bd87d6af06f92b1b91486993803-1280-720-1577-h264.mp4/master.m3u8
-1冱木真子,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/3/6/3694665874f3017393e39d8852cfee681486993220-1280-720-1651-h264.mp4/master.m3u8
-2冱木真子,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/2/7/279a8a910859f5a731dd2b304c0efcd91486993504-1280-720-1687-h264.mp4/master.m3u8
-3冱木真子,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/4/7/4795645697bc919a0edb752f15c417551486992923-1280-720-1574-h264.mp4/master.m3u8
-AV女优高乌穗1,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/c/d/cd7195440a796e718ff46bfb149972401486992903-1280-720-1689-h264.mp4/master.m3u8
-AV女优高乌穗2,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/5/2/52c4d2d8c6974305fbf5fd312c1df96d1486993229-1280-720-1909-h264.mp4/master.m3u8
-AV女优高乌穗3,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/b/1/b1c3f8f2ee2ecebfb8dca4d653013bfd1486992603-1280-720-1587-h264.mp4/master.m3u8
-天然美少女1,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/0/b/0b1c7e3b1a5968097f8dcccd8a8b80251486992310-1280-720-2044-h264.mp4/master.m3u8
-天然美少女2,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/c/fcde78e6d0d01056d6618a89eac27ea71486992313-1280-720-1798-h264.mp4/master.m3u8
-天然美少女,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/f/f/ff8585c04bc1a5023bc44b4130f3947d1486992930-1280-720-1537-h264.mp4/master.m3u8
-美巨乳女幽灵,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/6/c/6c76c4fb62fa921ae79a2a86de66f1cb1486993205-1280-720-1223-h264.mp4/master.m3u8
-老公不在家,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/8/3/83638197670621b7ee14dd09c944120b1482799513-720-480-903-h264.mp4/master.m3u8
-后备之妹,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/3/3/3363ae4ed1dfaf4f38d2667e35663bdf1486997190-1280-720-1620-h264.mp4/master.m3u8
-南泽,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/5/0/501ed65cf38ca3436aa69684917710441487074519-1280-720-1737-h264.mp4/master.m3u8
-慾求不满解消课木村美羽雨宫,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/9/4/94f5d7d1ff772d5e88c7a141e7a14ae81487073388-1280-720-1726-h264.mp4/master.m3u8
-恋童癖专用肥皂土地4碧木凛,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/4/d/4d00b74e2a4267c91d66b04a9d5d860c1487127925-1280-720-1326-h264.mp4/master.m3u8
-我为了打工被强暴了蕾,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/7/4/7406ac8c39a24d4cbc0124cd05eff94d1482843919-720-480-1085-h264.mp4/master.m3u8
-母女4P共演松本萌芭,http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/8/a/8ad37e3865a866f4279db5f1ae75fbc41475537727-1280-720-1331-h264.mp4/master.m3u8
-生田奈々013,https://yiqikan.wuyouzuida.com/20200112/2797_b71a2265/index.m3u8
-前田有希1147,https://yiqikan.wuyouzuida.com/20200112/2798_7fed4f21/index.m3u8
-清水佐緒里a111,https://yiqikan.wuyouzuida.com/20200113/2814_20c15c11/index.m3u8
-古川いおり,https://yiqikan.wuyouzuida.com/20200115/2863_075eb197/index.m3u8
-水崎あずさ035,https://yiqikan.wuyouzuida.com/20200121/2941_57cca14f/index.m3u8
-岬ななみ176,https://yiqikan.wuyouzuida.com/20200121/2951_b3e21262/index.m3u8
-有栖るる342,https://yiqikan.wuyouzuida.com/20200121/2946_c0ec94bf/index.m3u8
-有栖るる,https://yiqikan.wuyouzuida.com/20200121/2953_c0ec94bf/index.m3u8
-美少女034,https://yiqikan.wuyouzuida.com/20200122/2961_f5e5f783/index.m3u8
-橋本ありな,https://yiqikan.wuyouzuida.com/20200122/2972_16889eac/index.m3u8
-琴音075,https://yiqikan.wuyouzuida.com/20200106/2680_1fc68337/index.m3u8
-唯井196,https://yiqikan.wuyouzuida.com/20200106/2678_958b8fcc/index.m3u8
-天使021,https://yiqikan.wuyouzuida.com/20200106/2677_0fa16718/index.m3u8
-真白真緒190,https://yiqikan.wuyouzuida.com/20200107/2698_683d8e8f/index.m3u8
-桃乃木かな191,https://yiqikan.wuyouzuida.com/20200107/2699_307224cb/index.m3u8
-伊賀まこ189,https://yiqikan.wuyouzuida.com/20200107/2697_ec02620e/index.m3u8
-栄川乃亜015,https://yiqikan.wuyouzuida.com/20200108/2708_3a0395cb/index.m3u8
-三田羽衣015,https://yiqikan.wuyouzuida.com/20200109/2727_b71b1d93/index.m3u8
-希島011,https://yiqikan.wuyouzuida.com/20200109/2733_e51f2355/index.m3u8
-野々宮391,https://yiqikan.wuyouzuida.com/20200109/2736_40bbcfac/index.m3u8
-乙原あい404,https://yiqikan.wuyouzuida.com/20200110/2742_dd6cf8d7/index.m3u8
-ひなた192,https://yiqikan.wuyouzuida.com/20200106/2683_4e4fbf91/index.m3u8
-小倉由菜193,https://yiqikan.wuyouzuida.com/20200106/2684_ab29e60e/index.m3u8
-天海つばさ430,https://yiqikan.wuyouzuida.com/20200105/2669_f339aca9/index.m3u8
-令和れい431,https://yiqikan.wuyouzuida.com/20200105/2670_2eb5cb09/index.m3u8
-枢木葵378,https://yiqikan.wuyouzuida.com/20200111/2756_80db531c/index.m3u8
-岡英里178,https://yiqikan.wuyouzuida.com/20200112/2770_08d7ec85/index.m3u8
-皆藤みなえ034,https://yiqikan.wuyouzuida.com/20200112/2767_6c99cd80/index.m3u8
-Blowblow,http://cdn.adultiptv.net/blowjob.m3u8
-新婚夫妇的性生活,https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
-水崎あずさ016,https://yiqikan.wuyouzuida.com/20200112/2800_cfe4a10d/index.m3u8
-酒井日奈子048,https://yiqikan.wuyouzuida.com/20200107/2695_c42d8d4a/index.m3u8
-日韩无码2,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/120614-753/index.m3u8
-日韩无码4,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
-一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
-二本道,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0431_full/1500kb/hls/index.m3u8
-102510-517淫荡的家政妇,http://video1.rhsj520.com:8091/nyrm3/jlb-112/102510-517/1500kb/hls/index.m3u8
-101310-507-1美女老板诱惑职员,http://video1.rhsj520.com:8091/nyrm3/jlb-112/101310-507-1/1500kb/hls/index.m3u8
-022311-627-1巨乳美少妇的诱惑,http://video1.rhsj520.com:8091/nyrm3/jlb-112/022311-627-1/1500kb/hls/index.m3u8
-012411-599制服美少女的诱惑,http://video1.rhsj520.com:8091/nyrm3/jlb-112/012411-599/1500kb/hls/index.m3u8
-012811-603-2连续中出性感美少女,http://video1.rhsj520.com:8091/nyrm3/jlb-112/012811-603-2/1500kb/hls/index.m3u8
-012611-601禁忌关系10,http://video1.rhsj520.com:8091/nyrm3/jlb-112/012611-601/1500kb/hls/index.m3u8
-011111-588我淫荡的英语会话老师,http://video1.rhsj520.com:8091/nyrm3/jlb-112/011111-588/1500kb/hls/index.m3u8
-010411-580中出淫荡巨乳美少妇,http://video1.rhsj520.com:8091/nyrm3/jlb-112/010411-580/1500kb/hls/index.m3u8
-012111-597-1爱口交的性感美少妇,http://video1.rhsj520.com:8091/nyrm3/jlb-112/012111-597-1/1500kb/hls/index.m3u8
-010111-576-2女热大陆22冢本友希后篇,http://video1.rhsj520.com:8091/nyrm3/jlb-112/010111-576-2/1500kb/hls/index.m3u8
-010511-581品鲍淫御礼,http://video1.rhsj520.com:8091/nyrm3/jlb-112/010511-581/1500kb/hls/index.m3u8
-XVSR-302c-大絶頂×大痙攣中出SEX 涼宮琴音,http://cdnvideo.oywine.com:8091/zimu/20180101/XVSR-302c/650kb/hls/index.m3u8
-XVSR-280c-濡SEX 有花もえ,http://cdnvideo.oywine.com:8091/zimu/20180101/XVSR-280c/650kb/hls/index.m3u8
-UMSO-163c-昼間不倫 vol．3,http://cdnvideo.oywine.com:8091/zimu/20180101/UMSO-163c/650kb/hls/index.m3u8
-XVSR-283c-露出狂お姉中出同棲性活 倉多まお,http://cdnvideo.oywine.com:8091/zimu/20180101/XVSR-283c/650kb/hls/index.m3u8
-SQTE-189c-お姉美女積極的敏感情事,http://cdnvideo.oywine.com:8091/zimu/20180101/SQTE-189c/650kb/hls/index.m3u8
-TKI-064c-同窓会NTR ウ勃起！寝取婚前中出,http://cdnvideo.oywine.com:8091/zimu/20180101/TKI-064c/650kb/hls/index.m3u8
-SDNM-125c-欲求不満妻 工藤まなみ 29歳 第4章 中出SEX,http://cdnvideo.oywine.com:8091/zimu/20180101/SDNM-125c/650kb/hls/index.m3u8
-T28-514c-美少女評判の妹！ あべみかこ,http://cdnvideo.oywine.com:8091/zimu/20180101/T28-514c/650kb/hls/index.m3u8
-SDMU-725c-妄想 高崎しほ（仮）27歳,http://cdnvideo.oywine.com:8091/zimu/20180101/SDMU-725c/650kb/hls/index.m3u8
-SW-514c-友達のお姉,http://cdnvideo.oywine.com:8091/zimu/20180101/SW-514c/650kb/hls/index.m3u8
-SDAB-047c-竹内乃愛 思春期の少女,http://cdnvideo.oywine.com:8091/zimu/20180101/SDAB-047c/650kb/hls/index.m3u8
-SUPA-245c-完全初撮素人,http://cdnvideo.oywine.com:8091/zimu/20180101/SUPA-245c/650kb/hls/index.m3u8
-SUPA-244c-女子大生限定！,http://cdnvideo.oywine.com:8091/zimu/20180101/SUPA-244c/650kb/hls/index.m3u8
-RTP-106c-素股約束…,http://cdnvideo.oywine.com:8091/zimu/20180101/RTP-106c/650kb/hls/index.m3u8
-PRED-024c-男潮女教師 倉多まお,http://cdnvideo.oywine.com:8091/zimu/20180101/PRED-024c/650kb/hls/index.m3u8
-STAR-830c-白石茉莉奈 爆乳妻中出本番強要,http://cdnvideo.oywine.com:8091/zimu/20180101/STAR-830c/650kb/hls/index.m3u8
-PPPD-606c-同時 倉多まお,http://cdnvideo.oywine.com:8091/zimu/20180101/PPPD-606c/650kb/hls/index.m3u8
-SSNI-046c-大乱交！！24本VS湊莉久,http://cdnvideo.oywine.com:8091/zimu/20180101/SSNI-046c/650kb/hls/index.m3u8
-NGOD-062c-上司夫の寝盗妻,http://cdnvideo.oywine.com:8091/zimu/20180101/NGOD-062c/650kb/hls/index.m3u8
-MVSD-337c-時間停止中出 若菜奈央,http://cdnvideo.oywine.com:8091/zimu/20180101/MVSD-337c/650kb/hls/index.m3u8
-MUDR-021c-約束 浅田結梨,http://cdnvideo.oywine.com:8091/zimu/20180101/MUDR-021c/650kb/hls/index.m3u8
-MOND-141c-同窓会 加藤あやの,http://cdnvideo.oywine.com:8091/zimu/20180101/MOND-141c/650kb/hls/index.m3u8
-JUY-292c-欲求不満な隣の夫人,http://cdnvideo.oywine.com:8091/zimu/20180101/JUY-292c/650kb/hls/index.m3u8
-MEYD-302c-人妻施術 東凛,http://cdnvideo.oywine.com:8091/zimu/20180101/MEYD-302c/650kb/hls/index.m3u8
-HAR-084c-清楚人妻を背後！,http://cdnvideo.oywine.com:8091/zimu/20180101/HAR-084c/650kb/hls/index.m3u8
-KTR-014c-流出実録映像,http://cdnvideo.oywine.com:8091/zimu/20180101/KTR-014c/650kb/hls/index.m3u8
-GETS-057c-媚薬固定！！淫乱妻 2,http://cdnvideo.oywine.com:8091/zimu/20180101/GETS-057c/650kb/hls/index.m3u8
-MADM-062c-不仲妻寝取… 佐々木あき,http://cdnvideo.oywine.com:8091/zimu/20180101/MADM-062c/650kb/hls/index.m3u8
-IPX-041c-潮爆噴射NTR,http://cdnvideo.oywine.com:8091/zimu/20180101/IPX-041c/650kb/hls/index.m3u8
-LXVS-039c-LXVS-039-TV×PRESTIGE SELECTION 39,http://cdnvideo.oywine.com:8091/zimu/20180101/LXVS-039c/650kb/hls/index.m3u8
-HZGD-065c-巨乳人妻の夜勤病棟,http://cdnvideo.oywine.com:8091/zimu/20180101/HZGD-065c/650kb/hls/index.m3u8
-LXVS-037c-LXVS-037-TV×PRESTIGE SELECTION 37,http://cdnvideo.oywine.com:8091/zimu/20180101/LXVS-037c/650kb/hls/index.m3u8
-HND-444c-禁欲女×絶倫男覚醒！ 君島みお,http://cdnvideo.oywine.com:8091/zimu/20180101/HND-444c/650kb/hls/index.m3u8
-JUY-288c-無我夢中接吻性交,http://cdnvideo.oywine.com:8091/zimu/20180101/JUY-288c/650kb/hls/index.m3u8
-KAWD-853c-専属透明肌の超敏感天然G罩杯妃宮侑里,http://cdnvideo.oywine.com:8091/zimu/20180101/KAWD-853c/650kb/hls/index.m3u8
-MEYD-301c-結婚6年目32歳の人妻！ 阿部栞菜,http://cdnvideo.oywine.com:8091/zimu/20180101/MEYD-301c/650kb/hls/index.m3u8
-IPX-044c-痴女 水稀みり！過激淫交寝取,http://cdnvideo.oywine.com:8091/zimu/20180101/IPX-044c/650kb/hls/index.m3u8
-美女与烈马的激情,https://lbbf9.com/20191101/MTJtTnUA/index.m3u8
-美女都被狗草了,https://lbbf9.com/20191101/djPIcBlF/index.m3u8
-女人与狗性交,https://lbbf9.com/20191101/eBOJfb6U/index.m3u8
-人狗激情热舞,https://lbbf9.com/20191101/bnvqBpEI/index.m3u8
-人妖也寂寞,https://lbbf9.com/20191101/Mi5biEYn/index.m3u8
-人与畜-局部按摩,https://lbbf9.com/20191101/5uO77des/index.m3u8
-人与畜-小红马的性生活,https://lbbf9.com/20191101/y8OONPDs/index.m3u8
-人与狗的故事,https://lbbf9.com/20191101/4YB5xIix/index.m3u8
-少妇和狗啪啪啪,https://lbbf9.com/20191101/bkA29Dll/index.m3u8
-少妇在马圈里给马儿上性教育课,https://lbbf9.com/20191101/rSW9K16a/index.m3u8
-激情狗射液,https://lbbf9.com/20191101/e5hFAMlS/index.m3u8
-好白菜都让猪上了,https://lbbf9.com/20191101/6ZuzlXo3/index.m3u8
-不错的少妇,https://lbbf9.com/20191101/hmk1gKNA/index.m3u8
-激情狗舔BB,https://lbbf9.com/20191101/8UJNYtuH/index.m3u8
-马圈里的工作者,https://lbbf9.com/20191101/SZTyilsw/index.m3u8
-武井恵梨香,https://lbbf9.com/20191112/eK7E5nl0/index.m3u8
-武井恵梨香第02集,https://lbbf9.com/20191112/53af2g7x/index.m3u8
-追夢20歲偶像妹,https://lbbf9.com/20191112/GDKzZinY/index.m3u8
-超正妹猛鬼高潮葵千恵,https://lbbf9.com/20191112/KyZqRq3y/index.m3u8
-高校行,https://lbbf9.com/20191112/FMtGtCoC/index.m3u8
-和AV女優飲酒作樂…還有過夜性愛,https://lbbf9.com/20191112/Tk2Hlc35/index.m3u8
-女熱大陸,https://lbbf9.com/20191112/5ZFksuCp/index.m3u8
-瑞穂,https://lbbf9.com/20191112/dExZ05NT/index.m3u8
-素人,https://lbbf9.com/20191112/7wduXErC/index.m3u8
-我的女友是瀧川惠,https://lbbf9.com/20191112/TrtpYHM7/index.m3u8
-誘惑する痴女,https://lbbf9.com/20191112/M0uDonNE/index.m3u8
-生ハメ爆乳,https://lbbf9.com/20191102/V4ZQbpok/index.m3u8
-生ハメ巨乳女優,https://lbbf9.com/20191102/hhYx6xkG/index.m3u8
-天然巨乳,https://lbbf9.com/20191102/YUNtBYO0/index.m3u8
-微乳は感度良好,https://lbbf9.com/20191102/Xe9LMZ3j/index.m3u8
-現役,https://lbbf9.com/20191102/7hWEKAsX/index.m3u8
-小野こゆき～風呂場,https://lbbf9.com/20191102/ZTBoJo72/index.m3u8
-野外,https://lbbf9.com/20191102/yV2OZzS7/index.m3u8
-美巨乳佳苗,https://lbbf9.com/20191102/R4itPJcF/index.m3u8
-美乳生,https://lbbf9.com/20191102/SXhmiyFJ/index.m3u8
-敏感,https://lbbf9.com/20191102/S18A1Zw1/index.m3u8
-爆乳,https://lbbf9.com/20191102/riiSQqjA/index.m3u8
