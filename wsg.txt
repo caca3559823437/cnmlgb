@@ -1425,7 +1425,7 @@ Fight_Sport_HD（備）,p2p://0198.02686.cc:16871/5f3805dd0003b40b43501587f25789
 華視體育台,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
 靖天電影台,p2p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
 國會頻道1,tvbus://6JG8STKz4KFLM5D7nithFifWcDia8YRiBLrvCVgEse9DG81F6r5NKUQMijnNY
-國會頻道2,
+
 美亞電影台,tvbus://6fXbnEVt2xue4aYZga9ER8ftVvU1tycYH4S4rqjBgsmGSu6WrAFcD8cQUVgiG
 美亞電影台（備）,p2p://0198.02686.cc:16871/5f37cca000079b3d4270803e898f13d3.ts
 華納電影,tvbus://5nx3ew6pSzsNypijptouK8okba1QBASVFvb75jSokUVoCesubL4qCf1XfU5PU
@@ -2038,6 +2038,77 @@ CTV9,tvbus://62sKmLopCUohviRGrtnv2sD37k62ba8TmDVoNDS5JbxtXyyCt8Gxq1Q2bBnDJ
 bayontv,tvbus://3sr96jjB4TWbEokjVpwWNViYEAafKhkKwFeMQx9uEji1ygcBgjk7HniLjTb3F
 
 安博直播,#genre#
+翡翠台,https://flv3948069e.live.126.net/live/8541d6aa9f30f9b9bcb3f8abca3116d0.flv
+J2,https://flv3948069e.live.126.net/live/cc7b515f0252b624e5ecd067af5d2b02.flv
+明珠台,https://v3948069e.live.126.net/live/mingzhutai.flv
+无线财经台,https://flv3948069e.live.126.net/live/506fa2273f40d5d5ee26058c658d5b85.flv
+有线新闻,https://v3948069e.live.126.net/live/yxxw123456789.flv
+有线电影,https://flv3948069e.live.126.net/live/yxdy.flv
+有线18台,https://flv3948069e.live.126.net/live/78655c8ed2c6aed9c28224ec94250c71.flv
+有线603,https://flv3948069e.live.126.net/live/84d36dc2267166f4a992feacc1941eca.flv
+NOW新闻台,https://flv3948069e.live.126.net/live/nownews.flv
+新闻台,https://flv3948069e.live.126.net/live/addaa415aefe581a219a1369f98d6905.flv
+TVB星河频道,https://flv3948069e.live.126.net/live/xhpd123456789.flv
+ViuTV,https://flv3948069e.live.126.net/live/adebe48a9e22c1cb7418417da462324a.flv
+Viutv6,https://flv3948069e.live.126.net/live/d1b9e51802cdc72fdc151f2db7709592.flv
+香港开放电视,https://flv3948069e.live.126.net/live/61811e4bceb11b9fcaeaf9738ed45fe6.flv
+民视,https://flv3948069e.live.126.net/live/ac98730f0138409855f803548c6d6eb1.flv
+台视,https://flv3948069e.live.126.net/live/96bc3579b786ec2ccd24d8075e231939.flv
+中视,https://flv3948069e.live.126.net/live/ec31590ff20053f352eaaac66411f4a9.flv
+华视,https://flv3948069e.live.126.net/live/137b20097f0bb6224ec4b23ed76a2ffe.flv
+TVBS欢乐台,https://flv3948069e.live.126.net/live/30e7e2c47d9dd724bbdc79ee3f038299.flv
+TVBS新闻台,https://flv3948069e.live.126.net/live/ea461aeeeb88a0cbe2d0f850a2cfad1f.flv
+寰宇新闻,https://v3948069e.live.126.net/live/hyxwt123456789.flv
+中天新闻,https://flv3948069e.live.126.net/live/4de0012f7a319a8071d2dd35b962cdfd.flv
+东森新闻台,https://flv3948069e.live.126.net/live/a76041b3d9a0869ce13b7c8abf5268c3.flv
+东森超视,https://flv3948069e.live.126.net/live/190963bd405068d375a07b5bcd605dba.flv
+东森财经新闻,https://flv3948069e.live.126.net/live/d2779adcd907aec75787b73e46bbfc1a.flv
+三立直播新闻,https://flv3948069e.live.126.net/live/82d955ef673085e7ebe0f8ed795d27f6.flv
+纬来体育,https://flv3948069e.live.126.net/live/a925c0749e4e2c3507b2eb3b4bfb8e6e.flv
+纬来育乐,https://flv3948069e.live.126.net/live/653cd7b466017a9686e59933019923ce.flv
+纬来日本,https://flv3948069e.live.126.net/live/320ebb2ca9721171d951c954755dcada.flv
+台视新闻台,https://flv3948069e.live.126.net/live/b344fb9721082d842eca1a235f164a8a.flv
+中视新闻,https://flv3948069e.live.126.net/live/01b3f7cf99b86afdc1608cddf9f67820.flv
+华视新闻资讯,https://flv3948069e.live.126.net/live/3f6f139541e318fff62e0131cbf1270f.flv
+民视新闻台,https://flv3948069e.live.126.net/live/9c1d686a6a8629a0504886b790893bde.flv
+壹电视新闻台,https://flv3948069e.live.126.net/live/119d86c6a446e28cd4a56d3b1c85536c.flv
+港视32台,https://flv3948069e.live.126.net/live/3b74aecb5b70c524e7ec901cf8bb40ed.flv
+凤凰中文台,http://39.134.182.236/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8#http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8#http://219.147.162.117:65530/live/fhzw/index.m3u8
+凤凰资讯台,http://39.134.182.236/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8#http://219.147.162.117:65530/live/fhzx/index.m3u8
+凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.36/PLTV/3/224/3221226975/index.m3u8
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+莲花卫视,http://cdn.chxjon.cn/iptv/QQ582185381/lotus.php?id=1
+本港台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+RHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8#http://live-hwcdn.utvlive.top:80/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8
+有线财经 ,http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8#http://hls.globaliptv.ml/icablefinanceinfo.php#http://livetv.dnsfor.me:80/channel.6.m3u8  
+有线娱乐 ,http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8#http://hls.globaliptv.ml/familyentertainment.php#http://livetv.dnsfor.me:80/channel.7.m3u8
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+TVB 翡翠台,http://hls.globaliptv.ml/tvbjade.php#http://61.238.6.49:8000/bysid/1
+TVB 星河,mitv://147.135.39.171:9906/5ea53a9a000d39fddb01fd3f19aa567e.ts
+TVB 明珠台,http://hls.globaliptv.ml/tvbpearl.php#mitv://147.135.39.171:9906/5defe1400004ed256eba461e3fa17ad5.ts
+TVB J2,http://hls.globaliptv.ml/tvbj2.php#mitv://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
+TVB 无线新闻台,http://tv.sason.xyz/proxy/tvb.php?id=xw#http://155.94.164.191/live.php?id=1#http://61.238.6.49:8001/bysid/83
+TVB 无线财经台,http://tv.sason.xyz/proxy/tvb.php?id=cj#http://155.94.164.191/live.php?id=2#http://61.238.6.49:8001/bysid/85#http://livetv.dnsfor.me/channel.11.m3u8
+ViuTV,http://hls.globaliptv.ml/viu99.php#mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts#http://61.238.6.49:8000/bysid/99
+ViuTV6,http://hls.globaliptv.ml/viu96.php#mitv://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts#http://61.238.6.49:8000/bysid/96
+Channel V,http://hdtv.haust.edu.cn/hls/channelv.m3u8#rtmp://58.200.131.2:1935/livetv/channelv
+
+凤凰中文台,http://39.134.182.236/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8#http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8#http://219.147.162.117:65530/live/fhzw/index.m3u8
+凤凰资讯台,http://39.134.182.236/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8#http://219.147.162.117:65530/live/fhzx/index.m3u8
+凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.36/PLTV/3/224/3221226975/index.m3u8
+RHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8#http://live-hwcdn.utvlive.top:80/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8
+有线财经 ,http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8#http://hls.globaliptv.ml/icablefinanceinfo.php#http://livetv.dnsfor.me:80/channel.6.m3u8  
+TVB 无线新闻台,http://tv.sason.xyz/proxy/tvb.php?id=xw#http://155.94.164.191/live.php?id=1#http://61.238.6.49:8001/bysid/83
+TVB 无线财经台,http://tv.sason.xyz/proxy/tvb.php?id=cj#http://155.94.164.191/live.php?id=2#http://61.238.6.49:8001/bysid/85#http://livetv.dnsfor.me/channel.11.m3u8
+
 凤凰资讯,http://kltvx.5ay.xyz/ub/ub.php?id=1080
 凤凰资讯,http://kltvx.5ay.xyz/ub/ub.php?id=359
 凤凰中文,http://kltvx.5ay.xyz/ub/ub.php?id=357
@@ -2719,7 +2790,6 @@ CIBN院线大片,http://v.iam7.cn/iptv/cibn.php?code=DanJi
 斗鱼电影2,http://tx2play1.douyucdn.cn/lve/20415rnWbjg6Ex1K.xs
 斗鱼电影3,http://tx2play1.douyucdn.cn/lve/3928r9p0BHMDG_8000p.flv?uud=
 斗鱼电影4,http://tx2play1.douyucdn.cn/lve/122402rK7MO9bXSq_8000p.flv?uud=
-斗鱼电影8,http://666.stop.kim/douyu.php?id=36337
 华语经典,http://tx2play1.douyucdn.cn/live/85894rmovieChow_2000p.m3u8?uuid=
 星级剧集,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 经典电影,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
@@ -2763,137 +2833,25 @@ CHC高清电影,https://www.fanmingming.cn/hls/chchd.m3u8
 冰雪女王4:魔镜世界,https://v.zdubo.com/20190921/0CYTgXXB/index.m3u8
 绝命毒师电影：续命之徒,https://v.zdubo.com/20191011/A8oVwqUP/index.m3u8
 月影杀痕,https://v.zdubo.com/20190927/FZm7GS72/index.m3u8
-受宠大机密2,https://v.wedubo.com/20191010/MsCadR2g/index.m3u8
 送我上青云,https://v.zdubo.com/20191010/wnbwSbWP/index.m3u8
 鼠胆英雄,https://v.zdubo.com/20190915/4OG7zyY5/index.m3u8
 蜘蛛侠：英雄远征,https://v.zdubo.com/20190912/KWka3nxH/index.m3u8
-阿拉丁,https://v.wedubo.com/20190912/4wdH18Ka/index.m3u8
-金蝉脱壳3：恶魔车站,https://v.wedubo.com/20190909/w3xwbbWu/index.m3u8
-X战警：黑凤凰,https://v.wedubo.com/20190909/yoqMYFrL/index.m3u8
 黑衣人：全球追缉,https://v.zdubo.com/20190912/El7lAIl7/index.m3u8
-疾速追杀3,https://v.wedubo.com/20190912/q6nc5Hoa/index.m3u8
-复仇者联盟4：终者之战,https://v.wedubo.com/20190909/NBJaANgP/index.m3u8
-捉妖大仙2,https://v.wedubo.com/20190920/UZlNuB0g/index.m3u8
-夏目友人帐,https://v.wedubo.com/20190920/nWr5ljIP/index.m3u8
-智深传2,https://v.wedubo.com/20190920/OwoUEMma/index.m3u8
-节拍救赎,https://v.wedubo.com/20190923/rM646wpj/index.m3u8
-御龙王妃,https://v.wedubo.com/20190923/3lWLSGVg/index.m3u8
-雪暴,https://v.wedubo.com/20190918/38bApdPc/index.m3u8
-吾乃母亲,https://v.wedubo.com/20190923/0AsYJ0DO/index.m3u8
-双生,https://v.wedubo.com/20190923/OiU8bzo6/index.m3u8
-酷寒杀手,https://v.wedubo.com/20190912/r8IpEznA/index.m3u8
 祈祷落幕时,https://v.zdubo.com/20190923/s6ETKyMW/index.m3u8
-比悲伤更悲伤的故事,https://v.wedubo.com/20190918/6lhXcUuB/index.m3u8
 邪不压正,https://v.zdubo.com/20190922/EOgnmgxw/index.m3u8
-摄像机不要停,https://v.wedubo.com/20190922/illcfHlA/index.m3u8
-非分熟女,https://v.wedubo.com/20190918/iQqZapHu/index.m3u8
-两大无猜,https://v.wedubo.com/20190923/Nth63D8Q/index.m3u8
-惊奇队长,https://v.wedubo.com/20190912/Xwg0qST8/index.m3u8
-完美琴仇,https://v.wedubo.com/20190923/J6X8dyb6/index.m3u8
-脱欧:无理之战,https://v.wedubo.com/20190923/RrAOZtR8/index.m3u8
-何以为家,https://v.wedubo.com/20190912/iefUizym/index.m3u8
-一吻定情,https://v.wedubo.com/20190918/74pBxsVq/index.m3u8
 劫匪,https://v.zdubo.com/20190918/iZ5pWZhK/index.m3u8
 一个明星的诞生,https://v.zdubo.com/20190918/3YQ0RJiT/index.m3u8
-白蛇：缘起,https://v.wedubo.com/20190922/9jg40mFX/index.m3u8
 奴风男孩,https://v.zdubo.com/20190917/snBcusTK/index.m3u8
-秘境古兽,http://youku.cdn7-okzy.com/20201025/21201_187ec162/index.m3u8
 龙转乾坤,https://b.mhqiyi.com/20201101/BsxrGKyH/index.m3u8
-伦敦陷落,https://youku.com-youku.com/20180313/G7foQaf2/index.m3u8
-奥林匹斯的陷落,https://youku.com-youku.com/20171224/ijBbanig/index.m3u8
-莫斯科陷落2,http://ok.renzuida.com/2003/%E8%8E%AB%E6%96%AF%E7%A7%91%E9%99%B7%E8%90%BD2.BD1280%E9%AB%98%E6%B8%85%E4%B8%AD%E5%AD%97%E7%89%88.mp4
-速度与激情1,http://youku.cdn7-ok.com/20190927/15135_00d8f11d/index.m3u8
-速度与激情2,http://vip.okokbo.com/20180105/wrVYoQvb/index.m3u8
-速度与激情3,http://vip.okokbo.com/20180114/2FYTWr63/index.m3u8
-速度与激情5,http://sohu.com-v-sohu.com/20181104/14057_a4cd27fe/index.m3u8
-速度与激情6,http://youku.cdn-2-okzy.com/20190303/21819_ba21afc1/index.m3u8
-速度与激情8,http://sina.com-h-sina.com/20180728/1492_94e495b1/index.m3u8
-第一滴血5,https://bili.meijuzuida.com/20191130/22015_f1f7436d/index.m3u8
-第一滴血4,https://cn2.zuidadianying.com/20180126/x1OzipMR/index.m3u8
-第一滴血4,https://youku.cdn-56.com/20180127/zG5rLGLO/index.m3u8
-第一滴血3,https://leshi.cdn-zuyida.com/20180127/jCt2bh0v/index.m3u8
-第一滴血2,https://leshi.cdn-zuyida.com/20180127/ixD25PLw/index.m3u8
-第一滴血1,https://leshi.cdn-zuyida.com/20180127/mO2ad0Th/index.m3u8
-第一滴血1,https://vip.okokbo.com/20171223/w3eIqINH/index.m3u8
-怒火特攻隊,https://leshi.cdn-zuyida.com/20180511/26063_ab7c2265/index.m3u8
-返校,https://meinv.jingyu-zuida.com/20200119/12606_65134faf/index.m3u8
-粽邪,https://cn2.zuidadianying.com/20190222/haKdCjfr/index.m3u8
-殺手47,https://vip.okokbo.com/20180101/tkETbv3B/800kb/hls/index.m3u8
-殺手47,https://feifei.feifeizuida.com/20190904/17402_1fe0b29c/1000k/hls/index.m3u8
-殺手47-2007,https://yushou.qitu-zuida.com/20180717/9476_6d520235/index.m3u8
 絕地戰警1,https://c.mahua-kb.com/20200707/NWOzuKTN/index.m3u8
-絕地戰警1,https://vip.okokbo.com/20180101/nIXO8HhU/index.m3u8
-絕地戰警2,https://vip.okokbo.com/20180101/17TLtLkz/index.m3u8
 絕地戰警3,https://c.mahua-kb.com/20200606/jUedyn8Q/index.m3u8
-史密斯任務,https://vip.okokbo.com/20180307/eCPDSRGo/index.m3u8
-捍衛任務3,https://baidu.com-l-baidu.com/20190814/14609_8554644e/index.m3u8
-阿拉丁,https://bili.meijuzuida.com/20190807/21129_ebac678f/index.m3u8
-靠譜歌王,https://bili.meijuzuida.com/20190916/21456_498016a9/index.m3u8
-大智若魚,https://hong.tianzhen-zuida.com/20191018/11244_5bb7bc81/1000k/hls/index.m3u8
-機器戰警3,https://yushou.qitu-zuida.com/20180315/l82B8FZ5/800kb/hls/index.m3u8
-機器戰警3,https://bilibili.com-l-163.com/20181002/8497_ca94a72b/index.m3u8
-機器戰警2,https://yushou.qitu-zuida.com/20180315/cDHR3Pph/index.m3u8
-機器戰警2,https://iqiyi.cdn26-okzy.com/20200601/14617_d5c9613b/index.m3u8
-機器戰警1,https://yushou.qitu-zuida.com/20180315/DHL9jSgY/index.m3u8
-機器戰警1,https://bilibili.com-l-163.com/20181002/8495_5c2c2797/index.m3u8
-真愛繞圈圈,https://sina.com-h-sina.com/20180821/12255_28ce4fee/1000k/hls/index.m3u8
-真愛繞圈圈,https://yushou.qitu-zuida.com/20180707/8939_9e4798ab/index.m3u8
-第六感生死緣,https://meng.wuyou-zuida.com/20191225/24636_8197dc2b/index.m3u8
-愛情沒有終點,https://haoa.haozuida.com/20180726/87fCh0um/index.m3u8
 愛情沒有終點,https://www.yiyazx.com/20181117/cryPBOfc/index.m3u8
-生命中的美好缺憾,https://tv2.youkutv.cc/2020/07/25/3A2GWhSGU4GzH2FQ/playlist.m3u8
-天使愛美麗,https://yi.jingdianzuida.com/20191122/Tposi1eL/index.m3u8
-天使愛美麗,https://sina.com-h-sina.com/20180823/13086_b15d5a25/index.m3u8
-贖罪,https://vip.okokbo.com/20171220/dtjEjRd9/index.m3u8
-終極追殺令,https://youku.com-youku.net/20180703/16450_7b7d7fff/index.m3u8
-我的野蠻女友,https://vip.okokbo.com/20171217/pr5j42GI/index.m3u8
-我的野蠻女友,https://hair.jingpin88.com/20171105/dh1aPO7Q/index.m3u8
-鐵達尼,https://video.suyunbo.tv/20171018/mMz3US3G/index.m3u8
-真愛挑日子,https://sohu.com-v-sohu.com/20180902/12313_08ed1a4c/index.m3u8
-曼哈頓戀習曲,https://yushou.qitu-zuida.com/20180509/5096_86d38146/index.m3u8
 曼哈頓戀習曲,https://a.mhkuaibo.com/20200214/fX6Hr5db/index.m3u8
-曼哈頓戀習曲,https://yushou.qitu-zuida.com/20180509/5096_86d38146/index.m3u8?sign=36451f934903a84f55fa7b6ef8e47c8c
-我就要你好好的,https://feifei.feifeizuida.com/20190623/12695_3bffa71c/index.m3u8
 我就要你好好的,https://a.mhkuaibo.com/20200211/uL28B0RY/index.m3u8
-我就要你好好的,https://bilibili.com-l-163.com/20181117/22854_ebf65e66/index.m3u8
-情書,https://bilibili.com-l-163.com/20181017/14093_6b856ccd/index.m3u8
-真愛每一天,https://leshi.cdn-zuyida.com/20170923/1WA1Ma0s/index.m3u8?sign=6eb00f9f3a91e1caeb5df9d94a554f75
 真愛每一天,https://c.mahua-kb.com/20200615/pW1QQfdF/index.m3u8
-真愛每一天,https://leshi.cdn-zuyida.com/20170923/1WA1Ma0s/index.m3u8
-PS我愛你,https://bilibili.com-l-163.com/20180925/6270_4271a37e/index.m3u8
-電子情書,https://vip.okokbo.com/20171230/k9EAJ1cW/index.m3u8
 電子情書,https://b.mahua-kb.com/20200426/n0EVXwgx/index.m3u8
-K歌情人,https://iqiyi.zuidameiju.com/20200219/10863_4dd1f36b/index.m3u8
-K歌情人,https://tudou.com-l-tudou.com/20180411/8478_80a4aaa3/1000k/hls/index.m3u8
-媽媽咪呀,https://vip.okokbo.com/20171231/l8epIwwM/index.m3u8
-媽媽咪呀2,https://iqiyi.zuidameiju.com/20181008/FznXUMHH/index.m3u8
-媽媽咪呀2,https://sohu.com-v-sohu.com/20181009/13379_92a4dafb/index.m3u8
-捍衛戰士,https://you-cdn.maque-zuida.com/20191228/Qs96UCvE/index.m3u8
-捍衛戰士,https://vip.okokbo.com/20171228/o9kiP9Bx/800kb/hls/index.m3u8
-紅衣小女孩,https://iqiyi.zuidameiju.com/20181010/GfOOFyg6/index.m3u8
-紅衣小女孩,https://youku.com-youku.net/20180710/18850_6e09c653/index.m3u8
-鋼鐵人1,https://youku.cdn-56.com/20180131/cM3ffbbg/800kb/hls/index.m3u8
-鋼鐵人2,https://youku.cdn-56.com/20180131/BXxEVRgn/index.m3u8
-復仇者聯盟1,https://vip.okokbo.com/20180316/hH8msi8C/index.m3u8
-復仇者聯盟4：終局之戰,https://bili.meijuzuida.com/20190731/21094_0a89b649/1000k/hls/index.m3u8
-末日之戰,https://leshi.cdn-zuyida.com/20180521/26555_c7ac0317/index.m3u8
-城市獵人:新宿PRIVATE EYES,https://bili.meijuzuida.com/20191030/21774_1c0e6b33/index.m3u8
-城市獵人:新宿PRIVATE EYES,https://youku.cdn7-okzy.com/20191030/15568_f5cc097c/index.m3u8
-牠2,https://youku.cdn7-okzy.com/20191119/15837_016497d2/index.m3u8
-高年級實習生,https://youku.cdn-tudou.com/20180428/5561_d3328ecd/index.m3u8
-黑魔女1,https://vip.okokbo.com/20180103/Zvj8d3i2/index.m3u8
-黑魔女2,https://youku.cdn7-okzy.com/20191231/16473_a7b384ea/index.m3u8
-達文西密碼,https://vip.okokbo.com/20180224/9vbRU3LE/index.m3u8
 達文西密碼,https://c.mahua-kb.com/20200619/8oY76toP/index.m3u8
-達文西密碼2,https://vip.okokbo.com/20180107/rdVgmHyy/index.m3u8
-不可能的任務2,https://cn2.zuidadianying.com/20180415/CGj6HONJ/index.m3u8
-不可能的任務5,https://hair.jingpin88.com/ppvod/90AB800441554DCAA47B20CFAD16681D.m3u8
-不可能的任務6,https://haoa.haozuida.com/20181107/kTztJiEk/800kb/hls/index.m3u8
-不可能的任務6,https://sohu.com-v-sohu.com/20181107/14120_f4fd09c7/index.m3u8
-五虎將之決裂,https://yi.jingdianzuida.com/20190910/loraSSLg/index.m3u8
 五虎將之決裂,https://d.mhkuaibo.com/20200417/9J6lgNbP/index.m3u8
-專釣大鱷,https://iqiyi.cdn8-okzy.com/20200410/7483_65b7bd13/index.m3u8
-至尊無上,https://56.com-ok-bilibili.com/20190926/31779_6fb48e1b/index.m3u8
 至尊無上,https://b.mahua-kb.com/20200525/snklfkZW/index.m3u8
 除暴,https://v4.dious.cc/20210103/dIahdcKu/1000kb/hls/index.m3u8?skipl=1
 醉拳2,http://cloud.qdetyy.com/dianying/93802/zuiquan2guoyu/zuiquan2guoyu_720.m3u8
@@ -3008,12 +2966,6 @@ dj版,http://sofa.resource.shida.sogoucdn.com/4c9dcd8b-ca87-4620-9b74-4d59d7f2cf
 朋友,http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
 北京欢迎你,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330xNMfl6zgFzJtp4KmNs.m3u8
 套马杆,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200316/5623330y3oE8Rxs4Rmygd3NwS.m3u8
-亮声热门,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/225573315117.mp4
-雪十郎,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240459108765.mp4
-卡路里,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240560665843.mp4
-邓紫棋,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240444538360.mp4
-刘若英,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224097858201.mp4
-大生仔,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/241082457950.mp4
 沙漠骆驼,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjbGM5gUon8K7eQ.mp4
 梦驼玲,http://v.cdn.sohu.com/1/7ab8edff5a32990f0349a8995c2fbe5c/0
 唱一首情歌DJ,http://111.73.46.108/video/m3u8/2020/05/24/043d41ef/playlist.m3u8
@@ -3097,7 +3049,6 @@ DJ6,http://shiguang.80dj.cn/video/2018/06/17/m3u8/2w5L3rDM4X4jRxNhzTRz/3eOOI.m3u
 常回家看看,https://vd3.bdstatic.com/mda-km5dqjndqgkyj9kg/mda-km5dqjndqgkyj9kg.mp4?auth_key=1610692285-0-0-ae2c44dac39d21a6b0b540f90eb39317&bcevod_channel=searchbox_feed&pd=1&pt=3
 走过,https://vd3.bdstatic.com/mda-kkf1rn3n25e88ygt/hd/mda-kkf1rn3n25e88ygt.mp4?playlist=%5B%22hd%22%5D&auth_key=1610692411-0-0-2b68ba469cb937c80ac64b45165b8435&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=all
 泳装一个人,https://vd2.bdstatic.com/mda-kf9fkwux8k45ns99/hd/mda-kf9fkwux8k45ns99.mp4?playlist=%5B%22hd%22%5D&auth_key=1610692474-0-0-babfb99dd87e9f78b533defef3065371&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=all
-我也有过,https://vd2.bdstatic.com/mda-jim41xx6mipetae0/mda-jim41xx6mipetae0.mp4?auth_key=1610692666-0-0-a8395cc1b98d1a97d7c053fa0066d5ff&bcevod_channel=searchbox_feed&pd=1&pt=3
 美女歌曲,https://vd3.bdstatic.com/mda-kkuun5affswfz8ch/mda-kkuun5affswfz8ch.mp4?auth_key=1610692736-0-0-840476f6d1ee5022d046c821b565c0ab&bcevod_channel=searchbox_feed&pd=1&pt=3
 闽南语朋友情,https://vd2.bdstatic.com/mda-jiehqyu48tr8jh3q/hd/mda-jiehqyu48tr8jh3q.mp4?auth_key=1610692806-0-0-6f8f0b2bc077540bcfe37ab55913e89d&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=all
 闽南语水酒歌,https://vd2.bdstatic.com/mda-kenqgfuht8mf695m/hd/mda-kenqgfuht8mf695m.mp4?playlist=%5B%22hd%22%5D&auth_key=1610692886-0-0-9aae675964e55596bfe7b887513aea4d&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=all
@@ -3227,12 +3178,7 @@ AOA - 动摇,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
 韩国太妍37,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
 韩国太妍38,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
 韩国太妍44,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240271145699.mp4
-韩国AOA04,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/223952418038.mp4
-韩国AOA10,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224024591216.mp4
-韩国AOA15,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/223969298253.mp4
-韩国AOA16,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/223832604243.mp4
 韩国AOA17,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240403907854.mp4
-韩国AOA18,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224790253600.mp4
 韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
 韩国歌团003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
@@ -3340,158 +3286,11 @@ AOA - 动摇,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
 韩国歌团141,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
 韩国歌团142,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
 韩国歌团143,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
-韩国歌团144,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240038428237.mp4
 韩国歌团145,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
 韩国歌团146,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
 韩国歌团147,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
 韩国歌团149,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
 韩国歌团153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
-韩国女团01,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228512974808.mp4
-韩国女团02,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224921971838.mp4
-韩国女团07,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224735204731.mp4
-韩国女团09,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224753768651.mp4
-韩国女团10,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224948867953.mp4
-韩国女团11,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224967083414.mp4
-韩国女团12,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224824825783.mp4
-韩国女团13,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224855977656.mp4
-韩国女团15,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224938678451.mp4
-韩国女团18,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/225015987552.mp4
-韩国女团22,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224785868468.mp4
-韩国女团37,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224825884011.mp4
-韩国女团40,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224908430218.mp4
-韩国女团41,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224896513848.mp4
-韩国女团42,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224976499586.mp4
-韩国女团44,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224838693932.mp4
-韩国女团45,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224772064838.mp4
-韩国女团47,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224987887714.mp4
-韩国女团48,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224973966511.mp4
-韩国女团49,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224778504252.mp4
-韩国女团50,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224898017678.mp4
-韩国女团51,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224898517983.mp4
-韩国女团53,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/225044023620.mp4
-韩国女团54,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224781628847.mp4
-韩国女团55,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224976990202.mp4
-韩国女团56,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224977938822.mp4
-韩国女团57,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/225046071615.mp4
-韩国女团58,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224902577291.mp4
-韩国女团59,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224979558558.mp4
-韩国女团60,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224903713203.mp4
-韩国女团61,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/225047963240.mp4
-韩国女团62,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224834772476.mp4
-韩国女团63,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224904977022.mp4
-韩国女团64,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224905409562.mp4
-韩国女团65,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/224837060218.mp4
-韩国女团66,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/225511303318.mp4
-韩国音乐01,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227607757142.mp4
-韩国音乐02,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227686706296.mp4
-韩国音乐03,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227617121597.mp4
-韩国音乐04,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227694478670.mp4
-韩国音乐05,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227782419686.mp4
-韩国音乐06,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227790191576.mp4
-韩国音乐07,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227635797182.mp4
-韩国音乐17,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227686732234.mp4
-韩国音乐18,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227927199588.mp4
-韩国音乐19,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227688624309.mp4
-韩国音乐21,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227692460444.mp4
-韩国音乐22,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227847794724.mp4
-韩国音乐23,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227693964609.mp4
-韩国音乐24,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227849282081.mp4
-韩国音乐26,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227850718669.mp4
-韩国音乐27,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227775553030.mp4
-韩国音乐28,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227779365710.mp4
-韩国音乐30,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227957283184.mp4
-韩国音乐31,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227958359715.mp4
-韩国音乐32,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227802665696.mp4
-韩国音乐33,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227805429547.mp4
-韩国音乐34,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227729780438.mp4
-韩国音乐35,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228007899642.mp4
-韩国音乐36,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227850765983.mp4
-韩国音乐37,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227851389646.mp4
-韩国音乐38,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227855905134.mp4
-韩国音乐41,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227942334780.mp4
-韩国音乐42,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227871157434.mp4
-韩国音乐43,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227874037758.mp4
-韩国音乐48,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228051015679.mp4
-韩国音乐49,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227965914070.mp4
-韩国音乐50,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227813172805.mp4
-韩国音乐51,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227814704398.mp4
-韩国音乐52,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228057547607.mp4
-韩国音乐53,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227972090650.mp4
-韩国音乐54,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227974226348.mp4
-韩国音乐55,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227925117339.mp4
-韩国音乐56,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228087967765.mp4
-韩国音乐57,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227928981362.mp4
-韩国音乐58,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227852452617.mp4
-韩国音乐59,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227937601706.mp4
-韩国音乐60,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227867680841.mp4
-韩国音乐61,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227950065171.mp4
-韩国音乐62,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227872436521.mp4
-韩国音乐64,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227983913584.mp4
-韩国音乐65,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227984857320.mp4
-韩国音乐66,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227910556503.mp4
-韩国音乐67,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227994897328.mp4
-韩国音乐68,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228000077166.mp4
-韩国音乐69,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228171527771.mp4
-韩国音乐70,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228010541791.mp4
-韩国音乐71,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228175195489.mp4
-韩国音乐72,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228180411821.mp4
-韩国音乐73,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228181699446.mp4
-韩国音乐74,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228019477825.mp4
-韩国音乐75,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228021881490.mp4
-韩国音乐76,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228186283900.mp4
-韩国音乐77,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227946764728.mp4
-韩国音乐78,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228032849844.mp4
-韩国音乐79,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228197907967.mp4
-韩国音乐80,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228199391209.mp4
-韩国音乐81,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228113498321.mp4
-韩国音乐82,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228203867697.mp4
-韩国音乐83,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228117994870.mp4
-韩国音乐88,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228219011975.mp4
-韩国音乐89,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227978036366.mp4
-韩国音乐90,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228133742931.mp4
-韩国音乐91,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228057605427.mp4
-韩国音乐94,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228141114231.mp4
-韩国音乐96,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228145658378.mp4
-韩国音乐97,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227992620761.mp4
-韩国音乐99,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/227994832683.mp4
-韩国音乐100,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228088889831.mp4
-韩国音乐101,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228166682846.mp4
-韩国音乐102,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228014024582.mp4
-韩国音乐103,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228015216115.mp4
-韩国音乐104,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228016048460.mp4
-韩国音乐106,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228020308253.mp4
-韩国音乐107,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228157469288.mp4
-韩国音乐108,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228162397734.mp4
-韩国音乐112,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228402735018.mp4
-韩国音乐113,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228319014987.mp4
-韩国音乐114,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228428868988.mp4
-韩国音乐116,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228434091831.mp4
-韩国音乐117,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228268073933.mp4
-韩国音乐119,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228349790273.mp4
-韩国音乐120,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228194040227.mp4
-韩国音乐123,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228273633387.mp4
-韩国音乐124,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228197724912.mp4
-韩国音乐125,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228200012208.mp4
-韩国音乐126,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228201468733.mp4
-韩国音乐127,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228279277342.mp4
-韩国音乐128,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228361298657.mp4
-韩国音乐129,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228362562686.mp4
-韩国音乐130,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228454563270.mp4
-韩国音乐131,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228289249508.mp4
-韩国音乐132,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228465083077.mp4
-韩国音乐133,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228221892316.mp4
-韩国音乐135,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228381782535.mp4
-韩国音乐137,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228384246836.mp4
-韩国音乐138,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228231232776.mp4
-韩国音乐140,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228311521835.mp4
-韩国音乐141,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228591222491.mp4
-韩国音乐142,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228424838293.mp4
-韩国音乐143,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228270400034.mp4
-韩国音乐144,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228351445669.mp4
-韩国音乐154,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228545391101.mp4
-韩国音乐162,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228323516638.mp4
-韩国音乐169,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228344712713.mp4
-韩国音乐174,https://cloud.video.taobao.com//play/u/2473460028/p/1/e/6/t/1/228644627887.mp4
 美女写真001,https://kumilist.obs22.top/CDC729106D474B4FC633241E7AD8989C.m3u8
 美女写真002,https://kumilist.obs22.top/C329EDA0D71E6FA471A928C27680F938.m3u8
 美女写真003,https://kumilist.obs22.top/2FE41C24118C747CD4C54CC1244F7B64.m3u8
@@ -3610,24 +3409,82 @@ AOA - 动摇,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
 美女写真116,https://kumilist.obs22.top/C7400B707AB0DCD5CD0B0CC352A3D97E.m3u8
 美女写真117,https://kumilist.obs22.top/33556B1728729A2B3AF4A4E50297D2B4.m3u8
 美女写真118,https://kumilist.obs22.top/E216063AC6962A32CDED92F7A6BA58D6.m3u8
-美女写真172,https://yiqikan.wuyouzuida.com/20200105/2664_3cca75b5/index.m3u8
-美女写真173,https://yiqikan.wuyouzuida.com/20200105/2669_f339aca9/index.m3u8
-美女写真174,https://yiqikan.wuyouzuida.com/20200105/2670_2eb5cb09/index.m3u8
-美女写真175,https://yiqikan.wuyouzuida.com/20200111/2756_80db531c/index.m3u8
-美女写真176,https://yiqikan.wuyouzuida.com/20200112/2770_08d7ec85/index.m3u8
-美女写真177,https://yiqikan.wuyouzuida.com/20200112/2767_6c99cd80/index.m3u8
-美女写真178,https://yiqikan.wuyouzuida.com/20200112/2800_cfe4a10d/index.m3u8
-美女写真179,https://yiqikan.wuyouzuida.com/20200113/2814_20c15c11/index.m3u8
-美女写真180,https://yiqikan.wuyouzuida.com/20200115/2863_075eb197/index.m3u8
-美女写真181,https://yiqikan.wuyouzuida.com/20200121/2941_57cca14f/index.m3u8
-美女写真182,https://yiqikan.wuyouzuida.com/20200121/2951_b3e21262/index.m3u8
-美女写真183,https://yiqikan.wuyouzuida.com/20200121/2946_c0ec94bf/index.m3u8
-美女写真184,https://yiqikan.wuyouzuida.com/20200121/2953_c0ec94bf/index.m3u8
-美女写真185,https://yiqikan.wuyouzuida.com/20200122/2961_f5e5f783/index.m3u8
-美女写真186,https://yiqikan.wuyouzuida.com/20200122/2972_16889eac/index.m3u8
-美女写真187,https://yiqikan.wuyouzuida.com/20200106/2680_1fc68337/index.m3u8
 
 日韩松視_666,#genre#
+松視1,mitv://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.m3u8
+松視2,mitv://147.135.39.171:9906/600fee6d000232968ba10bcf54416fd9.m3u8
+
+驚豔台,mitv://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.m3u8
+彩虹E,mitv://147.135.39.171:9906/600fee6d0009bd7d8ba10dc303734365.m3u8
+彩虹電影,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.m3u8
+LOOK,mitv://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.m3u8
+潘朵拉完美,mitv://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.m3u8
+潘朵拉粉紅,mitv://147.135.39.171:9906/600fee6c0003b9df8ba10855530a6dc7.m3u8
+Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.m3u8
+驚豔台,mitv://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.ts
+彩虹E,mitv://147.135.39.171:9906/600fee6d0009bd7d8ba10dc303734365.ts
+彩虹電影,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.ts
+LOOK,mitv://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.ts
+松視1,mitv://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.ts
+松視2,mitv://147.135.39.171:9906/600fee6d000232968ba10bcf54416fd9.ts
+潘朵拉粉紅,mitv://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.ts
+潘朵拉完美,mitv://147.135.39.171:9906/600fee6c0003b9df8ba10855530a6dc7.ts
+Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
+HOT,mitv://ns2.hellotvvod.com:9906/604c896000002f44ba234c2e19716622
+香蕉台,mitv://ns2.hellotvvod.com:9906/604c896000065d85ba234dc432580abb
+红松+,http://tv.wakds.xyz:8080/live/VgYdZwf9pz/UVJBWHHp2v/4448.ts
+极限电影,http://tv.wakds.xyz:8080/live/VgYdZwf9pz/UVJBWHHp2v/2718.ts
+松视超级企划,http://tv.wakds.xyz:8080/live/VgYdZwf9pz/UVJBWHHp2v/4438.ts
+松视深夜剧场,http://paofumi.com/hrrr/hongg.php?id=5
+松视超强企划,http://paofumi.com/hrrr/hongg.php?id=6
+松視1,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
+HOT,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
+happy,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR
+香蕉台,tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
+驚豔台,tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
+彩虹K,tvbus://6TwSfX13ixWEmxSZvpBVBScVbJW7T1yGLEK99Vib5fdistnWr47pXTsU1zvYU
+彩虹電影,tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
+彩虹E,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
+潘朵拉完美,tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
+潘朵拉粉紅,tvbus://5Vwks9Jw5SGxTtkrbQ9DNrgE3H2M57ipNTVH1SCUbQ6rEa4DFdpALHW4Cxqon
+Mature,tvbus://5LEMrHGaq9xHdH6X7w788ggbUf12huvaPeS5kepsxNED5jcf8XeUn5BQdCBjs
+Latina,tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
+HD,tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
+Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
+Fetish,tvbus://5SBVvaU8SPvEPAj9YnD2ZnGHyzZJptZTWZYZU6ohQDtFxjK9Ysx77bx4Yhv8W
+Erotic,tvbus://5i6o9iq4vofeNi4BnHCvk7MnzCyaJTxmF51Xe1PGnPGrKTAZw12bfMRBV5Ten
+Ebony,tvbus://5U8Jumknpip7e6G4NVLvpUQMbPyMpv1KYDDRBKivDFtjpm6Zt9JEpGzb2AqtT
+Blowjob,tvbus://5Q5mYj9gbLRRQj4MxgmXBhmcSFGwPUWFyRiNEgGKviHa4aNnwC1ap8MnC3YRk
+Asian,tvbus://5Y7X5S1tXaKWzYGkLCLMpQmCxeqRp6D3ic44sGUycsvPFTjfe8x9TohBHp2m1
+Anal,tvbus://5osr7P4ypNDCyezATSCh9obUAS1AHxskSgYhEshis474Chw6yFZDYpjw1Kety
+松視3,p2p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
+松視2,p2p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
+松視1,p2p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts
+K频道,p2p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
+彩虹電影,p2p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
+彩虹E,p2p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
+HOT,p2p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
+happy,p2p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
+潘朵拉完美,p2p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
+潘朵拉粉紅,p2p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts
+驚豔台,p2p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts
+香蕉台,p2p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts
+松視3,p5p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
+松視2,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
+松視1,p5p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts
+彩虹K,p5p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
+彩虹電影,p5p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
+彩虹E,p5p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
+HOT,p5p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
+happy,p5p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
+潘朵拉完美,p5p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
+潘朵拉粉紅,p5p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts
+驚豔台,p5p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts
+香蕉台,p5p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts
+松視2,p8p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
+松視3,p8p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
+松視1,rtmp://161.202.204.248:1935/tv/ttv11
+happy,rtmp://161.202.204.248:1935/tv/ttv12
 松視1,http://kltvx.5ay.xyz/ub/ub.php?id=402
 松視2,http://kltvx.5ay.xyz/ub/ub.php?id=403
 松視3,http://kltvx.5ay.xyz/ub/ub.php?id=404
@@ -3653,79 +3510,12 @@ Babes TV HD,http://kltvx.5ay.xyz/ub/ub.php?id=458
 SEX ATION HD,http://kltvx.5ay.xyz/ub/ub.php?id=459
 Passie,http://kltvx.5ay.xyz/ub/ub.php?id=461
 SCT Classic,http://kltvx.5ay.xyz/ub/ub.php?id=462
-松視1,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
-松視2,p8p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
-松視3,p8p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
-HOT,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
-happy,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR
-香蕉台,tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
-驚豔台,tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
-彩虹K,tvbus://6TwSfX13ixWEmxSZvpBVBScVbJW7T1yGLEK99Vib5fdistnWr47pXTsU1zvYU
-彩虹電影,tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
-彩虹E,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
-潘朵拉完美,tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
-潘朵拉粉紅,tvbus://5Vwks9Jw5SGxTtkrbQ9DNrgE3H2M57ipNTVH1SCUbQ6rEa4DFdpALHW4Cxqon
-松視3,p2p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
-松視2,p2p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
-松視1,p2p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts
-K频道,p2p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
-彩虹電影,p2p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
-彩虹E,p2p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
-HOT,p2p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
-happy,p2p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
-潘朵拉完美,p2p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
-潘朵拉粉紅,p2p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts
-驚豔台,p2p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts
-香蕉台,p2p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts
-Mature,tvbus://5LEMrHGaq9xHdH6X7w788ggbUf12huvaPeS5kepsxNED5jcf8XeUn5BQdCBjs
-Latina,tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
-HD,tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
-Hardcore,tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
-Fetish,tvbus://5SBVvaU8SPvEPAj9YnD2ZnGHyzZJptZTWZYZU6ohQDtFxjK9Ysx77bx4Yhv8W
-Erotic,tvbus://5i6o9iq4vofeNi4BnHCvk7MnzCyaJTxmF51Xe1PGnPGrKTAZw12bfMRBV5Ten
-Ebony,tvbus://5U8Jumknpip7e6G4NVLvpUQMbPyMpv1KYDDRBKivDFtjpm6Zt9JEpGzb2AqtT
-Blowjob,tvbus://5Q5mYj9gbLRRQj4MxgmXBhmcSFGwPUWFyRiNEgGKviHa4aNnwC1ap8MnC3YRk
-Asian,tvbus://5Y7X5S1tXaKWzYGkLCLMpQmCxeqRp6D3ic44sGUycsvPFTjfe8x9TohBHp2m1
-Anal,tvbus://5osr7P4ypNDCyezATSCh9obUAS1AHxskSgYhEshis474Chw6yFZDYpjw1Kety
-松視3,p5p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
-松視2,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
-松視1,p5p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts
-彩虹K,p5p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
-彩虹電影,p5p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
-彩虹E,p5p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
-HOT,p5p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
-happy,p5p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
-潘朵拉完美,p5p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
-潘朵拉粉紅,p5p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts
-驚豔台,p5p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts
-香蕉台,p5p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts
-松視1,rtmp://161.202.204.248:1935/tv/ttv11
-happy,rtmp://161.202.204.248:1935/tv/ttv12
-驚豔台,mitv://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.m3u8
-彩虹E,mitv://147.135.39.171:9906/600fee6d0009bd7d8ba10dc303734365.m3u8
-彩虹電影,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.m3u8
-LOOK,mitv://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.m3u8
-松視1,mitv://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.m3u8
-松視2,mitv://147.135.39.171:9906/600fee6d000232968ba10bcf54416fd9.m3u8
-潘朵拉完美,mitv://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.m3u8
-潘朵拉粉紅,mitv://147.135.39.171:9906/600fee6c0003b9df8ba10855530a6dc7.m3u8
-Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.m3u8
-红松+,http://tv.wakds.xyz:8080/live/VgYdZwf9pz/UVJBWHHp2v/4448.ts
-极限电影,http://tv.wakds.xyz:8080/live/VgYdZwf9pz/UVJBWHHp2v/2718.ts
-松视超级企划,http://tv.wakds.xyz:8080/live/VgYdZwf9pz/UVJBWHHp2v/4438.ts
-松视深夜剧场,http://paofumi.com/hrrr/hongg.php?id=5
-松视超强企划,http://paofumi.com/hrrr/hongg.php?id=6
 
 欧美松视_666,#genre#
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
 惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
-玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
 二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
 限制级1,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
 限制级2,http://62.112.9.63:88/Brazzers/index.m3u8?token=test
 限制级4,https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8?streamType=live
@@ -3735,8 +3525,6 @@ HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
 限制级9,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 限制级12,http://cdn.adultiptv.net/compilation.m3u8?streamType=live
 松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
-俄罗斯成人1台,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
 俄罗斯成人3台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
 俄罗斯成人4台,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
 俄罗斯成人5台,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
@@ -3798,98 +3586,40 @@ Threesome3P,http://195.154.222.33:30080/Entry/threesome
 Big Dick大家伙,http://195.154.222.33:30080/Entry/bigdick
 Big Tits大奶,http://195.154.222.33:30080/Entry/bigtits
 A3BIKINI TV (720p),https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
-AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
-AdultIPTV.net Big Ass,http://cdn.adultiptv.net/bigass.m3u8
 AdultIPTV.net Big Ass,http://live.redtraffic.xyz/bigass.m3u8
-AdultIPTV.net Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
-AdultIPTV.net Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
-AdultIPTV.net Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
 AdultIPTV.net Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
-AdultIPTV.net Blonde,http://cdn.adultiptv.net/blonde.m3u8
-AdultIPTV.net Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
-AdultIPTV.net Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
-AdultIPTV.net Brunette,http://cdn.adultiptv.net/brunette.m3u8
-AdultIPTV.net Compilation,http://cdn.adultiptv.net/compilation.m3u8
-AdultIPTV.net Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
-AdultIPTV.net Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
-AdultIPTV.net Fetish,http://cdn.adultiptv.net/fetish.m3u8
-AdultIPTV.net Fetish,http://live.redtraffic.xyz/fetish.m3u8
-AdultIPTV.net Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
-AdultIPTV.net Gangbang,http://live.redtraffic.net/gangbang.m3u8
-AdultIPTV.net Gay,http://cdn.adultiptv.net/gay.m3u8
-AdultIPTV.net Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
-AdultIPTV.net Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
-AdultIPTV.net Interracial,http://cdn.adultiptv.net/interracial.m3u8
-AdultIPTV.net Interracial,http://live.redtraffic.xyz/interracial.m3u8
-AdultIPTV.net Latina,http://cdn.adultiptv.net/latina.m3u8
-AdultIPTV.net Latina,http://live.redtraffic.xyz/latina.m3u8
 AdultIPTV.net Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
-AdultIPTV.net Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
-AdultIPTV.net Live Cams,http://cdn.adultiptv.net/livecams.m3u8
-AdultIPTV.net MILF,http://cdn.adultiptv.net/milf.m3u8
 AdultIPTV.net MILF,http://live.redtraffic.xyz/milf.m3u8
-AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
 AdultIPTV.net Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
-AdultIPTV.net POV,http://cdn.adultiptv.net/pov.m3u8
-AdultIPTV.net POV,http://live.redtraffic.xyz/pov.m3u8
-AdultIPTV.net Rough,http://cdn.adultiptv.net/rough.m3u8
-AdultIPTV.net Russian,http://cdn.adultiptv.net/russian.m3u8
-AdultIPTV.net Russian,http://live.redtraffic.xyz/russian.m3u8
-AdultIPTV.net Teen,http://cdn.adultiptv.net/teen.m3u8
-AdultIPTV.net Teen,http://live.redtraffic.xyz/teen.m3u8
 AdultIPTV.net Threesome,http://cdn.adultiptv.net/threesome.m3u8
 AdultIPTV.net Threesome,http://live.redtraffic.xyz/threesome.m3u8
-AdultIPTV.net Woman,http://live.redtraffic.net/woman.m3u8
-AST TV 1 (HD),https://www.ast.tv/stream/1/ultra.m3u8
-AST TV 1 (HQ),https://www.ast.tv/stream/1/high.m3u8
-AST TV 1 (LQ),https://www.ast.tv/stream/1/normal.m3u8
-AST TV 1 (PC) (1080p),http://www.ast.tv/stream/1/master.m3u8
-AST TV 1 (Phone),http://www.ast.tv/stream/1/cellular.m3u8
-AST TV 2 (Cellular),http://www.ast.tv/stream/2/cellular.m3u8
-AST TV 2 (HD),https://www.ast.tv/stream/2/ultra.m3u8
-AST TV 2 (HQ),https://www.ast.tv/stream/2/high.m3u8
-AST TV 2 (LQ),https://www.ast.tv/stream/2/normal.m3u8
-AST TV 2 (PC) (1080p),http://www.ast.tv/stream/2/master.m3u8
 Jasmin TV (720p),http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 Jasmin TV (720p),http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 Miami TV México,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-Playboy TV,http://187.188.147.165:8000/play/a00l/index.m3u8
 Visit-X TV (720p),http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 Visit-X TV (360p),http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
 Visit-X TV (720p),http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 TV直播26,http://188.35.9.12:21131/udp/142d
-TV直播29,http://50.7.61.148:30080/Entry/TEST1
 TV直播40,http://9c67d51b.akadatel.com/iptv/NAQ9GGSU4ACX5N/6196/index.m3u8
 TV直播41,http://9c67d51b.akadatel.com/iptv/NAQ9GGSU4ACX5N/6220/index.m3u8
-TV直播42,http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 TV直播43,http://194.116.150.47:1935/vxtv/live_360p/playlist.m3u8
 TV直播54,http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
 TV直播55,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w.m3u8
 TV直播57,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?
 TV直播58,http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8
-TV直播59,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-TV直播60,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-TV直播61,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 TV直播63,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
 TV直播64,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
 TV直播65,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
 TV直播66,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
 TV直播67,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-TV直播68,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 TV直播69,http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
 TV直播70,http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 TV直播71,http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-TV直播72,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 TV直播73,https://www.182923.com/20190429/8p9Q4awm/index.m3u8
-TV直播74,https://play.saohu191.com/2019-12-27/0dcd703249a3dd2e01062f7b786e684d/m3u8/index.m3u8
-TV直播75,https://play.saohu191.com/2019-12-26/c46e8a267633ea32d81a8f1054a4633a/m3u8/index.m3u8
 TV直播76,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-TV直播77,https://yiqikan.wuyouzuida.com/20191006/1243_73c09eea/1000k/hls/index.m3u8
-TV直播78,https://yiqikan.wuyouzuida.com/20191006/1244_30b29014/1000k/hls/index.m3u8
 TV直播79,https://video.suyunbo.tv/20171111/tyV5vdei/1200kb/hls/index.m3u8
 TV直播80,https://video.suyunbo.tv/20171111/fyfj9wkW/1200kb/hls/index.m3u8
 TV直播81,https://156zy.suyunbo.tv/2019/04/14/1B56fJxNbrLYs72d/playlist.m3u8
@@ -3911,7 +3641,6 @@ TV直播84,https://156zy.suyunbo.tv/2018/07/12/wzkCkRfnumpISJOt/playlist.m3u8
 金发洋妹2,https://videomy.yongaomy.com/20200502/Gcw580lp/1500kb/hls/index.m3u8
 金发洋妹3,https://videomy.yongaomy.com/20200502/jbRvvlm4/1500kb/hls/index.m3u8
 金发洋妹4,https://videomy.yongaomy.com/20200502/1WxPRT0v/1500kb/hls/index.m3u8
-909,http://live.redtraffic.xyz/bigtits.m3u8
 921,https://video1.tizam.cc/old_films/Duonfernal.mp4
 922,https://video1.tizam.cc/old_films/Ritual.mp4
 923,https://video1.tizam.cc/old_films/Pure_iperiya_uvstv.mp4
@@ -4018,7 +3747,6 @@ TV直播84,https://156zy.suyunbo.tv/2018/07/12/wzkCkRfnumpISJOt/playlist.m3u8
 19,https://2.ddyunbo.com/20191004/rURK4pfY/index.m3u8
 18,https://2.ddyunbo.com/20191007/7G1CWNc8/index.m3u8
 17,https://2.ddyunbo.com/20191007/IFlq5eON/index.m3u8
-16,https://2.ddyunbo.com/20191007/qISqWik0/index.m3u8
 
 日本风光_666,#genre#
 HEYZO720P01,https://videomy.yongaomy.com/20191223/80S2HH9G/index.m3u8
@@ -7148,4 +6876,792 @@ brazzers300,http://static.brazzers.com/scenes/3632/180sec.flv
 俄罗斯风光372,https://video1.tizam.cc/roliki/fantasstic-dp-32-1.mp4
 俄罗斯风光373,https://video1.tizam.cc/top/A-40-Year-Old-Widow-40.mp4
 俄罗斯风光374,https://video1.tizam.cc/top/La-journaliste.mp4
+
+日本剧情_666,#genre#
+SET-009c-僕生中出人妻 篠田ゆう,http://videocdn.quweikm.com:8091/20180730/SET-009c/index.m3u8
+SERO-0205c-抜14発中出  武井麻希,http://videocdn.quweikm.com:8091/20180730/SERO-0205c/index.m3u8
+SERO-0272c-男性主導の体位 上原亜衣,http://videocdn.quweikm.com:8091/20180730/SERO-0272c/index.m3u8
+SGV-002c-卑猥過巨乳娘婿 風間ゆみ,http://videocdn.quweikm.com:8091/20180730/SGV-002c/index.m3u8
+SERO-0268c-在宅人妻 篠田あゆみ,http://videocdn.quweikm.com:8091/20180730/SERO-0268c/index.m3u8
+SDMU-166c-童貞筆真正中出,http://videocdn.quweikm.com:8091/20180730/SDMU-166c/index.m3u8
+SGSR-140c-東京都恵比壽人妻専門,http://videocdn.quweikm.com:8091/20180730/SGSR-140c/index.m3u8
+SERO-0241c-色白美肌人気熟女中出  七海ひさ代,http://videocdn.quweikm.com:8091/20180730/SERO-0241c/index.m3u8
+SDMU-162c-成熟姉裸觸,http://videocdn.quweikm.com:8091/20180730/SDMU-162c/index.m3u8
+SDMU-115c-ー號晝休,http://videocdn.quweikm.com:8091/20180730/SDMU-115c/index.m3u8
+SERO-0237c-極上の美女中出  伊藤りな,http://videocdn.quweikm.com:8091/20180730/SERO-0237c/index.m3u8
+SHE-029c-夜勤熟女看護師,http://videocdn.quweikm.com:8091/20180730/SHE-029c/index.m3u8
+SDMU-100c-傢族女性私人,http://videocdn.quweikm.com:8091/20180730/SDMU-100c/index.m3u8
+SERO-0234c-媚薬授業中  西川りおん,http://videocdn.quweikm.com:8091/20180730/SERO-0234c/index.m3u8
+SHE-028c-素人妻中出,http://videocdn.quweikm.com:8091/20180730/SHE-028c/index.m3u8
+SDMU-088c-SOD女子社員宣伝部,http://videocdn.quweikm.com:8091/20180730/SDMU-088c/index.m3u8
+SDMU-173c- 街中聲掛心優,http://videocdn.quweikm.com:8091/20180730/SDMU-173c/index.m3u8
+SGV-013c-全裸同級生,http://videocdn.quweikm.com:8091/20180730/SGV-013c/index.m3u8
+SGSR-137c-憧女性社員,http://videocdn.quweikm.com:8091/20180730/SGSR-137c/index.m3u8
+SDMU-171c-真正中出解禁 浜崎真緒,http://videocdn.quweikm.com:8091/20180730/SDMU-171c/index.m3u8
+SGV-008c-巨乳捜査官 原千草,http://videocdn.quweikm.com:8091/20180730/SGV-008c/index.m3u8
+SGA-012c-細身巨乳過頭身人妻 松嶋葵,http://videocdn.quweikm.com:8091/20180730/SGA-012c/index.m3u8
+SHE-064c-清純派素人系店員,http://videocdn.quweikm.com:8091/20180730/SHE-064c/index.m3u8
+SGV-007c-姉性教育 本田莉子,http://videocdn.quweikm.com:8091/20180730/SGV-007c/index.m3u8
+SGA-004c- 中出不倫溫泉,http://videocdn.quweikm.com:8091/20180730/SGA-004c/index.m3u8
+SHE-033c-巨乳水着,http://videocdn.quweikm.com:8091/20180730/SHE-033c/index.m3u8
+SHE-086c-可愛美少女,http://videocdn.quweikm.com:8091/20180730/SHE-086c/index.m3u8
+SDMU-170c- 小柄美少女巨體,http://videocdn.quweikm.com:8091/20180730/SDMU-170c/index.m3u8
+SGV-006c-禁斷介護 桜木えみ香,http://videocdn.quweikm.com:8091/20180730/SGV-006c/index.m3u8
+SERO-0273c-中出企画 篠田あゆみ,http://videocdn.quweikm.com:8091/20180730/SERO-0273c/index.m3u8
+SGV-003c-巨乳診察 橘優花,http://videocdn.quweikm.com:8091/20180730/SGV-003c/index.m3u8
+SDMU-181c-男湯生挿入,http://videocdn.quweikm.com:8091/20180730/SDMU-181c/index.m3u8
+SHE-002c-貧乳女子,http://videocdn.quweikm.com:8091/20180730/SHE-002c/index.m3u8
+SHE-071c-悶絶寢取,http://videocdn.quweikm.com:8091/20180730/SHE-071c/index.m3u8
+SHE-001c-鑑賞會素人娘,http://videocdn.quweikm.com:8091/20180730/SHE-001c/index.m3u8
+SHE-066c-街角素人巨乳娘,http://videocdn.quweikm.com:8091/20180730/SHE-066c/index.m3u8
+SHKD-521c-隣人狙人妻 望月加奈,http://videocdn.quweikm.com:8091/20180730/SHKD-521c/index.m3u8
+SHE-065c-AV女優初野外羞恥,http://videocdn.quweikm.com:8091/20180730/SHE-065c/index.m3u8
+SHE-116c-撮影拒否素人娘,http://videocdn.quweikm.com:8091/20180730/SHE-116c/index.m3u8
+SHE-024c- 美人妻予備軍,http://videocdn.quweikm.com:8091/20180730/SHE-024c/index.m3u8
+SHE-094c-熟女恥鑑賞,http://videocdn.quweikm.com:8091/20180730/SHE-094c/index.m3u8
+SHE-010c-鑑賞會100発射100人,http://videocdn.quweikm.com:8091/20180730/SHE-010c/index.m3u8
+SHE-091c-無沙汰熟女,http://videocdn.quweikm.com:8091/20180730/SHE-091c/index.m3u8
+SHE-149c-潮吹女子,http://videocdn.quweikm.com:8091/20180730/SHE-149c/index.m3u8
+SHE-025c-仲良母娘親子,http://videocdn.quweikm.com:8091/20180730/SHE-025c/index.m3u8
+SHE-130c-溫泉旅行中,http://videocdn.quweikm.com:8091/20180730/SHE-130c/index.m3u8
+SHKD-520c-女子校生監禁凌辱  成宮ルリ,http://videocdn.quweikm.com:8091/20180730/SHKD-520c/index.m3u8
+SHE-009c-無垢熟女恥,http://videocdn.quweikm.com:8091/20180730/SHE-009c/index.m3u8
+SHKD-519c-被虐傢庭教師  仁美まどか,http://videocdn.quweikm.com:8091/20180730/SHKD-519c/index.m3u8
+SHKD-518c-人妻強姦単体作品,http://videocdn.quweikm.com:8091/20180730/SHKD-518c/index.m3u8
+SHE-153c-雰囲気親子,http://videocdn.quweikm.com:8091/20180730/SHE-153c/index.m3u8
+SHE-138c-居酒屋相席女子,http://videocdn.quweikm.com:8091/20180730/SHE-138c/index.m3u8
+SHE-119c-無垢熟女恥,http://videocdn.quweikm.com:8091/20180730/SHE-119c/index.m3u8
+SHE-137c-積極系激娘,http://videocdn.quweikm.com:8091/20180730/SHE-137c/index.m3u8
+SHE-117c-人妻中出,http://videocdn.quweikm.com:8091/20180730/SHE-117c/index.m3u8
+SHE-126c-素人娘美人局,http://videocdn.quweikm.com:8091/20180730/SHE-126c/index.m3u8
+SHE-136c-口説淫亂妻,http://videocdn.quweikm.com:8091/20180730/SHE-136c/index.m3u8
+SHKD-552c-究極の艶技 周防ゆきこ,http://videocdn.quweikm.com:8091/20180730/SHKD-552c/index.m3u8
+SHE-125c- 謝禮釣素人娘,http://videocdn.quweikm.com:8091/20180730/SHE-125c/index.m3u8
+SHE-135c-天然系女子,http://videocdn.quweikm.com:8091/20180730/SHE-135c/index.m3u8
+SHKD-532c-女子校生監禁凌辱 佳苗るか,http://videocdn.quweikm.com:8091/20180730/SHKD-532c/index.m3u8
+SMT-014c-富裕層の妻 田崎みき,http://videocdn.quweikm.com:8091/20180730/SMT-014c/index.m3u8
+SHE-131c-色気垂流,http://videocdn.quweikm.com:8091/20180730/SHE-131c/index.m3u8
+SHKD-530c-被虐の傢庭教師  KAORI,http://videocdn.quweikm.com:8091/20180730/SHKD-530c/index.m3u8
+SMA-763c-好奇心旺盛女子校生,http://videocdn.quweikm.com:8091/20180730/SMA-763c/index.m3u8
+SHE-123c-美乳素人,http://videocdn.quweikm.com:8091/20180730/SHE-123c/index.m3u8
+SHE-148c-彼氏可愛,http://videocdn.quweikm.com:8091/20180730/SHE-148c/index.m3u8
+SMA-746c-巨乳保母 浜崎真緒,http://videocdn.quweikm.com:8091/20180730/SMA-746c/index.m3u8
+SHKD-553c-恥辱教育実習生  あやね遙菜,http://videocdn.quweikm.com:8091/20180730/SHKD-553c/index.m3u8
+SHE-144c-働制服妻,http://videocdn.quweikm.com:8091/20180730/SHE-144c/index.m3u8
+SMA-745c-軟體研修汗 雫月こと,http://videocdn.quweikm.com:8091/20180730/SMA-745c/index.m3u8
+SHE-122c-絶頂噴射潮吹人妻,http://videocdn.quweikm.com:8091/20180730/SHE-122c/index.m3u8
+SHE-142c-不倫人妻戀愛,http://videocdn.quweikm.com:8091/20180730/SHE-142c/index.m3u8
+SHE-124c-究極選択,http://videocdn.quweikm.com:8091/20180730/SHE-124c/index.m3u8
+SHE-121c-鑑賞會素人娘100人,http://videocdn.quweikm.com:8091/20180730/SHE-121c/index.m3u8
+SHE-139c-股間刺激,http://videocdn.quweikm.com:8091/20180730/SHE-139c/index.m3u8
+SNIS-300c-痴女単体作品淫語,http://videocdn.quweikm.com:8091/20180730/SNIS-300c/index.m3u8
+SHE-127c-激接客娘,http://videocdn.quweikm.com:8091/20180730/SHE-127c/index.m3u8
+SIN-002c-新人焼屋店員 柏倉玲華,http://videocdn.quweikm.com:8091/20180730/SIN-002c/index.m3u8
+SHKD-597c-建物診断の技術者 本田莉子,http://videocdn.quweikm.com:8091/20180730/SHKD-597c/index.m3u8
+SIV-012c-美少女達,http://videocdn.quweikm.com:8091/20180730/SIV-012c/index.m3u8
+SHKD-557c-新聞配達業 かすみ果穂,http://videocdn.quweikm.com:8091/20180730/SHKD-557c/index.m3u8
+SHL-017c-美少女即,http://videocdn.quweikm.com:8091/20180730/SHL-017c/index.m3u8
+SITU-012c-子供入學受験,http://videocdn.quweikm.com:8091/20180730/SITU-012c/index.m3u8
+SNIS-292c-女子校生放課後輪姦教室 涼木みらい,http://videocdn.quweikm.com:8091/20180730/SNIS-292c/index.m3u8
+SNIS-343c-人妻乱交  白石悠,http://videocdn.quweikm.com:8091/20180730/SNIS-343c/index.m3u8
+SNIS-238c-巨乳単体作品淫乱,http://videocdn.quweikm.com:8091/20180730/SNIS-238c/index.m3u8
+SNIS-341c-OL巨乳単体作品 奧田咲,http://videocdn.quweikm.com:8091/20180730/SNIS-341c/index.m3u8
+SNIS-236c-美少女乱交,http://videocdn.quweikm.com:8091/20180730/SNIS-236c/index.m3u8
+SNIS-303c-美少女乱交単体作品顔射 宇佐美まい,http://videocdn.quweikm.com:8091/20180730/SNIS-303c/index.m3u8
+SNIS-234c-羞恥美少女野外 小島みなみ,http://videocdn.quweikm.com:8091/20180730/SNIS-234c/index.m3u8
+SNIS-302c-海女極上濡 新山らん,http://videocdn.quweikm.com:8091/20180730/SNIS-302c/index.m3u8
+SMA-733c-被虐催眠放題中,http://videocdn.quweikm.com:8091/20180730/SMA-733c/index.m3u8
+SMA-737c-10発大亂交 愛実れい,http://videocdn.quweikm.com:8091/20180730/SMA-737c/index.m3u8
+SNIS-340c-羞恥OL,http://videocdn.quweikm.com:8091/20180730/SNIS-340c/index.m3u8
+SNIS-339c-癡漢願望の女 小島みなみ,http://videocdn.quweikm.com:8091/20180730/SNIS-339c/index.m3u8
+SMA-726c-顔面騎乗,http://videocdn.quweikm.com:8091/20180730/SMA-726c/index.m3u8
+SNIS-338c-女上司牝奴隷 明日花キララ,http://videocdn.quweikm.com:8091/20180730/SNIS-338c/index.m3u8
+SMA-706c-花屋美少女,http://videocdn.quweikm.com:8091/20180730/SMA-706c/index.m3u8
+SNIS-322c-全裸の管理人 白石悠,http://videocdn.quweikm.com:8091/20180730/SNIS-322c/index.m3u8
+SNIS-321c-美少女大亂交 宇佐美まい,http://videocdn.quweikm.com:8091/20180730/SNIS-321c/index.m3u8
+SNIS-320c-黒人男優巨乳 新山らん,http://videocdn.quweikm.com:8091/20180730/SNIS-320c/index.m3u8
+SDMU-077c-真正中出,http://videocdn.quweikm.com:8091/20180730/SDMU-077c/index.m3u8
+SNIS-319c-癡漢願望の女  奧田咲,http://videocdn.quweikm.com:8091/20180730/SNIS-319c/index.m3u8
+SDMU-069c-拘束媚薬,http://videocdn.quweikm.com:8091/20180730/SDMU-069c/index.m3u8
+SHKD-559c-情事 あやね遙菜,http://videocdn.quweikm.com:8091/20180730/SHKD-559c/index.m3u8
+SNIS-312c-美少女単体作品3P 涼木みらい,http://videocdn.quweikm.com:8091/20180730/SNIS-312c/index.m3u8
+SHKD-609c-女子大生淫辱白書  水谷心音,http://videocdn.quweikm.com:8091/20180730/SHKD-609c/index.m3u8
+SHKD-556c-暴虐OL 本田莉子,http://videocdn.quweikm.com:8091/20180730/SHKD-556c/index.m3u8
+SDMU-064c-美人陸上部員,http://videocdn.quweikm.com:8091/20180730/SDMU-064c/index.m3u8
+SHKD-606c-強姦 本田莉子,http://videocdn.quweikm.com:8091/20180730/SHKD-606c/index.m3u8
+SHKD-554c-凌辱 桜井あゆ,http://videocdn.quweikm.com:8091/20180730/SHKD-554c/index.m3u8
+SDMU-058c-最年少宣伝部,http://videocdn.quweikm.com:8091/20180730/SDMU-058c/index.m3u8
+SHKD-600c-脫獄者 夏目彩春,http://videocdn.quweikm.com:8091/20180730/SHKD-600c/index.m3u8
+SHKD-550c-強姦 神ユキ,http://videocdn.quweikm.com:8091/20180730/SHKD-550c/index.m3u8
+SDMU-046c-彼氏目前浮気,http://videocdn.quweikm.com:8091/20180730/SDMU-046c/index.m3u8
+SHKD-599c-被虐の神ユキ,http://videocdn.quweikm.com:8091/20180730/SHKD-599c/index.m3u8
+SHKD-549c-脫獄者 西野翔,http://videocdn.quweikm.com:8091/20180730/SHKD-549c/index.m3u8
+SNIS-325c-美少女巨乳単体作品潮吹,http://videocdn.quweikm.com:8091/20180730/SNIS-325c/index.m3u8
+SHKD-595c-美人受付嬢 石原莉奈,http://videocdn.quweikm.com:8091/20180730/SHKD-595c/index.m3u8
+SHKD-548c-被虐の傢庭教師8 羽田あい,http://videocdn.quweikm.com:8091/20180730/SHKD-548c/index.m3u8
+SNIS-323c-巨乳強姦 桜井彩,http://videocdn.quweikm.com:8091/20180730/SNIS-323c/index.m3u8
+SHKD-590c-強姦 夏目優希,http://videocdn.quweikm.com:8091/20180730/SHKD-590c/index.m3u8
+SHKD-545c-日常凌辱 Ray,http://videocdn.quweikm.com:8091/20180730/SHKD-545c/index.m3u8
+SHE-053c-一般男女謝禮,http://videocdn.quweikm.com:8091/20180730/SHE-053c/index.m3u8
+SHKD-583c-女教師 暴虐の放課後 立花美涼,http://videocdn.quweikm.com:8091/20180730/SHKD-583c/index.m3u8
+SHKD-544c-不動産賃貸業の男 市川まほ,http://videocdn.quweikm.com:8091/20180730/SHKD-544c/index.m3u8
+SHKD-582c-淫辱 本城小百合,http://videocdn.quweikm.com:8091/20180730/SHKD-582c/index.m3u8
+SHKD-538c-夫の目の前侵犯運命の再會 二宮沙樹,http://videocdn.quweikm.com:8091/20180730/SHKD-538c/index.m3u8
+SHKD-528c-廃品回収女 長谷川美紅,http://videocdn.quweikm.com:8091/20180730/SHKD-528c/index.m3u8
+SHKD-524c-女子校生監禁凌辱 鬼畜輪姦109 黒川ゆら,http://videocdn.quweikm.com:8091/20180730/SHKD-524c/index.m3u8
+SHKD-534c-夫の目の前侵犯義兄の欲望II 長谷川みく,http://videocdn.quweikm.com:8091/20180730/SHKD-534c/index.m3u8
+SDMU-192c-SOD女子社員 阿部美希...,http://videocdn.quweikm.com:8091/20180730/SDMU-192c/index.m3u8
+SHKD-523c-美畜同好會 強姦標的 List.01  仁美まどか,http://videocdn.quweikm.com:8091/20180730/SHKD-523c/index.m3u8
+SDMU-054c-女上司×男性部下 Part2,http://videocdn.quweikm.com:8091/20180730/SDMU-054c/index.m3u8
+SHKD-437c-夫の目の前侵犯美乳 桜井あみ,http://videocdn.quweikm.com:8091/20180730/SHKD-437c/index.m3u8
+SNIS-330c-秘密捜査官の女 潛入任務 藍沢潤,http://videocdn.quweikm.com:8091/20180730/SNIS-330c/index.m3u8
+SHE-075c-寢盜張感MAX！,http://videocdn.quweikm.com:8091/20180730/SHE-075c/index.m3u8
+SNIS-329c-OL口便器 星野ナミ,http://videocdn.quweikm.com:8091/20180730/SNIS-329c/index.m3u8
+SGV-011c-大好 西篠カレン,http://videocdn.quweikm.com:8091/20180730/SGV-011c/index.m3u8
+SNIS-301c-濃密結合編 奧田咲,http://videocdn.quweikm.com:8091/20180730/SNIS-301c/index.m3u8
+SGRS-010c-新説墮落論 女教師篇,http://videocdn.quweikm.com:8091/20180730/SGRS-010c/index.m3u8
+SNIS-299c-全裸の傢庭教師 きみの歩美,http://videocdn.quweikm.com:8091/20180730/SNIS-299c/index.m3u8
+SERO-0211c-媚薬 みなせ優夏,http://videocdn.quweikm.com:8091/20180730/SERO-0211c/index.m3u8
+SINO-263c-盜撮 契約成立の営業,http://videocdn.quweikm.com:8091/20180730/SINO-263c/index.m3u8
+SERO-0210c-美乳×保坂えり,http://videocdn.quweikm.com:8091/20180730/SERO-0210c/index.m3u8
+SDMU-025c-女上司恋男性部下,http://videocdn.quweikm.com:8091/20180730/SDMU-025c/index.m3u8
+SDNM-043c-清楚系人妻 谷原希美 38歳,http://videocdn.quweikm.com:8091/20180730/SDNM-043c/index.m3u8
+SDMU-024c-大學水泳部競泳水著,http://videocdn.quweikm.com:8091/20180730/SDMU-024c/index.m3u8
+SDMU-019c-AV業界女子社員,http://videocdn.quweikm.com:8091/20180730/SDMU-019c/index.m3u8
+SDMU-018c-性感女子入社   市川まさみ,http://videocdn.quweikm.com:8091/20180730/SDMU-018c/index.m3u8
+SDMU-001c-連続射精中出,http://videocdn.quweikm.com:8091/20180730/SDMU-001c/index.m3u8
+SDDE-391c-美人看護師  高山えみり,http://videocdn.quweikm.com:8091/20180730/SDDE-391c/index.m3u8
+SDMU-028c-童貞の練習相手,http://videocdn.quweikm.com:8091/20180730/SDMU-028c/index.m3u8
+SDDE-390c-男性器真正中出  水野朝陽,http://videocdn.quweikm.com:8091/20180730/SDDE-390c/index.m3u8
+SDDE-350c-背面性交ク  大槻ひびき,http://videocdn.quweikm.com:8091/20180730/SDDE-350c/index.m3u8
+SDDE-385c-毎朝連続中出,http://videocdn.quweikm.com:8091/20180730/SDDE-385c/index.m3u8
+SDMT-999c-社內健康診斷,http://videocdn.quweikm.com:8091/20180730/SDMT-999c/index.m3u8
+SDMU-036c-健康的小麥肌,http://videocdn.quweikm.com:8091/20180730/SDMU-036c/index.m3u8
+SDDE-348c-溫泉旅館,http://videocdn.quweikm.com:8091/20180730/SDDE-348c/index.m3u8
+SDMT-990c-AV女優感謝祭  浜崎真緒,http://videocdn.quweikm.com:8091/20180730/SDMT-990c/index.m3u8
+SDMU-035c-可愛現役女子大生,http://videocdn.quweikm.com:8091/20180730/SDMU-035c/index.m3u8
+SDDE-347c-男子高生教室授業,http://videocdn.quweikm.com:8091/20180730/SDDE-347c/index.m3u8
+SDMT-988c-自慢の彼女真正中出,http://videocdn.quweikm.com:8091/20180730/SDMT-988c/index.m3u8
+SDMU-034c-人妻不倫企画中出,http://videocdn.quweikm.com:8091/20180730/SDMU-034c/index.m3u8
+SDDE-344c-新感覚誕生,http://videocdn.quweikm.com:8091/20180730/SDDE-344c/index.m3u8
+SDMT-958c-露出変態願望,http://videocdn.quweikm.com:8091/20180730/SDMT-958c/index.m3u8
+SDMU-031c-男性の暴発改善,http://videocdn.quweikm.com:8091/20180730/SDMU-031c/index.m3u8
+SDMU-010c-傢族近親相姦,http://videocdn.quweikm.com:8091/20180730/SDMU-010c/index.m3u8
+SDDE-363c-性交事務所,http://videocdn.quweikm.com:8091/20180730/SDDE-363c/index.m3u8
+SDMU-029c-職業色童貞,http://videocdn.quweikm.com:8091/20180730/SDMU-029c/index.m3u8
+SDMU-008c-溫泉美巨乳女子學生,http://videocdn.quweikm.com:8091/20180730/SDMU-008c/index.m3u8
+SDDE-355c-制服下著全裸,http://videocdn.quweikm.com:8091/20180730/SDDE-355c/index.m3u8
+SDMU-043c-素人泥酔中出,http://videocdn.quweikm.com:8091/20180730/SDMU-043c/index.m3u8
+SDMU-006c-私の妄想葉   永井みひな,http://videocdn.quweikm.com:8091/20180730/SDMU-006c/index.m3u8
+SDDE-352c-近親相姦,http://videocdn.quweikm.com:8091/20180730/SDDE-352c/index.m3u8
+SDMU-005c-完全主観女目線 小谷みのり,http://videocdn.quweikm.com:8091/20180730/SDMU-005c/index.m3u8
+SDDE-351c-性交定期精液検査,http://videocdn.quweikm.com:8091/20180730/SDDE-351c/index.m3u8
+SDMU-002c-膣內射精中出,http://videocdn.quweikm.com:8091/20180730/SDMU-002c/index.m3u8
+SDDE-376c-快楽美人三姉妹  波多野結衣,http://videocdn.quweikm.com:8091/20180730/SDDE-376c/index.m3u8
+NSPS-478c 人妻の和姦体験談 。 美泉咲,http://videocdn.quweikm.com:8091/20180704/BMeLkYvT/index.m3u8
+SDDE-384c-人気淫乱企画,http://videocdn.quweikm.com:8091/20180730/SDDE-384c/index.m3u8
+SW-541c-島娘初体験  南果菜,http://videocdn.quweikm.com:8091/20180623/wKhH0y5v/index.m3u8
+NSPS-477c 妻の肉体～ 城崎桐子,http://videocdn.quweikm.com:8091/20180704/WKklzw0k/index.m3u8
+SW-539c-同窓会初恋女人妻 小島みなみ,http://videocdn.quweikm.com:8091/20180623/tz47AXap/index.m3u8
+SW-538c-家族全員性欲全開,http://videocdn.quweikm.com:8091/20180623/5NTCcSaI/index.m3u8
+HQIS-010c 昭和の冬の猥褻図画 京野美麗,http://videocdn.quweikm.com:8091/20180704/d0Z9glAd/index.m3u8
+SW-533c-近所夫婦交換,http://videocdn.quweikm.com:8091/20180623/68gq04Vf/index.m3u8
+HAWA-074c 他人棒SEX 神山なな,http://videocdn.quweikm.com:8091/20180704/oWeDvFtP/index.m3u8
+SUPA-294c-東京性交 HINANO,http://videocdn.quweikm.com:8091/20180623/OS8Z0Psz/index.m3u8
+XVSR-331c-姉弟変態中出性活 かなで自由,http://videocdn.quweikm.com:8091/20180623/HyAut6p6/index.m3u8
+STAR-874c-飛鳥妊娠淫語,http://videocdn.quweikm.com:8091/20180623/m1baE7bR/index.m3u8
+VOSS-079c-妊活月禁欲生活,http://videocdn.quweikm.com:8091/20180623/ne2v5iol/index.m3u8
+STAR-873c-市 超敏感絶頂,http://videocdn.quweikm.com:8091/20180623/n6csTqCp/index.m3u8
+UMD-622c-奥様達体験談,http://videocdn.quweikm.com:8091/20180623/fipXwZN0/index.m3u8
+STAR-865c-大家族近親相姦6P乱交,http://videocdn.quweikm.com:8091/20180623/CsVFdlHO/index.m3u8
+TNB-013c-年差39歳夫婦誕生会乱交,http://videocdn.quweikm.com:8091/20180623/pQXJaSD4/index.m3u8
+SSNI-138c-側室美女完全実写化,http://videocdn.quweikm.com:8091/20180623/uSIxEV6e/index.m3u8
+SSNI-136c-揉揺舐吸乳  松本菜奈実,http://videocdn.quweikm.com:8091/20180623/rbirXTH6/index.m3u8
+SSNI-134c-豊満巨尻妻 柳みゆう,http://videocdn.quweikm.com:8091/20180623/Wmi3JQns/index.m3u8
+SSNI-132c-唾液涎全身舐  橋本ありな,http://videocdn.quweikm.com:8091/20180623/66DWkzVj/index.m3u8
+SNIS-480c-発情性交 菜々葉,http://videocdn.quweikm.com:8091/20180623/o4dzIxTK/index.m3u8
+SSNI-130c-大乱交解禁,http://videocdn.quweikm.com:8091/20180623/KJkSNXq3/index.m3u8
+SNIS-410c-痴漢願望女  美里有紗,http://videocdn.quweikm.com:8091/20180623/mxOWAdgO/index.m3u8
+SMA-798c-痴女風俗  ERIKA,http://videocdn.quweikm.com:8091/20180623/oE79coKx/index.m3u8
+SSNI-126c-爆乳女教師,http://videocdn.quweikm.com:8091/20180623/QXLUQ0Zj/index.m3u8
+SPRD-1000c-代理出産母 風間ゆみ,http://videocdn.quweikm.com:8091/20180623/2YkkOHZ4/index.m3u8
+SNIS-509c-美乳  緒川りお,http://videocdn.quweikm.com:8091/20180623/ev0H1rHm/index.m3u8
+SSNI-125c-爆発痙攣性欲剥出,http://videocdn.quweikm.com:8091/20180623/xgBFKjSW/index.m3u8
+SOAV-038c-人妻浮気心 宝生リリー,http://videocdn.quweikm.com:8091/20180623/apvzRPOd/index.m3u8
+SMA-791c-女部長痴女 星野あかり,http://videocdn.quweikm.com:8091/20180623/bnd2Rg03/index.m3u8
+SSNI-122c-舌絡接吻発情性交 吉高寧々,http://videocdn.quweikm.com:8091/20180623/gjvHV71y/index.m3u8
+SOAV-037c-人妻浮気心 星奈あい,http://videocdn.quweikm.com:8091/20180623/FJvEkpf3/index.m3u8
+SMA-784c-疯狂痴女 飯島くうが,http://videocdn.quweikm.com:8091/20180623/yTLuBSMA/index.m3u8
+SSNI-117c-超痴女側室美女,http://videocdn.quweikm.com:8091/20180623/nDNlmxur/index.m3u8
+SNIS-478c-愛求婚約者編 宇多田みか,http://videocdn.quweikm.com:8091/20180623/MO0XUz2W/index.m3u8
+SIS-028c-愚兄弟犯姉  鈴原エミリ,http://videocdn.quweikm.com:8091/20180623/fIkswdoK/index.m3u8
+SSNI-113c-肌島娘初体験 南果菜,http://videocdn.quweikm.com:8091/20180623/iZpyjhF9/index.m3u8
+SNIS-477c-処理会社女社長  夢乃あいか,http://videocdn.quweikm.com:8091/20180623/odbrIpLP/index.m3u8
+SILK-060c-Addictive Triangular,http://videocdn.quweikm.com:8091/20180623/uOdgpb6o/index.m3u8
+SSNI-032c-自制放心絶頂 小島みなみ,http://videocdn.quweikm.com:8091/20180623/S0NaBGXm/index.m3u8
+SNIS-475c-宴会  桜井彩,http://videocdn.quweikm.com:8091/20180623/02MfnXPR/index.m3u8
+SNIS-488c-美乳  葵,http://videocdn.quweikm.com:8091/20180623/39i6R5o1/index.m3u8
+SNIS-486c-婚活の誘惑 星野ナミ,http://videocdn.quweikm.com:8091/20180623/1dwiyvOg/index.m3u8
+SNIS-450c-処理会社女社長  奥田咲,http://videocdn.quweikm.com:8091/20180623/PrloM9i4/index.m3u8
+SNIS-432c-濡体質汗OL  夢乃あいか,http://videocdn.quweikm.com:8091/20180623/E5LybjX7/index.m3u8
+SNIS-439c-売春  星野ナミ,http://videocdn.quweikm.com:8091/20180623/WTkfeElf/index.m3u8
+SNIS-431c-交体液濃密 吉川あいみ,http://videocdn.quweikm.com:8091/20180623/8pbwQI08/index.m3u8
+SILK-058c-下体,http://videocdn.quweikm.com:8091/20180623/nCR1kAPJ/index.m3u8
+SHKD-685c-被虐家庭教師 西川ゆい,http://videocdn.quweikm.com:8091/20180623/b6soX8zu/index.m3u8
+SNIS-428c-開発の日  奥田咲,http://videocdn.quweikm.com:8091/20180623/jyWBNSFq/index.m3u8
+SHE-212c-淫乱母娘,http://videocdn.quweikm.com:8091/20180623/s38bkZYz/index.m3u8
+SHKD-680c-生徒輪姦女教師 夏目彩春,http://videocdn.quweikm.com:8091/20180623/OD8fmOKK/index.m3u8
+SHE-230c-若男変態,http://videocdn.quweikm.com:8091/20180623/caTqEIoS/index.m3u8
+SHKD-638c-特務捜査官  夏目彩春,http://videocdn.quweikm.com:8091/20180623/8tmJQWyy/index.m3u8
+SHE-227c-無垢熟女,http://videocdn.quweikm.com:8091/20180623/mt5j5yJE/index.m3u8
+SHKD-637c-脱獄者 三浦あいか,http://videocdn.quweikm.com:8091/20180623/iJdWJwZg/index.m3u8
+SHE-216c-人妻不倫温泉旅行,http://videocdn.quweikm.com:8091/20180623/73vp3kXZ/index.m3u8
+SHKD-635c-夫目前犯  濡れた花 川上奈々美,http://videocdn.quweikm.com:8091/20180623/6vvLDpjK/index.m3u8
+SHE-215c-本気性交美人妻中出,http://videocdn.quweikm.com:8091/20180623/1JLiROn4/index.m3u8
+SHKD-628c-課金女 星野千紗,http://videocdn.quweikm.com:8091/20180623/JzS4b7lq/index.m3u8
+SHE-211c-気弱女子発情,http://videocdn.quweikm.com:8091/20180623/IVHnuSmt/index.m3u8
+SHKD-626c-脱獄者 春菜はな,http://videocdn.quweikm.com:8091/20180623/kYYeVoZW/index.m3u8
+SGRS-019c-淫欲望女,http://videocdn.quweikm.com:8091/20180617/hEEepy6a/index.m3u8
+SHKD-625c-女子輪姦   夏希みなみ,http://videocdn.quweikm.com:8091/20180623/pCkwMs8T/index.m3u8
+SGRS-016c-寝旅館家族,http://videocdn.quweikm.com:8091/20180617/lq3lLTZi/index.m3u8
+SHKD-614c-新人性虐  美神あや,http://videocdn.quweikm.com:8091/20180623/XNUyHWdz/index.m3u8
+SGA-107c-最高中出性交,http://videocdn.quweikm.com:8091/20180617/WxnuZaXo/index.m3u8
+SGA-034c-従順過人妻  桃瀬ゆり,http://videocdn.quweikm.com:8091/20180617/0mvIj3e4/index.m3u8
+SHE-194c-清楚巨乳奥様,http://videocdn.quweikm.com:8091/20180617/050EeAOP/index.m3u8
+SHE-187c-出張美熟女,http://videocdn.quweikm.com:8091/20180617/oWxCN3mN/index.m3u8
+SGA-030c-痙攣人妻 大石香織,http://videocdn.quweikm.com:8091/20180617/zHIhTHeI/index.m3u8
+SHE-186c-人妻極秘中出,http://videocdn.quweikm.com:8091/20180617/uYHpyA6p/index.m3u8
+SERO-399c-中出性交AV女優,http://videocdn.quweikm.com:8091/20180617/8QsdVhiw/index.m3u8
+SHE-183c-奥様密着個室,http://videocdn.quweikm.com:8091/20180617/jp9EC7w2/index.m3u8
+SERO-0290-義父嫁相姦  武藤あやかc,http://videocdn.quweikm.com:8091/20180617/Iml6kzpz/index.m3u8
+SHE-210c-挑戦嬢気生挿入,http://videocdn.quweikm.com:8091/20180617/ssm8hRhW/index.m3u8
+SERO-0289c-淫乱女変貌,http://videocdn.quweikm.com:8091/20180617/jw4ZyGrU/index.m3u8
+SHE-209c-鑑賞会恥素人娘,http://videocdn.quweikm.com:8091/20180617/BW8g3Dxx/index.m3u8
+SERO-0285c-抜発中出  紺野ひかる,http://videocdn.quweikm.com:8091/20180617/YG8xw02R/index.m3u8
+SHE-206c-無沙汰熟女中出,http://videocdn.quweikm.com:8091/20180617/fWjwpLF6/index.m3u8
+SHE-205c-密会欲求満人妻,http://videocdn.quweikm.com:8091/20180617/tpve3nSN/index.m3u8
+SHE-204c-夜勤中人妻看護師,http://videocdn.quweikm.com:8091/20180617/4QgXv4oB/index.m3u8
+SHE-198c-勇気差15歳以上可愛,http://videocdn.quweikm.com:8091/20180617/Mdyl7wbr/index.m3u8
+XRW-528c-早漏妹排卵日子作生活 君色華奈,http://videocdn.quweikm.com:8091/20181001/XRW-528c/index.m3u8
+YST-156c-今日義父玩具,http://videocdn.quweikm.com:8091/20181001/YST-156c/index.m3u8
+WANZ-723c-現役女子大生有名,http://videocdn.quweikm.com:8091/20181001/WANZ-723c/index.m3u8
+YST-155c-人妻単体作品中出,http://videocdn.quweikm.com:8091/20181001/YST-155c/index.m3u8
+WANZ-721c-羞恥美少女尻,http://videocdn.quweikm.com:8091/20181001/WANZ-721c/index.m3u8
+YRH-154Bc-巨乳素人潮吹,http://videocdn.quweikm.com:8091/20181001/YRH-154Bc/index.m3u8
+YAL-103c-巨乳近親相姦単体作品寝取  真白ここ,http://videocdn.quweikm.com:8091/20181001/YAL-103c/index.m3u8
+YRH-154Ac-巨乳素人潮吹,http://videocdn.quweikm.com:8091/20181001/YRH-154Ac/index.m3u8
+XVSR-333Bc-淫僕女神,http://videocdn.quweikm.com:8091/20181001/XVSR-333Bc/index.m3u8
+WANZ-720c-全然餘裕,http://videocdn.quweikm.com:8091/20181001/WANZ-720c/index.m3u8
+XVSR-333Ac-淫僕女神,http://videocdn.quweikm.com:8091/20181001/XVSR-333Ac/index.m3u8
+WANZ-719c-兄貴嫁化契約成立 君島みお,http://videocdn.quweikm.com:8091/20181001/WANZ-719c/index.m3u8
+XVSR-332c-動畫配信奇跡素人,http://videocdn.quweikm.com:8091/20181001/XVSR-332c/index.m3u8
+WANZ-716c-美乳美少女  麻倉憂,http://videocdn.quweikm.com:8091/20181001/WANZ-716c/index.m3u8
+XRW-529c-乙女倶楽部  麻裡梨夏,http://videocdn.quweikm.com:8091/20181001/XRW-529c/index.m3u8
+WANZ-714c-単体作品調教,http://videocdn.quweikm.com:8091/20181001/WANZ-714c/index.m3u8
+ZUKO-136c-妹友達兄自宅占拠,http://videocdn.quweikm.com:8091/20181001/ZUKO-136c/index.m3u8
+WANZ-682c-ニ美少女単体作品寝取 愛瀬美希,http://videocdn.quweikm.com:8091/20181001/WANZ-682c/index.m3u8
+VRTM-375c-高飛車女上司,http://videocdn.quweikm.com:8091/20181001/VRTM-375c/index.m3u8
+WANZ-662c-娘女子杭打騎乗位中出 河南実裡,http://videocdn.quweikm.com:8091/20181001/WANZ-662c/index.m3u8
+VRTM-374c-股間愛液,http://videocdn.quweikm.com:8091/20181001/VRTM-374c/index.m3u8
+VOSS-075c-彼女にフラれた僕を不憫に思った母ちゃんとコンドームをする約束でセックス！ゴ...,http://videocdn.quweikm.com:8091/20181001/VOSS-075c/index.m3u8
+VRTM-373c-巨乳教師生徒,http://videocdn.quweikm.com:8091/20181001/VRTM-373c/index.m3u8
+VENU-764c-定年退職  鈴木さとみ,http://videocdn.quweikm.com:8091/20181001/VENU-764c/index.m3u8
+VRTM-372c-無防備複数話孕,http://videocdn.quweikm.com:8091/20181001/VRTM-372c/index.m3u8
+VENU-755c-熟女痴女 若菜奈央,http://videocdn.quweikm.com:8091/20181001/VENU-755c/index.m3u8
+VRTM-329c-豊満複数話巨尻競泳,http://videocdn.quweikm.com:8091/20181001/VRTM-329c/index.m3u8
+VENU-743c-巨乳義母熟女人妻巨乳近親相姦単体作品中出,http://videocdn.quweikm.com:8091/20181001/VENU-743c/index.m3u8
+VRTM-327Bc-母性溢巨乳,http://videocdn.quweikm.com:8091/20181001/VRTM-327Bc/index.m3u8
+VEC-319c-熟女痴女人妻巨乳単体作品中出 寶田もなみ,http://videocdn.quweikm.com:8091/20181001/VEC-319c/index.m3u8
+VRTM-327Ac-母性溢巨乳,http://videocdn.quweikm.com:8091/20181001/VRTM-327Ac/index.m3u8
+VEC-310c-熟女痴女人妻単体作品中出 朝桐光,http://videocdn.quweikm.com:8091/20181001/VEC-310c/index.m3u8
+VRTM-325c-複数話女子校生巨尻,http://videocdn.quweikm.com:8091/20181001/VRTM-325c/index.m3u8
+VDD-140c-企画単体作品 ひなた澪,http://videocdn.quweikm.com:8091/20181001/VDD-140c/index.m3u8
+VOSS-092c-股間母親間違媚薬,http://videocdn.quweikm.com:8091/20181001/VOSS-092c/index.m3u8
+TSP-401c-強姦温泉中出,http://videocdn.quweikm.com:8091/20181001/TSP-401c/index.m3u8
+VOSS-091c-猛烈ー騎乗位強制生中出,http://videocdn.quweikm.com:8091/20181001/VOSS-091c/index.m3u8
+TNB-017c-素人寝取,http://videocdn.quweikm.com:8091/20181001/TNB-017c/index.m3u8
+TNB-012c-泥酔温泉独占,http://videocdn.quweikm.com:8091/20181001/TNB-012c/index.m3u8
+TMCY-111c-素人単体作品寝取,http://videocdn.quweikm.com:8091/20181001/TMCY-111c/index.m3u8
+SW-523Bc-叔母従姉妹,http://videocdn.quweikm.com:8091/20181001/SW-523Bc/index.m3u8
+STAR-876Ac-人生最多絶頂記録更新,http://videocdn.quweikm.com:8091/20181001/STAR-876Ac/index.m3u8
+SW-523Ac-叔母従姉妹,http://videocdn.quweikm.com:8091/20181001/SW-523Ac/index.m3u8
+STAR-866Bc-制服美少女単体作品潮吹,http://videocdn.quweikm.com:8091/20181001/STAR-866Bc/index.m3u8
+SPRD-1002c-再婚相手  笹川蓉子,http://videocdn.quweikm.com:8091/20181001/SPRD-1002c/index.m3u8
+SVDVD-646c-修學旅行,http://videocdn.quweikm.com:8091/20181001/SVDVD-646c/index.m3u8
+STAR-866Ac-制服美少女単体作品潮吹,http://videocdn.quweikm.com:8091/20181001/STAR-866Ac/index.m3u8
+SPRD-1001c-義母熟女人妻近親相姦単体作品中出  金杉裡織,http://videocdn.quweikm.com:8091/20181001/SPRD-1001c/index.m3u8
+SVDVD-645c-新任女教師,http://videocdn.quweikm.com:8091/20181001/SVDVD-645c/index.m3u8
+SSNI-116c-絶頂単体作品淫乱,http://videocdn.quweikm.com:8091/20181001/SSNI-116c/index.m3u8
+SNIS-996c-羞恥巨乳単体作品,http://videocdn.quweikm.com:8091/20181001/SNIS-996c/index.m3u8
+STAR-886Bc-美少女学生服単体作品  小倉由菜,http://videocdn.quweikm.com:8091/20181001/STAR-886Bc/index.m3u8
+SSNI-102c-無意識誘惑,http://videocdn.quweikm.com:8091/20181001/SSNI-102c/index.m3u8
+SDNM-138c-熟女人妻企画,http://videocdn.quweikm.com:8091/20181001/SDNM-138c/index.m3u8
+STAR-886Ac-美少女学生服単体作品  小倉由菜,http://videocdn.quweikm.com:8091/20181001/STAR-886Ac/index.m3u8
+SSNI-101c-美少女巨乳単体作品  三上悠亜,http://videocdn.quweikm.com:8091/20181001/SSNI-101c/index.m3u8
+SDNM-136c-旦那以外性器,http://videocdn.quweikm.com:8091/20181001/SDNM-136c/index.m3u8
+STAR-877Bc-美少女単体作品 小倉由菜,http://videocdn.quweikm.com:8091/20181001/STAR-877Bc/index.m3u8
+SSNI-085c-巨乳単体作品淫乱 風間リナ,http://videocdn.quweikm.com:8091/20181001/SSNI-085c/index.m3u8
+SDMU-788c-人妻不倫企画盗撮,http://videocdn.quweikm.com:8091/20181001/SDMU-788c/index.m3u8
+STAR-877Ac-美少女単体作品 小倉由菜,http://videocdn.quweikm.com:8091/20181001/STAR-877Ac/index.m3u8
+SSNI-078Bc-巨乳連日癡漢車両 星野ナミ,http://videocdn.quweikm.com:8091/20181001/SSNI-078Bc/index.m3u8
+SDMU-772Bc-羞恥花嫁體重骨盤,http://videocdn.quweikm.com:8091/20181001/SDMU-772Bc/index.m3u8
+STAR-876Bc-人生最多絶頂記録更新,http://videocdn.quweikm.com:8091/20181001/STAR-876Bc/index.m3u8
+SSNI-078Ac-巨乳連日癡漢車両 星野ナミ,http://videocdn.quweikm.com:8091/20181001/SSNI-078Ac/index.m3u8
+SDMU-772Ac-羞恥花嫁體重骨盤,http://videocdn.quweikm.com:8091/20181001/SDMU-772Ac/index.m3u8
+SSNI-049c-巨乳和服  深田ナナ,http://videocdn.quweikm.com:8091/20181001/SSNI-049c/index.m3u8
+SDMU-770c-企画単体作品中出,http://videocdn.quweikm.com:8091/20181001/SDMU-770c/index.m3u8
+SDMU-765c-女子大生近親相姦企画童貞素人姉,http://videocdn.quweikm.com:8091/20181001/SDMU-765c/index.m3u8
+SABA-375Bc-溫泉大好密著混浴,http://videocdn.quweikm.com:8091/20181001/SABA-375Bc/index.m3u8
+H0930-ki170601 神谷ゆかり 36歳,http://videocdn.quweikm.com:8091/20180930/hd_h0930-ki170601/index.m3u8
+H0930-ki170604 青井和枝 52歳,http://videocdn.quweikm.com:8091/20180930/hd_h0930-ki170604/index.m3u8
+H0930-ki170625  屋代 十三恵 41歳,http://videocdn.quweikm.com:8091/20180930/hd_h0930-ki170625/index.m3u8
+H0930-ki170723  寺村真利 42歳,http://videocdn.quweikm.com:8091/20180930/hd_h0930-ki170723/index.m3u8
+SDMU-759c-人妻巨乳巨尻企画単体作品 佐倉ねね,http://videocdn.quweikm.com:8091/20181001/SDMU-759c/index.m3u8
+SDMU-766c-風俗嬢巨乳企画単体作品中出,http://videocdn.quweikm.com:8091/20181001/SDMU-766c/index.m3u8
+SABA-375Ac-溫泉大好密著混浴,http://videocdn.quweikm.com:8091/20181001/SABA-375Ac/index.m3u8
+SDDE-530c-時間人妻企画,http://videocdn.quweikm.com:8091/20181001/SDDE-530c/index.m3u8
+SABA-360c-巨乳若妻溫泉不倫旅行 はすみ,http://videocdn.quweikm.com:8091/20181001/SABA-360c/index.m3u8
+SCPX-251Bc-処女幼馴染,http://videocdn.quweikm.com:8091/20181001/SCPX-251Bc/index.m3u8
+RHTS-047c-性交複数話,http://videocdn.quweikm.com:8091/20181001/RHTS-047c/index.m3u8
+SCPX-251Ac-処女幼馴染,http://videocdn.quweikm.com:8091/20181001/SCPX-251Ac/index.m3u8
+RCTD-081c-究極妄想発明,http://videocdn.quweikm.com:8091/20181001/RCTD-081c/index.m3u8
+SCPX-249c-人妻騎乗位寝取,http://videocdn.quweikm.com:8091/20181001/SCPX-249c/index.m3u8
+RBD-883c-奴隷人妻調教,http://videocdn.quweikm.com:8091/20181001/RBD-883c/index.m3u8
+SCOP-536c-某繁華街風俗嬢中出,http://videocdn.quweikm.com:8091/20181001/SCOP-536c/index.m3u8
+RBD-877c-OL単体作品  あかね葵,http://videocdn.quweikm.com:8091/20181001/RBD-877c/index.m3u8
+SCOP-535c-義母巨乳近親相姦中出,http://videocdn.quweikm.com:8091/20181001/SCOP-535c/index.m3u8
+PXH-002c-爆乳美尻羞恥,http://videocdn.quweikm.com:8091/20181001/PXH-002c/index.m3u8
+SABA-376Bc-大手航空會社勤務,http://videocdn.quweikm.com:8091/20181001/SABA-376Bc/index.m3u8
+PRED-095c-丸見女教師誘中出編 篠田ゆう,http://videocdn.quweikm.com:8091/20181001/PRED-095c/index.m3u8
+SABA-376Ac-大手航空會社勤務,http://videocdn.quweikm.com:8091/20181001/SABA-376Ac/index.m3u8
+PRED-029c-解禁中出大絶頂 山岸逢花,http://videocdn.quweikm.com:8091/20181001/PRED-029c/index.m3u8
+PPPD-630c-巨乳娘放題 平真凜,http://videocdn.quweikm.com:8091/20181001/PPPD-630c/index.m3u8
+OYC-166c-中學美乳乱交騎乗位泥酔,http://videocdn.quweikm.com:8091/20181001/OYC-166c/index.m3u8
+NHDTB-089c-湯冷敏感美乳女,http://videocdn.quweikm.com:8091/20181001/NHDTB-089c/index.m3u8
+OYC-162c-警戒心強女子,http://videocdn.quweikm.com:8091/20181001/OYC-162c/index.m3u8
+NHDTB-087c-OL企画生中出,http://videocdn.quweikm.com:8091/20181001/NHDTB-087c/index.m3u8
+MIDE-523c-美乳美少女性交 つぼみ,http://videocdn.quweikm.com:8091/20181001/MIDE-523c/index.m3u8
+ONEZ-124c-美少女理性  坂咲みほ,http://videocdn.quweikm.com:8091/20181001/ONEZ-124c/index.m3u8
+NHDTB-085c-媚薬理性抑,http://videocdn.quweikm.com:8091/20181001/NHDTB-085c/index.m3u8
+MIDE-522c-巨乳単体作品 高橋しょう子,http://videocdn.quweikm.com:8091/20181001/MIDE-522c/index.m3u8
+ONEZ-123c-制服美少女単体作品 優梨まいな,http://videocdn.quweikm.com:8091/20181001/ONEZ-123c/index.m3u8
+NGOD-072c-婦人會長嫁近所酔 本莊優花,http://videocdn.quweikm.com:8091/20181001/NGOD-072c/index.m3u8
+MIDE-520c-美少女単体作品 希崎ジェシカ,http://videocdn.quweikm.com:8091/20181001/MIDE-520c/index.m3u8
+OBA-369c-息子発情交尾,http://videocdn.quweikm.com:8091/20181001/OBA-369c/index.m3u8
+MXSPS-556Bc-緊急発売桃園初公開,http://videocdn.quweikm.com:8091/20181001/MXSPS-556Bc/index.m3u8
+MIDE-518c-美少女単体作品淫乱性交 八乃つばさ,http://videocdn.quweikm.com:8091/20181001/MIDE-518c/index.m3u8
+NTRD-065c-制服熟女人妻単体作品寝取  羽月希,http://videocdn.quweikm.com:8091/20181001/NTRD-065c/index.m3u8
+MXSPS-556Ac-緊急発売桃園初公開,http://videocdn.quweikm.com:8091/20181001/MXSPS-556Ac/index.m3u8
+MIDE-515Bc-美少女巨乳単体作品  水卜さくら,http://videocdn.quweikm.com:8091/20181001/MIDE-515Bc/index.m3u8
+NNPJ-273c-風俗嬢巨乳,http://videocdn.quweikm.com:8091/20181001/NNPJ-273c/index.m3u8
+MXGS-967c-激性感開発絶頂快感  望月もな,http://videocdn.quweikm.com:8091/20181001/MXGS-967c/index.m3u8
+MIDE-515Ac-美少女巨乳単体作品  水卜さくら,http://videocdn.quweikm.com:8091/20181001/MIDE-515Ac/index.m3u8
+NHDTB-102c-人妻強姦企画3P,http://videocdn.quweikm.com:8091/20181001/NHDTB-102c/index.m3u8
+MXGS-1018c-物淒乳首責 波多野結衣,http://videocdn.quweikm.com:8091/20181001/MXGS-1018c/index.m3u8
+MIDE-514c-捜査官快楽墮  初川みなみ,http://videocdn.quweikm.com:8091/20181001/MIDE-514c/index.m3u8
+NHDTB-091c-無理連続絶頂,http://videocdn.quweikm.com:8091/20181001/NHDTB-091c/index.m3u8
+MRSS-053c-中出學級崩壊,http://videocdn.quweikm.com:8091/20181001/MRSS-053c/index.m3u8
+MIDE-513Bc-傢庭教師 九重かんな,http://videocdn.quweikm.com:8091/20181001/MIDE-513Bc/index.m3u8
+MIFD-014c-素人潮吹最近性欲,http://videocdn.quweikm.com:8091/20181001/MIFD-014c/index.m3u8
+MIDE-513Ac-傢庭教師 九重かんな,http://videocdn.quweikm.com:8091/20181001/MIDE-513Ac/index.m3u8
+MIDE-511Ac-濃厚極上風俗  高橋しょう子,http://videocdn.quweikm.com:8091/20181001/MIDE-511Ac/index.m3u8
+MIDE-511Bc-濃厚極上風俗  高橋しょう子,http://videocdn.quweikm.com:8091/20181001/MIDE-511Bc/index.m3u8
+MIDE-502Bc-中出本番蕓能人  仲村みう,http://videocdn.quweikm.com:8091/20181001/MIDE-502Bc/index.m3u8
+MIAE-120c-騎乗位M性感 森川アンナ,http://videocdn.quweikm.com:8091/20181001/MIAE-120c/index.m3u8
+MIDE-502Ac-中出本番蕓能人  仲村みう,http://videocdn.quweikm.com:8091/20181001/MIDE-502Ac/index.m3u8
+MIAE-117c-M男人體連続射精回春  本田岬,http://videocdn.quweikm.com:8091/20181001/MIAE-117c/index.m3u8
+MIAE-198c-輪姦美少女不倫乱交寝取,http://videocdn.quweikm.com:8091/20181001/MIAE-198c/index.m3u8
+MIAE-110c-普段痴女SM,http://videocdn.quweikm.com:8091/20181001/MIAE-110c/index.m3u8
+MIAE-191Bc-引退美尻女教師全穴卒業式 涼川絢音,http://videocdn.quweikm.com:8091/20181001/MIAE-191Bc/index.m3u8
+MGT-016Bc-素人4時間以上作品,http://videocdn.quweikm.com:8091/20181001/MGT-016Bc/index.m3u8
+MIAE-191Ac-引退美尻女教師全穴卒業式 涼川絢音,http://videocdn.quweikm.com:8091/20181001/MIAE-191Ac/index.m3u8
+MGT-016Ac-素人4時間以上作品,http://videocdn.quweikm.com:8091/20181001/MGT-016Ac/index.m3u8
+MIAE-190c-辱美少女長身,http://videocdn.quweikm.com:8091/20181001/MIAE-190c/index.m3u8
+MGT-012Bc-童貞素人,http://videocdn.quweikm.com:8091/20181001/MGT-012Bc/index.m3u8
+MIAE-169c-風俗嬢巨乳巨乳 君島みお,http://videocdn.quweikm.com:8091/20181001/MIAE-169c/index.m3u8
+MGT-012Ac-童貞素人,http://videocdn.quweikm.com:8091/20181001/MGT-012Ac/index.m3u8
+MIAE-133c-美少女騎乗位 愛瀬美希,http://videocdn.quweikm.com:8091/20181001/MIAE-133c/index.m3u8
+MGT-007Bc-街角JK暗記王,http://videocdn.quweikm.com:8091/20181001/MGT-007Bc/index.m3u8
+MIAE-132c-暴発風俗嬢巨乳単体作品 春菜はな,http://videocdn.quweikm.com:8091/20181001/MIAE-132c/index.m3u8
+MGT-007Ac-街角JK暗記王,http://videocdn.quweikm.com:8091/20181001/MGT-007Ac/index.m3u8
+MDTM-340c-新放課後美少女回春  ななせ麻衣,http://videocdn.quweikm.com:8091/20181001/MDTM-340c/index.m3u8
+MDTM-316c-宇宙少女美少女即,http://videocdn.quweikm.com:8091/20181001/MDTM-316c/index.m3u8
+MDB-818c-肉食系人妻,http://videocdn.quweikm.com:8091/20181001/MDB-818c/index.m3u8
+KAWD-837c-巨乳盗撮,http://videocdn.quweikm.com:8091/20181001/KAWD-837c/index.m3u8
+MDB-804c-欲求不満人妻  坂井亜美,http://videocdn.quweikm.com:8091/20181001/MDB-804c/index.m3u8
+JUY-574c-女子社員寮,http://videocdn.quweikm.com:8091/20181001/JUY-574c/index.m3u8
+JUY-412Bc-接吻性交,http://videocdn.quweikm.com:8091/20181001/JUY-412Bc/index.m3u8
+LXVS-046c-潮吹顔射,http://videocdn.quweikm.com:8091/20181001/LXVS-046c/index.m3u8
+JUY-573c-熟女人妻巨乳単体作品寝取 八乃つばさ,http://videocdn.quweikm.com:8091/20181001/JUY-573c/index.m3u8
+JUY-412Ac-接吻性交,http://videocdn.quweikm.com:8091/20181001/JUY-412Ac/index.m3u8
+LXVS-044c-巨乳単体作品顔射,http://videocdn.quweikm.com:8091/20181001/LXVS-044c/index.m3u8
+JUY-572c-熟女未亡人人妻単体作品原作,http://videocdn.quweikm.com:8091/20181001/JUY-572c/index.m3u8
+JUY-409c-女盛人妻発掘  內田ゆり...,http://videocdn.quweikm.com:8091/20181001/JUY-409c/index.m3u8
+LXVS-043c-巨乳単体作品,http://videocdn.quweikm.com:8091/20181001/LXVS-043c/index.m3u8
+JUY-570c-中出輪姦日  音羽文子,http://videocdn.quweikm.com:8091/20181001/JUY-570c/index.m3u8
+JUY-362Bc-美乳熟女人妻 遙あやね,http://videocdn.quweikm.com:8091/20181001/JUY-362Bc/index.m3u8
+LXVS-042c-痴女巨乳素人,http://videocdn.quweikm.com:8091/20181001/LXVS-042c/index.m3u8
+JUY-440c-義母熟女人妻 麻生まり,http://videocdn.quweikm.com:8091/20181001/JUY-440c/index.m3u8
+JUY-362Ac-美乳熟女人妻 遙あやね,http://videocdn.quweikm.com:8091/20181001/JUY-362Ac/index.m3u8
+LKD-005c-舐服単体作品 栗衣みい,http://videocdn.quweikm.com:8091/20181001/LKD-005c/index.m3u8
+JUY-435c-人生最寢取,http://videocdn.quweikm.com:8091/20181001/JUY-435c/index.m3u8
+JUY-329c-熟女人妻巨乳単体作品寝取,http://videocdn.quweikm.com:8091/20181001/JUY-329c/index.m3u8
+KSBJ-036c-熟女痴女人妻奧様 本莊優花,http://videocdn.quweikm.com:8091/20181001/KSBJ-036c/index.m3u8
+JUY-434c-羞恥熟女痴女 谷原希美,http://videocdn.quweikm.com:8091/20181001/JUY-434c/index.m3u8
+JUFD-871c-大好美少女  浜崎まりあ,http://videocdn.quweikm.com:8091/20181001/JUFD-871c/index.m3u8
+KAWD-879c-中出解禁,http://videocdn.quweikm.com:8091/20181001/KAWD-879c/index.m3u8
+JUY-431c-専屬女優検証企畫,http://videocdn.quweikm.com:8091/20181001/JUY-431c/index.m3u8
+JUFD-798c-女艶完全著衣  香椎りあ,http://videocdn.quweikm.com:8091/20181001/JUFD-798c/index.m3u8
+JUY-415c-美乳熟女人妻不倫巨乳単体作品 加瀬かなこ,http://videocdn.quweikm.com:8091/20181001/JUY-415c/index.m3u8
+JRZD-810c-初撮人妻  小島まりこ,http://videocdn.quweikm.com:8091/20181001/JRZD-810c/index.m3u8
+IPX-111c-人妻強姦単体作品 星川光希,http://videocdn.quweikm.com:8091/20181001/IPX-111c/index.m3u8
+IWAN-03c-官能的性交 水野優香,http://videocdn.quweikm.com:8091/20181001/IWAN-03c/index.m3u8
+IPX-110c-究極痴女単体作品手,http://videocdn.quweikm.com:8091/20181001/IPX-110c/index.m3u8
+IPX-086c-単體女優桃乃木,http://videocdn.quweikm.com:8091/20181001/IPX-086c/index.m3u8
+IPX-105c-乳首乳首責,http://videocdn.quweikm.com:8091/20181001/IPX-105c/index.m3u8
+IPX-084c-超快感爆潮癒美少女,http://videocdn.quweikm.com:8091/20181001/IPX-084c/index.m3u8
+IPX-102c-羞恥盗撮,http://videocdn.quweikm.com:8091/20181001/IPX-102c/index.m3u8
+IPX-081Bc-真正生中出風俗,http://videocdn.quweikm.com:8091/20181001/IPX-081Bc/index.m3u8
+IPX-101c-変態中年密會性交,http://videocdn.quweikm.com:8091/20181001/IPX-101c/index.m3u8
+IPX-081Ac-真正生中出風俗,http://videocdn.quweikm.com:8091/20181001/IPX-081Ac/index.m3u8
+IPX-100c-濃厚接吻,http://videocdn.quweikm.com:8091/20181001/IPX-100c/index.m3u8
+IPX-078c-全身急所単体作品騎乗位,http://videocdn.quweikm.com:8091/20181001/IPX-078c/index.m3u8
+IPX-099c-美少女巨乳乱交単体作品,http://videocdn.quweikm.com:8091/20181001/IPX-099c/index.m3u8
+IPX-077Bc-奇跡體験入社宣伝部復帰,http://videocdn.quweikm.com:8091/20181001/IPX-077Bc/index.m3u8
+IPX-098Bc-風俗快楽街制服,http://videocdn.quweikm.com:8091/20181001/IPX-098Bc/index.m3u8
+IPX-077Ac-奇跡體験入社宣伝部復帰,http://videocdn.quweikm.com:8091/20181001/IPX-077Ac/index.m3u8
+IPX-098Ac-風俗快楽街制服,http://videocdn.quweikm.com:8091/20181001/IPX-098Ac/index.m3u8
+IPX-072c-狙通學路共謀癡漢電車 桃乃木かな,http://videocdn.quweikm.com:8091/20181001/IPX-072c/index.m3u8
+IPX-095c-高慢美人女社長肉棒屈服,http://videocdn.quweikm.com:8091/20181001/IPX-095c/index.m3u8
+IPX-045c-美少女単体作品 琴水せいら,http://videocdn.quweikm.com:8091/20181001/IPX-045c/index.m3u8
+IPX-032c-女子校生変態彼女  琴水せいら,http://videocdn.quweikm.com:8091/20181001/IPX-032c/index.m3u8
+HUNTA-447Bc-新婚巨乳女上司,http://videocdn.quweikm.com:8091/20181001/HUNTA-447Bc/index.m3u8
+HUNTA-447Ac-新婚巨乳女上司,http://videocdn.quweikm.com:8091/20181001/HUNTA-447Ac/index.m3u8
+HUNTA-357Ac-女子大生姉友集団発情,http://videocdn.quweikm.com:8091/20181001/HUNTA-357Ac/index.m3u8
+HUNTA-411Bc-童貞淫乱,http://videocdn.quweikm.com:8091/20181001/HUNTA-411Bc/index.m3u8
+HTHD-148c-熟女人妻  長谷川ユリア,http://videocdn.quweikm.com:8091/20181001/HTHD-148c/index.m3u8
+HBAD-403c-輪姦人妻女戦士和服,http://videocdn.quweikm.com:8091/20181001/HBAD-403c/index.m3u8
+HUNTA-411Ac-童貞淫乱,http://videocdn.quweikm.com:8091/20181001/HUNTA-411Ac/index.m3u8
+HODV-21270Bc-単体作品4時間以上作品,http://videocdn.quweikm.com:8091/20181001/HODV-21270Bc/index.m3u8
+HAWA-130Bc-拘束熟女人妻,http://videocdn.quweikm.com:8091/20181001/HAWA-130Bc/index.m3u8
+HUNTA-409Cc-童貞淫乱,http://videocdn.quweikm.com:8091/20181001/HUNTA-409Cc/index.m3u8
+HODV-21270Ac-単体作品4時間以上作品,http://videocdn.quweikm.com:8091/20181001/HODV-21270Ac/index.m3u8
+HAWA-130Ac-拘束熟女人妻,http://videocdn.quweikm.com:8091/20181001/HAWA-130Ac/index.m3u8
+HUNTA-409Bc-童貞淫乱,http://videocdn.quweikm.com:8091/20181001/HUNTA-409Bc/index.m3u8
+HND-489c-何回絶頂癡女中出  椎名そら,http://videocdn.quweikm.com:8091/20181001/HND-489c/index.m3u8
+HAWA-127Bc-拘束人妻企画素人,http://videocdn.quweikm.com:8091/20181001/HAWA-127Bc/index.m3u8
+HUNTA-409Ac-童貞淫乱,http://videocdn.quweikm.com:8091/20181001/HUNTA-409Ac/index.m3u8
+HND-481c-禁欲女絶倫男   阿部栞菜,http://videocdn.quweikm.com:8091/20181001/HND-481c/index.m3u8
+HAWA-127Ac-拘束人妻企画素人,http://videocdn.quweikm.com:8091/20181001/HAWA-127Ac/index.m3u8
+HUNTA-405Bc-巨乳騎乗位,http://videocdn.quweikm.com:8091/20181001/HUNTA-405Bc/index.m3u8
+HND-450c-痴女単体作品騎乗位中出,http://videocdn.quweikm.com:8091/20181001/HND-450c/index.m3u8
+GVG-651c-羞恥溫泉旅行秘湯悅楽墮ち 向井藍,http://videocdn.quweikm.com:8091/20181001/GVG-651c/index.m3u8
+HUNTA-405Ac-巨乳騎乗位,http://videocdn.quweikm.com:8091/20181001/HUNTA-405Ac/index.m3u8
+HND-436c-絶対妊娠 河南実裡,http://videocdn.quweikm.com:8091/20181001/HND-436c/index.m3u8
+GVG-650c-痴女巨乳童貞単体作品,http://videocdn.quweikm.com:8091/20181001/GVG-650c/index.m3u8
+HUNTA-357Bc-女子大生姉友集団発情,http://videocdn.quweikm.com:8091/20181001/HUNTA-357Bc/index.m3u8
+HBAD-408c-若妻巨乳企画単体作品中出  君島みお,http://videocdn.quweikm.com:8091/20181001/HBAD-408c/index.m3u8
+GDJU-038c-小柄貧乳,http://videocdn.quweikm.com:8091/20181001/GDJU-038c/index.m3u8
+HBAD-405c-色白未亡人親戚學生,http://videocdn.quweikm.com:8091/20181001/HBAD-405c/index.m3u8
+GDHH-114c-美乳女子校生学生服騎乗位,http://videocdn.quweikm.com:8091/20181001/GDHH-114c/index.m3u8
+FAA-229c-素人妻AV出演,http://videocdn.quweikm.com:8091/20181001/FAA-229c/index.m3u8
+FAA-263c-人妻水着企画,http://videocdn.quweikm.com:8091/20181001/FAA-263c/index.m3u8
+EBOD-598c-女體専門風俗店,http://videocdn.quweikm.com:8091/20181001/EBOD-598c/index.m3u8
+DOCP-027Ac-人妻巨乳,http://videocdn.quweikm.com:8091/20181001/DOCP-027Ac/index.m3u8
+DVDMS-289c-美乳美少女小柄貧乳,http://videocdn.quweikm.com:8091/20181001/DVDMS-289c/index.m3u8
+DOCP-017Bc-素人寝取,http://videocdn.quweikm.com:8091/20181001/DOCP-017Bc/index.m3u8
+DVDMS-263c-一般男女性欲大暴走,http://videocdn.quweikm.com:8091/20181001/DVDMS-263c/index.m3u8
+DOCP-017Ac-素人寝取,http://videocdn.quweikm.com:8091/20181001/DOCP-017Ac/index.m3u8
+DVDMS-261Bc-一般男女OL人妻盗撮,http://videocdn.quweikm.com:8091/20181001/DVDMS-261Bc/index.m3u8
+DFDM-004c-大好美少女下品  佐々波綾,http://videocdn.quweikm.com:8091/20181001/DFDM-004c/index.m3u8
+DVDMS-261Ac-一般男女OL人妻盗撮,http://videocdn.quweikm.com:8091/20181001/DVDMS-261Ac/index.m3u8
+DDT-593c-ニ系単体作品縛  淺田結梨,http://videocdn.quweikm.com:8091/20181001/DDT-593c/index.m3u8
+DVDMS-260c-一般男女素人女子,http://videocdn.quweikm.com:8091/20181001/DVDMS-260c/index.m3u8
+DDK-174c-女子校生痴女 神宮寺ナオ,http://videocdn.quweikm.com:8091/20181001/DDK-174c/index.m3u8
+DVDMS-258Bc-企画素人騎乗位4時間以上作品,http://videocdn.quweikm.com:8091/20181001/DVDMS-258Bc/index.m3u8
+DANDY-588Bc-巨乳企画騎乗位,http://videocdn.quweikm.com:8091/20181001/DANDY-588Bc/index.m3u8
+DVDMS-258Ac-企画素人騎乗位4時間以上作品,http://videocdn.quweikm.com:8091/20181001/DVDMS-258Ac/index.m3u8
+DANDY-588Ac-巨乳企画騎乗位,http://videocdn.quweikm.com:8091/20181001/DANDY-588Ac/index.m3u8
+DOCP-027Bc-人妻巨乳,http://videocdn.quweikm.com:8091/20181001/DOCP-027Bc/index.m3u8
+CMI-148c-人妻盗撮,http://videocdn.quweikm.com:8091/20181001/CMI-148c/index.m3u8
+CLUB-395Bc-変態紳士倶楽部,http://videocdn.quweikm.com:8091/20181001/CLUB-395Bc/index.m3u8
+CLUB-395Ac-変態紳士倶楽部,http://videocdn.quweikm.com:8091/20181001/CLUB-395Ac/index.m3u8
+BF-549c-巨乳単体作品淫乱,http://videocdn.quweikm.com:8091/20181001/BF-549c/index.m3u8
+ATID-305c-兄嫁支配者 篠田ゆう,http://videocdn.quweikm.com:8091/20181001/ATID-305c/index.m3u8
+BF-518c-禦奉仕単体作品中出 霧島さくら,http://videocdn.quweikm.com:8091/20181001/BF-518c/index.m3u8
+AP-545c-本屋中出癡漢,http://videocdn.quweikm.com:8091/20181001/AP-545c/index.m3u8
+ABP-697Ac-究極性交,http://videocdn.quweikm.com:8091/20181001/ABP-697Ac/index.m3u8
+BAZX-114Bc-生中出美少女,http://videocdn.quweikm.com:8091/20181001/BAZX-114Bc/index.m3u8
+AP-544c-絶倫男傢宅侵入,http://videocdn.quweikm.com:8091/20181001/AP-544c/index.m3u8
+ABP-689Bc-単体作品顔射,http://videocdn.quweikm.com:8091/20181001/ABP-689Bc/index.m3u8
+BAZX-114Ac-生中出美少女,http://videocdn.quweikm.com:8091/20181001/BAZX-114Ac/index.m3u8
+AP-543c-辱鬼畜職業色,http://videocdn.quweikm.com:8091/20181001/AP-543c/index.m3u8
+ABP-689Ac-単体作品顔射,http://videocdn.quweikm.com:8091/20181001/ABP-689Ac/index.m3u8
+ATOM-327c-羞恥水着企画3P,http://videocdn.quweikm.com:8091/20181001/ATOM-327c/index.m3u8
+AFS-030Bc-人妻自宅中出,http://videocdn.quweikm.com:8091/20181001/AFS-030Bc/index.m3u8
+SDNM-023c-子供在宅中,http://videocdn.quweikm.com:8091/20180730/SDNM-023c/index.m3u8
+ATID-310c-夫婦交換記録  妃月るい,http://videocdn.quweikm.com:8091/20181001/ATID-310c/index.m3u8
+Gachinco-gachi1144  真由子,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1144/index.m3u8
+Gachinco-gachi1145 麗華－実録面接145,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1145/index.m3u8
+Gachinco-gachi1146  祐実,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1146/index.m3u8
+Gachinco-gachi1147 優子,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1147/index.m3u8
+Gachinco-gachi1148  佳乃－実録面接146,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1148/index.m3u8
+Gachinco-gachi1149 由美香　－素人生撮122,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1149/index.m3u8
+Gachinco-gachi1150 ミライ－KURADASHI27,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1150/index.m3u8
+Gachinco-gachi1151  蘭　－実録面接147,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1151/index.m3u8
+Gachinco-gachi1152 友梨佳,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1152/index.m3u8
+Gachinco-gachi1153 香苗－実録面接148,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1153/index.m3u8
+Gachinco-gachi1155 曼荼羅性交絵巻26,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1155/index.m3u8
+Gachinco-gachi1156  慶子,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1156/index.m3u8
+Gachinco-gachi1158 最終回前編,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1158/index.m3u8
+Gachinco-gachi1163  くみこ,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1163_0/index.m3u8
+Gachinco-gachi1165  オムニバス,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1165_0/index.m3u8
+Gachinco-gachi1166 最終回後編,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachi1166_0/index.m3u8
+Gachinco-gachig253  みいな－別刊136,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachig253/index.m3u8
+Gachinco-gachig254  オムニバス,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachig254/index.m3u8
+Gachinco-gachig255 オムニバス,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachig255_0/index.m3u8
+Gachinco-gachig256  菜々緒,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachig256/index.m3u8
+Gachinco-gachip361  リエ,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachip361/index.m3u8
+Gachinco-gachip366  オムニバス,http://videocdn.quweikm.com:8091/20180930/hd_gachinco-gachip366/index.m3u8
+GirlsDelta-1172 NATSUKO 3 相葉夏子,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-1172/index.m3u8
+GirlsDelta-AYANE_6 八木彩音 T162B81W60H85,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-ayane_6/index.m3u8
+GirlsDelta-MIKIE_4 及川幹恵 T162B88W63H90,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-mikie_4/index.m3u8
+GirlsDelta-RINKA_2 戸田凜佳 T158B84W59H86,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-rinka/index.m3u8
+Girlsdelta-RURUNA 安部流留菜 T146B88W65H90,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-ruruna/index.m3u8
+Girlsdelta-SHIZUNE_3 荒尾閑音,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-shizune_3/index.m3u8
+GirlsDelta-TOMIE_3 深沢富江,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-tomie_3/index.m3u8
+GirlsDelta-TSUKIHO_3 小早川月帆,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-tsukiho_3/index.m3u8
+Girlsdelta-TSUMIKA 岩井つみか,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-tsumika/index.m3u8
+GirlsDelta-YUAKO 宇佐美由愛子,http://videocdn.quweikm.com:8091/20180930/hd_girlsdelta-yuako/index.m3u8
+AFS-030Ac-人妻自宅中出,http://videocdn.quweikm.com:8091/20181001/AFS-030Ac/index.m3u8
+SDNM-013c-経験人數快感,http://videocdn.quweikm.com:8091/20180730/SDNM-013c/index.m3u8
+ATID-309c-女教師校內凌辱,http://videocdn.quweikm.com:8091/20181001/ATID-309c/index.m3u8
+ABP-699Bc-潮吹単体作品,http://videocdn.quweikm.com:8091/20181001/ABP-699Bc/index.m3u8
+SDMU-194c-都会の大学,http://videocdn.quweikm.com:8091/20180730/SDMU-194c/index.m3u8
+ATID-308c-密通秘事  夏目彩春,http://videocdn.quweikm.com:8091/20181001/ATID-308c/index.m3u8
+ABP-699Ac-潮吹単体作品,http://videocdn.quweikm.com:8091/20181001/ABP-699Ac/index.m3u8
+SDMU-149c-SOD女子社員混浴大忘年會,http://videocdn.quweikm.com:8091/20180730/SDMU-149c/index.m3u8
+ATID-306c-社長秘書濕,http://videocdn.quweikm.com:8091/20181001/ATID-306c/index.m3u8
+ABP-697Cc-究極性交,http://videocdn.quweikm.com:8091/20181001/ABP-697Cc/index.m3u8
+SET-017c-容姿端麗,http://videocdn.quweikm.com:8091/20180730/SET-017c/index.m3u8
+ABP-697Bc-究極性交,http://videocdn.quweikm.com:8091/20181001/ABP-697Bc/index.m3u8
+SET-014c-処女同棲生活,http://videocdn.quweikm.com:8091/20180730/SET-014c/index.m3u8
+SET-010c-巨乳美人,http://videocdn.quweikm.com:8091/20180730/SET-010c/index.m3u8
+10musume-072217_01   制服時代 ～ 浅倉のどか,http://videocdn.quweikm.com:8091/20181101/hd_10musume-072217_01/index.m3u8
+10musume-072517_01    門倉めぐみ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-072517_01/index.m3u8
+10musume-072917_01  泡姫娘～ 朝川ここみ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-072917_01/index.m3u8
+10musume-080117_01    豊崎かなえ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-080117_01/index.m3u8
+10musume-080517_01  AV面接 ～秋場莉緒,http://videocdn.quweikm.com:8091/20181101/hd_10musume-080517_01/index.m3u8
+10musume-080817_01  制服姿～ 松田理沙子,http://videocdn.quweikm.com:8091/20181101/hd_10musume-080817_01/index.m3u8
+10musume-081117_01   野々村あいり,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081117_01/index.m3u8
+10musume-081217_01   ねぇ～着換,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081217_01/index.m3u8
+10musume-081317_01   Best30 Part 2,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081317_01/index.m3u8
+10musume-082217_01   制服時代～ 三崎えり,http://videocdn.quweikm.com:8091/20181101/hd_10musume-082217_01/index.m3u8
+10musume-082617_01   姫野未来,http://videocdn.quweikm.com:8091/20181101/hd_10musume-082617_01/index.m3u8
+10musume-083117_01    小沢かれん,http://videocdn.quweikm.com:8091/20181101/hd_10musume-083117_01/index.m3u8
+1Pondo-053017_533  悶絶！美女,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-053017_533/index.m3u8
+1Pondo-060117_534  藤井なな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060117_534/index.m3u8
+1Pondo-060317_535 着物の似合淫乱 南條れいな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060317_535/index.m3u8
+1Pondo-060617_536  大噴射！潮吹,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-060617_536/index.m3u8
+1Pondo-061317_539  上原茉咲,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061317_539/index.m3u8
+1Pondo-061517_540 素人宅訪問 宮間葵,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061517_540/index.m3u8
+1Pondo-061717_541 制服天使 ももき希,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-061717_541/index.m3u8
+1Pondo-062117_001 水着 白石麗奈,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062117_001/index.m3u8
+1Pondo-062317_543  山中麗子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062317_543/index.m3u8
+1Pondo-062717_545  末吉りり,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062717_545/index.m3u8
+1Pondo-062817_001  彩波有紀,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-062817_001/index.m3u8
+1Pondo-063017_546  音海さや,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-063017_546/index.m3u8
+1Pondo-070117_547  双葉みお 朝比奈菜々子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-070117_547/index.m3u8
+1Pondo-070517_001 水着 朝比奈菜々子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-070517_001/index.m3u8
+1Pondo-070817_550  ゆうき美羽,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-070817_550/index.m3u8
+1Pondo-071117_001  さくらみゆき,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-071117_001/index.m3u8
+1Pondo-071417_552  朝比奈菜々子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-071417_552/index.m3u8
+1Pondo-071817_554 撮影会生中出 辻ユキ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-071817_554/index.m3u8
+1Pondo-072017_555 美女の美脚！真琴りょう,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072017_555/index.m3u8
+1Pondo-072217_556  大咲萌,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072217_556/index.m3u8
+1Pondo-072517_557  倉田麻紀,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072517_557/index.m3u8
+1Pondo-072617_001  双葉みお,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072617_001/index.m3u8
+1Pondo-072817_558  米倉のあ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-072817_558/index.m3u8
+1Pondo-080417_001 今村加奈子,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080417_001/index.m3u8
+1Pondo-080417_002  美魔女 南條れいな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080417_002/index.m3u8
+1Pondo-080617_562  神田るな,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080617_562/index.m3u8
+1Pondo-080815_130 一本道  酒井ももか,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-080815_130/index.m3u8
+1Pondo-080917_563  観月奏,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-080917_563/index.m3u8
+Caribbeancompr-082517_001  S Model 176 中毒美少女生 水島にな,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-082517_001/index.m3u8
+Caribbeancompr-090117_002  超高級嬢！生島涼,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-090117_002/index.m3u8
+CWP-163 超高級嬢 : 生島涼,http://videocdn.quweikm.com:8091/20180930/hd_cwp-163_0/index.m3u8
+CWP-164  超高級嬢 : 深美せりな,http://videocdn.quweikm.com:8091/20180930/hd_cwp-164_0/index.m3u8
+CWPBD-162  制服JK性交 : 希咲良,http://videocdn.quweikm.com:8091/20180930/hd_cwpbd-162_0/index.m3u8
+DLBT-158 真白愛梨,http://videocdn.quweikm.com:8091/20180930/hd_dlbt-158_0/index.m3u8
+DLPT-175 料理研究家  : 羽奈美すず,http://videocdn.quweikm.com:8091/20180930/hd_dlpt-175_0/index.m3u8
+DRG-21 3rd Hard Way ~試練 : 朝桐光,http://videocdn.quweikm.com:8091/20180930/hd_drg-21_0/index.m3u8
+DSAMBD-19 恍惚 : 鈴木さとみ,http://videocdn.quweikm.com:8091/20180930/hd_dsambd-19_0/index.m3u8
+1Pondo-081115_131 一本道 上野真奈美 薄幸淫乱未亡人,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081115_131/index.m3u8
+1Pondo-081215_132 一本道 肉棒義母 村上涼子,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081215_132/index.m3u8
+1Pondo-081217_565 仕事の精欲旺盛  江波りゅう,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081217_565/index.m3u8
+1Pondo-081315_133 一本道 献身介護士認定試  波多野結衣,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081315_133/index.m3u8
+1Pondo-081317_566  咲乃柑菜,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081317_566/index.m3u8
+1Pondo-081415_134 一本道 感謝際！秋野千尋！,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081415_134/index.m3u8
+1Pondo-081515_135 一本道  滝川エリナ,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081515_135/index.m3u8
+1Pondo-081517_567 魔性の肉体 名波ルナ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081517_567/index.m3u8
+1Pondo-081615_136 一本道  碧しの,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081615_136/index.m3u8
+1Pondo-081717_568 潮吹痴女！ 安城アンナ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-081717_568/index.m3u8
+1pondo-081815_137 一本道  美咲結衣,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081815_137/index.m3u8
+1Pondo-081915_138 一本道  美巨乳美熟女のSex  ASUKA,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-081915_138/index.m3u8
+1Pondo-082115_139 一本道  相田瞳 極細微乳長身美女,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-082115_139/index.m3u8
+1Pondo-082215_140 一本道 清水理紗,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-082215_140/index.m3u8
+1Pondo-082217_570  魅惑の遊戯 坂西真由美,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-082217_570/index.m3u8
+1Pondo-082515_141 一本道 Sky Angel  早川ルイ,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-082515_141/index.m3u8
+1Pondo-082617_572  美人OL 如月ジュリ,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-082617_572/index.m3u8
+1Pondo-082715_142 一本道  新木まどか,http://videocdn.hndtl.com:8091/20181231/hd_1pondo-082715_142/index.m3u8
+1Pondo-082917_573 尻軽女 中野ゆう,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-082917_573/index.m3u8
+1Pondo-083117_574  北条麻妃,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-083117_574/index.m3u8
+1Pondo-090117_001  羽月ミリア,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-090117_001/index.m3u8
+1Pondo-090117_002  広瀬奈津美,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-090117_002/index.m3u8
+1Pondo-090217_575  結希真琴,http://videocdn.quweikm.com:8091/20181101/hd_1pondo-090217_575/index.m3u8
+10musume-053017_01   森まゆ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-053017_01/index.m3u8
+10musume-060617_01   看護師 岸あやね,http://videocdn.quweikm.com:8091/20181101/hd_10musume-060617_01/index.m3u8
+10musume-061017_01   制服時代 ～ 朝比奈みなみ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-061017_01/index.m3u8
+10musume-061517_01   宮前ことね,http://videocdn.quweikm.com:8091/20181101/hd_10musume-061517_01/index.m3u8
+10musume-061717_01  倉田麻紀,http://videocdn.quweikm.com:8091/20181101/hd_10musume-061717_01/index.m3u8
+10musume-062017_01   主人様 門倉めぐみ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-062017_01/index.m3u8
+10musume-062417_01   素人の仕事 ～ 立花里奈,http://videocdn.quweikm.com:8091/20181101/hd_10musume-062417_01/index.m3u8
+10musume-062917_01    制服時代 ～ 楠木真奈美,http://videocdn.quweikm.com:8091/20181101/hd_10musume-062917_01/index.m3u8
+10musume-070117_01   中村ひかる,http://videocdn.quweikm.com:8091/20181101/hd_10musume-070117_01/index.m3u8
+10musume-070817_01   浴衣 飯田久実子,http://videocdn.quweikm.com:8091/20181101/hd_10musume-070817_01/index.m3u8
+10musume-071117_01  素人AV面接 ～ 滝川ちさ,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071117_01/index.m3u8
+10musume-071317_01    秘蔵 菅野みらい,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071317_01/index.m3u8
+10musume-071517_01   素人初撮浴衣のSM～ 藍原優香,http://videocdn.quweikm.com:8091/20181101/hd_10musume-071517_01/index.m3u8
+C0930-ki170704 野田歩 38歳,http://videocdn.quweikm.com:8091/20181101/hd_c0930-ki170704/index.m3u8
+Caribbeancom-053017_437  水谷心音BEST 2,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-053017_437/index.m3u8
+Caribbeancom-053117_001 縦型動画 012 ～SSR虎の子の潮吹～ 上原亜衣,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-053117_001/index.m3u8
+Caribbeancom-060217_438  恍惚 ～ 生島涼,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060217_438/index.m3u8
+Caribbeancom-060317_439 放課後～ 希咲良,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060317_439/index.m3u8
+Caribbeancom-060617_440  巨乳浴衣娘 折原ほのか,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060617_440/index.m3u8
+Caribbeancom-060717_001 THE 未公開  双葉みお,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060717_001/index.m3u8
+Caribbeancom-060917_441 咲乃柑菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060917_441/index.m3u8
+Caribbeancom-061017_442 視界侵入～ 村上涼子,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061017_442/index.m3u8
+Caribbeancom-061317_443  極上泡姫物語 Vol.52 真咲アイラ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061317_443/index.m3u8
+Caribbeancom-061417_444 未公開 ～大失禁～ 希咲良,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061417_444/index.m3u8
+Caribbeancom-061617_445  嫌の女顔射 水島にな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061617_445/index.m3u8
+Caribbeancom-061717_446 卑猥 星咲優菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061717_446/index.m3u8
+Caribbeancom-062117_448 潮吹～ 白石真琴,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062117_448/index.m3u8
+Caribbeancom-062317_449 ～ 神田るな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062317_449/index.m3u8
+Caribbeancom-062417_450  緊縛研究所 ～ 双葉みお,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062417_450/index.m3u8
+Caribbeancom-062617_451 男按摩,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062617_451/index.m3u8
+Caribbeancom-062917_452  羽田真里BEST,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062917_452/index.m3u8
+Caribbeancom-063017_453  生島涼,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-063017_453/index.m3u8
+Caribbeancom-070117_454  木村美羽,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070117_454/index.m3u8
+Caribbeancom-070517_456 熟女の放尿娘～ 北島玲 美涼りな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070517_456/index.m3u8
+Caribbeancom-070717_457  視界侵入！挿入～北川レイラ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070717_457/index.m3u8
+Caribbeancom-070817_458  真琴りょう,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070817_458/index.m3u8
+Caribbeancom-071117_459 女熱大陸 File.056 米倉のあ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071117_459/index.m3u8
+Caribbeancom-071217_460 我慢大会～七瀬リナ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071217_460/index.m3u8
+Caribbeancom-071317_001  縦型動画 013 ～画面の尻穴陰毛～ 梢あをな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_001/index.m3u8
+Caribbeancom-071317_003 顔面騎乗位～ 観月奏,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_003/index.m3u8
+Caribbeancom-071317_004 下品～ 北島玲,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_004/index.m3u8
+Caribbeancom-071317_005  縦型動画 017 ～小悪魔～ 美月るな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_005/index.m3u8
+Caribbeancom-071317_007 経験の女性～ 上条藍,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_007/index.m3u8
+Caribbeancom-071317_008  謎の熟女祥子～ 高嶋祥子,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_008/index.m3u8
+Caribbeancom-071317_009 講師～ 生島涼,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_009/index.m3u8
+Caribbeancom-071317_010  顔面騎乗位～ 咲乃柑菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_010/index.m3u8
+Caribbeancom-071517_462 女仆  希咲良,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071517_462/index.m3u8
+Caribbeancom-071817_463  二輪車冴君麻衣子 上原まさき,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071817_463/index.m3u8
+Caribbeancom-072517_467 下全裸、星咲優菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072517_467/index.m3u8
+Caribbeancom-072617_468  未公開 ～原ちとせ 碧木凛 桃井りの 羽多野しずく,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072617_468/index.m3u8
+Caribbeancom-072917_470  黒木澪,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072917_470/index.m3u8
+Caribbeancom-080117_471 魅惑 枢木みかん,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-080117_471/index.m3u8
+Caribbeancom-080417_473 葵千恵 千野くるみ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-080417_473/index.m3u8
+Caribbeancom-080815_941  放課後発育途上の女子校生～  藤井なな,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-080815_941/index.m3u8
+Caribbeancom-080817_475  極上泡姫物語 Vol.53 生島涼,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-080817_475/index.m3u8
+Caribbeancom-080915-942  M娘覚醒 宮崎愛莉,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-080915-942/index.m3u8
+Caribbeancom-081017_002 卑猥水着講座～ 並木あゆ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_002/index.m3u8
+Caribbeancom-081017_003  君島アンナ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_003/index.m3u8
+Caribbeancom-081017_005  碧しの,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_005/index.m3u8
+Caribbeancom-081017_006 希咲あや 蒼井さくら 真琴りょう,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_006/index.m3u8
+Caribbeancom-081115_944  Debut Vol.23 ～水着Ｈ罩杯～  西条沙羅,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081115_944/index.m3u8
+Caribbeancom-081117_477 超高速生騎乗位～立花瑠莉,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081117_477/index.m3u8
+Caribbeancom-081217_478 僕の彼女 北川レイラ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081217_478/index.m3u8
+Caribbeancom-081517_479 温泉旅行 逢沢はるか 美月優芽,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081517_479/index.m3u8
+Caribbeancom-081215_945 幼馴染  舞希香,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081215_945/index.m3u8
+Caribbeancom-081617_480 放尿～黒木澪,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081617_480/index.m3u8
+Caribbeancom-081917_483  中出3連発 水島にな,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081917_483/index.m3u8
+Caribbeancom-082217_484 僕の彼女白石真琴,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082217_484/index.m3u8
+Caribbeancom-081315_001  THE未公開 ～ 愛沢かりん,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081315_001/index.m3u8
+Caribbeancom-081315_946  愛沢かりん,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081315_946/index.m3u8
+Caribbeancom-081415_947  夏の想出 Vol.9  星乃ここみ,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081415_947/index.m3u8
+Caribbeancom-081615_949  僕の彼女木下寧々,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081615_949/index.m3u8
+Caribbeancom-081715_950   新山沙弥,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081715_950/index.m3u8
+Caribbeancom-081815_951  松本メイの家事検証,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081815_951/index.m3u8
+Caribbeancom-082015_952 面接素人娘中出  藤井沙紀,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082015_952/index.m3u8
+Caribbeancom-082315_001 図鑑 松本まりな 萌芭,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082315_001/index.m3u8
+Caribbeancom-082315_955  母本物親子の４P共演,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082315_955/index.m3u8
+Caribbeancom-082317_485  THE 未公開 ～ 生島涼,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082317_485/index.m3u8
+Caribbeancom-082517_486  米倉のあ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082517_486/index.m3u8
+H4610-ki170530 山本けい 22歳,http://videocdn.quweikm.com:8091/20180930/hd_h4610-ki170530/index.m3u8
+H4610-ki170625  森 理都子 35歳,http://videocdn.quweikm.com:8091/20180930/hd_h4610-ki170625/index.m3u8
+H4610-pla0094 今西日名子 22歳,http://videocdn.quweikm.com:8091/20180930/hd_h4610-pla0094/index.m3u8
+Heyzo-1331 快感！ 安城アンナ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1331/index.m3u8
+Heyzo-1433 美痴女～～ 七瀬リナ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1433/index.m3u8
+Heyzo-1469 同僚 白瀬ここね,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1469/index.m3u8
+Heyzo-1476 派给你！ ゆうき美羽,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1476/index.m3u8
+Heyzo-1492 主人様 白石真琴,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1492/index.m3u8
+Heyzo-1504 放課後美少女調教 水島にな,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1504/index.m3u8
+Heyzo-1505 手机捡到的感谢之情 ！ 水島にな,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1505/index.m3u8
+Heyzo-1515 余分 雲母みくる,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1515/index.m3u8
+Heyzo-1517 撲滅講座 臼井さと美,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1517/index.m3u8
+Heyzo-1525 痴女占卜师の童貞狩り 麻生希,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1525/index.m3u8
+Heyzo-1526 素人娘！！ 倉田麻紀,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1526/index.m3u8
+Heyzo-1533 出張の手配 米倉のあ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1533/index.m3u8
+Heyzo-1534 上手巨乳 北山かんな,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1534/index.m3u8
+Heyzo-1537 真面目後輩！ 宮藤まい,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1537/index.m3u8
+Heyzo-1538 出張 山中麗子,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1538/index.m3u8
+Heyzo-1539 幼馴染 愛乃まほろ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1539/index.m3u8
+Heyzo-1543 綾瀬ゆいの手淫 綾瀬ゆい,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1543/index.m3u8
+Heyzo-1546 続々生中！ 初音ろりあ,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1546/index.m3u8
+Heyzo-1549 美巨乳～ 双葉みお,http://videocdn.quweikm.com:8091/20180930/hd_heyzo-1549/index.m3u8
+Caribbeancompr-033117_001  上原亜衣 江波りゅう 朝桐光 希咲エマ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-033117_001/index.m3u8
+Caribbeancompr-060217_001  月刊 美咲結衣,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-060217_001/index.m3u8
+Caribbeancompr-060917_002 月刊 大橋ひとみ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-060917_002/index.m3u8
+Caribbeancompr-062317_001  S Model 172 丘咲エミリ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-062317_001/index.m3u8
+Caribbeancompr-062417_001  THE 処女　大人の階段の生娘,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-062417_001/index.m3u8
+Caribbeancompr-062717_002 奴隷妻 中島京子,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-062717_002/index.m3u8
+Caribbeancompr-063017_001  DEBUT 華城まや,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-063017_001/index.m3u8
+Caribbeancompr-070717_001 水着  白石真琴,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-070717_001/index.m3u8
+Caribbeancompr-070817_001  THE 巨乳Ⅲ～北山かんな 初音ろりあ 篠田あゆみ 小向美奈子,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-070817_001/index.m3u8
+Caribbeancompr-071417_001  巨乳自慢の彼女 ゆうき美羽,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-071417_001/index.m3u8
+Caribbeancompr-072117_001  KIRARI 138   桃井りの,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-072117_001/index.m3u8
+Caribbeancompr-072217_002  THE 潮吹洪水～ 加藤えま 越川アメリ 一条リオン 千野くるみ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-072217_002/index.m3u8
+Caribbeancompr-072617_003 DIRTY SCHOOLGIRLS 01 完全版,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-072617_003/index.m3u8
+Caribbeancompr-072817_001 制服JK性交 さくらみゆき,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-072817_001/index.m3u8
+Caribbeancompr-080417_001 絶対24時 七瀬リナ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-080417_001/index.m3u8
+Caribbeancompr-081017_002 図鑑 村上佳苗,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-081017_002/index.m3u8
+Caribbeancompr-081117_002  S Model 175 初彼女！ 華城まや,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-081117_002/index.m3u8
+Caribbeancompr-081817_001  S Model 174 顔面 愛乃まほろ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-081817_001/index.m3u8
+Caribbeancom-082917_488 恍猛烈交尾～ 如月ジュリ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082917_488/index.m3u8
+Caribbeancom-083017_489  早抜 咲乃柑菜BEST,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-083017_489/index.m3u8
+Caribbeancom-083117_490 木村美羽の家撮影 木村美羽,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-083117_490/index.m3u8
+Caribbeancom-090117_491 令嬢召使 渋谷ひとみ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-090117_491/index.m3u8
+Caribbeancom-090217_492  北山かんな,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-090217_492/index.m3u8
+Caribbeancom-091615_972 ひばり結羽 極上泡姫物語 Vol.30,http://videocdn.hndtl.com:8091/20190331/hd_caribbeancom-091615_972/index.m3u8
+Caribbeancom-091915_974  交通機関STOP！帰宅難民！！  松本メイ,http://videocdn.hndtl.com:8091/20190331/hd_caribbeancom-091915_974/index.m3u8
+Caribbeancom-092015-_975   本多なるみ,http://videocdn.hndtl.com:8091/20190331/hd_caribbeancom-092015-_975/index.m3u8
+Caribbeancom-092415_980 欲情若妻の生交尾  希咲あや,http://videocdn.hndtl.com:8091/20190331/hd_caribbeancom-092415_980/index.m3u8
+Caribbeancom-092715_983   永瀬里美,http://videocdn.hndtl.com:8091/20190331/hd_caribbeancom-092715_983/index.m3u8
+Caribbeancompr-010115_061  大人の着物緊縛 舞咲みくに,http://videocdn.hndtl.com:8091/20190331/hd_caribbeancompr-010115_061/index.m3u8
+Caribbeancompr-022015_112 KIRARI 89   前田かおり,http://videocdn.hndtl.com:8091/20190331/hd_caribbeancompr-022015_112/index.m3u8
+Heyzo-1553 激烈の潮吹！ 葵千恵,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1553/index.m3u8
+Heyzo-1555 美人家政婦～ 上原茉咲,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1555/index.m3u8
+Heyzo-1556 主人様性人形～ ももき希,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1556/index.m3u8
+Heyzo-1557 痴女奥様～卑猥下着誘惑～ 沢木りりか,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1557/index.m3u8
+Heyzo-1558 和喝醉的女儿做爱 朝比奈菜々子,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1558/index.m3u8
+Heyzo-1559 家事代行 愛咲ななみ,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1559/index.m3u8
+Heyzo-1561 性感按摩快感~滝川エリナの場合 滝川エリナ,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1561/index.m3u8
+Heyzo-1564 让我来看看！ ！ 牧野えり,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1564/index.m3u8
+Heyzo-1567 让我来吧！ 木ノ花あみる,http://videocdn.quweikm.com:8091/20180831/hd_heyzo-1567/index.m3u8
+Heyzo-1883 美肌OL – 大貫あずさ,http://videocdn.hndtl.com:8091/20181220/hd_heyzo-1883/index.m3u8
+Caribbeancom-121518_811  速美もながお嫁,http://videocdn.hndtl.com:8091/20181220/hd_caribbeancom-121518_811/index.m3u8
+Caribbeancompr-010115_057 爆乳姉の妖艶誘惑 ～  小泉真希,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancompr-010115_057/index.m3u8
+Caribbeancompr-010115_059 処理旅行会社員～  朝倉ことみ,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancompr-010115_059/index.m3u8
+
 
