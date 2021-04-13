@@ -2108,6 +2108,109 @@ RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 有线财经 ,http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8#http://hls.globaliptv.ml/icablefinanceinfo.php#http://livetv.dnsfor.me:80/channel.6.m3u8  
 TVB 无线新闻台,http://tv.sason.xyz/proxy/tvb.php?id=xw#http://155.94.164.191/live.php?id=1#http://61.238.6.49:8001/bysid/83
 TVB 无线财经台,http://tv.sason.xyz/proxy/tvb.php?id=cj#http://155.94.164.191/live.php?id=2#http://61.238.6.49:8001/bysid/85#http://livetv.dnsfor.me/channel.11.m3u8
+年代新闻台,http://ws.matchupstream.tuboshu.com/live/cennewstry.flv
+TVB明珠,http://f07.ub1700.com/live/391/be89028735494990b0278c602fa654f0/index.m3u8
+有線新聞,http://f08.ub1800.com/live/395/cdf143da5df87374dcf213dab8f1aa95/index.m3u8
+松視4台,http://ws.matchupstream.tuboshu.com/live/lsonsee4kkee00w09.flv
+NOW直播,http://f08.ub1800.com/live/400/f62d5b43816bb4e7f5a922fddb17f001/index.m3u8
+星空衛視,http://f07.ub1700.com/live/56/2c4796a77eb57a1ca86b0e1f6a2dfa69/index.m3u8
+港臺32,http://f08.ub1800.com/live/397/575159838526d79eb4202077c99e6da0/index.m3u8
+HKC體育2,http://f07.ub1700.com/live/356/c3380a31465842258f44c7a9b9d2ea8d/index.m3u8
+HKS,http://f08.ub1800.com/live/399/7d2149cd262b99989ad73b11bf0003dc/index.m3u8
+澳視葡語,http://f07.ub1700.com/live/24/97f05ede8be53daee207469039cb6dc0/index.m3u8
+澳門Macau,http://f07.ub1700.com/live/364/31badd7f2c5281ba47cdd8425515e1bc/index.m3u8
+有線603,http://f08.ub1800.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
+廣東珠江,http://f08.ub1800.com/live/1034/60b1fbee327400a2e21a8ba048ce586c/index.m3u8
+18台,http://f07.ub1700.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
+耀才财经,http://f07.ub1700.com/live/355/1b8eea4737a887f673a38f27db887431/index.m3u8
+﻿民視,http://f01.twtv0100.com/live/26/d5aee2245ce6d2a2f90ad77c532e54c8/index.m3u8
+霹靂臺灣,http://f13.pp16000.com/live/1339/1e78661f5dd58eab79fd73fc052fae40/index.m3u8
+探索科學,http://f18.pp18000.com/live/343/1adb0fe32fbdd31e6bd7ed0519f8e7e8/index.m3u8
+TLC旅遊,http://f23.ub1400.com/live/1206/7290d9d32918945151d0c65df467ecda/index.m3u8
+動物星球,http://f18.pp18000.com/live/367/5f733a8f72dd32bbed726a13feb453bf/index.m3u8
+迪士尼,http://f18.pp18000.com/live/5/61ef512637c1e0b366463050559e15d7/index.m3u8
+緯來綜合,http://f01.twtv0100.com/live/340/72956b09dd97db6702df06c4cc9bcfdf/index.m3u8
+八大綜合,http://f01.twtv0100.com/live/325/6d29f46c80ff779c6f66b2701d4f1f0e/index.m3u8
+衛視中文,http://f01.twtv0100.com/live/342/018e8e9ebda99b75c8e3155a3cf1c464/index.m3u8
+中天亞洲,http://f01.twtv0100.com/live/322/b074c1f9e6bbe6907d7e8f34706625c7/index.m3u8
+金光布袋戲,http://f13.pp16000.com/live/1060/ff0e0f6972ff68612097d2d531cebd65/index.m3u8
+中天娛樂,http://f01.twtv0100.com/live/324/02f56a571f42dbaa28acb3c3eb95801a/index.m3u8
+東森戲劇,http://f14.pp17000.com/live/321/250219c37ad769e7f03720e765bf7965/index.m3u8
+八大戲劇,http://f14.pp17000.com/live/81/c321a44eb0f0459cf54acd4b5b57e854/index.m3u8
+緯來戲劇,http://f14.pp17000.com/live/339/e7e8b41f4604e13f2164cfb63b1f39e0/index.m3u8
+JET綜合,http://f01.twtv0100.com/live/41/13c3f789c19b4612696094b5cd44eed8/index.m3u8
+寰宇新聞,http://f11.pp15000.com/live/304/f952de4d5ac4649579880cdfe2a7ea57/index.m3u8
+壹電視新聞,http://f13.pp16000.com/live/303/27e192865a7170b846fc5fe98432342d/index.m3u8
+年代新聞,http://f11.pp15000.com/live/1099/478f49635e6c057207cddd4b40cee243/index.m3u8
+東森新聞,http://f10.pp15000.com/live/9/1e795443bc4bf4de5b9b6dcbd86fced5/index.m3u8
+中天新聞,http://f13.pp16000.com/live/3/9ca3c9f971318a4e0fed65cb8108afd9/index.m3u8
+民視新聞,http://f12.pp16000.com/live/13/731e784f1f7447b95ee9f7fa04b9fc85/index.m3u8
+三立LIVE新聞,http://f11.pp15000.com/live/4/31918d3a7eece419bd5625b8fcebfc57/index.m3u8
+TVBS新聞,http://f12.pp16000.com/live/2/5b735d73cec8e084004021e1c176c452/index.m3u8
+TVBS綜合,http://f01.twtv0100.com/live/16/78c005b1c8a7c98c761b9dc55e328a8b/index.m3u8
+東森財經,http://f13.pp16000.com/live/12/a750457fcf5685fb6e3c86bf5694ba9a/index.m3u8
+星衛電影,http://f13.pp16000.com/live/496/d0443e4f837f8a978d56868da3dbc4f8/index.m3u8
+衛視西片,http://f14.pp17000.com/live/369/03854c25fe9bdd54cef77ad85fccbcb8/index.m3u8
+衛視電影,http://f14.pp17000.com/live/93/fbaa95ba81e9eb3cd7db02c8d50d6611/index.m3u8
+東森電影,http://f14.pp17000.com/live/350/76be36c52eb6bea4c068411d509ed4b8/index.m3u8
+緯來電影,http://f14.pp17000.com/live/96/3b503d12a156efc7d2eda12de19d5272/index.m3u8
+龍翔時代,http://f16.pp17000.com/live/373/c5fc219237586c07a46bc827d4029b24/index.m3u8
+HBO HD,http://f13.pp16000.com/live/332/2b16fc5684f8bb1ba845c7f8f8fa4ef1/index.m3u8
+東森洋片,http://f13.pp16000.com/live/1128/76f0e34cc3931154e8e0470b3f1e4bf0/index.m3u8
+AXN,http://f16.pp17000.com/live/423/78c7fd7900fe3588ee12ec0ed7e44825/index.m3u8
+好萊塢電影,http://f13.pp16000.com/live/37/1230e2a932f490ea056a776cb0dbf678/index.m3u8
+FOX MOVIES,http://f14.pp17000.com/live/387/b7519fed9c92e31727de4834b44d25e4/index.m3u8
+﻿邵氏老电影,http://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/live_97065163_17925468.m3u8
+电影02,http://pull.kktv8.com/livekktv/128600025.flv
+电影03,http://pull.kktv8.com/livekktv/99350550.flv
+电影04,http://pull.kktv8.com/livekktv/99592190.flv
+爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+电影2K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+济阳影视,http://jsylivealone302.iqilu.com/live/jiyang_tv02/index.m3u8
+电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+民视新闻台,http://ws.matchupstream.tuboshu.com/live/Peopleshixy.flv
+民视新闻台,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+BOO恐怖HD,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8
+TVB J2台,http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+TVB 星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVB明珠台,http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+TVB翡翠台,http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+TVB新聞台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+J2,http://61.238.6.49:8001/bysid/82
+星空卫视2,https://itv.ahcme.edu.cn/hls/startv.m3u8
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
+澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
+澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
+港视32台,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+TVB 明珠台2,http://61.238.6.49:8001/bysid/2
+澳门2台,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳门Macau,http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+潍坊新闻HD,http://stream.wfcmw.cn/1/sd/live.m3u8
+華视新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+寰宇新闻,http://seb.sason.top/sc/hyxw.m3u8
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+ELSHINTA TV,http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+DiscoveryHDWorld,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+Tennis HD,https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+HISTORY HD,https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+Fox Sports 1 Asia,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+Fox Sports 2 Asia,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+WarnerTV HD,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+AnimalPlanet,https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+Golf HD,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+H2 HD,https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
 凤凰资讯,http://kltvx.5ay.xyz/ub/ub.php?id=1080
 凤凰资讯,http://kltvx.5ay.xyz/ub/ub.php?id=359
@@ -3147,6 +3250,117 @@ Trouble Maker- Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgism34gUo0rqhh
 AOA - 动摇,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
 蔡依林 - Beast,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
 郑意文、郭健荣-123 我爱你,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4sGv5wUo5bvaxwM.mp4
+DJ·体面,http://189.ly93.cc/Ufiii2Ez6zIv/1130124235746654
+DJ·情火,http://189.ly93.cc/Rrmqiu7fqMfu/4154723731487362
+DJ·爱的路上千万里,http://189.ly93.cc/AjMNbiIJr6vy/4154724975796127
+DJ·寂寞爱上了眼泪,http://189.ly93.cc/Fba6fqvYnYbq/4154124975555768
+PO·被情伤过的女人,http://189.ly93.cc/7JjIVvIBnQFv/2154727908394121
+PO·别让我一个人醉,http://189.ly93.cc/I7Bju2jURJZv/7154123970872735
+PO·下定决心忘记你,http://189.ly93.cc/bqeUnmuUV7zm/6151223603714873
+DJ·我又想你了,http://189.ly93.cc/YRBrUn6BbuQb/5154124992888666
+DJ·突然好想念,http://189.ly93.cc/RFVJf2yumyQn/2151224005139501
+DJ·菊花爆满山,http://189.ly93.cc/2iyABrVfYNZ3/4150024975567825
+PO·不变的情缘,http://189.ly93.cc/BZ7NziVvmY7r/1150025457114652
+PO·惦记这一些,http://189.ly93.cc/vYFRniumammu/5154123620157136
+DJ·我的唇吻不到我爱的人,http://189.ly93.cc/BbimUnEVjuEj/1130124473858841
+DJ·你不懂,http://189.ly93.cc/2yMzMrbQbQf2/9130124986501627
+DJ·一级棒,http://189.ly93.cc/n2umUba2IN3y/1151226213489940
+PO·离别两依依,http://189.ly93.cc/faIrYr6fYnQv/1151228383729699
+PO·忘了我的爱,http://189.ly93.cc/YrYFj2NZV7b2/8130127870429593
+DJ·忘了我的爱,http://189.ly93.cc/qQfUFv6BZFfm/5154124010253070
+DJ·新娘不是我,http://189.ly93.cc/qUBjuqbQBjYv/6130124972472292
+PO·走过咖啡屋,http://189.ly93.cc/M7JJbmIr2Ynu/1151225457404910
+DJ·一晃就老了,http://189.ly93.cc/ieiqaeqYJ3Ij/4154727899696922
+DJ·一首小情歌,http://189.ly93.cc/7Zz6jqze2qe2/8150024977459443
+DJ·情歌里的你,http://189.ly93.cc/qy26F3ENvUnq/8130127870072596
+PO·香水有毒,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
+PO·假情真爱,http://189.ly93.cc/u26ne2INj6zu/9132223978339181
+PO·千千阙歌,http://189.ly93.cc/ARbiy27vQZzu/5130123627925551
+PO·冷冷长街,http://189.ly93.cc/bMB3aeNnYZbe/4150323598554086
+PO·光辉岁月,http://189.ly93.cc/N3MVrieINNrq/6154124973138813
+PO·一生何求,http://189.ly93.cc/YNj6FfR3mm6b/6151223603716604
+DJ·爱的故事上集,http://189.ly93.cc/jEri2ebai2iu/4132223780553427
+DJ·往事只能回味,http://189.ly93.cc/3a2eYfqemuA3/3150025721881214
+DJ·爱一回伤一回,http://189.ly93.cc/ei22aeziaqI3/1150325459275124
+PO·忘了你忘了我,http://189.ly93.cc/Z3maUf3IjEbm/9130123980656219
+DJ·最爱的那个人,http://189.ly93.cc/rQ73QvZBVz2q/2150024985454077
+DJ·失恋阵线联盟,http://189.ly93.cc/EFBNJnF7ra2q/2150323626514445
+DJ·爱着你宠着你,http://189.ly93.cc/FfMnAzBRBRzi/6154123992753894
+DJ·因为爱你,http://189.ly93.cc/a67raimyUNZf/3154723728905859
+DJ·浪子回头,http://189.ly93.cc/yEnmMfaMfQrq/4154724975797142
+DJ·潮湿的心,http://189.ly93.cc/nmYVZnvaMR7n/4132223780551841
+DJ·自由飞翔,http://189.ly93.cc/7vqimyieIbeu/3150024966406276
+PO·爱很简单,http://189.ly93.cc/BJrAJj3ABBNz/2154727908396289
+PO·倩女幽魂,http://189.ly93.cc/zMfqe2UnYbAf/3154723604135470
+DJ·你会遇见更好的人,http://189.ly93.cc/IzqIBfbuuyiy/3150327889751975
+DJ·下辈子也要找到你,http://189.ly93.cc/juyemamyiqmq/8154723966675236
+PO·下辈子也要找到你,http://189.ly93.cc/vuMV3aEBneqi/2130124984372353
+PO·天在下雨我在恨你,http://189.ly93.cc/zEJrUffArm2y/9132224985664561
+DJ·把酒倒满,http://189.ly93.cc/vmMRVnmaA7re/8130124975944414
+DJ·孤单为伴,http://189.ly93.cc/nY7veeZbAjay/8154723966674314
+DJ·爱情主演,http://189.ly93.cc/MfuAbaUzQ7Vb/1151226213489549
+DJ·爱的热浪,http://189.ly93.cc/QBj2m2MnQN7n/6130125727770107
+PO·欢喜就好,http://189.ly93.cc/Br6bmumAF77z/4130123598542127
+DJ·今夜我一个人醉,http://189.ly93.cc/JZn6FnaUnmMf/8150324976407711
+DJ·伤心的人醉茫茫,http://189.ly93.cc/Fnqiuaq6vQ3e/8132227870173288
+DJ·一路风雨一路你,http://189.ly93.cc/UBjqAny6ZZze/5132224992881976
+PO·死心塌地去爱你,http://189.ly93.cc/2yAzueyQziyu/6132223611617338
+PO·爱情的故事,http://189.ly93.cc/jMFFJf6jU3ui/5150023986871780
+DJ·爱如蝴蝶飞,http://189.ly93.cc/fMJJ73VNNBvm/3154124967455240
+DJ·酒醉的蝴蝶,http://189.ly93.cc/3ANbyeNJzA7j/4150024975569998
+DJ·三分钟热度,http://189.ly93.cc/YfmeAjv6jiue/7154723608568888
+DJ·我们不一样,http://189.ly93.cc/bQRrumZFvemi/3154724966314677
+DJ·我们都一样,http://189.ly93.cc/bMzuIffAVJJr/4130125729350643
+DJ·街舞,http://189.ly93.cc/fqeMZjmUBzEb/6130125727773790
+DJ·殇雪,http://189.ly93.cc/meqQjq6Rfymq/7150023970894679
+DJ·格局,http://189.ly93.cc/QnIvIb3qaeIf/9132224985672244
+DJ·坦荡,http://189.ly93.cc/eQB7JvemeaEf/5150024991816924
+PO·犯错,http://189.ly93.cc/m2IJRrzaUf6n/6150323611314713
+DJ·为你祈祷,http://189.ly93.cc/6zAf63rYRvAv/8154723966675210
+DJ·多年以后,http://189.ly93.cc/Ij6jiuzqQrIz/4130124975633735
+DJ·你的世界到底有了谁,http://189.ly93.cc/aIRVfmNBjIbi/4154724975791438
+DJ·念旧的人最容易掉眼泪,http://189.ly93.cc/iiyu2mfu2iAz/5150024991813414
+DJ·夜之光,http://189.ly93.cc/3AnQB3yY7Nba/9151224985890076
+DJ·夜上海,http://189.ly93.cc/Abaaqeba6ZZ3/9132223978343443
+DJ·踢了他,http://189.ly93.cc/ya2QR37vEJ3a/6130124973415505
+DJ·公虾米,http://189.ly93.cc/qMJJn2Rf6ZBz/8150323966739911
+DJ·嘀嗒嘀,http://189.ly93.cc/Uv2InqQfYfEz/2130124984374764
+DJ·哦哦哦,http://189.ly93.cc/NJJNBvqMvu2e/6154723611447175
+DJ·苍天不负有情人,http://189.ly93.cc/6BZBRfaUBNvy/7154123970926170
+DJ·别说你已不在乎,http://189.ly93.cc/Q32uU33uqIBz/4150024975562134
+DJ·曾经被爱,http://189.ly93.cc/AJniayvy2Uvy/3154723977005576
+DJ·不再犯傻,http://189.ly93.cc/VjQBNrqEvey2/8130124975935762
+DJ·狂狼(DJ 1版),http://189.ly93.cc/eUbyyarUzaI3/8130123885898203
+DJ·狂狼(DJ 2版),http://189.ly93.cc/uimuAvmiyEba/3150024966410271
+PO·大约在冬季,http://189.ly93.cc/uENBVvQjQNzi/9130123980656127
+PO·说给男人听,http://189.ly93.cc/euYF7fJNZNvq/1151226213936843
+DJ·不浪漫的罪,http://189.ly93.cc/myUzqyAv6zEb/4132224975540974
+DJ·拥抱你离去,http://189.ly93.cc/MF32iu77VJva/5154124010254865
+DJ·受伤的刺猬,http://189.ly93.cc/uEVVNbqMBn6z/9151224985892177
+PO·许多年以后,http://189.ly93.cc/e6fUju2A3YRj/8132223604432881
+PO·一剪梅,http://189.ly93.cc/VRR7biRvmIbq/2150324984232664
+PO·差一步,http://189.ly93.cc/Mzim6jVJVFfi/8132227870470901
+PO·凡人歌,http://189.ly93.cc/BJ3EzeiuQVfe/1130128383795876
+PO·水喷喷,http://189.ly93.cc/fMZba23aUN7z/2150323618737919
+PO·听说你离开他,http://189.ly93.cc/QrEBnuFnMb2u/9130123980655707
+DJ·再见吧我最爱的你,http://189.ly93.cc/QRryamRzeERz/5130124992431463
+DJ·痴情的只有我一个,http://189.ly93.cc/JbQVNbvmM7B3/3150024966408287
+PO·不想哭却有泪在流,http://189.ly93.cc/jMfUruz6fyEj/7154123970873310
+PO·谁会记得,http://189.ly93.cc/YryAfyNfaMBz/1130128383795532
+PO·她的背影,http://189.ly93.cc/jMby2iYr2YRv/9151223896788159
+PO·等一分钟,http://189.ly93.cc/miamYfYJFZ3a/3150327889995036
+PO·今生最爱,http://189.ly93.cc/qIjmuyA3Inme/1151226213937095
+PO·情非得已,http://189.ly93.cc/6vEFzyMRNJBn/6132223611616548
+PO·小二上酒,http://189.ly93.cc/JF7bAbYbyima/5150325742473657
+DJ·你说我永远的痛,http://189.ly93.cc/JVvue26BzEja/9151224985884367
+PO·我们终究是错过,https://cloud.189.cn/t/bqaQBjeMFJ7b
+PO·留不住变心的你,http://189.ly93.cc/via2iuqaAZvu/5150325742476220
+PO·爱过了也伤过了,http://189.ly93.cc/j6jEFrfyiaiu/1151226213935870
+PO·最后一个才明白,http://189.ly93.cc/I7RnM37BBrIf/2130124985946102
+PO·姐姐,http://189.ly93.cc/IJN7j2iERj6n/9130123617452676
+PO·一个人的时候好好爱自己,http://189.ly93.cc/YzMFBbUNBNrm/2154124983835281
+PO·大约在冬季(越南语),http://189.ly93.cc/VBjaQnbUZ3Ev/7150023616974600
+PO·千千阙歌(越南语),http://189.ly93.cc/IfEba222qAb2/7150023617035037
 
 韩国歌舞,#genre#
 韩国太妍01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
