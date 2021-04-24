@@ -1227,59 +1227,6 @@ National_Geographic_Channel_HD,tvbus://5XisRcapXu4nAHj8KreveFP1L9onShtgEbndRy3mt
 National_Geographic_Wild_HD,tvbus://5qpiu44Nif4zZw6Hk7yGNYwzczXu3SwXz3iqNeft31tcK3pk3kShPdQHrqQUN
 
 安博直播,#genre#
-CCTV-1[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-CCTV-2[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
-CCTV-3[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
-CCTV-5+[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-CCTV-5+[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225590/index.m3u8
-CCTV-6[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
-CCTV-7[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
-CCTV-7[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
-CCTV-8[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
-CCTV-9[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
-CCTV-9[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
-CCTV-10[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
-CCTV-10[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
-CCTV-12[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
-CCTV11 1080[1280*720],http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
-CCTV12 1080[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
-CCTV-14[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
-CCTV17 1080[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
-浙江卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
-浙江卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
-江苏卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
-江苏卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
-湖南卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
-湖南卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
-东方卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
-东方卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
-上海纪实[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
-上海纪实HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
-北京卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
-北京卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
-北京纪实[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
-北京纪实HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
-深圳卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
-深圳卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
-广东卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
-广东卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
-天津卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
-天津卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
-安徽卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
-安徽卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
-山东卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
-山东卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
-江西卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
-江西卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
-湖北卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
-湖北卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
-重庆卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
-重庆卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
-黑龙江卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
-黑龙江卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
-辽宁卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
-辽宁卫视HD[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
-东南卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 民視[1280*720],http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
 民視新聞台[1280*720],http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=84797b799ae18d1b
 公視[1280*720],http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=84797b799ae18d1b
@@ -1406,6 +1353,40 @@ Disney卡通[1280*720],http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_130
 求索科學[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索動物[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 hannelV音樂[768*576],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+TVRI,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+Twenty Four News (576p),http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+UN Web TV (540p),https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+Unews (360p),https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8
+VoA Persian (1080p),https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+VoA TV (1080p),https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+VoA TV (1080p),https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+Weather Channel,https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+Weather Nation,https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+WSJ (1080p),https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+WSVN Fox 7 Miami (720p),https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
+Известия (1080p),http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+Известия (720p),https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+Мир 24,http://188.40.68.167/russia/mir24/playlist.m3u8
+Мир 24 (1080p),http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+Перший незалежний,http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+Перший незалежний,https://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+Перший незалежний,https://app.live.112.events/hls/112hd_hi/index.m3u8
+Перший незалежний,https://app.live.112.events/hls/112hd_mid/index.m3u8
+Россия 24,http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+Россия 24,http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+Россия 24,https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+ನ್ಯೂಸ್ ೧೮ ಕನ್ನಡ News 18,https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on
+三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
+港台電視32 (480p),https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+澳門資訊 (720p),http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 星空卫视,P2p://ns2.hellotvvod.com:9906/5ff3f74200068c0a6028219d2fba7e54
 魅力足球,P2p://ns2.hellotvvod.com:9906/5ff3f7a3000ec8d660299ea84b576b2f
 香港开电视,P2p://ns2.hellotvvod.com:9906/5fb65a3a000c323909e7162d43201e75
@@ -3483,7 +3464,6 @@ SOD女子社員 AV界を代表するレジェンド4名が伝授！ 相手を絶
 麻豆291,https://vd8.zhiyuanhongda.com/20210120/nYzwDaGV/1000kb/hls/index.m3u8
 麻豆292,https://vd8.zhiyuanhongda.com/20210120/ozKyO8s9/1000kb/hls/index.m3u8
 麻豆293,https://vd8.zhiyuanhongda.com/20210120/C92CXAI6/1000kb/hls/index.m3u8
-
 
 欧美风光_666,#genre#
 无码85,https://videozm.whqhyg.com:8091/20200424/AeOtc8Et/1000kb/hls/index.m3u8
