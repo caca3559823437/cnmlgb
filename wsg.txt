@@ -2464,6 +2464,31 @@ happy,p5p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
 香蕉台,p5p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts
 松視2,p8p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
 松視3,p8p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
+松視1,http://8.crtv1.ml/hstv/crtv.php?id=402
+松視2,http://8.crtv1.ml/hstv/crtv.php?id=403
+松視3,http://8.crtv1.ml/hstv/crtv.php?id=404
+彩虹E,http://8.crtv1.ml/hstv/crtv.php?id=405
+彩虹K,http://8.crtv1.ml/hstv/crtv.php?id=406
+HOT,http://8.crtv1.ml/hstv/crtv.php?id=407
+香蕉台,http://8.crtv1.ml/hstv/crtv.php?id=408
+驚豔台,http://8.crtv1.ml/hstv/crtv.php?id=409
+潘朵拉完美,http://8.crtv1.ml/hstv/crtv.php?id=410
+潘朵拉粉紅,http://8.crtv1.ml/hstv/crtv.php?id=411
+happy,http://8.crtv1.ml/hstv/crtv.php?id=412
+彩虹電影,http://8.crtv1.ml/hstv/crtv.php?id=413
+一本道,http://8.crtv1.ml/hstv/crtv.php?id=414
+二本道,http://8.crtv1.ml/hstv/crtv.php?id=415
+東京熱,http://8.crtv1.ml/hstv/crtv.php?id=416
+Hustler HD,http://8.crtv1.ml/hstv/crtv.php?id=451
+Redlight HD,http://8.crtv1.ml/hstv/crtv.php?id=452
+Pr?vate TV,http://8.crtv1.ml/hstv/crtv.php?id=453
+Dorcel HD,http://8.crtv1.ml/hstv/crtv.php?id=454
+Erox HD,http://8.crtv1.ml/hstv/crtv.php?id=456
+Super One HD,http://8.crtv1.ml/hstv/crtv.php?id=457
+Babes TV HD,http://8.crtv1.ml/hstv/crtv.php?id=458
+SEX ATION HD,http://8.crtv1.ml/hstv/crtv.php?id=459
+Passie,http://8.crtv1.ml/hstv/crtv.php?id=461
+SCT Classic,http://8.crtv1.ml/hstv/crtv.php?id=462
 松視1,rtmp://161.202.204.248:1935/tv/ttv11
 happy,rtmp://161.202.204.248:1935/tv/ttv12
 松視1,http://kltvx.5ay.xyz/ub/ub.php?id=402
