@@ -2237,19 +2237,30 @@ PO·千千阙歌(越南语),http://189.ly93.cc/IfEba222qAb2/7150023617035037
 日韩松視_666,#genre#
 松視1,rtmp://161.202.204.248:1935/tv/ttv11
 happy,rtmp://161.202.204.248:1935/tv/ttv12
+彩虹e台,mitv://ns2.hellotvvod.com:9906/6acad748a2a04915a0da24108cd74565
+彩虹电影台,mitv://ns2.hellotvvod.com:9906/924dbfa03f634782acfcd9004390a0e1
+LOOK TV,mitv://ns2.hellotvvod.com:9906/c338fd72e1af4e27b5a12f0b4a6fca2a
+潘朵拉完美,mitv://ns2.hellotvvod.com:9906/f5d24d67fc7e4070be7188e1edb9e022
+驚豔台,mitv://ns2.hellotvvod.com:9906/0226daf4a14e448fbc5363862caea9f7
+松視1,mitv://ns2.hellotvvod.com:9906/1ae9051e09304f3e9f85afc72682156d
+松視2,mitv://ns2.hellotvvod.com:9906/8190f4ca53fe41efac3a1156d4557e14
+潘朵拉粉紅,mitv://ns2.hellotvvod.com:9906/c5e6052405c14b5795a02d2cc54f82a3
+Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790
+香蕉台,mitv://ns2.hellotvvod.com:9906/5b80cfe0cdc84e66a5174faf8080fbcc
+HOT,mitv://ns2.hellotvvod.com:9906/f09918ab062a4b5c91e9a24a6e0e7c53
 松視1,mitv://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.m3u8
 松視2,mitv://147.135.39.171:9906/600fee6d000232968ba10bcf54416fd9.m3u8
 驚豔台,mitv://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.m3u8
 彩虹E,mitv://147.135.39.171:9906/600fee6d0009bd7d8ba10dc303734365.m3u8
-彩虹電影,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.m3u8
-LOOK,mitv://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.m3u8
+彩虹电影台,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.m3u8
+LOOK TV,mitv://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.m3u8
 潘朵拉完美,mitv://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.m3u8
 潘朵拉粉紅,mitv://147.135.39.171:9906/600fee6c0003b9df8ba10855530a6dc7.m3u8
 Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.m3u8
 驚豔台,mitv://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.ts
-彩虹E,mitv://147.135.39.171:9906/600fee6d0009bd7d8ba10dc303734365.ts
-彩虹電影,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.ts
-LOOK,mitv://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.ts
+彩虹e台,mitv://147.135.39.171:9906/600fee6d0009bd7d8ba10dc303734365.ts
+彩虹电影台,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.ts
+LOOK TV,mitv://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.ts
 松視1,mitv://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.ts
 松視2,mitv://147.135.39.171:9906/600fee6d000232968ba10bcf54416fd9.ts
 潘朵拉粉紅,mitv://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.ts
@@ -2262,8 +2273,8 @@ HOT,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
 香蕉台,tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
 驚豔台,tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
 彩虹K,tvbus://6TwSfX13ixWEmxSZvpBVBScVbJW7T1yGLEK99Vib5fdistnWr47pXTsU1zvYU
-彩虹電影,tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
-彩虹E,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
+彩虹电影台,tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
+彩虹e台,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
 潘朵拉完美,tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
 潘朵拉粉紅,tvbus://5Vwks9Jw5SGxTtkrbQ9DNrgE3H2M57ipNTVH1SCUbQ6rEa4DFdpALHW4Cxqon
 极限电影台,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR
@@ -2281,8 +2292,8 @@ Anal,tvbus://5osr7P4ypNDCyezATSCh9obUAS1AHxskSgYhEshis474Chw6yFZDYpjw1Kety
 松視2,p2p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
 松視1,p2p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts
 K频道,p2p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
-彩虹電影,p2p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
-彩虹E,p2p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
+彩虹电影台,p2p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
+彩虹e台,p2p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
 HOT,p2p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
 happy,p2p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
 潘朵拉完美,p2p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
@@ -2293,8 +2304,8 @@ happy,p2p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
 松視2,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
 松視1,p5p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts
 彩虹K,p5p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
-彩虹電影,p5p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
-彩虹E,p5p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
+彩虹电影台,p5p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
+彩虹e台,p5p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
 HOT,p5p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
 happy,p5p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
 潘朵拉完美,p5p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
