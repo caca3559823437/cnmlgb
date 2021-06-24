@@ -146,9 +146,9 @@ viu6,mitv://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61
 星空卫视,mitv://fccseuro.pvbox.live:18912/5b1409fb0000e9857fe430e18a1c406d
 TVB-经典台,mitv://fccseuro.pvbox.live:18912/5fbb5a9f00079d3b9fc240962c3b63be
 TVB星河,mitv://fccseuro.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe
-凤凰中文台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b00075956b021861efc75b7ed
-凤凰资讯台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b00090483328819f2db8ecad0
-凤凰香港台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b000ab058aba6213c0ddec4b0
+凤凰中文台,mitv://fccseuro.pvbox.live:18912/5b14092b00075956b021861efc75b7ed
+凤凰资讯台,mitv://fccseuro.pvbox.live:18912/5b14092b00090483328819f2db8ecad0
+凤凰香港台,mitv://fccseuro.pvbox.live:18912/5b14092b000ab058aba6213c0ddec4b0
 TVB娱乐,mitv://fccseuro.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d
 星空卫视,mitv://fccseuro.pvbox.live:18912/5c076cdb000996057be8bfba53470c9a
 WBTV,mitv://fccseuro.pvbox.live:18912/5b140a1600043fc91c041b1dc1392567
@@ -171,9 +171,9 @@ viu6,mitv://fccsovh.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61
 星空卫视,mitv://fccsovh.pvbox.live:18912/5b1409fb0000e9857fe430e18a1c406d
 TVB-经典台,mitv://fccsovh.pvbox.live:18912/5fbb5a9f00079d3b9fc240962c3b63be
 TVB星河,mitv://fccsovh.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe
-凤凰中文台 HD,mitv://fccsovh.pvbox.live:18912/5b14092b00075956b021861efc75b7ed
-凤凰资讯台 HD,mitv://fccsovh.pvbox.live:18912/5b14092b00090483328819f2db8ecad0
-凤凰香港台 HD,mitv://fccsovh.pvbox.live:18912/5b14092b000ab058aba6213c0ddec4b0
+凤凰中文台,mitv://fccsovh.pvbox.live:18912/5b14092b00075956b021861efc75b7ed
+凤凰资讯台,mitv://fccsovh.pvbox.live:18912/5b14092b00090483328819f2db8ecad0
+凤凰香港台,mitv://fccsovh.pvbox.live:18912/5b14092b000ab058aba6213c0ddec4b0
 TVB娱乐,mitv://fccsovh.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d
 莲花卫视,mitv://fccseuro.pvbox.live:18912/5b1409fb00088a46edaf118e021b6b38
 星空卫视,mitv://fccsovh.pvbox.live:18912/5c076cdb000996057be8bfba53470c9a
@@ -203,10 +203,10 @@ HBO,mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
 HBO强档,mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
 HBO原创,mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87.ts
 民视,mitv://fccseuro.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
-台视 HD,mitv://fccseuro.pvbox.live:18912/5c72484300073d551d51cd7d6de955c4
+台视,mitv://fccseuro.pvbox.live:18912/5c72484300073d551d51cd7d6de955c4
 中视,mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686
 华视,mitv://fccseuro.pvbox.live:18912/5c72484f000e498b1d51fe2201d92dd3
-亚洲旅游台 HD,mitv://fccsovh.pvbox.live:18912/5b140917000941831d58f5cbea1509ac
+亚洲旅游台,mitv://fccsovh.pvbox.live:18912/5b140917000941831d58f5cbea1509ac
 国家地理HD,mitv://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b
 MOMO亲子台,mitv://fccsovh.pvbox.live:18912/5b1409690009f8b05e37c26041779937
 东森幼幼,mitv://fccsovh.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc
@@ -222,7 +222,7 @@ TVBS欢乐,mitv://fccseuro.pvbox.live:18912/5c72488a000a56b71d52e3a07060345e
 JET 综合,mitv://fccsovh.pvbox.live:18912/5b1409f30001262751180c32d7f81d19
 壹电视新闻,mitv://fccseuro.pvbox.live:18912/5c724897000cb1861d5316f515e3763e
 年代新闻,mitv://fccseuro.pvbox.live:18912/5c72489b000f0c1fe54d8ea55ffd9a5c
-东森新闻 HD,mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51
+东森新闻,mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51
 中天新闻,mitv://fccsovh.pvbox.live:18912/5c7249b6000641f71d5776673c1d2f63
 三立新闻,mitv://fccseuro.pvbox.live:18912/5c7249be000b87931d5796ff51e62b02
 东森财经,mitv://fccsovh.pvbox.live:18912/5b1409f30008c7760334bb18f99bb67b
@@ -239,33 +239,23 @@ HBO原创,mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
 美亚电影,mitv://fccsovh.pvbox.live:18912/5b14098f00079615addc7da33962b735
 星卫娱乐台,mitv://fccsovh.pvbox.live:18912/5b1408f1000d1249aac093fa7393f873
 中视,mitv://fccsovh.pvbox.live:18912/5b14095f00075e71372e2240965ed494
-卫视中文,mitv://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80
 卫视电影,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad
-台视,mitv://fccseuro.pvbox.live:18912/5c72484300073d551d51cd7d6de955c4
 三立台湾,mitv://fccsovh.pvbox.live:18912/5b1409f100088a84c40f89d735e8395f
 三立都会,mitv://fccsovh.pvbox.live:18912/5b14098f000d8c6571a258930b96c39d
 年代新闻,mitv://fccseuro.pvbox.live:18912/5c72489b000f0c1f30367ceb328beb23
 东森综合,mitv://fccsovh.pvbox.live:18912/5b1409f1000dc91bffeddd699ca35ed0
-东森新闻,mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51
 TVBS新闻,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510f1d57a75a30592ee2
 CCTV-13,mitv://fccsovh.pvbox.live:18912/5b1409f30006df25643776d8e0b24224
-HBO HD,mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
-东森电影 HD,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231
-伟来电影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75
-美亚电影台 HD,mitv://fccsovh.pvbox.live:18912/5b14098f00079615addc7da33962b735
-hbo hits,mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
-HBO signature,mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
-东森呦呦,mitv://fccsovh.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc
 有线体育,mitv://fccsovh.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955
 ELTA体育3,mitv://fccsovh.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a
 纬来体育,mitv://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad
 民视,mitv://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881
-台视 HD,mitv://fccseuro.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94
+台视,mitv://fccseuro.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94
 大爱,mitv://fccseuro.pvbox.live:18912/5b1409db0005716852e798a18129af98
 中视,mitv://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d
 华视,mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422
 公视,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0
-亚洲旅游台 HD,mitv://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7
+亚洲旅游台,mitv://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7
 好消息,mitv://fccseuro.pvbox.live:18912/5bdbf38a000e2c49f7287c5591c78943
 国家地理HD,mitv://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b
 探索频道,mitv://fccseuro.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f
@@ -281,12 +271,12 @@ MOMO亲子台,mitv://fccseuro.pvbox.live:18912/5b1409690009f8b05e37c26041779937
 三立台湾,mitv://fccseuro.pvbox.live:18912/5c2dd74a000cbd46698addb74d61afbb
 三立都会,mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73
 民视,mitv://fccseuro.pvbox.live:18912/5b1409690006a24a6938240e2c12a4c4
-台视 HD,mitv://fccseuro.pvbox.live:18912/5b14095f000570be5e3fec254bfb79a4
+台视,mitv://fccseuro.pvbox.live:18912/5b14095f000570be5e3fec254bfb79a4
 大爱,mitv://fccsovh.pvbox.live:18912/5b1409db0005716852e798a18129af98
 中视,mitv://fccseuro.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c
 华视,mitv://fccseuro.pvbox.live:18912/5b14095f000efa0ea879c11942a356bd
 公视,mitv://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0
-亚洲旅游台 HD,mitv://fccseuro.pvbox.live:18912/5c724854000188081d520e6e279b2446
+亚洲旅游台,mitv://fccseuro.pvbox.live:18912/5c724854000188081d520e6e279b2446
 好消息,mitv://fccsovh.pvbox.live:18912/5bdbf38a000e2c49f7287c5591c78943
 探索频道,mitv://fccsovh.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f
 TLC,mitv://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b
@@ -304,14 +294,14 @@ MOMO亲子台,mitv://fccseuro.pvbox.live:18912/5d70eb0f000a5e750d0a9659304554ba
 东森综合,mitv://fccseuro.pvbox.live:18912/5b1409f1000dc91b22cccc479d410be6
 中天综合,mitv://fccseuro.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc#
 中天娱乐,mitv://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520
-年代MUCH HD,mitv://fccsovh.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197
+年代MUCH,mitv://fccsovh.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197
 东森戏剧,mitv://fccseuro.pvbox.live:18912/5c724882000704081d52c386798d4d25
 TVBS欢乐,mitv://fccseuro.pvbox.live:18912/5c2dd759000397a1f785f6a7f64171ac
 纬来戏剧,mitv://fccseuro.pvbox.live:18912/5c72488e000bae061d52f38e705751dd
 JET 综合,mitv://fccseuro.pvbox.live:18912/5c724892000e3e1c1d5303da4a3c6c26
 壹电视新闻,mitv://fccseuro.pvbox.live:18912/5b14094000088a467b4c607ca6b96c9e
 年代新闻,mitv://fccseuro.pvbox.live:18912/5b1409fd000a7269184987550f3266b5
-东森新闻 HD,mitv://fccseuro.pvbox.live:18912/5b1409520005add40bf29b36763a05a5
+东森新闻,mitv://fccseuro.pvbox.live:18912/5b1409520005add40bf29b36763a05a5
 中天新闻,mitv://fccseuro.pvbox.live:18912/5b14096a000dc9172181b048e1caf279
 民视新闻,mitv://fccseuro.pvbox.live:18912/5b1409690004f733a9d1bea8ae23f328
 三立新闻,mitv://fccseuro.pvbox.live:18912/5b14090b000e8030584627965b452f2e
@@ -327,7 +317,7 @@ HBO,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4
 东森洋片,mitv://fccsovh.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef
 AXN,mitv://fccsovh.pvbox.live:18912/5b140922000388777809b9c6f83f6c7c
 好莱坞电影,mitv://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1
-FOX MOVIES HD,mitv://fccsovh.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd
+FOX MOVIES,mitv://fccsovh.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd
 CINEMAX,mitv://fccsovh.pvbox.live:18912/5b14096000043ff93465352634ceaed5
 东风37,mitv://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4
 MOMO追剧,mitv://fccsovh.pvbox.live:18912/5b140a97000b668417d6fc134b0d417e
@@ -336,14 +326,14 @@ MOMO追剧,mitv://fccsovh.pvbox.live:18912/5b140a97000b668417d6fc134b0d417e
 国兴卫视,mitv://fccsovh.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303
 Z频道,mitv://fccsovh.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc
 国家地理野生,mitv://fccseuro.pvbox.live:18912/5c7249fb000db88c1d5885e333974925
-CATCHPLAY HD,mitv://fccsovh.pvbox.live:18912/5b1409db000126a9711886b8313f331d
+CATCHPLAY,mitv://fccsovh.pvbox.live:18912/5b1409db000126a9711886b8313f331d
 CNN,mitv://fccsovh.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8
 八大娱乐,mitv://fccsovh.pvbox.live:18912/5b14096a00062806e9046a77403f3362
 非凡商业,mitv://fccsovh.pvbox.live:18912/5b140a9a0001dd5bdc536c45f7b967f6
 HBO原创,mitv://fccseuro.pvbox.live:18912/5c7249f30006ed2f1d5864de52e5054e
-MTV LIVE HD,mitv://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05
-History HD,mitv://fccsovh.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5
-History2 HD,mitv://fccsovh.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb
+MTV LIVE,mitv://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05
+History,mitv://fccsovh.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5
+History2,mitv://fccsovh.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb
 EYETV戏剧,mitv://fccsovh.pvbox.live:18912/5b14093e000e4339becc35909c2d54ae
 龙华洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e
 龙华戏剧,mitv://fccsovh.pvbox.live:18912/5b14091600088a8cf0a6ac755e513bbf
@@ -356,11 +346,11 @@ EYETV戏剧,mitv://fccsovh.pvbox.live:18912/5b14093e000e4339becc35909c2d54ae
 美食星球,mitv://fccsovh.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193
 Eleven Sport 1,mitv://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
 高尔夫网球,mitv://fccsovh.pvbox.live:18912/5b1409530005ae3a05fa63a33bbf907c
-Eleven Sports 2 HD,mitv://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
+Eleven Sports 2,mitv://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
 中视新闻,mitv://fccsovh.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec
 环宇综合,mitv://fccsovh.pvbox.live:18912/5b14098e00034c103db7286788dfaef3
 新视觉,mitv://fccsovh.pvbox.live:18912/5b1409230000ac47dc854141c2c16098
-Ci罪案侦缉 HD,mitv://fccsovh.pvbox.live:18912/5b14098e0006282acdf2f0e199545870
+Ci罪案侦缉,mitv://fccsovh.pvbox.live:18912/5b14098e0006282acdf2f0e199545870
 靖天电影,mitv://fccsovh.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b3
 靖天映画,mitv://fccsovh.pvbox.live:18912/5b14093f0002d1c221d1c19922d41932
 地理悠人,mitv://fccsovh.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f
@@ -368,39 +358,28 @@ Ci罪案侦缉 HD,mitv://fccsovh.pvbox.live:18912/5b14098e0006282acdf2f0e1995458
 天映频道,mitv://fccsovh.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160
 天映经典,mitv://fccsovh.pvbox.live:18912/5d650488000e67a1df9eba9288b40109
 V音乐,mitv://fccsovh.pvbox.live:18912/5b593be200077048bf597b7545d9709a
-中华美食,mitv://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45
-CHC 高清电影 HD,mitv://fccsovh.pvbox.live:18912/5b140953000b29efbeb5800136393bc9
+CHC 高清电影,mitv://fccsovh.pvbox.live:18912/5b140953000b29efbeb5800136393bc9
 Discovery Asia,mitv://fccsovh.pvbox.live:18912/5b1409db00071c0517d41c9937e70bf0
 Discovery(知识频道),mitv://fccsovh.pvbox.live:18912/5bee4e9b0004056f76e84736af101f06
-DISCOVERY 科学频道 HD,mitv://fccsovh.pvbox.live:18912/5b14093f000e802bdf2de39b32af6f43
-CHC 动作电影 HD,mitv://fccsovh.pvbox.live:18912/5b14092b0002d180a1f2defa86aa7580
-TVBS,mitv://fccsovh.pvbox.live:18912/5b140960000c982bf20a21204526e2d1
-中视新闻台,mitv://fccsovh.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec
+DISCOVERY 科学频道,mitv://fccsovh.pvbox.live:18912/5b14093f000e802bdf2de39b32af6f43
+CHC 动作电影,mitv://fccsovh.pvbox.live:18912/5b14092b0002d180a1f2defa86aa7580
 互动新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e9df67236d78afef0
 台视新闻台,mitv://fccsovh.pvbox.live:18912/5b14090b0004b9da605c2752771f0c91
 寰宇新闻频道,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee
-CCTV-6 电影 HD,mitv://fccsovh.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
+CCTV-6 电影,mitv://fccsovh.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
 CINEMAWORLD,mitv://fccsovh.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772
-FOX CRIME HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626
+FOX CRIME,mitv://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626
 FOX动作,mitv://fccsovh.pvbox.live:18912/5b140977000904d67563843aed175df7
 FOX 家庭影院HD,mitv://fccsovh.pvbox.live:18912/5b14098e000945ca8d67439c257399ef
-FX 福克斯影视 HD,mitv://fccsovh.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f
-HBO HD,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4
-东森电影 HD,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8ea1d57e9650d7148b7
-伟来电影,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9
-美亚电影台 HD,mitv://fccseuro.pvbox.live:18912/5c724a0e000442831d58cdaa6a2c5c52
-卫视西片 HD,mitv://fccsovh.pvbox.live:18912/5b14098f00030ea4e4819ab008113231
-高清影院,mitv://fccsovh.pvbox.live:18912/5b140a16000257643131fe220522a056
+FX 福克斯影视,mitv://fccsovh.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f
+卫视西片,mitv://fccsovh.pvbox.live:18912/5b14098f00030ea4e4819ab008113231
 hbo hits,mitv://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b
-HBO signature,mitv://fccseuro.pvbox.live:18912/5c7249f30006ed2f1d5864de52e5054e
 BABYFIRST,mitv://fccsovh.pvbox.live:18912/5b1409da000163870212553b593146e0
 CCTV-14 少儿HD,mitv://fccsovh.pvbox.live:18912/5b1409480007595049ccad4641b28704
 CN 卡通,mitv://fccsovh.pvbox.live:18912/5b3c4f9a0001703e337c1b1bbec458bc
 DISNEY어린이,mitv://fccsovh.pvbox.live:18912/5b140a0c0002578a115b1277a6fa3628
-东森呦呦,mitv://fccseuro.pvbox.live:18912/5c724866000564111d5255b84de26a1c
 靖天卡通台,mitv://fccsovh.pvbox.live:18912/5b14093e0009fa21d217a82446ad038a
 靖天育乐台,mitv://fccsovh.pvbox.live:18912/5b1408f2000e063f250ca8a8e16a220b
-龙华动画 HD,mitv://fccsovh.pvbox.live:18912/5b1409170002d1e281f08bab03e2b1ee
 BABY TV 国语,mitv://fccsovh.pvbox.live:18912/5b14090b00030e82c1e20111a3b91f95
 BABY TV 英语,mitv://fccsovh.pvbox.live:18912/5b14094000047cc66dd7cd8a9ca7f3cb
 Nickelodeon,mitv://fccsovh.pvbox.live:18912/5fc7777a0008d1bccf12efa135ed31d1
@@ -412,17 +391,14 @@ TSN2,mitv://fccsovh.pvbox.live:18912/5cffd792000e927a593918d3a42ec252
 TSN3,mitv://fccsovh.pvbox.live:18912/5cffd7940009905bc3546565cc212fca
 TSN4,mitv://fccsovh.pvbox.live:18912/5cffd7960007e5d571a8e58ac8991253
 TSN5,mitv://fccsovh.pvbox.live:18912/5cffd798000451f51bd6f21bccbd120d
-FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e
+FOX,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e
 FRANCE 24（English）,mitv://fccsovh.pvbox.live:18912/5b14090b0008c74ac02d14a3d84f248f
 CNBC,mitv://fccsovh.pvbox.live:18912/5b1409400000e91c05aa5f02517e6c88
-FOX家庭,mitv://fccsovh.pvbox.live:18912/5b14098e000945ca8d67439c257399ef
 FOX动作,mitv://fccsovh.pvbox.live:18912/5e04846000047097f534ff6360044288
-FOX警匪HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626
 BBC,mitv://fccsovh.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4
-OUTDOOR HD,mitv://fccsovh.pvbox.live:18912/5b1409db000a72d4074dd362e5cf3e21
-SUNDANCE HD,mitv://fccsovh.pvbox.live:18912/5b1408f2000c5b2d1560791cd5b76651
+OUTDOOR,mitv://fccsovh.pvbox.live:18912/5b1409db000a72d4074dd362e5cf3e21
+SUNDANCE,mitv://fccsovh.pvbox.live:18912/5b1408f2000c5b2d1560791cd5b76651
 亚洲美食,mitv://fccsovh.pvbox.live:18912/5b1409da000c98012b21065a2d054373
-靖天卡通,mitv://fccsovh.pvbox.live:18912/5b14093e0009fa21d217a82446ad038a
 BBC LIFESTYLE,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c
 纬来精彩,mitv://fccsovh.pvbox.live:18912/5b14094a0000e951c1803a20268301b4
 曼迪日本台,mitv://fccsovh.pvbox.live:18912/5b1408f1000aeceebea7efa30baaf059
@@ -430,7 +406,6 @@ BBC LIFESTYLE,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c
 三立综合,mitv://fccsovh.pvbox.live:18912/5b140917000126426b51b812727ccb82
 都市剧场,mitv://fccsovh.pvbox.live:18912/5b140921000e805eeeccc3221d41efb6
 环宇财经,mitv://fccsovh.pvbox.live:18912/5b1408f30002585a33caea38616d5414
-环宇新闻,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee
 LUXE TV,mitv://fccsovh.pvbox.live:18912/5b1408f2000402a99aae1b7772b9af31
 靖洋戏剧台,mitv://fccsovh.pvbox.live:18912/5b140917000666031b44053492b428cc
 Good Food,mitv://fccsovh.pvbox.live:18912/5bee4fb30000a36319ced928503e1c16
@@ -438,21 +413,19 @@ Good Food,mitv://fccsovh.pvbox.live:18912/5bee4fb30000a36319ced928503e1c16
 EVE,mitv://fccsovh.pvbox.live:18912/5bdbf3a000041d6a62577151695bd697
 CINEMA WORLD,mitv://fccsovh.pvbox.live:18912/5bdbf3aa000b9c3128b3d5f10eb6a4ae
 FYI,mitv://fccsovh.pvbox.live:18912/5b1408f20005adced44ba37dbb0d46c1
-EVE HD,mitv://fccsovh.pvbox.live:18912/5b14093f00043fac039c9178695b6e25
+EVE,mitv://fccsovh.pvbox.live:18912/5b14093f00043fac039c9178695b6e25
 LIFETIME,mitv://fccsovh.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86
 E! Entertainment,mitv://fccsovh.pvbox.live:18912/5bee548c000d49c619e1cc0d5839302f
 CNN INTERNATIONAL,mitv://fccsovh.pvbox.live:18912/5b593947000cff320b5fbcac3823cfb2
 CHANNEL NEWSASIA,mitv://fccsovh.pvbox.live:18912/5b1409fc00047d04fba28dd36d1b20d2
-BABY TV,mitv://fccsovh.pvbox.live:18912/5b14090b00030e82c1e20111a3b91f95
 MY KIDS,mitv://fccsovh.pvbox.live:18912/5b1409da000a356eaf4555bfced52957
 FOX-NEWS,mitv://fccsovh.pvbox.live:18912/5b593b140008b0a872fab404d0005a0b
 love nature,mitv://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
-BBC EARTH  HD,mitv://fccsovh.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb
+BBC EARTH ,mitv://fccsovh.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb
 LUXE TV,mitv://fccsovh.pvbox.live:18912/5bdbf3ae0006e6cac753f975290d4d15
 TVBS 精彩台,mitv://fccsovh.pvbox.live:18912/5bdbf3b20000e966127226d088c6564d
 animax,mitv://fccsovh.pvbox.live:18912/5b14095f000b75ebce56aa4326004fac
 Boomerang,mitv://fccsovh.pvbox.live:18912/5ee9c7bf000dbfa16d1d4ae93ca21c1c
-nick.JR,mitv://fccsovh.pvbox.live:18912/5fc7777b00063284cf12f2dd438d5ad3
 三立iNEWS,mitv://fccsovh.pvbox.live:18912/5b7fb69500052cc969c8bcf269522bcf
 中天亚洲,mitv://fccsovh.pvbox.live:18912/5c724839000d2f369bdf547cd89fbe54
 中天新闻,mitv://fccseuro.pvbox.live:18912/5c2dd72e0002527b5e186cfd3e3fc77b
@@ -463,12 +436,9 @@ nick.JR,mitv://fccsovh.pvbox.live:18912/5fc7777b00063284cf12f2dd438d5ad3
 亚洲旅游,mitv://fccsovh.pvbox.live:18912/5c72485400018808a3b48c28c60d30e6
 星卫娱乐,mitv://fccsovh.pvbox.live:18912/5c724a0a00018099979ae3a2ebaf2df6
 星卫电影,mitv://fccsovh.pvbox.live:18912/5c724a05000626a678e70bc5c42edcc6
-卫视中文,mitv://fccseuro.pvbox.live:18912/5b14096a00006f07090fb9cc8508ab5b
 卫视中文,mitv://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f
 卫视电影,mitv://fccseuro.pvbox.live:18912/5c2dd76a000ca61435a944c711910228
 纬来戏剧,mitv://fccsovh.pvbox.live:18912/5c72488e000bae0647ae4ffc2c5c1a73
-台视,mitv://fccseuro.pvbox.live:18912/5b14095f000570be5e3fec254bfb79a4
-台视,mitv://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0
 三立新闻,mitv://fccseuro.pvbox.live:18912/5c2dd738000940698fb7c22cae6a3214
 三立台湾,mitv://fccseuro.pvbox.live:18912/5c2dd74a000cbd46e72e23168664c445
 三立都会,mitv://fccseuro.pvbox.live:18912/5c2dd74e0008135fe92832283861853a
@@ -482,11 +452,9 @@ nick.JR,mitv://fccsovh.pvbox.live:18912/5fc7777b00063284cf12f2dd438d5ad3
 华视,mitv://fccseuro.pvbox.live:18912/5c2dd74700063241649d196c85cfd3ab
 好莱坞电影,mitv://fccsovh.pvbox.live:18912/5c7249e20001252819cc6ae1bf870f24
 国家地理野生,mitv://fccsovh.pvbox.live:18912/5c7249fb000db88c0817fb0e2da0809a
-国家地理,mitv://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b
 非凡新闻,mitv://fccsovh.pvbox.live:18912/5b14092c0001a04c14ba93925f9ef5f6
 东森综合,mitv://fccsovh.pvbox.live:18912/5c724877000e7b2d0b24f59e68db0949
 东森幼幼,mitv://fccsovh.pvbox.live:18912/5c724866000564114f7a921c28eef086
-东森新闻,mitv://fccseuro.pvbox.live:18912/5b1409520005add40bf29b36763a05a5
 东森新闻,mitv://fccsovh.pvbox.live:18912/5c7248a0000383704a3e5eff3648dfa9
 东森新闻,mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3196f54f041ddf2e867
 东森戏剧,mitv://fccsovh.pvbox.live:18912/5c72488200070408d06f0da4478a62b1
@@ -511,7 +479,7 @@ TVN,mitv://fccsovh.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7
 东森综合,mitv://fccseuro.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061
 中天综合,mitv://fccseuro.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4
 中天娱乐,mitv://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520
-年代MUCH HD,mitv://fccseuro.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197
+年代MUCH,mitv://fccseuro.pvbox.live:18912/5b3c4f9d00057620627ef7cc381e3197
 东森戏剧,mitv://fccseuro.pvbox.live:18912/5b1409f20000320bffd8fe47d4aa4282
 八大戏剧,mitv://fccseuro.pvbox.live:18912/5b1409690000706aa2b351f989915dc3
 TVBS欢乐,mitv://fccseuro.pvbox.live:18912/5b1409600006657bf3521814c47521af
@@ -519,7 +487,7 @@ TVBS欢乐,mitv://fccseuro.pvbox.live:18912/5b1409600006657bf3521814c47521af
 JET 综合,mitv://fccseuro.pvbox.live:18912/5b1409f30001262751180c32d7f81d19
 壹电视新闻,mitv://fccseuro.pvbox.live:18912/5c2dd75c000b56813bdbfb1808231457
 年代新闻,mitv://fccseuro.pvbox.live:18912/5c2dd76000032856525d0ee781504477
-东森新闻 HD,mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2
+东森新闻,mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2
 中天新闻,mitv://fccseuro.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5
 民视新闻,mitv://fccseuro.pvbox.live:18912/5c2dd73500017585407c3f581ea07c53
 三立新闻,mitv://fccseuro.pvbox.live:18912/5c2dd73800094069401436c92bc9bed5
@@ -535,7 +503,7 @@ HBO,mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
 东森洋片,mitv://fccseuro.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef
 AXN,mitv://fccseuro.pvbox.live:18912/5b140922000388777809b9c6f83f6c7c
 好莱坞电影,mitv://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
-FOX MOVIES HD,mitv://fccseuro.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd
+FOX MOVIES,mitv://fccseuro.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd
 CINEMAX,mitv://fccseuro.pvbox.live:18912/5b14096000043ff93465352634ceaed5
 东风37,mitv://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4
 MOMO追剧,mitv://fccseuro.pvbox.live:18912/5b140a97000b668417d6fc134b0d417e
@@ -544,15 +512,15 @@ MOMO追剧,mitv://fccseuro.pvbox.live:18912/5b140a97000b668417d6fc134b0d417e
 国兴卫视,mitv://fccseuro.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303
 Z频道,mitv://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc
 国家地理野生,mitv://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8
-CATCHPLAY HD,mitv://fccseuro.pvbox.live:18912/5b1409db000126a9711886b8313f331d
+CATCHPLAY,mitv://fccseuro.pvbox.live:18912/5b1409db000126a9711886b8313f331d
 CNN,mitv://fccseuro.pvbox.live:18912/5b140954000dc92a375d63ea7e478ea8
 八大娱乐,mitv://fccseuro.pvbox.live:18912/5b14096a00062806e9046a77403f3362
 非凡商业,mitv://fccseuro.pvbox.live:18912/5b140a9a0001dd5bdc536c45f7b967f6
 HBO强档,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
 HBO原创,mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
-MTV LIVE HD,mitv://fccseuro.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05
-History HD,mitv://fccseuro.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5
-History2 HD,mitv://fccseuro.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb
+MTV LIVE,mitv://fccseuro.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05
+History,mitv://fccseuro.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5
+History2,mitv://fccseuro.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb
 EYETV戏剧,mitv://fccseuro.pvbox.live:18912/5b14093e000e4339becc35909c2d54ae
 龙华洋片,mitv://fccseuro.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e
 龙华戏剧,mitv://fccseuro.pvbox.live:18912/5b14091600088a8cf0a6ac755e513bbf
@@ -565,11 +533,11 @@ EYETV戏剧,mitv://fccseuro.pvbox.live:18912/5b14093e000e4339becc35909c2d54ae
 美食星球,mitv://fccseuro.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193
 Eleven Sport 1,mitv://fccseuro.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
 高尔夫网球,mitv://fccseuro.pvbox.live:18912/5b1409530005ae3a05fa63a33bbf907c
-Eleven Sports 2 HD,mitv://fccseuro.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
+Eleven Sports 2,mitv://fccseuro.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
 中视新闻,mitv://fccseuro.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec
 环宇综合,mitv://fccseuro.pvbox.live:18912/5b14098e00034c103db7286788dfaef3
 新视觉,mitv://fccseuro.pvbox.live:18912/5b1409230000ac47dc854141c2c16098
-Ci罪案侦缉 HD,mitv://fccseuro.pvbox.live:18912/5b14098e0006282acdf2f0e199545870
+Ci罪案侦缉,mitv://fccseuro.pvbox.live:18912/5b14098e0006282acdf2f0e199545870
 靖天电影,mitv://fccseuro.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b3
 靖天映画,mitv://fccseuro.pvbox.live:18912/5b14093f0002d1c221d1c19922d41932
 地理悠人,mitv://fccseuro.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f
@@ -577,26 +545,25 @@ Ci罪案侦缉 HD,mitv://fccseuro.pvbox.live:18912/5b14098e0006282acdf2f0e199545
 天映频道,mitv://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160
 天映经典,mitv://fccseuro.pvbox.live:18912/5d650488000e67a1df9eba9288b40109
 V音乐,mitv://fccseuro.pvbox.live:18912/5b593be200077048bf597b7545d9709a
-中华美食,mitv://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45
-CHC 高清电影 HD,mitv://fccseuro.pvbox.live:18912/5b140953000b29efbeb5800136393bc9#http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC 高清电影,mitv://fccseuro.pvbox.live:18912/5b140953000b29efbeb5800136393bc9#http://ivi.bupt.edu.cn/hls/chchd.m3u8
 Discovery Asia,mitv://fccseuro.pvbox.live:18912/5b1409db00071c0517d41c9937e70bf0
 Discovery(知识频道),mitv://fccseuro.pvbox.live:18912/5bee4e9b0004056f76e84736af101f06
-DISCOVERY 科学频道 HD,mitv://fccseuro.pvbox.live:18912/5b14093f000e802bdf2de39b32af6f43
-CHC 动作电影 HD,mitv://fccseuro.pvbox.live:18912/5b14092b0002d180a1f2defa86aa7580#http://suo.im/6h3Jaf
+DISCOVERY 科学频道,mitv://fccseuro.pvbox.live:18912/5b14093f000e802bdf2de39b32af6f43
+CHC 动作电影,mitv://fccseuro.pvbox.live:18912/5b14092b0002d180a1f2defa86aa7580#http://suo.im/6h3Jaf
 TSN1,mitv://fccseuro.pvbox.live:18912/5cf55a00000f05529a612a29faf3631f
 TSN2,mitv://fccseuro.pvbox.live:18912/5cffd792000e927a593918d3a42ec252
 TSN3,mitv://fccseuro.pvbox.live:18912/5cffd7940009905bc3546565cc212fca
 TSN4,mitv://fccseuro.pvbox.live:18912/5cffd7960007e5d571a8e58ac8991253
 TSN5,mitv://fccseuro.pvbox.live:18912/5cffd798000451f51bd6f21bccbd120d
-FOX HD,mitv://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e
+FOX,mitv://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e
 FRANCE 24（English）,mitv://fccseuro.pvbox.live:18912/5b14090b0008c74ac02d14a3d84f248f
 CNBC,mitv://fccseuro.pvbox.live:18912/5b1409400000e91c05aa5f02517e6c88
 FOX家庭,mitv://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef
 FOX动作,mitv://fccseuro.pvbox.live:18912/5e04846000047097f534ff6360044288
 FOX警匪HD,mitv://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626
 BBC,mitv://fccseuro.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4
-OUTDOOR HD,mitv://fccseuro.pvbox.live:18912/5b1409db000a72d4074dd362e5cf3e21
-SUNDANCE HD,mitv://fccseuro.pvbox.live:18912/5b1408f2000c5b2d1560791cd5b76651
+OUTDOOR,mitv://fccseuro.pvbox.live:18912/5b1409db000a72d4074dd362e5cf3e21
+SUNDANCE,mitv://fccseuro.pvbox.live:18912/5b1408f2000c5b2d1560791cd5b76651
 亚洲美食,mitv://fccseuro.pvbox.live:18912/5b1409da000c98012b21065a2d054373
 靖天卡通,mitv://fccseuro.pvbox.live:18912/5b14093e0009fa21d217a82446ad038a
 BBC LIFESTYLE,mitv://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c
@@ -614,7 +581,7 @@ Good Food,mitv://fccseuro.pvbox.live:18912/5bee4fb30000a36319ced928503e1c16
 EVE,mitv://fccseuro.pvbox.live:18912/5bdbf3a000041d6a62577151695bd697
 CINEMA WORLD,mitv://fccseuro.pvbox.live:18912/5bdbf3aa000b9c3128b3d5f10eb6a4ae
 FYI,mitv://fccseuro.pvbox.live:18912/5b1408f20005adced44ba37dbb0d46c1
-EVE HD,mitv://fccseuro.pvbox.live:18912/5b14093f00043fac039c9178695b6e25
+EVE,mitv://fccseuro.pvbox.live:18912/5b14093f00043fac039c9178695b6e25
 LIFETIME,mitv://fccseuro.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86
 E! Entertainment,mitv://fccseuro.pvbox.live:18912/5bee548c000d49c619e1cc0d5839302f
 CNN INTERNATIONAL,mitv://fccseuro.pvbox.live:18912/5b593947000cff320b5fbcac3823cfb2
@@ -623,7 +590,7 @@ BABY TV,mitv://fccseuro.pvbox.live:18912/5b14090b00030e82c1e20111a3b91f95
 MY KIDS,mitv://fccseuro.pvbox.live:18912/5b1409da000a356eaf4555bfced52957
 FOX-NEWS,mitv://fccseuro.pvbox.live:18912/5b593b140008b0a872fab404d0005a0b
 love nature,mitv://fccseuro.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
-BBC EARTH  HD,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb
+BBC EARTH ,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb
 LUXE TV,mitv://fccseuro.pvbox.live:18912/5bdbf3ae0006e6cac753f975290d4d15
 TVBS 精彩台,mitv://fccseuro.pvbox.live:18912/5bdbf3b20000e966127226d088c6564d
 animax,mitv://fccseuro.pvbox.live:18912/5b14095f000b75ebce56aa4326004fac
@@ -631,17 +598,17 @@ Boomerang,mitv://fccseuro.pvbox.live:18912/5ee9c7bf000dbfa16d1d4ae93ca21c1c
 nick.JR,mitv://fccseuro.pvbox.live:18912/5fc7777b00063284cf12f2dd438d5ad3
 三立iNEWS,mitv://fccseuro.pvbox.live:18912/5b7fb69500052cc969c8bcf269522bcf
 民视,mitv://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881
-台视 HD,mitv://fccsovh.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94
+台视,mitv://fccsovh.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94
 中视,mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d
 华视,mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422
-亚洲旅游台 HD,mitv://fccsovh.pvbox.live:18912/5b140917000941832426c7a7c76903f7
+亚洲旅游台,mitv://fccsovh.pvbox.live:18912/5b140917000941832426c7a7c76903f7
 三立都会,mitv://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73
 卫视中文台,mitv://fccsovh.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e
 东森综合,mitv://fccsovh.pvbox.live:18912/5c2dd75500095b3b674c205e3f098061
 TVBS欢乐,mitv://fccsovh.pvbox.live:18912/5b1409600006657bf3521814c47521af
 壹电视新闻,mitv://fccsovh.pvbox.live:18912/5c2dd75c000b56813bdbfb1808231457
 年代新闻,mitv://51.79.41.125:18912/5c2dd76000032856525d0ee781504477
-东森新闻 HD,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2
+东森新闻,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2
 中天新闻,mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5
 民视新闻,mitv://fccsovh.pvbox.live:18912/5c2dd73500017585407c3f581ea07c53
 三立新闻,mitv://fccsovh.pvbox.live:18912/5c2dd73800094069401436c92bc9bed5
@@ -650,15 +617,12 @@ TVBS欢乐,mitv://fccsovh.pvbox.live:18912/5b1409600006657bf3521814c47521af
 好莱坞电影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
 中天新闻,mitv://fccsovh.pvbox.live:18912/5b14096a000dc917c7befde7c4a48ba6
 壹电视新闻,mitv://fccsovh.pvbox.live:18912/5b14094000088a46ef8e5cc71f3a48a5
-卫视中文,mitv://fccsovh.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e
 卫视中文,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3
-台视,mitv://fccsovh.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94
 三立新闻,mitv://fccsovh.pvbox.live:18912/5b14090b000e8030977fd4408f0f97e4
 年代新闻,mitv://fccsovh.pvbox.live:18912/5b1409fd000a726993cfe01bb3d031d2
 民视新闻,mitv://fccsovh.pvbox.live:18912/5b1409690004f7336ec985d66597e021
 民视,mitv://fccsovh.pvbox.live:18912/5b1409690006a24ae683ddddf26bdce8
 华视,mitv://fccsovh.pvbox.live:18912/5b140968000d4f35af004cdfaac62068
-东森新闻,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2
 东森新闻,mitv://fccsovh.pvbox.live:18912/5b1409520005add4c8a3a4cecf0d2ccc
 TVBS新闻,mitv://fccsovh.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec
 TVBS新闻,mitv://fccsovh.pvbox.live:18912/5b1409600008c73be370a5bcdf5defe2
@@ -672,12 +636,9 @@ TVBS欢乐,mitv://fccsovh.pvbox.live:18912/5c2dd759000397a1d54116afa14cab22
 亚洲旅游,mitv://fccseuro.pvbox.live:18912/5c72485400018808a3b48c28c60d30e6
 星卫娱乐,mitv://fccseuro.pvbox.live:18912/5c724a0a00018099979ae3a2ebaf2df6
 星卫电影,mitv://fccseuro.pvbox.live:18912/5c724a05000626a678e70bc5c42edcc6
-卫视中文,mitv://fccseuro.pvbox.live:18912/5c2dd752000079beb0932687f970bd9e
 卫视中文,mitv://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3
 卫视电影,mitv://fccseuro.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad
 纬来戏剧,mitv://fccseuro.pvbox.live:18912/5c72488e000bae0647ae4ffc2c5c1a73
-台视,mitv://fccseuro.pvbox.live:18912/5c2dd73f000c83be0db4384477f9ca94
-台视,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0
 三立新闻,mitv://fccseuro.pvbox.live:18912/5b14090b000e8030977fd4408f0f97e4
 三立台湾,mitv://fccseuro.pvbox.live:18912/5b1409f100088a84c40f89d735e8395f
 三立都会,mitv://fccseuro.pvbox.live:18912/5b14098f000d8c6571a258930b96c39d
@@ -691,12 +652,10 @@ TVBS欢乐,mitv://fccsovh.pvbox.live:18912/5c2dd759000397a1d54116afa14cab22
 华视,mitv://fccseuro.pvbox.live:18912/5b140968000d4f35af004cdfaac62068
 好莱坞电影,mitv://fccseuro.pvbox.live:18912/5c7249e20001252819cc6ae1bf870f24
 国家地理野生,mitv://fccseuro.pvbox.live:18912/5c7249fb000db88c0817fb0e2da0809a
-国家地理,mitv://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b
 非凡新闻,mitv://fccseuro.pvbox.live:18912/5b14092c0001a04c14ba93925f9ef5f6
 东森综合,mitv://fccseuro.pvbox.live:18912/5b1409f1000dc91bffeddd699ca35ed0
 东森综合,mitv://fccseuro.pvbox.live:18912/5c724877000e7b2d0b24f59e68db0949
 东森幼幼,mitv://fccseuro.pvbox.live:18912/5c724866000564114f7a921c28eef086
-东森新闻,mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2
 东森新闻,mitv://fccseuro.pvbox.live:18912/5c7248a0000383704a3e5eff3648dfa9
 东森新闻,mitv://fccseuro.pvbox.live:18912/5b1409520005add4c8a3a4cecf0d2ccc
 东森戏剧,mitv://fccseuro.pvbox.live:18912/5c72488200070408d06f0da4478a62b1
@@ -710,53 +669,34 @@ TVBS欢乐,mitv://fccseuro.pvbox.live:18912/5c72488a000a56b7c62c388ca356227f
 TVBS欢乐,mitv://fccseuro.pvbox.live:18912/5c2dd759000397a1d54116afa14cab22
 MOMO亲子,mitv://fccseuro.pvbox.live:18912/5c7248620002c4fd1f975342bd3bfaa1
 JET综合,mitv://fccseuro.pvbox.live:18912/5c724892000e3e1cef4bb2eef0332065
-HBO强档,mitv://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b
 HBO家庭,mitv://fccseuro.pvbox.live:18912/5c7249ea0008e0b81d58423315e60ce6
 ELTA影剧,mitv://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b
 ELTA综合,mitv://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a
 EYETV旅游,mitv://fccseuro.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4
 KIX,mitv://fccseuro.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1
 TVN,mitv://fccseuro.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7
-BBC HD,mitv://fccsovh.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4
-BBC LIFESTYLE 生活频道 HD,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c
-BBC EARTH 地球频道 HD,mitv://fccsovh.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb
 TV5,mitv://fccsovh.pvbox.live:18912/5b1409220005714cfe68dd0059d4ad7d
 今日俄罗斯,mitv://fccsovh.pvbox.live:18912/5b1409fc00006f1f53515ee06d855025
 CCTV-13,mitv://fccseuro.pvbox.live:18912/5b1409f30006df25643776d8e0b24224#http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8
-BBC HD,mitv://fccseuro.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4
-BBC LIFESTYLE 生活频道 HD,mitv://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c
-BBC EARTH 地球频道 HD,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb
 TV5,mitv://fccseuro.pvbox.live:18912/5b1409220005714cfe68dd0059d4ad7d
 今日俄罗斯,mitv://fccseuro.pvbox.live:18912/5b1409fc00006f1f53515ee06d855025
-TVBS,mitv://fccseuro.pvbox.live:18912/5b140960000c982bf20a21204526e2d1
-中视新闻台,mitv://fccseuro.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec
 互动新闻,mitv://fccseuro.pvbox.live:18912/5b1409fc000a355e9df67236d78afef0
 台视新闻台,mitv://fccseuro.pvbox.live:18912/5b14090b0004b9da605c2752771f0c91
-寰宇新闻频道,mitv://fccseuro.pvbox.live:18912/5b1408f30005adec057583980131e1ee
 寰宇新闻频道,http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
-CCTV-6 电影 HD,mitv://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
-CCTV-6 电影 HD,http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+CCTV-6 电影,mitv://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
+CCTV-6 电影,http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
 CINEMAWORLD,mitv://fccseuro.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772
-FOX CRIME HD,mitv://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626
 FOX动作,mitv://fccseuro.pvbox.live:18912/5b140977000904d67563843aed175df7
-FOX 家庭影院HD,mitv://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef
-FX 福克斯影视 HD,mitv://fccseuro.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f
-HBO HD,mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
-东森电影 HD,mitv://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231
-伟来电影,mitv://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75
-美亚电影台 HD,mitv://fccseuro.pvbox.live:18912/5b14098f00079615addc7da33962b735
-卫视西片 HD,mitv://fccseuro.pvbox.live:18912/5b14098f00030ea4e4819ab008113231
-高清影院,mitv://fccseuro.pvbox.live:18912/5b140a16000257643131fe220522a056
-hbo hits,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
-HBO signature,mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
+FX 福克斯影视,mitv://fccseuro.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f
+卫视西片,mitv://fccseuro.pvbox.live:18912/5b14098f00030ea4e4819ab008113231
 
 体育频道,#genre#
 CCTV-5 体育HD,mitv://fccseuro.pvbox.live:18912/5b1409f20001a05db27ac7fd1bf34467
 CCTV-5 体育HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 CCTV-5 体育HD,http://121.31.30.87:8085/ysten-business/live/cctv-5/1.m3u8
-CCTV-5 体育赛事 HD,mitv://fccseuro.pvbox.live:18912/5b1409f200034b730f7fdb4819ffdd6c
-CCTV-5 体育赛事 HD,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-CCTV-5 体育赛事 HD,http://107.148.240.185:13164/v/cctv.php?id=2000204502.m3u8
+CCTV-5 体育赛事,mitv://fccseuro.pvbox.live:18912/5b1409f200034b730f7fdb4819ffdd6c
+CCTV-5 体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+CCTV-5 体育赛事,http://107.148.240.185:13164/v/cctv.php?id=2000204502.m3u8
 广东体育,mitv://fccseuro.pvbox.live:18912/5b1409fd00034c8409b2b2bb832b8489
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东体育,http://tv528.club/hk168.php?hk168&play&vkeys=dmlkJTNEdHZtaW5nJTIzaWQlM0RHRFNwb3J0
@@ -767,7 +707,6 @@ Astro SUPERSPORT2,mitv://fccsovh.pvbox.live:18912/5b3c4fa2000688aa9a97fb14be6064
 Astro SUPERSPORT4,mitv://fccsovh.pvbox.live:18912/5b3c4fa1000c601f96136b4adf582a75
 爱尔达体育一,rtmp://59.124.75.157/sat/md011
 有线体育,mitv://fccseuro.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955
-狼谷竞技,mitv://fccseuro.pvbox.live:18912/5b14095f000b75ebce56aa4326004fac
 博斯高球1DH,mitv://fccseuro.pvbox.live:18912/5bdbf395000ad5cb2607f86ed2c7a380
 NBA,mitv://fccsovh.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7.ts
 ELTA体育,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts
@@ -776,17 +715,15 @@ ELTA体育,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts
 博斯运动 I,mitv://fccseuro.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f
 博斯高球二台,mitv://fccseuro.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a
 博斯运动,mitv://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849
-博斯高球Ⅱ HD,mitv://fccseuro.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a
 ELTA体育3,mitv://fccseuro.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a
-ELTA体育 HD,mitv://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
+ELTA体育,mitv://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
 ELTA体育3,mitv://fccseuro.pvbox.live:18912/5c7249f7000966364a68feb5b5892f05
-ELTA体育2 HD,mitv://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547
+ELTA体育2,mitv://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547
 纬来体育,mitv://fccseuro.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3
 纬来体育,mitv://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a
 NBA,mitv://fccseuro.pvbox.live:18912/5b140a0c000be0e7957bd7e5d0625236
-FOX SPORTS 3 HD,mitv://fccseuro.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
-SKY SPORTS-1 HD,mitv://fccseuro.pvbox.live:18912/5b14090d00030e94cac240f4f1a9c97b
-SKY SPORTS-2 HD,mitv://fccseuro.pvbox.live:18912/5b14092300038913daafc752ddf16aab
+SKY SPORTS-1,mitv://fccseuro.pvbox.live:18912/5b14090d00030e94cac240f4f1a9c97b
+SKY SPORTS-2,mitv://fccseuro.pvbox.live:18912/5b14092300038913daafc752ddf16aab
 SKY SPORTS5,mitv://fccseuro.pvbox.live:18912/5b140a140002d25a650efd8a8c4fb984
 SKYSPORTS ACTIONS,mitv://fccseuro.pvbox.live:18912/5b2e22aa0004a5332b1f62567389445c
 SKYSPORTS ARENA,mitv://fccseuro.pvbox.live:18912/5b2e22ab00001d8384ddd5009047e542
@@ -799,24 +736,21 @@ SKYSPORTS MAIN EVENT,mitv://fccseuro.pvbox.live:18912/5b2e22ad000838eabb31d84984
 SKYSPORTS MIX,mitv://fccseuro.pvbox.live:18912/5b2e22ad000c8355122791a184eb30be
 SKYSPORTS NEWS,mitv://fccseuro.pvbox.live:18912/5b2e22ae0002bd03c4b233eff8af924b
 CCTV-5 体育HD,mitv://fccsovh.pvbox.live:18912/5b1409f20001a05db27ac7fd1bf34467
-CCTV-5 体育赛事 HD,mitv://fccsovh.pvbox.live:18912/5b1409f200034b730f7fdb4819ffdd6c
+CCTV-5 体育赛事,mitv://fccsovh.pvbox.live:18912/5b1409f200034b730f7fdb4819ffdd6c
 广东体育,mitv://fccsovh.pvbox.live:18912/5b1409fd00034c8409b2b2bb832b8489
-狼谷竞技,mitv://fccsovh.pvbox.live:18912/5b14095f000b75ebce56aa4326004fac
 博斯高球1DH,mitv://fccsovh.pvbox.live:18912/5bdbf395000ad5cb2607f86ed2c7a380
 博斯运动 I,mitv://fccsovh.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f
 博斯高球二台,mitv://fccsovh.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a
 博斯运动,mitv://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849博斯运动
-博斯高球Ⅱ HD,mitv://fccsovh.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a
 ELTA体育3,mitv://fccseuro.pvbox.live:18912/5c7249f7000966361d58752a73813a0e
-ELTA体育 HD,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
+ELTA体育,mitv://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
 ELTA体育3,mitv://fccsovh.pvbox.live:18912/5c7249f7000966364a68feb5b5892f05
-ELTA体育2 HD,mitv://fccsovh.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547
+ELTA体育2,mitv://fccsovh.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547
 纬来体育,mitv://fccseuro.pvbox.live:18912/5b140921000be1448823410c2ff3af66
 纬来体育,mitv://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895
 NBA,mitv://fccsovh.pvbox.live:18912/5b140a0c000be0e7957bd7e5d0625236
-FOX SPORTS 3 HD,mitv://fccsovh.pvbox.live:18912/5b1409400002d18be0ed68ad406a3f40
-SKY SPORTS-1 HD,mitv://fccsovh.pvbox.live:18912/5b14090d00030e94cac240f4f1a9c97b
-SKY SPORTS-2 HD,mitv://fccsovh.pvbox.live:18912/5b14092300038913daafc752ddf16aab
+SKY SPORTS-1,mitv://fccsovh.pvbox.live:18912/5b14090d00030e94cac240f4f1a9c97b
+SKY SPORTS-2,mitv://fccsovh.pvbox.live:18912/5b14092300038913daafc752ddf16aab
 SKY SPORTS5,mitv://fccsovh.pvbox.live:18912/5b140a140002d25a650efd8a8c4fb984
 SKYSPORTS ACTIONS,mitv://118.163.81.13:11893/5b2e22aa0004a5332b1f62567389445c
 SKYSPORTS ARENA,mitv://fccsovh.pvbox.live:18912/5b2e22ab00001d8384ddd5009047e542
@@ -1074,8 +1008,8 @@ Channel U,mitv://fccseuro.pvbox.live:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts
 Channel U,mitv://fccsovh.pvbox.live:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts
 CHANNEL NEWS ASIA,mitv://fccsovh.pvbox.live:18912/5b20e3af00008dee401f438a3c2c920c.ts
 CHANNEL NEWS ASIA,mitv://fccseuro.pvbox.live:18912/5b20e3af00008dee401f438a3c2c920c.ts
-SONY HD,mitv://fccseuro.pvbox.live:18912/5d65048e00009342099dfc01ca94608d.ts
-SONY HD,mitv://fccsovh.pvbox.live:18912/5d65048e00009342099dfc01ca94608d.ts
+SONY,mitv://fccseuro.pvbox.live:18912/5d65048e00009342099dfc01ca94608d.ts
+SONY,mitv://fccsovh.pvbox.live:18912/5d65048e00009342099dfc01ca94608d.ts
 OH!K,mitv://fccseuro.pvbox.live:18912/5d65049100074058e38772f47ac4116b.ts
 OH!K,mitv://fccseuro.pvbox.live:18912/5e64a2780008a0b36caacdc663e7569d.ts
 OH!K,mitv://fccsovh.pvbox.live:18912/5d65049100074058e38772f47ac4116b.ts
@@ -1142,18 +1076,18 @@ DISNEY JR,mitv://fccsovh.pvbox.live:18912/5cf559e50008d20240bb386709095db4.ts
 DISNEY JR,mitv://fccseuro.pvbox.live:18912/5cf559e50008d20240bb386709095db4.ts
 BOO,mitv://fccseuro.pvbox.live:18912/5b3c4f9f000c861ec841fee0488cbdb3.ts
 BOO,mitv://fccsovh.pvbox.live:18912/5b3c4f9f000c861ec841fee0488cbdb3.ts
-ASTRO CRICKET HD,mitv://fccseuro.pvbox.live:18912/5cbd61720004604e8a21b3037b4c2bb3.ts
-ASTRO CRICKET HD,mitv://fccsovh.pvbox.live:18912/5cbd61720004604e8a21b3037b4c2bb3.ts
+ASTRO CRICKET,mitv://fccseuro.pvbox.live:18912/5cbd61720004604e8a21b3037b4c2bb3.ts
+ASTRO CRICKET,mitv://fccsovh.pvbox.live:18912/5cbd61720004604e8a21b3037b4c2bb3.ts
 Bein Sports,mitv://fccseuro.pvbox.live:18912/5cf559ed000079fb7b608c0205b3f92a.ts
 Bein Sports,mitv://fccsovh.pvbox.live:18912/5cf559ed000079fb7b608c0205b3f92a.ts
 CGTN,mitv://fccseuro.pvbox.live:18912/5b3c4f9d0000f9b4a13f5914757cf48b.ts
 CGTN,mitv://fccsovh.pvbox.live:18912/5b3c4f9d0000f9b4a13f5914757cf48b.ts
 Family,mitv://fccseuro.pvbox.live:18912/5cffd5e200012f5b8adaa27b3ee5f498.ts
 Family,mitv://fccsovh.pvbox.live:18912/5cffd5e200012f5b8adaa27b3ee5f498.ts
-Fox Family HD,mitv://fccseuro.pvbox.live:18912/5e0484640001945b84dbbea9eeb21772.ts
-Fox Family HD,mitv://fccsovh.pvbox.live:18912/5e0484640001945b84dbbea9eeb21772.ts
-Fox HD,mitv://fccseuro.pvbox.live:18912/5e04846300020dc8be619f4adfec6baf.ts
-Fox HD,mitv://fccsovh.pvbox.live:18912/5e04846300020dc8be619f4adfec6baf.ts
+Fox Family,mitv://fccseuro.pvbox.live:18912/5e0484640001945b84dbbea9eeb21772.ts
+Fox Family,mitv://fccsovh.pvbox.live:18912/5e0484640001945b84dbbea9eeb21772.ts
+Fox,mitv://fccseuro.pvbox.live:18912/5e04846300020dc8be619f4adfec6baf.ts
+Fox,mitv://fccsovh.pvbox.live:18912/5e04846300020dc8be619f4adfec6baf.ts
 fox movie,mitv://fccseuro.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd.ts
 fox movie,mitv://fccsovh.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd.ts
 Fox Movies Premium,mitv://fccseuro.pvbox.live:18912/5e04846100065908de39e64a7807f88f.ts
@@ -1162,8 +1096,8 @@ foxsports,mitv://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4.ts
 foxsports,mitv://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4.ts
 foxsports2,mitv://fccseuro.pvbox.live:18912/5b140a97000b668417d6fc134b0d417e.ts
 foxsports2,mitv://fccsovh.pvbox.live:18912/5b140a97000b668417d6fc134b0d417e.ts
-HBO Family HD,mitv://fccseuro.pvbox.live:18912/5e04845f000063220247f9eb4d8b0a32.ts
-HBO Family HD,mitv://fccsovh.pvbox.live:18912/5e04845f000063220247f9eb4d8b0a32.ts
+HBO Family,mitv://fccseuro.pvbox.live:18912/5e04845f000063220247f9eb4d8b0a32.ts
+HBO Family,mitv://fccsovh.pvbox.live:18912/5e04845f000063220247f9eb4d8b0a32.ts
 HBOCA,mitv://fccseuro.pvbox.live:18912/5cf559de000079ad9f1ddb23b2aafae5.ts
 HBOCA,mitv://fccsovh.pvbox.live:18912/5cf559de000079ad9f1ddb23b2aafae5.ts
 HBOCA2,mitv://fccseuro.pvbox.live:18912/5cffd799000ddb76cd1d916c4ee8efee.ts
@@ -1208,7 +1142,6 @@ VTV7,mitv://fccsovh.pvbox.live:18912/5ff41516000ec4f97d5a6ea601f063e1
 VTV8,mitv://fccsovh.pvbox.live:18912/5ff41517000b6e987d5a71b35f15093e
 VTV9,mitv://fccsovh.pvbox.live:18912/5ff41518000760e77d5a74916c81547d
 VTV5 Tây Nam Bộ,mitv://fccsovh.pvbox.live:18912/5ff4151900053b9b7d5a77ed200826aa
-DISNEY CHANNEL,mitv://fccseuro.pvbox.live:18912/5b593aed0000362187117819dfe1623f
 DISNEY JR,mitv://fccseuro.pvbox.live:18912/5b593af10003ba92966345a0907f5fe4
 DISNEY XD,mitv://fccseuro.pvbox.live:18912/5b593af500034b9c58aed64e3fdce2a0
 BERNAMA,mitv://fccseuro.pvbox.live:18912/5b20e39a00045f194a06ae0670671873
@@ -1217,12 +1150,11 @@ Channel 8,mitv://fccseuro.pvbox.live:18912/5bcd6bdb0006c2463fd42a92cae392f0
 Channel u,mitv://fccseuro.pvbox.live:18912/5bcd6bdf00017fad7de6e62eca6fe61b
 CN卡通,mitv://fccseuro.pvbox.live:18912/5b3c4f9a0001703e337c1b1bbec458bc
 FOXPORTS,mitv://fccseuro.pvbox.live:18912/5b3c4f980000c856938feede661ceecb
-HBO,mitv://fccseuro.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd
 FOXPORTS2,mitv://fccseuro.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1
 SONYHD,mitv://fccseuro.pvbox.live:18912/5b20e3ad0008a8e34a06f95742920282
 SURIA,mitv://fccseuro.pvbox.live:18912/5b20e3ae000daac3367aacf289f0c5ff
 TVB 星河台,mitv://fccseuro.pvbox.live:18912/5b20e3ae00008df9620421b9fc1c558a#http://playlive.558888888.xyz:10013/db.php?id=nowxw&t=1591516964&sign=1386841921
-TVN HD,mitv://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606
+TVN,mitv://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606
 VASANTHAM,mitv://fccseuro.pvbox.live:18912/5b20e3af00036b8c28619c6ff14a3dd0
 AWANI,mitv://fccseuro.pvbox.live:18912/5b20e39a000181f94a06ad4a052d46d8
 WARNA,mitv://fccseuro.pvbox.live:18912/5b20e39a0008a8fd4a06af1f090d2294
@@ -1231,21 +1163,13 @@ PRIMA,mitv://fccseuro.pvbox.live:18912/5b20e39a000cb67e4a06b02864367b1e
 
 国际频道,#genre#
 ALJAZEERA,mitv://fccseuro.pvbox.live:18912/5b1409fc000257834644b9a549e32078#http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-AXN 新力影业动作片电视网,mitv://fccseuro.pvbox.live:18912/5b140922000388777809b9c6f83f6c7c
 BOOMERANG,mitv://fccseuro.pvbox.live:18912/5b1409da00081124e199c465f2905838
-CatchPlay HD,mitv://fccseuro.pvbox.live:18912/5b1409db000126a9711886b8313f331d
-DISCOVERY HD,mitv://fccseuro.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f
 DW-TV,mitv://fccseuro.pvbox.live:18912/5b14098f0005711e1cbfd9f520e6deb7
 E! ENTERTAINMENT,mitv://fccseuro.pvbox.live:18912/5b14097700040368524f5735fc2c2cf6
 FOX优质,mitv://fccseuro.pvbox.live:18912/5b140977000ab01d7256677e192f2176
-HISTORY HD,mitv://fccseuro.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5
-HISTORY2 HD,mitv://fccseuro.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb
 NICK.JR,mitv://fccseuro.pvbox.live:18912/5b14098f000ba3b068b27fda327db530
 SETANTA TV,mitv://fccseuro.pvbox.live:18912/5b1409770001636917d2948272683fd6
-MEZZO LIVE HD,mitv://fccseuro.pvbox.live:18912/5b14090b0006deff655b64c7883c4f42
-SUNDANCE CHANNEL,mitv://fccseuro.pvbox.live:18912/5b1408f2000c5b2d1560791cd5b76651
-亚洲美食 HD,mitv://fccseuro.pvbox.live:18912/5b1409da000c98012b21065a2d054373
-
+MEZZO LIVE,mitv://fccseuro.pvbox.live:18912/5b14090b0006deff655b64c7883c4f42
 A&E BR,mitv://fccsovh.pvbox.live:18912/5bee4dd40002191e63bcb4b2f938f266
 Universal BR,mitv://fccsovh.pvbox.live:18912/5bee5375000a15e89605f0c76c862efb
 AMC BR,mitv://fccsovh.pvbox.live:18912/5bee4dd7000903176b747707d6697b31
@@ -1270,7 +1194,6 @@ Discovery Kids,mitv://fccsovh.pvbox.live:18912/5bee4e8d000586a6c2bbb0fe52d08175
 Discovery Science BR,mitv://fccsovh.pvbox.live:18912/5bee4e90000c4e21ceec1e5c19a55732
 Discovery Theater,mitv://fccsovh.pvbox.live:18912/5bee4e9400035d9f8e67fe93f3e49fb6
 Discovery Turbo,mitv://fccsovh.pvbox.live:18912/5bee4e97000ce6c91d7ce85e98bf846b
-Discovery WORLD,mitv://fccsovh.pvbox.live:18912/5bee4e9b0004056f76e84736af101f06
 Disney BR,mitv://fccsovh.pvbox.live:18912/5bee4e9e000ba6493a5846cdc137d5f4
 DISNEY JR BR,mitv://fccsovh.pvbox.live:18912/5bee4ea20003335f85191976173d0d21
 Disney XD BR,mitv://fccsovh.pvbox.live:18912/5bee4ea50009f36c4321bebc7880faba
@@ -1334,7 +1257,6 @@ RTP 2,mitv://fccsovh.pvbox.live:18912/5bee555e000169b34144450ab5b70482
 Afro Music,mitv://fccsovh.pvbox.live:18912/5bee5386000cc0a2b28b06f62f767269
 RTP 3,mitv://fccsovh.pvbox.live:18912/5bee55610008855cc94c067d84633e0c
 AMC,mitv://fccsovh.pvbox.live:18912/5bee538a000442252216375b4001b2ff
-Sic,mitv://fccsovh.pvbox.live:18912/5bee5565000dea0076734460280a5f80
 ARTV,mitv://fccsovh.pvbox.live:18912/5bee538d000cc84494597e2ea34dcd71
 SIC Mulher,mitv://fccsovh.pvbox.live:18912/5bee556900099b7c708ee11f94542871
 AXN,mitv://fccsovh.pvbox.live:18912/5bee539100076342d0f4a766569dfd39
@@ -1435,33 +1357,29 @@ TV8,mitv://fccseuro.pvbox.live:18912/5e64ac02000ba97d37e919f7d14c8712
 TV8 (备),mitv://fccsovh.pvbox.live:18912/5b3c4f9e0007068a627efc225d792ca1
 TV9,mitv://fccseuro.pvbox.live:18912/5e64ac0400079b376cd018684dca6022
 TV7,mitv://fccseuro.pvbox.live:18912/5e64ac010001e2866cd00b3927f775bf
-DISNEY CHANNEL,mitv://fccsovh.pvbox.live:18912/5b593aed0000362187117819dfe1623f
 DISNEY JR,mitv://fccsovh.pvbox.live:18912/5b593af10003ba92966345a0907f5fe4
 DISNEY XD,mitv://fccsovh.pvbox.live:18912/5b593af500034b9c58aed64e3fdce2a0
 BERNAMA,mitv://fccsovh.pvbox.live:18912/5b20e39a00045f194a06ae0670671873
 Channel 5,mitv://fccsovh.pvbox.live:18912/5bcd6bd7000e85ac24f011790821a01b
 Channel 8,mitv://fccsovh.pvbox.live:18912/5bcd6bdb0006c2463fd42a92cae392f0
 Channel u,mitv://fccsovh.pvbox.live:18912/5bcd6bdf00017fad7de6e62eca6fe61b
-CN卡通,mitv://fccsovh.pvbox.live:18912/5b3c4f9a0001703e337c1b1bbec458bc
 FOXPORTS,mitv://fccsovh.pvbox.live:18912/5b3c4f980000c856938feede661ceecb
-HBO,mitv://fccsovh.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd
 FOXPORTS2,mitv://fccsovh.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1
 SONYHD,mitv://fccsovh.pvbox.live:18912/5b20e3ad0008a8e34a06f95742920282
 SURIA,mitv://fccsovh.pvbox.live:18912/5b20e3ae000daac3367aacf289f0c5ff
-TVB 星河台,mitv://fccsovh.pvbox.live:18912/5b20e3ae00008df9620421b9fc1c558a
-TVN HD,mitv://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606
+TVN,mitv://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606
 VASANTHAM,mitv://fccsovh.pvbox.live:18912/5b20e3af00036b8c28619c6ff14a3dd0
 AWANI,mitv://fccsovh.pvbox.live:18912/5b20e39a000181f94a06ad4a052d46d8
 WARNA,mitv://fccsovh.pvbox.live:18912/5b20e39a0008a8fd4a06af1f090d2294
 RIA,mitv://fccsovh.pvbox.live:18912/5b20e39a000acf0b4a06afab17233314
 PRIMA,mitv://fccsovh.pvbox.live:18912/5b20e39a000cb67e4a06b02864367b1e
-Zee TV HD,mitv://fccsovh.pvbox.live:18912/5d720289000accccd9d792bec1461ddb
+Zee TV,mitv://fccsovh.pvbox.live:18912/5d720289000accccd9d792bec1461ddb
 Sun TV,mitv://fccsovh.pvbox.live:18912/5d72027a0001bd21f94da7b9f261357f
-Zee Cinema HD,mitv://fccsovh.pvbox.live:18912/5d72028b00032b96e844a9ae59456424
+Zee Cinema,mitv://fccsovh.pvbox.live:18912/5d72028b00032b96e844a9ae59456424
 Zee Actions,mitv://fccsovh.pvbox.live:18912/5d720286000607ee305e3bbfec999a5e
-Picture HD,mitv://fccsovh.pvbox.live:18912/5d72028f000d6c091c9108c186f7361e
-Colors HD,mitv://fccsovh.pvbox.live:18912/5d72028c000a9001c89bb459e73987c7
-Starplus HD,mitv://fccsovh.pvbox.live:18912/5d72028e0003e26d78adec4537b5951e
+Picture,mitv://fccsovh.pvbox.live:18912/5d72028f000d6c091c9108c186f7361e
+Colors,mitv://fccsovh.pvbox.live:18912/5d72028c000a9001c89bb459e73987c7
+Starplus,mitv://fccsovh.pvbox.live:18912/5d72028e0003e26d78adec4537b5951e
 Star Vijay,mitv://fccsovh.pvbox.live:18912/5d72027b000e602dd086f4a7bcb4c178
 Times Now,mitv://fccsovh.pvbox.live:18912/5f687ed400017f155c17f81007b00d71
 acv,mitv://fccsovh.pvbox.live:18912/5f687df20002766c5c14857f0c624744
@@ -1543,7 +1461,7 @@ News 18,mitv://fccsovh.pvbox.live:18912/5fc9f5690000fd3bd8cedb366f2258ee
 BBC Earth Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f569000b3dbcd8ceddd66e4431e2
 Discovery World Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f56a0006b5b3d8cee0952c1c4dd4
 History Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f56b00032263d8cee39258052a5e
-MTV HD,mitv://fccsovh.pvbox.live:18912/5fc9f56b000e941ed8cee680366b527d
+MTV,mitv://fccsovh.pvbox.live:18912/5fc9f56b000e941ed8cee680366b527d
 NatGeo Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f56c000a0c51d8cee93f472c16e8
 NatGeo Wild Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f56d00063bbed8ceec2d51317604
 Cartoon Network Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f56e0001b405d8ceeeed6df70aff
@@ -1551,16 +1469,16 @@ Discovery Kids Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f56e000cabb4d8cef1bb4b9
 Discovery Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f56f0007e6f6d8cef46b538a60ef
 Disney Channel Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f5700003d97ad8cef7491fbb4de6
 Disney Jr Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f5710000fd07d8cefa7623fb4858
-Marvel HD Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f571000bf496d8cefd44109b3418
+Marvel Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f571000bf496d8cefd44109b3418
 Nick Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f5720006f2e2d8ceffe423b14f0d
 Pogo Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f5730001b3c8d8cf02754f5c3216
 Sonic Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f573000c3189d8cf052459130571
 Hugama Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f574000823ffd8cf0802563568f7
 Colors Tamil,mitv://fccsovh.pvbox.live:18912/5fc9f5750003d946d8cf0ad13a401448
 Sony YaY,mitv://fccsovh.pvbox.live:18912/5fc9f576000045d4d8cf0dcf5ce6681b
-Zee Cafe HD,mitv://fccsovh.pvbox.live:18912/5ff3fe20000238707d00ba7974d81b82
-Movies Now HD,mitv://fccsovh.pvbox.live:18912/5ff3fe3c0000c9ed7d01277c427c1aed
-Star Movies HD,mitv://fccsovh.pvbox.live:18912/5ff3fe4e000e23a57d01713769e00f94
+Zee Cafe,mitv://fccsovh.pvbox.live:18912/5ff3fe20000238707d00ba7974d81b82
+Movies Now,mitv://fccsovh.pvbox.live:18912/5ff3fe3c0000c9ed7d01277c427c1aed
+Star Movies,mitv://fccsovh.pvbox.live:18912/5ff3fe4e000e23a57d01713769e00f94
 TVRI,mitv://fccsovh.pvbox.live:18912/5d72048f000a56679cd838f2a57430b9
 AnTV,mitv://fccsovh.pvbox.live:18912/5d72049100073c761a3bd10901bbc38d
 Kompass TV,mitv://fccsovh.pvbox.live:18912/5d7204930003e5fbd86907499ccd430d
@@ -1627,16 +1545,13 @@ Saigon TV,mitv://fccsovh.pvbox.live:18912/5ff41485000badd67d5837722ff213ad
 VBS,mitv://fccsovh.pvbox.live:18912/5ff4148000094ba07d58234e10aa6218
 Little Saigon TV,mitv://fccsovh.pvbox.live:18912/5ff4147e000632457d581ab37597631d
 QUOC HOI,mitv://fccsovh.pvbox.live:18912/5beec6ce000ea13894d7abde31977375
-Phu Tho HD,mitv://fccsovh.pvbox.live:18912/5beec6d6000237a19e87c4f6c7a6853b
+Phu Tho,mitv://fccsovh.pvbox.live:18912/5beec6d6000237a19e87c4f6c7a6853b
 NHAN DAN,mitv://fccsovh.pvbox.live:18912/5beec6d20007abc6e1daef18a906a45f
 sctv1,mitv://fccsovh.pvbox.live:18912/5befb7340008a0441f4b2b14115348db
 Bloomberg,mitv://fccsovh.pvbox.live:18912/5b13f6f10000e96ecba4c8c2133d4ddb
 ABC-NEWS,mitv://fccsovh.pvbox.live:18912/5b59390300092aa36949c3a9a36981eb
-DISNEY-CHANNEL,mitv://fccsovh.pvbox.live:18912/5b593aed0000362187117819dfe1623f
 HBO ZONE EAST,mitv://fccsovh.pvbox.live:18912/5b593bbf0007e64132621463dec245d3
-CNN-HD,mitv://fccsovh.pvbox.live:18912/5b593947000cff320b5fbcac3823cfb2
 HGTV-HD,mitv://fccsovh.pvbox.live:18912/5b593bc300073eb4da590cc0ddf6132e
-AXN HD,mitv://fccsovh.pvbox.live:18912/5bee539100076342d0f4a766569dfd39
 HISTORY-HD,mitv://fccsovh.pvbox.live:18912/5b593bc7000552962e8565f6d539815f
 SPIKE-HD,mitv://fccsovh.pvbox.live:18912/5b593cae00069ab4cc064b07ae58cf1d
 AMC-HD,mitv://fccsovh.pvbox.live:18912/5b59390f00089d8d5e48e1b6d7b9b2d5
@@ -1647,7 +1562,6 @@ ANIMAL-PLANET,mitv://fccsovh.pvbox.live:18912/5b5939130005971d4f247d9ea9194679
 TBS-HD,mitv://fccsovh.pvbox.live:18912/5b593cb600034f853b379f22836d8366
 BBC-AMERICA,mitv://fccsovh.pvbox.live:18912/5b5939170002ff27139e866972121b88
 ESPN-2,mitv://fccsovh.pvbox.live:18912/5b593b0100016afbbc424613b15a3a9e
-LIFETIME MOVIE,mitv://fccsovh.pvbox.live:18912/5b593bd20009b7c897de5601f6c21c86
 BET-HD,mitv://fccsovh.pvbox.live:18912/5b59391b0002ff76e9e57a4f9d961b7e
 ESPN-NEWS,mitv://fccsovh.pvbox.live:18912/5b593b050000cac7e5846d23629c86f8
 TNT,mitv://fccsovh.pvbox.live:18912/5ee9c92a000656fd6d22d2fd05fe0382
@@ -1658,12 +1572,10 @@ FOOD-NETWORK,mitv://fccsovh.pvbox.live:18912/5b593b0c000caf354ce3fd73c13365a1
 MSNBC-HD,mitv://fccsovh.pvbox.live:18912/5b593bde000d62341de323a1b06ed9c2
 TRU-TV,mitv://fccsovh.pvbox.live:18912/5b593cc60006374fccbd37b9c6121b0f
 FOX-HD,mitv://fccsovh.pvbox.live:18912/5b593b10000836ae82c538c53e834415
-MTV,mitv://fccsovh.pvbox.live:18912/5b593be200077048bf597b7545d9709a
 VELOCITY-HD,mitv://fccsovh.pvbox.live:18912/5b593cca000340787e8a9df3e0188378
 NAT-GEO,mitv://fccsovh.pvbox.live:18912/5b593be6000692ffb22bb6b976f6bf84
 VH1,mitv://fccsovh.pvbox.live:18912/5b593cce00005873101a85044b981db5
 FOX-SPORTS1,mitv://fccsovh.pvbox.live:18912/5b593b1800090110b11b03acd72eae49
-NBA-TV,mitv://fccsovh.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7
 WE-TV,mitv://fccsovh.pvbox.live:18912/5b593cd20000362a28c0f7dd4edf4f29
 CARTOON-NETWORK,mitv://fccsovh.pvbox.live:18912/5b593933000710c554e89c7ce9dd6bef
 FOX-SPORTS2,mitv://fccsovh.pvbox.live:18912/5b593b1c00097e8b9e3e670dad5c859b
@@ -1823,7 +1735,6 @@ Cine Mundo,mitv://fccsovh.pvbox.live:18912/5bee5419000e0c5019e00b0366cc1576
 Historia,mitv://fccsovh.pvbox.live:18912/5bee54b70004013e19e271a34ac46ce8
 CNN,mitv://fccsovh.pvbox.live:18912/5bee4e1000071aff19c8761615ac25fb
 Sky Sports Cricket,mitv://fccsovh.pvbox.live:18912/5bee50850003e6b481dfefb396df2d92
-Discovery Channel,mitv://fccsovh.pvbox.live:18912/5bee541d00085ee619e0192c64f71b5c
 Hollywood,mitv://fccsovh.pvbox.live:18912/5bee54bb0000940019e280594ff642a3
 E4,mitv://fccsovh.pvbox.live:18912/5bee4eb00005497b19cae6995c701196
 Sky Sports Golf,mitv://fccsovh.pvbox.live:18912/5bee5088000b42fd2d3d4107b2c45904
@@ -1872,20 +1783,13 @@ Tnn24,mitv://fccsovh.pvbox.live:18912/5faa92350004097a5e3372a3059149a3
 Nbt,mitv://fccsovh.pvbox.live:18912/5faa9235000f015e5e33757126e65704
 New,mitv://fccsovh.pvbox.live:18912/5faa9236000b6d8a5e33786f61953df5
 TPTV,mitv://fccsovh.pvbox.live:18912/5faa92370006e5fc5e337b2e774572d3
-AXN 新力影业动作片电视网,mitv://fccsovh.pvbox.live:18912/5b140922000388777809b9c6f83f6c7c
 BOOMERANG,mitv://fccsovh.pvbox.live:18912/5b1409da00081124e199c465f2905838
-CatchPlay HD,mitv://fccsovh.pvbox.live:18912/5b1409db000126a9711886b8313f331d
-DISCOVERY HD,mitv://fccsovh.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f
 DW-TV,mitv://fccsovh.pvbox.live:18912/5b14098f0005711e1cbfd9f520e6deb7
 E! ENTERTAINMENT,mitv://fccsovh.pvbox.live:18912/5b14097700040368524f5735fc2c2cf6
 FOX优质,mitv://fccsovh.pvbox.live:18912/5b140977000ab01d7256677e192f2176
-HISTORY HD,mitv://fccsovh.pvbox.live:18912/5b1408f300071d3b1901e3975b5ba4f5
-HISTORY2 HD,mitv://fccsovh.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb
 NICK.JR,mitv://fccsovh.pvbox.live:18912/5b14098f000ba3b068b27fda327db530
 SETANTA TV,mitv://fccsovh.pvbox.live:18912/5b1409770001636917d2948272683fd6
-MEZZO LIVE HD,mitv://fccsovh.pvbox.live:18912/5b14090b0006deff655b64c7883c4f42
-SUNDANCE CHANNEL,mitv://fccsovh.pvbox.live:18912/5b1408f2000c5b2d1560791cd5b76651
-亚洲美食 HD,mitv://fccsovh.pvbox.live:18912/5b1409da000c98012b21065a2d054373
+MEZZO LIVE,mitv://fccsovh.pvbox.live:18912/5b14090b0006deff655b64c7883c4f42
 
 欧美频道,#genre#
 ABC,mitv://fccseuro.pvbox.live:18912/5ee9c7b7000065e76d1d283e4eb33c0d.ts
@@ -1902,8 +1806,8 @@ Animal,mitv://fccseuro.pvbox.live:18912/5ee9c7bb0003f98d6d1d38c9095e0c04.ts
 Animal,mitv://fccsovh.pvbox.live:18912/5ee9c7bb0003f98d6d1d38c9095e0c04.ts
 ANIMAL-PLANET,mitv://fccseuro.pvbox.live:18912/5b5939130005971d4f247d9ea9194679.ts
 ANIMAL-PLANET,mitv://fccsovh.pvbox.live:18912/5b5939130005971d4f247d9ea9194679.ts
-AXN HD,mitv://fccseuro.pvbox.live:18912/5bee539100076342d0f4a766569dfd39.ts
-AXN HD,mitv://fccsovh.pvbox.live:18912/5bee539100076342d0f4a766569dfd39.ts
+AXN,mitv://fccseuro.pvbox.live:18912/5bee539100076342d0f4a766569dfd39.ts
+AXN,mitv://fccsovh.pvbox.live:18912/5bee539100076342d0f4a766569dfd39.ts
 BBC-AMERICA,mitv://fccseuro.pvbox.live:18912/5b5939170002ff27139e866972121b88.ts
 BBCAmerica,mitv://fccseuro.pvbox.live:18912/5ee9c7bc000975176d1d3e1840f35f06.ts
 BBC-AMERICA,mitv://fccsovh.pvbox.live:18912/5b5939170002ff27139e866972121b88.ts
@@ -1950,8 +1854,6 @@ Discovery,mitv://fccseuro.pvbox.live:18912/5ee9c88c00087e756d206a5915877070.ts
 Discovery,mitv://fccsovh.pvbox.live:18912/5ee9c88c00087e756d206a5915877070.ts
 Disney,mitv://fccseuro.pvbox.live:18912/5ee9c88d000e373a6d206fb8738a4ed5.ts
 Disney,mitv://fccsovh.pvbox.live:18912/5ee9c88d000e373a6d206fb8738a4ed5.ts
-DISNEY-CHANNEL,mitv://fccseuro.pvbox.live:18912/5b593aed0000362187117819dfe1623f.ts
-DISNEY-CHANNEL,mitv://fccsovh.pvbox.live:18912/5b593aed0000362187117819dfe1623f.ts
 DisneyJr,mitv://fccseuro.pvbox.live:18912/5ee9c88f00061be66d2075752d1b20c4.ts
 DisneyJr,mitv://fccsovh.pvbox.live:18912/5ee9c88f00061be66d2075752d1b20c4.ts
 DisneyXD,mitv://fccseuro.pvbox.live:18912/5ee9c891000194356d207c1c427e44d2.ts
@@ -2054,7 +1956,6 @@ National-Geographic,mitv://fccseuro.pvbox.live:18912/5ee9c965000bd1f06d23badc103
 National-Geographic,mitv://fccsovh.pvbox.live:18912/5ee9c965000bd1f06d23badc1037413b.ts
 NBA-TV,mitv://fccseuro.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7.ts
 NBA-TV,mitv://fccseuro.pvbox.live:18912/5ee9c968000a63be6d23c63663fc661a.ts
-NBA-TV,mitv://fccsovh.pvbox.live:18912/5b593bea000144c6daeee1360e5f80f7.ts
 NBA-TV,mitv://fccsovh.pvbox.live:18912/5ee9c968000a63be6d23c63663fc661a.ts
 NBC,mitv://fccseuro.pvbox.live:18912/5ee9c96a0001ce6f6d23cbd46c1414a7.ts
 NBC,mitv://fccsovh.pvbox.live:18912/5ee9c96a0001ce6f6d23cbd46c1414a7.ts
@@ -2328,14 +2229,10 @@ RTP 3,mitv://fccseuro.pvbox.live:18912/5bee55610008855cc94c067d84633e0c.ts
 RTP 3,mitv://fccsovh.pvbox.live:18912/5bee55610008855cc94c067d84633e0c.ts
 AMC,mitv://fccseuro.pvbox.live:18912/5bee538a000442252216375b4001b2ff.ts
 AMC,mitv://fccsovh.pvbox.live:18912/5bee538a000442252216375b4001b2ff.ts
-Sic,mitv://fccseuro.pvbox.live:18912/5bee5565000dea0076734460280a5f80.ts
-Sic,mitv://fccsovh.pvbox.live:18912/5bee5565000dea0076734460280a5f80.ts
 ARTV,mitv://fccseuro.pvbox.live:18912/5bee538d000cc84494597e2ea34dcd71.ts
 ARTV,mitv://fccsovh.pvbox.live:18912/5bee538d000cc84494597e2ea34dcd71.ts
 SIC Mulher,mitv://fccseuro.pvbox.live:18912/5bee556900099b7c708ee11f94542871.ts
 SIC Mulher,mitv://fccsovh.pvbox.live:18912/5bee556900099b7c708ee11f94542871.ts
-AXN,mitv://fccseuro.pvbox.live:18912/5bee539100076342d0f4a766569dfd39.ts
-AXN,mitv://fccsovh.pvbox.live:18912/5bee539100076342d0f4a766569dfd39.ts
 SIC Noticias,mitv://fccseuro.pvbox.live:18912/5bee55bc000cc815b8ca3f00d0c0124b.ts
 SIC Noticias,mitv://fccsovh.pvbox.live:18912/5bee55bc000cc815b8ca3f00d0c0124b.ts
 SIC Radical,mitv://fccseuro.pvbox.live:18912/5bee55c00004b8abf8710c10189cdcba.ts
@@ -3138,7 +3035,7 @@ ERO2,http://ott3.gearhostpreview.com/xxav.php?id=238
 ERO,http://ott3.gearhostpreview.com/xxav.php?id=237
 VIVID1,http://ott3.gearhostpreview.com/xxav.php?id=236
 XXL5,http://ott3.gearhostpreview.com/xxav.php?id=235
-VEO HD,http://ott3.gearhostpreview.com/xxav.php?id=233
+VEO,http://ott3.gearhostpreview.com/xxav.php?id=233
 VENUS,http://ott3.gearhostpreview.com/xxav.php?id=229
 HOT1,http://ott3.gearhostpreview.com/xxav.php?id=228
 RKTV,http://ott3.gearhostpreview.com/xxav.php?id=226
@@ -3553,7 +3450,7 @@ SGA-107c-最高中出性交,http://videocdn.quweikm.com:8091/20180617/WxnuZaXo/i
 SGA-034c-従順過人妻  桃瀬ゆり,http://videocdn.quweikm.com:8091/20180617/0mvIj3e4/index.m3u8
 
 欧美壹千_666,#genre#
-#1 HD,http://218158.vod.adultiptv.net/ph5a0bfc0cbc2ed/play.m3u8
+#1,http://218158.vod.adultiptv.net/ph5a0bfc0cbc2ed/play.m3u8
 Female Fake Taxi Tourist creampies and gets a wet pussy welcome,http://11216.vod.adultiptv.net/ph59688daaabba3/play.m3u8
 Married MILF Tia Layne still fucks like a whore for Pascal White,http://1465.vod.adultiptv.net/ph55b6fd2f67e8c/play.m3u8
 FakeTaxi Cute customer with natural tits,http://6122.vod.redtraffic.xyz/ph57ecf36764960/play.m3u8
@@ -3670,7 +3567,7 @@ LezKiss blondes get turned on making out in bedroom,http://10238.vod.redtraffic.
 Street ass jazz in Prague,http://21470.vod.redtraffic.xyz/ph57d00e675fb02/play.m3u8
 Female Agent Bodybuilder shoots his load all over slim agents belly,http://218158.vod.redtraffic.xyz/ph593fd90079ed7/play.m3u8
 Cytherea Is A Lesbian Squirt Machine - Scene 1,http://13216.vod.redtraffic.xyz/ph59527e14970e8/play.m3u8
-Lesbian amazing European girls in love - round 3 - HD,http://13216.vod.adultiptv.net/ph5a1d4433d6b5b/play.m3u8
+Lesbian amazing European girls in love - round 3 -,http://13216.vod.adultiptv.net/ph5a1d4433d6b5b/play.m3u8
 MyVeryFirstTime - New uncensored version - Maddy Rose first gang bang,http://12204.vod.redtraffic.xyz/ph55945359a72a4/play.m3u8
 Nicole Aniston Bad Teacher Parody,http://11216.vod.redtraffic.xyz/ph5975a6f554fa1/play.m3u8
 Tiny teen school girl gets punished by big cock,http://10238.vod.redtraffic.xyz/ph56b8e4d1599fd/play.m3u8
@@ -3826,7 +3723,7 @@ latina teen zaya oiled up riding huge rubber cock and massaging her pussy,http:/
 Нравы современной российской молодежи 05,http://1244.vod.redtraffic.xyz/ph57ddaa9693da4/play.m3u8
 Yonitale: Red Fox has an amazing orgasm,http://12156.vod.adultiptv.net/ph5699dd44c1980/play.m3u8
 JAV UNCENSORED,http://13216.vod.redtraffic.xyz/ph564051ed6853e/play.m3u8
-Sloppy lesbian kissing HD,http://10238.vod.redtraffic.xyz/ph5a2048539fb3e/play.m3u8
+Sloppy lesbian kissing,http://10238.vod.redtraffic.xyz/ph5a2048539fb3e/play.m3u8
 姫騎士オリヴィア 調教 02,http://11216.vod.redtraffic.xyz/ph5b02609b5161a/play.m3u8
 Melody Petite - Sexo con Erick,http://12204.vod.adultiptv.net/ph56743f5759127/play.m3u8
 Stay out of Moms room,http://11216.vod.redtraffic.xyz/ph5600803cbf4db/play.m3u8
@@ -4038,7 +3935,7 @@ Kelsi Monroe - Booty Drop Sex Marathon PMV,http://21470.vod.redtraffic.xyz/ph566
 MOM AND SON SHARE BED AND FUCK,http://60106.vod.redtraffic.xyz/ph5a42f9f6968cb/play.m3u8
 #039;s Vibrator!,http://11216.vod.adultiptv.net/ph5be1347c44a53/play.m3u8
 #039;s Honey Ass,http://12204.vod.adultiptv.net/ph5bdf13641ea62/play.m3u8
-Fuzzy Lips 01 HD Dubbed Uncensored,http://11216.vod.adultiptv.net/ph5b762b82d31ce/play.m3u8
+Fuzzy Lips 01 Dubbed Uncensored,http://11216.vod.adultiptv.net/ph5b762b82d31ce/play.m3u8
 viola d &amp; megan 06,http://13216.vod.redtraffic.xyz/ph574924445924b/play.m3u8
 nice ass columbian girl,http://21470.vod.redtraffic.xyz/ph5911fb172aee0/play.m3u8
 BANGBROS - Carolina Rivera Shows Off Her Huge Colombian Ass (cff15869),http://12156.vod.redtraffic.xyz/ph595d26efd60b6/play.m3u8
@@ -4088,7 +3985,7 @@ Training My Teen Step Sister - Family Therapy - Paris Lincoln,http://11216.vod.r
 DaneJones Stunners pussy spasms with delight as big dick is plunged inside,http://12156.vod.adultiptv.net/ph57862028aab52/play.m3u8
 BANGBROS - Amazing Campus Ass featuring PAWG Daisy Stone &amp; El Caballo Loco,http://1244.vod.adultiptv.net/ph595d07c54aa92/play.m3u8
 BANGBROS - Sexy Escort Katrina Jade Fucks Her Kinky Client Ryan McLane,http://12204.vod.redtraffic.xyz/ph5b7c56499206e/play.m3u8
-Best Of The Best Compilation HD PMV vol.4,http://218158.vod.redtraffic.xyz/ph590844ff9634a/play.m3u8
+Best Of The Best Compilation PMV vol.4,http://218158.vod.redtraffic.xyz/ph590844ff9634a/play.m3u8
 yes I have hit her,http://13216.vod.redtraffic.xyz/ph599faad24115b/play.m3u8
 2017),http://6122.vod.adultiptv.net/ph5b65fe9975118/play.m3u8
 SWALLOWED Jynx Maze deepthroating a white monster dick,http://6122.vod.redtraffic.xyz/ph595493673644e/play.m3u8
@@ -4113,7 +4010,7 @@ Step UNCLE FUCKER! Adriana Maya fucks older man. Interracial Taboo,http://1244.v
 or...,http://12156.vod.redtraffic.xyz/ph5b17d3809283e/play.m3u8
 strip and search - Scene 4,http://218158.vod.redtraffic.xyz/ph59a74fd47a0ee/play.m3u8
 straight double ds - Scene 1,http://11216.vod.redtraffic.xyz/ph59a6c49755250/play.m3u8
-Curvy Ebony Milf Has All Natural Big Black Tits in her first HD Fuck Film!,http://1465.vod.adultiptv.net/ph5c34f09df051b/play.m3u8
+Curvy Ebony Milf Has All Natural Big Black Tits in her first Fuck Film!,http://1465.vod.adultiptv.net/ph5c34f09df051b/play.m3u8
 MAKE ME X CUM LICKING MY ASS,http://1465.vod.adultiptv.net/ph5ba661305f74c/play.m3u8
 facesitting liquid orgasm,http://12204.vod.adultiptv.net/ph5a6f70384fbb0/play.m3u8
 Kinky Family - Home alone with slutty stepsis,http://11216.vod.redtraffic.xyz/ph596c6cb02e69a/play.m3u8
@@ -4139,7 +4036,7 @@ Bruna,http://13216.vod.adultiptv.net/ph5b6c99e401917/play.m3u8
 DaneJones Big boobs brunette pussy drip with cum after creampie,http://11216.vod.redtraffic.xyz/ph5780ca756af1b/play.m3u8
 lick in the ass with pissed anal enema in the mouth,http://1465.vod.adultiptv.net/ph5b845fec8d9ff/play.m3u8
 fuck mail - Scene 5,http://10238.vod.redtraffic.xyz/ph59a5475553381/play.m3u8
-THE HOTTEST GIRLS IN PORN HUGE HD COMPILATION,http://12156.vod.redtraffic.xyz/ph587dd65c0b42f/play.m3u8
+THE HOTTEST GIRLS IN PORN HUGE COMPILATION,http://12156.vod.redtraffic.xyz/ph587dd65c0b42f/play.m3u8
 Sister JOI,http://10238.vod.adultiptv.net/ph594f9f66831df/play.m3u8
 protection services - Scene 5,http://21470.vod.adultiptv.net/ph59a67e17de1d1/play.m3u8
 PropertySex - Tenant with big natural tits fucks her roommate,http://12156.vod.adultiptv.net/ph5b917f8085b55/play.m3u8
@@ -4182,7 +4079,7 @@ SERENA ALI – I CANT AFFORD THE PACKAGES,http://1244.vod.redtraffic.xyz/ph5a26b
 Dane Jones Pretty young Russian girl takes a big cock deep inside her,http://13216.vod.adultiptv.net/ph591e9f6c5eb15/play.m3u8
 Brandi Love Meets Her Match With CIRIS Interactive,http://12204.vod.redtraffic.xyz/ph59c935518303f/play.m3u8
 Horny Step Aunt Play,http://12156.vod.redtraffic.xyz/ph5ab2e51212e27/play.m3u8
-Jada Stevens Teanna Trump HD,http://12204.vod.adultiptv.net/ph5714c214a38b0/play.m3u8
+Jada Stevens Teanna Trump,http://12204.vod.adultiptv.net/ph5714c214a38b0/play.m3u8
 Cock Gobbler,http://12156.vod.redtraffic.xyz/ph58ac71ebe739a/play.m3u8
 Big Tatted Booty Gets Pounded,http://12204.vod.adultiptv.net/ph55eb5a3abf026/play.m3u8
 Aletta Ocean - All Inclusive Massage - alettAOceanLive,http://12156.vod.adultiptv.net/ph5a22e89bbe87c/play.m3u8
@@ -4213,7 +4110,7 @@ Latina fucks her first black guy during a casting,http://13216.vod.redtraffic.xy
 PureMature Oiled up massage fuck with big breasted MILF Ava Addams,http://10238.vod.adultiptv.net/ph5aa1ad5dbc5ec/play.m3u8
 Lily Love Fucked Hard and Big Creampie,http://12204.vod.redtraffic.xyz/ph5aa361f0b5c92/play.m3u8
 BANGBROS - Big Booty Masseuse Skyler Luv Wrecked By Black Dick (mc13938),http://218158.vod.adultiptv.net/ph5925c53a675be/play.m3u8
-Kelsi Monroe Meets Mandingo HD,http://1465.vod.adultiptv.net/ph57108149b940f/play.m3u8
+Kelsi Monroe Meets Mandingo,http://1465.vod.adultiptv.net/ph57108149b940f/play.m3u8
 BANGBROS - Blondie Fesser Gets Her Perfect Big Ass Fucked Outdoors,http://218158.vod.redtraffic.xyz/ph5a8d6552d21cb/play.m3u8
 Kim Kardashian Cumshot  Compilation,http://1465.vod.redtraffic.xyz/ph59f87563164ec/play.m3u8
 Alana gets her ass licked,http://12156.vod.redtraffic.xyz/ph5ba4dc99c11ad/play.m3u8
@@ -4264,7 +4161,7 @@ BLACKEDRAW Huge latina ass is dominated by bbc,http://21470.vod.adultiptv.net/ph
 Fucking in Public Drive Threw Car Wash,http://12204.vod.redtraffic.xyz/ph58f307dd45156/play.m3u8
 SH - Mila Spook mete a porrada para depois chupar!,http://11216.vod.redtraffic.xyz/ph5a0355f283de5/play.m3u8
 BANGBROS - Cherokee The One And Only Makes Dat Azz Clap,http://12204.vod.adultiptv.net/ph5a5cb7a12e61e/play.m3u8
-The Hottest Girls In Porn Huge HD Compilation (154 Girls w/ Names),http://60106.vod.redtraffic.xyz/ph5857949a84aad/play.m3u8
+The Hottest Girls In Porn Huge Compilation (154 Girls w/ Names),http://60106.vod.redtraffic.xyz/ph5857949a84aad/play.m3u8
 #039;s Fresh Start - Parker Swayze - Family Therapy,http://1465.vod.adultiptv.net/ph59beda22c3788/play.m3u8
 beautiful black girl takes massive white cock!,http://12204.vod.adultiptv.net/ph57c05ecf1b68d/play.m3u8
 Sex Ed with Religious Step Mother -TABOO,http://10238.vod.redtraffic.xyz/ph59fa2380c994c/play.m3u8
@@ -4280,7 +4177,7 @@ Hot Bodyshots On Hot Babes !,http://1244.vod.adultiptv.net/ph57af911cb071e/play.
 Natalia A - Hegre - A day in the life of,http://21470.vod.redtraffic.xyz/ph5c0da9ca136c8/play.m3u8
 Step Dad Little Slut: Adriana Maya [Taboo Fauxcest],http://218158.vod.redtraffic.xyz/ph5980fe2b01d28/play.m3u8
 revenge of the slave,http://12204.vod.adultiptv.net/ph57f2449f2f222/play.m3u8
-Brazilian Blonde and Brunette Trib HD,http://12156.vod.adultiptv.net/ph576077aeca128/play.m3u8
+Brazilian Blonde and Brunette Trib,http://12156.vod.adultiptv.net/ph576077aeca128/play.m3u8
 Redbone Stripper vs Thick Porn Star (Shaking Ass | Licking Pussy),http://218158.vod.redtraffic.xyz/ph58ac8c63d0f9b/play.m3u8
 Demmi Devassa and Alice Alcantara,http://6122.vod.adultiptv.net/ph5bc812115c2cd/play.m3u8
 DINNI GATA - ÓLEO DE MASSAGEM,http://10238.vod.redtraffic.xyz/ph572f40de10ffd/play.m3u8
@@ -4353,7 +4250,7 @@ The Rougher The Better,http://21470.vod.adultiptv.net/ph5bae41aaf03fd/play.m3u8
 BLACKED Curvy Latina Gets Dominated By A Famous Rapper,http://218158.vod.adultiptv.net/ph5ac34002c64b9/play.m3u8
 TEENGONZO Olivia Wilder fucking the neighbor really good,http://1465.vod.redtraffic.xyz/ph59d5cc1c72a78/play.m3u8
 Kimmy Granger Picked up and Dual CreamPied w/ Kissa Sins and Johnny Sins,http://60106.vod.adultiptv.net/ph591bb38705e1f/play.m3u8
-horny teen pawg sucks and rides dick HD FULL LENGTH,http://12204.vod.redtraffic.xyz/ph5aeaa13260d27/play.m3u8
+horny teen pawg sucks and rides dick FULL LENGTH,http://12204.vod.redtraffic.xyz/ph5aeaa13260d27/play.m3u8
 FULANAX.COM - Vende a su Novia Noah para que se la folle otro,http://218158.vod.adultiptv.net/ph586a9cf84da0d/play.m3u8
 Inside the Cuckold Lifestyle,http://1465.vod.redtraffic.xyz/ph5b4b63387b30a/play.m3u8
 Reality Kings - Curvy ebony babe takes big white cock,http://218158.vod.redtraffic.xyz/ph55afdf7a99980/play.m3u8
@@ -4364,7 +4261,7 @@ Reality Kings - Two sexy ebony babes take white cock,http://12156.vod.adultiptv.
 Screwing Your Boss 2: Cuckolding Femdom by Lady Fyre,http://1244.vod.adultiptv.net/ph5a354019cfd7e/play.m3u8
 TeamSkeet - Hot Latina Chick Shows Her Fave Positions,http://12204.vod.redtraffic.xyz/ph5b7dd0ad1562f/play.m3u8
 FamilyStrokes - Christiana Cinn Swallows Her Stepsons Load,http://10238.vod.adultiptv.net/ph5c09b35429ebc/play.m3u8
-#039;t Resist BBC Cuckold HD,http://218158.vod.redtraffic.xyz/ph5aa67d059ba67/play.m3u8
+#039;t Resist BBC Cuckold,http://218158.vod.redtraffic.xyz/ph5aa67d059ba67/play.m3u8
 VOYEUR HUSBAND WATCHES WIFE WITH THE NEIGHBORS BOY - PART 2,http://1244.vod.redtraffic.xyz/ph5a403cd06d454/play.m3u8
 Mother &amp; Father Teach Step Son About Sex - Brianna Beach - Mom Comes First,http://10238.vod.redtraffic.xyz/ph5ad0917c24f73/play.m3u8
 Husband got Cuckolded by his Wife,http://218158.vod.redtraffic.xyz/ph5a2dccba757bf/play.m3u8
@@ -4385,7 +4282,7 @@ This is how lesbian porn is supposed to be,http://21470.vod.adultiptv.net/ph572d
 PORNFIDELITY Kacey Quinn Gets Her First Creampie,http://12204.vod.adultiptv.net/ph579f7d9d11e51/play.m3u8
 Ebony takes on two BBC,http://60106.vod.redtraffic.xyz/ph5bd4dd35cc38a/play.m3u8
 hard pounding!,http://21470.vod.redtraffic.xyz/ph59834b365e049/play.m3u8
-#039;t Resist BBC Cuckold HD,http://12156.vod.adultiptv.net/ph592d7d8669af0/play.m3u8
+#039;t Resist BBC Cuckold,http://12156.vod.adultiptv.net/ph592d7d8669af0/play.m3u8
 Hot Step Sister Fucks Hard And Swallows Warm Cum,http://12156.vod.redtraffic.xyz/ph5a69ea08aeddb/play.m3u8
 TeamSkeet - Fitness Chick With Huge Ass Does Some Sensual Healing,http://12204.vod.redtraffic.xyz/ph5ac7d273e78e3/play.m3u8
 #1 (No Music),http://60106.vod.redtraffic.xyz/ph5970d984ca8b8/play.m3u8
@@ -4405,7 +4302,7 @@ BANG Confessions - Richelle Ryan Cuckold family fuckfest,http://12156.vod.redtra
 PropertySex - Hot busty Italian couch surfer fucks American host,http://12204.vod.redtraffic.xyz/ph5bc63bca43503/play.m3u8
 PropertySex - Rich dude fucks hot home insurance agent,http://6122.vod.redtraffic.xyz/ph59af2b3d9004a/play.m3u8
 Gia Love Family Vacation,http://21470.vod.redtraffic.xyz/ph5b66fe493b238/play.m3u8
-Amia Miley FULL HD,http://21470.vod.adultiptv.net/ph5a1098e1e7fd4/play.m3u8
+Amia Miley FULL,http://21470.vod.adultiptv.net/ph5a1098e1e7fd4/play.m3u8
 SisLovesMe - This Stepsister Slit is Lit,http://6122.vod.redtraffic.xyz/ph5ba5540ced287/play.m3u8
 BANGBROS - Great Workout With Lana Rhoades And Her Personal Trainer,http://1244.vod.adultiptv.net/ph5a8ecf8cc1583/play.m3u8
 Mayohiga no Onee-san The Animation - Episode 1,http://6122.vod.redtraffic.xyz/ph5b0405fc32db3/play.m3u8
@@ -4877,7 +4774,7 @@ TUSHY Real Estate Babe Chloe Amour Gets Anal,http://12156.vod.adultiptv.net/ph56
 ben dovers finishing school - Scene 2,http://13216.vod.redtraffic.xyz/ph59a483d8cb25b/play.m3u8
 Gang Bang Academy 4 - Scene 1,http://10238.vod.redtraffic.xyz/ph590115c79440e/play.m3u8
 Jessie Rogers Wants a Creampie,http://60106.vod.redtraffic.xyz/ph599667242bdf5/play.m3u8
-Angel rivas Gangbang HD,http://12156.vod.redtraffic.xyz/ph59a0238d77ec0/play.m3u8
+Angel rivas Gangbang,http://12156.vod.redtraffic.xyz/ph59a0238d77ec0/play.m3u8
 Alessandra Maia - Big Ass Anal Creampie Brazilian Blonde,http://12156.vod.adultiptv.net/ph5b25347207416/play.m3u8
 Shy Angela - Tied with nylons and fucked,http://6122.vod.redtraffic.xyz/ph560c2b55ca04d/play.m3u8
 PervCity Japanese Asa Akira Ass Fucked,http://12156.vod.redtraffic.xyz/ph55c8e723327c5/play.m3u8
@@ -5060,7 +4957,7 @@ TUSHY Ariana Marie And Marley Brinx First Anal Threesome,http://218158.vod.adult
 TUSHY.com Feature Showcase: Abigail Part 2,http://11216.vod.adultiptv.net/ph5b9b5a195ecda/play.m3u8
 poor cuckold hot wife takes it anal,http://1244.vod.adultiptv.net/ph582e4f7bee5c5/play.m3u8
 Sexy teen meets up with hookup hotshot for first time anal,http://21470.vod.adultiptv.net/ph5c0488d2ad78e/play.m3u8
-FUCK MY ASS! - PREMIUM EDITION with NAMES! (Greatest Anal PMV) 1080p HD,http://21470.vod.redtraffic.xyz/ph59969d395acd1/play.m3u8
+FUCK MY ASS! - PREMIUM EDITION with NAMES! (Greatest Anal PMV) 1080p,http://21470.vod.redtraffic.xyz/ph59969d395acd1/play.m3u8
 Megan Rain taking big cock in her ass,http://11216.vod.redtraffic.xyz/ph56c097100865c/play.m3u8
 SEX SALON - 3 (UNCENSORED) ENG SUB (YUBISAKI ANNAININ SHIRUDAKU SETTAI),http://6122.vod.adultiptv.net/ph5b4e95439577c/play.m3u8
 TUSHY First Double Penetration For Stunning Anya Olsen,http://218158.vod.redtraffic.xyz/ph57763054b21fc/play.m3u8
@@ -5104,7 +5001,7 @@ Fingering her girlfriends pussy as she gets hard anal fuck,http://13216.vod.redt
 EXOTIC4K OOZING Anal fuck and creampie,http://10238.vod.redtraffic.xyz/ph5c0ffdb972419/play.m3u8
 TUSHY I tried anal with my roomate,http://60106.vod.redtraffic.xyz/ph5833175c9df75/play.m3u8
 BANGBROS - Happy Ending Massage For Big Tits Angela White Behind Husband,http://10238.vod.adultiptv.net/ph59e9fe45568de/play.m3u8
-XY CUCKOLD SHARES WIFE WITH FRIEND HD,http://218158.vod.redtraffic.xyz/ph59a99d04c1dd3/play.m3u8
+XY CUCKOLD SHARES WIFE WITH FRIEND,http://218158.vod.redtraffic.xyz/ph59a99d04c1dd3/play.m3u8
 Banging Beauties Cumswap Anal Threesome,http://218158.vod.adultiptv.net/ph5bf45e4c39ff5/play.m3u8
 TUSHY Riley Reid First Double Penetration,http://10238.vod.adultiptv.net/ph561242ad828b9/play.m3u8
 PervCity Mother and Stepdaughter Ass Fucked,http://1244.vod.adultiptv.net/ph5581e158399fe/play.m3u8
@@ -5255,7 +5152,7 @@ Iris Rose and Her Bitch Husband Suck Big Black Cock,http://6122.vod.redtraffic.x
 cock sucking creampie cleaning cuckold hubby,http://1244.vod.adultiptv.net/ph59d9ea30936ad/play.m3u8
 bi cuckold eat creampie,http://1465.vod.redtraffic.xyz/ph5738c610311d2/play.m3u8
 Audrey Royal and Husband Love Big Black Cock Inside Her,http://1465.vod.adultiptv.net/ph588cfdc425a93/play.m3u8
-NM In HD,http://21470.vod.adultiptv.net/ph57587ead48056/play.m3u8
+NM In,http://21470.vod.adultiptv.net/ph57587ead48056/play.m3u8
 Penelope Reed Takes Dance and Fucking Lessons With Husband,http://6122.vod.redtraffic.xyz/ph584a68b726f8d/play.m3u8
 giantess cuckold,http://6122.vod.adultiptv.net/ph573ead4843442/play.m3u8
 Bisex Young Couple Threesome with BBC,http://1465.vod.redtraffic.xyz/ph5a2baf0777671/play.m3u8
@@ -5264,7 +5161,7 @@ Exotic4K - Hot Latina Nina North oils up her huge tits,http://1465.vod.redtraffi
 Jav Schoolgirls Ambushed In Public Toilet Fingered And Fucked Cum In Mouth,http://21470.vod.adultiptv.net/ph58a7283762ae5/play.m3u8
 Robot Step-Mommy Adriana Chechik,http://12156.vod.redtraffic.xyz/ph5aca09ff46ff8/play.m3u8
 Interactive Porn - School Girl Control,http://12204.vod.adultiptv.net/ph5706a687da893/play.m3u8
-Taboo Mom &amp; Son Make Love HD Mandy Flores,http://10238.vod.adultiptv.net/ph5951934233e25/play.m3u8
+Taboo Mom &amp; Son Make Love Mandy Flores,http://10238.vod.adultiptv.net/ph5951934233e25/play.m3u8
 Dad &amp; Stepdaughter Make a Deal - Bambi Black - Family Therapy,http://13216.vod.adultiptv.net/ph5c16024c953e0/play.m3u8
 SCHOOL OF SEX 1 Horny students get fun at classroom,http://21470.vod.redtraffic.xyz/ph576d137c1b387/play.m3u8
 Passion-HD - Sexy latina Chloe Amour cums hard on some cock,http://12204.vod.adultiptv.net/ph56cdfa67b03f7/play.m3u8
@@ -5300,7 +5197,7 @@ Impregnate the hot russian pornstar Sandra Luberc Virtual Sex POV,http://218158.
 Petite brune française baise avec un voisin excité - Amateur Sextwoo -,http://1244.vod.adultiptv.net/ph5bb45e25d0f40/play.m3u8
 FakeTaxi Naked woman in London taxi swallows drivers spunk,http://1465.vod.redtraffic.xyz/ph55799f0b9619b/play.m3u8
 Reality Kings - Brazil babe Valeria Austin gets picked up on tinder,http://1465.vod.redtraffic.xyz/ph5c34dc24c378e/play.m3u8
-Orgasm &amp; POV Creampie HD,http://10238.vod.adultiptv.net/ph5a4ef02c49333/play.m3u8
+Orgasm &amp; POV Creampie,http://10238.vod.adultiptv.net/ph5a4ef02c49333/play.m3u8
 FakeHospital Petite Euro patient orgasms pussy juice over doctors desk,http://218158.vod.redtraffic.xyz/ph57f2abec113c7/play.m3u8
 PUBLIC Fuck and Deepthroat in Swimming center POV - Adventurescouple,http://11216.vod.redtraffic.xyz/ph5ac76b023e786/play.m3u8
 Big Tits Bubble Butt Amateur Latina Milf Fucked POV,http://12204.vod.adultiptv.net/ph5abaf0da089ae/play.m3u8
@@ -5317,7 +5214,7 @@ Nasty Sexy Teen taken from Behind,http://11216.vod.adultiptv.net/ph5b903ee910180
 FakeTaxi Back seat shagging and surprise creampie pay for taxi fare,http://21470.vod.adultiptv.net/ph568e42114f7db/play.m3u8
 Omegle huge dick &amp; sexy horny chick get naked,http://21470.vod.redtraffic.xyz/ph5a245908c914a/play.m3u8
 Clean Living Thai Slum Bird Has Bottom Pentrated,http://13216.vod.redtraffic.xyz/ph57b019088d866/play.m3u8
-Blonde teen is squirting while her ass is gaped and creampied. HD,http://12156.vod.adultiptv.net/ph5b61b213bd400/play.m3u8
+Blonde teen is squirting while her ass is gaped and creampied.,http://12156.vod.adultiptv.net/ph5b61b213bd400/play.m3u8
 #039;t play Fallout 4 without getting fucked - Gamer girl 3 holes fun,http://11216.vod.redtraffic.xyz/ph5b65e828b6166/play.m3u8
 guy has his girlfriend in all holes,http://218158.vod.adultiptv.net/ph580a014abc979/play.m3u8
 Real mom and son fucks,http://11216.vod.adultiptv.net/ph586fa0c7c7e43/play.m3u8
@@ -5625,7 +5522,7 @@ FakeHospital Petite babe takes double cumshot in private hospital,http://1465.vo
 Female Fake Taxi Pilot delivers facial after landing his cock in Euro pussy,http://12156.vod.adultiptv.net/ph59b537d8d7f61/play.m3u8
 FemaleFakeTaxi Sexy Cabbie with big tits loves a big black cock,http://11216.vod.redtraffic.xyz/ph585aa167ceef8/play.m3u8
 Brunette learns to give a deepthroat blowjob,http://10238.vod.redtraffic.xyz/ph5b6f1a88dff0b/play.m3u8
-Colombian Denisse Gomez - Solo - Full HD,http://10238.vod.adultiptv.net/ph557d958f4e2e9/play.m3u8
+Colombian Denisse Gomez - Solo - Full,http://10238.vod.adultiptv.net/ph557d958f4e2e9/play.m3u8
 Brazilian FaceFucking Kendra and Jenny Spit Kissing ses,http://12204.vod.redtraffic.xyz/ph59ca8eea735d9/play.m3u8
 Hot Teen Surprised With A Creampie,http://1465.vod.redtraffic.xyz/ph5a62616774bb6/play.m3u8
 #DIFS,http://11216.vod.adultiptv.net/ph5a2e1d8204f98/play.m3u8
@@ -6028,8 +5925,8 @@ Fucking &quot;step&quot; sister while on the phone with Mom,http://6122.vod.adul
 Hot Schoolgirl Fucked In Her Tight Ass After Class,http://1465.vod.adultiptv.net/ph5ab2ab2dcab0c/play.m3u8
 Amateur Rurika Mukushima Appears In Her Debut Movie Teddy Pulled Tight,http://11216.vod.redtraffic.xyz/ph5a0300a80eb0c/play.m3u8
 Fake Hospital Doctor squeezes a dildo and cock into Patients wet pussy,http://11216.vod.adultiptv.net/ph58c2943949778/play.m3u8
-Yoga girl receive rough anal fuck during training. HD,http://1244.vod.adultiptv.net/ph5aa938ecd527c/play.m3u8
-4K (Ultra HD) - Alena LamLam,http://1465.vod.redtraffic.xyz/ph5aac1c7e576ad/play.m3u8
+Yoga girl receive rough anal fuck during training.,http://1244.vod.adultiptv.net/ph5aa938ecd527c/play.m3u8
+4K (Ultra) - Alena LamLam,http://1465.vod.redtraffic.xyz/ph5aac1c7e576ad/play.m3u8
 Amateur rough anal,http://1244.vod.adultiptv.net/ph575eba7a22c6b/play.m3u8
 Takevan - Horny brunette agree with ride for hard fuck and creampie,http://21470.vod.adultiptv.net/ph589b654af3976/play.m3u8
 Pussy &amp; Mouth With Her Office Boss,http://60106.vod.adultiptv.net/ph59d27d6353cb7/play.m3u8
@@ -6177,7 +6074,7 @@ Gordinho comendo duas gostosas uma loira e uma morena amador,http://1244.vod.red
 LOUISEETMARTIN - BEST CUMSHOT EVER MADE IN FRANCE,http://12156.vod.adultiptv.net/ph5aa3f06f9c232/play.m3u8
 Teen Booty Workout Ends in a Creampie,http://11216.vod.redtraffic.xyz/ph56a3b5867ffb5/play.m3u8
 Chinese grandpa 2,http://10238.vod.redtraffic.xyz/ph56acf5b3f1ec2/play.m3u8
-4K (Ultra HD) - Kriss Kiss,http://6122.vod.adultiptv.net/ph5ab40d1e2cba1/play.m3u8
+4K (Ultra) - Kriss Kiss,http://6122.vod.adultiptv.net/ph5ab40d1e2cba1/play.m3u8
 Step Son with mother,http://218158.vod.adultiptv.net/ph589a260a14339/play.m3u8
 Teen Brazil 09 - Scene 4,http://6122.vod.redtraffic.xyz/ph56b39d0db4250/play.m3u8
 Big tits Mongolian teen fucks in first porn,http://11216.vod.adultiptv.net/ph55a3079da9b59/play.m3u8
@@ -6369,7 +6266,7 @@ Dirty Talking Girlfriend Squirts for You,http://60106.vod.adultiptv.net/ph588ff0
 Gamer girl tries to play while getting fucked,http://12156.vod.adultiptv.net/ph5ace74eae1acf/play.m3u8
 Fit 18 Teen Girl Gets Her Pussy Fucked Like A Rabbit,http://13216.vod.redtraffic.xyz/ph5b27384fd63b8/play.m3u8
 Public Fuck in relax zone in front of people.HD,http://11216.vod.redtraffic.xyz/ph5ac7b7e0529ce/play.m3u8
-4K (Ultra HD) - Kriss Kiss,http://12156.vod.redtraffic.xyz/ph5a7a702d9d801/play.m3u8
+4K (Ultra) - Kriss Kiss,http://12156.vod.redtraffic.xyz/ph5a7a702d9d801/play.m3u8
 Hot amateur couple making love,http://13216.vod.adultiptv.net/ph5a90fe1bd975f/play.m3u8
 Shy Salvadorian Amateur Fucked and Facialed,http://1244.vod.adultiptv.net/ph5a740571e16f9/play.m3u8
 Beefy stud gets another slut wet &amp; horny for him,http://60106.vod.redtraffic.xyz/ph5aab454f1da7c/play.m3u8
@@ -6440,10 +6337,10 @@ Friend Watches Step Mom Fuck Son Creampie,http://12204.vod.adultiptv.net/ph59b10
 DANCING BEAR - Off The Chain CFNM Bachelorette Party,http://10238.vod.redtraffic.xyz/ph5bd211840ac02/play.m3u8
 Petite big boob girlfriend getting pounded by boyfriend,http://6122.vod.adultiptv.net/ph588edef3b9f03/play.m3u8
 ASMR Novinha Safada Teen College Dirty Talk ENGLISH PORTUGUESE AND SPANISH,http://1244.vod.adultiptv.net/ph5b874a6232607/play.m3u8
-XY REAL AMATEUR WIFE DP HD,http://10238.vod.redtraffic.xyz/ph59a3e005334ee/play.m3u8
+XY REAL AMATEUR WIFE DP,http://10238.vod.redtraffic.xyz/ph59a3e005334ee/play.m3u8
 Intense and passionate creampie sex with tattooed alt babe,http://6122.vod.adultiptv.net/ph5a8f4e81c731c/play.m3u8
 Cum Craving Cuckolds - Scene 3,http://1244.vod.redtraffic.xyz/ph58a799e41ae0e/play.m3u8
-XY REAL AMATEUR CUCKOLD CHEATING WIFE HD,http://13216.vod.redtraffic.xyz/ph59a59777e796c/play.m3u8
+XY REAL AMATEUR CUCKOLD CHEATING WIFE,http://13216.vod.redtraffic.xyz/ph59a59777e796c/play.m3u8
 Huge Spray,http://1244.vod.redtraffic.xyz/ph5c0f58a29954c/play.m3u8
 Tara fucking Craigslist Stramger,http://12204.vod.adultiptv.net/ph5ac3351a7ce7d/play.m3u8
 Part I,http://10238.vod.adultiptv.net/ph5b275cbdb78a6/play.m3u8
@@ -6457,7 +6354,7 @@ Guy Watches His Woman Fucked By Big Cock,http://11216.vod.adultiptv.net/ph5767c4
 Chinese cameraman fucked model at hotel,http://218158.vod.redtraffic.xyz/ph59a7d909f3983/play.m3u8
 #039;S POV,http://60106.vod.adultiptv.net/ph59ed7d18aa37d/play.m3u8
 Struggling Slut Fights Rough Anal Abuse - Fails Miserably,http://218158.vod.redtraffic.xyz/ph5751c8108425b/play.m3u8
-XY REAL AMATEUR BIRTHDAY GIFT HD,http://60106.vod.redtraffic.xyz/ph59a5911e9dc29/play.m3u8
+XY REAL AMATEUR BIRTHDAY GIFT,http://60106.vod.redtraffic.xyz/ph59a5911e9dc29/play.m3u8
 Young Latina Maid Cleans Cock,http://12204.vod.redtraffic.xyz/ph5b7f160be3afd/play.m3u8
 18 Year Old Monster Cock Teen FUCKS Tiny Latina Girl From School,http://1244.vod.adultiptv.net/ph5b57963b8eb42/play.m3u8
 PropertySex - Tenant with amazing natural boobs busted for porn torrents,http://1244.vod.adultiptv.net/ph561e8c81289d8/play.m3u8
@@ -6470,7 +6367,7 @@ Fucking sucking and fingering on a mountain at Lake Mead,http://6122.vod.redtraf
 Most Extreme Amateur Gagging Deepthroat Scene Ever by Truutruu,http://1244.vod.redtraffic.xyz/ph5785301c8a626/play.m3u8
 Two pump chump; EPIC MILF makes quick work of young punk...TWICE!,http://21470.vod.adultiptv.net/ph59e119ffcc239/play.m3u8
 PropertySex - Rocking body real estate agent bones renter,http://6122.vod.redtraffic.xyz/ph587499c7962fe/play.m3u8
-XY REAL AMATEUR HD,http://10238.vod.adultiptv.net/ph59a3e345632fa/play.m3u8
+XY REAL AMATEUR,http://10238.vod.adultiptv.net/ph59a3e345632fa/play.m3u8
 Vacation Threesome With Step Brother,http://13216.vod.adultiptv.net/ph58df53a175fef/play.m3u8
 Super sexy teen with nice tits knows how to fuck and suck,http://1244.vod.redtraffic.xyz/ph5720445ec1007/play.m3u8
 All Smash,http://12204.vod.redtraffic.xyz/ph56668b8c4b01f/play.m3u8
@@ -6529,7 +6426,7 @@ Beautiful blue eyes and a mouth full of cum,http://13216.vod.adultiptv.net/ph5a9
 Sex Hospital 3 - Scene 5,http://11216.vod.redtraffic.xyz/ph573f355c7d648/play.m3u8
 Sydney Cole Fucked Hard and Filled With Cum,http://12204.vod.adultiptv.net/ph5a025f4e8bb12/play.m3u8
 Young teen cutie fucked and takes facial,http://10238.vod.redtraffic.xyz/ph560480c7a38fd/play.m3u8
-XY REAL CUCKOLD SHARES WIFE WITH STRANGER HD,http://6122.vod.adultiptv.net/ph59a7efc480e03/play.m3u8
+XY REAL CUCKOLD SHARES WIFE WITH STRANGER,http://6122.vod.adultiptv.net/ph59a7efc480e03/play.m3u8
 Craving Cuckolds - Part 2,http://12204.vod.redtraffic.xyz/ph59af6f6279dc4/play.m3u8
 Booty Call- Hot Tattooed Girl Gets Fucked All Over the House w/ Huge Facial,http://13216.vod.adultiptv.net/ph5b9adfdc24e8f/play.m3u8
 Blackmailed best friend mom,http://13216.vod.adultiptv.net/ph5bb84d337a708/play.m3u8
@@ -6556,11 +6453,11 @@ MUTUAL SEX BENEFIT,http://10238.vod.redtraffic.xyz/ph59f198bae8cd0/play.m3u8
 #039;s fat ass and big tittys,http://1244.vod.adultiptv.net/ph55a3949a0e323/play.m3u8
 Real Teens - Teen POV pussy play in public,http://60106.vod.adultiptv.net/ph5be5dd86f3621/play.m3u8
 Horny girl wants to star in first porn,http://12156.vod.adultiptv.net/ph57e8a4c9298d2/play.m3u8
-XY REAL GIPSY MILF INTERRACIAL DP HD,http://10238.vod.redtraffic.xyz/ph59a1714f155b4/play.m3u8
+XY REAL GIPSY MILF INTERRACIAL DP,http://10238.vod.redtraffic.xyz/ph59a1714f155b4/play.m3u8
 real cock holder full in silvaporn.com,http://13216.vod.redtraffic.xyz/ph5be3aad6cfd16/play.m3u8
 #039;ll go shopping!,http://12204.vod.redtraffic.xyz/ph58ee00f21fb70/play.m3u8
 Hot teen with great tits and ass fucked,http://12156.vod.adultiptv.net/ph5599f0bc38ea0/play.m3u8
-XY REAL AMATEUR WIFE HD,http://12156.vod.adultiptv.net/ph59a3e904d1c89/play.m3u8
+XY REAL AMATEUR WIFE,http://12156.vod.adultiptv.net/ph59a3e904d1c89/play.m3u8
 Housewife Kelly &amp; Brandi Love- Accidental Creampie,http://12204.vod.redtraffic.xyz/ph5771223dda4e9/play.m3u8
 Bailey Brooke Evelin Stone Get Fucked POV Voyeur Threesome in the Shower,http://10238.vod.adultiptv.net/ph5adcf6017ef38/play.m3u8
 Sexy secratary teen with glasses fucked,http://60106.vod.adultiptv.net/ph560c3f0f140a8/play.m3u8
@@ -6598,7 +6495,7 @@ A day with Riley Reid,http://12156.vod.adultiptv.net/ph5826cb707c4b6/play.m3u8
 Japanese Virgin Teen Girl 18+ V.2,http://21470.vod.adultiptv.net/ph5b64821a2e087/play.m3u8
 #002 (LONG COMPILATION) - BY CHRIS,http://10238.vod.redtraffic.xyz/ph56d70959df1d9/play.m3u8
 Cameron Canela knows how to please her man,http://12204.vod.redtraffic.xyz/ph57873a63bab4f/play.m3u8
-iLove2Cum - HD Cumshot Compilation 3,http://1465.vod.redtraffic.xyz/ph576427a8002e3/play.m3u8
+iLove2Cum - Cumshot Compilation 3,http://1465.vod.redtraffic.xyz/ph576427a8002e3/play.m3u8
 Massage Rooms Petite model with hairy pussy has intense multiple orgasms,http://11216.vod.redtraffic.xyz/ph56d9d19e3b3ef/play.m3u8
 Megan Rain Pov Sucking Beauty,http://6122.vod.redtraffic.xyz/ph56f1714f97e2c/play.m3u8
 BLACKED First Interracial For Petite Teen Kristen Scott,http://218158.vod.adultiptv.net/ph57889525050e1/play.m3u8
@@ -6672,7 +6569,7 @@ Wifes Revenge Fuck With Pornstar In Front Of Husband,http://10238.vod.adultiptv.
 wifes get frisky,http://11216.vod.redtraffic.xyz/ph5bf97e0790c6f/play.m3u8
 She Finishes It Off 3 - Cum In Mouth - Oral Creampie Compilation,http://12204.vod.redtraffic.xyz/ph55fabfdf3d952/play.m3u8
 CUTE PORN GIRLS TURNED INTO NAUGHTY SLUTS - CUTE MODE | SLUT MODE - R&amp;R02,http://1465.vod.adultiptv.net/ph5a50c2ed313bb/play.m3u8
-Mom and Son 2: My Pornstar Step Mom HD - Mandy Flores,http://21470.vod.adultiptv.net/ph590d4d4a35104/play.m3u8
+Mom and Son 2: My Pornstar Step Mom - Mandy Flores,http://21470.vod.adultiptv.net/ph590d4d4a35104/play.m3u8
 gorgeous cute babe Anka defloration and feet licking,http://10238.vod.adultiptv.net/ph5beca364cb312/play.m3u8
 VIXEN Tori Black Has Incredible Passionate Sex Like A Boss,http://60106.vod.redtraffic.xyz/ph5bcdca5faada0/play.m3u8
 footjob and sex,http://60106.vod.adultiptv.net/ph5a7b8921d064a/play.m3u8
@@ -6745,7 +6642,7 @@ HORNYCAMS.PW - CHINESE amateur teen with uniform,http://1465.vod.adultiptv.net/p
 Saki Yasuoka - Gang Bang javhd69.com,http://21470.vod.adultiptv.net/ph571f87b49f6e7/play.m3u8
 Spyfam Overwatch halloween disguise fuck with step sister Jade Kush,http://12156.vod.redtraffic.xyz/ph59f75bb66ebc3/play.m3u8
 ADN 046 - Rina,http://12204.vod.redtraffic.xyz/ph5afb9858b4af9/play.m3u8
-[3D hentai] that summer with you at the pool+epilogue eng sub HD,http://60106.vod.adultiptv.net/ph574a0ef4edd9b/play.m3u8
+[3D hentai] that summer with you at the pool+epilogue eng sub,http://60106.vod.adultiptv.net/ph574a0ef4edd9b/play.m3u8
 Jessica Bangkok &amp; Samantha | Lesbian Kissing (GKG 02),http://1465.vod.adultiptv.net/ph56fe64f55c245/play.m3u8
 #039;s First Interracial With Riley Ried,http://11216.vod.adultiptv.net/ph58a1ff35c3bdc/play.m3u8
 Nepalese Sherpa Girl Fucked In Big City,http://6122.vod.adultiptv.net/ph56a2dbfab7a51/play.m3u8
@@ -6772,7 +6669,7 @@ High-quality car models Ye Tong,http://60106.vod.redtraffic.xyz/ph59abb98621176/
 Free Fuck For Half Your Wealth,http://6122.vod.redtraffic.xyz/ph5802e4099b235/play.m3u8
 Honey Gold Has Step Daddy Issues,http://1244.vod.redtraffic.xyz/ph5bd35c6ac9627/play.m3u8
 ExxxtraSmall - Tiny Teen Chased And Fucked By Cowboy,http://218158.vod.redtraffic.xyz/ph5bf5a96b7074d/play.m3u8
-Alina Li - Teens Do Porn HD,http://12204.vod.redtraffic.xyz/ph573d2f912bb9b/play.m3u8
+Alina Li - Teens Do Porn,http://12204.vod.redtraffic.xyz/ph573d2f912bb9b/play.m3u8
 Comes for an interview and leaves dripping my goo,http://11216.vod.redtraffic.xyz/ph57ad403e0babf/play.m3u8
 Hot Asian Girl Fucking Her First Black Guy To Be In A Rap Video,http://12156.vod.redtraffic.xyz/ph595894ee3b92b/play.m3u8
 Dane Jones Huge natural boobs Asian gives thick cock guy a titfuck cumshot,http://21470.vod.adultiptv.net/ph5964902e70b84/play.m3u8
@@ -6808,7 +6705,7 @@ Tropical Street Slapper With Small Shoulders,http://21470.vod.redtraffic.xyz/ph5
 Jade Kush loses a poker bet &amp; gets fucked in a frat house,http://10238.vod.redtraffic.xyz/ph5aec388159913/play.m3u8
 老汉强势插逼双飞风韵犹存的两个熟妇,http://218158.vod.adultiptv.net/ph5a48b846a882d/play.m3u8
 #039;s asian pussy gets stretched out while her GF watches!,http://1244.vod.adultiptv.net/ph58cd35d5c20bf/play.m3u8
-POV Facial - MEGA HD Compilation (No Music),http://218158.vod.adultiptv.net/ph5ae43eaadebfa/play.m3u8
+POV Facial - MEGA Compilation (No Music),http://218158.vod.adultiptv.net/ph5ae43eaadebfa/play.m3u8
 BANGBROS - Tourist Sasha Yamagucci Picked Up &amp; Fucked On Bang Bus!,http://13216.vod.adultiptv.net/ph5a563b59b17be/play.m3u8
 Lesbea Pussy eating orgasm for young Asian girls in 69,http://218158.vod.adultiptv.net/ph5601292ca883d/play.m3u8
 Dragon Ball Z Porn Parody: &quot;Dragon Boob Z&quot;,http://12156.vod.redtraffic.xyz/ph5ac6cf254f3ec/play.m3u8
@@ -6968,13 +6865,13 @@ BANG.com: Sexy Babes Fresh Outta High School,http://1244.vod.redtraffic.xyz/ph58
 BANG.com: Fresh Outta High School Sluts,http://21470.vod.adultiptv.net/ph58d23e004dd2f/play.m3u8
 Cock Hero - New Game Plus,http://21470.vod.redtraffic.xyz/ph574925ea3b567/play.m3u8
 Ruined Orgasm Compilation 1 - Slow And Totally Ruined Every Time,http://11216.vod.redtraffic.xyz/ph58c9324a1ebcf/play.m3u8
-Janice Griffith Cumshot Compilation HD - Part 1,http://1465.vod.redtraffic.xyz/ph57a64f5c93f68/play.m3u8
+Janice Griffith Cumshot Compilation - Part 1,http://1465.vod.redtraffic.xyz/ph57a64f5c93f68/play.m3u8
 russians girl compilation,http://21470.vod.adultiptv.net/ph56222e969199f/play.m3u8
 Pussy pullout belly shot compilation,http://1244.vod.redtraffic.xyz/ph57eed089d4997/play.m3u8
 &quot;GIRLS VS GIRLS&quot; - BEST OF ROUGH &amp; PASSIONATE STRAPON SEX - HOT BABES ONLY!,http://6122.vod.redtraffic.xyz/ph5974588d2e114/play.m3u8
 deep throating and face fucking compilation - fshow,http://60106.vod.redtraffic.xyz/ph56486c25a82f2/play.m3u8
 Reversed Cowgirl Creampie Compilation,http://11216.vod.adultiptv.net/ph561607f442269/play.m3u8
-Kimmy Granger Cumshot Compilation HD - Part 1,http://12156.vod.adultiptv.net/ph5765768537e43/play.m3u8
+Kimmy Granger Cumshot Compilation - Part 1,http://12156.vod.adultiptv.net/ph5765768537e43/play.m3u8
 Hottest Teen Creampies - Compilation,http://12156.vod.adultiptv.net/ph56df244b177e3/play.m3u8
 Black women loves to dominate and peg his white slave ass,http://11216.vod.redtraffic.xyz/ph55e8d883a7065/play.m3u8
 Brazil Lesbian Piss Domination - Full Clip,http://12204.vod.adultiptv.net/ph58803be390ce3/play.m3u8
@@ -7039,7 +6936,7 @@ PORNPROS Intense threesome with Michelle Martinez and Sophia Leone,http://12204.
 Public Agent Hot Russian fucked in a garage by a stranger,http://21470.vod.redtraffic.xyz/ph59ad1e182d63a/play.m3u8
 TEENFIDELITY Bad Girl Megan Sage Creampied by Cop,http://60106.vod.redtraffic.xyz/ph5806a6420590e/play.m3u8
 Exotic4K - Sexy ebony Tiffani Taylor gets a super soaker facial,http://218158.vod.redtraffic.xyz/ph55a43a37a0ebb/play.m3u8
-Stormy Daniels cumshot compilation HD,http://1465.vod.adultiptv.net/ph595a171cbbb28/play.m3u8
+Stormy Daniels cumshot compilation,http://1465.vod.adultiptv.net/ph595a171cbbb28/play.m3u8
 BLACKED First Interracial For Fit Babe Layna Landry,http://218158.vod.redtraffic.xyz/ph561f7038007ef/play.m3u8
 PureMature - Busty milf Corinna Blake wants that hard cock inside her,http://6122.vod.redtraffic.xyz/ph55df421063752/play.m3u8
 Milf Hunter - Mom fucks sons friend,http://6122.vod.redtraffic.xyz/ph570419ddd8a82/play.m3u8
@@ -7121,7 +7018,7 @@ Sara Jay gets ganbanged by black dudes in front of her son,http://218158.vod.adu
 Teacher Long Cock In Sexy Schoolgirl,http://13216.vod.redtraffic.xyz/ph57f464f8da2b3/play.m3u8
 Massage Rooms Big tits teen milks young studs big hard meat,http://11216.vod.adultiptv.net/ph57e372ea8f561/play.m3u8
 your hot mature woman - Scene 1,http://12156.vod.adultiptv.net/ph59a6de26b6460/play.m3u8
-Described Video - PureMature HD Lisa Ann gets fucked hard in the Gym,http://21470.vod.redtraffic.xyz/ph573b7ea894dcd/play.m3u8
+Described Video - PureMature Lisa Ann gets fucked hard in the Gym,http://21470.vod.redtraffic.xyz/ph573b7ea894dcd/play.m3u8
 PropertySex - Tenant with phenomenal natural tits fucks her landlord,http://21470.vod.adultiptv.net/ph5758518f3d6fe/play.m3u8
 Step Dad Watches Daughter Avery in Shower Fucks Her After!,http://13216.vod.adultiptv.net/ph5b082802a3584/play.m3u8
 August Ames takes the BIGGEST Black Cock she ever had!,http://1465.vod.adultiptv.net/ph5914c97a73bfd/play.m3u8
@@ -7226,7 +7123,7 @@ BLACKEDRAW GF ditches BF and gets dominated by BBC,http://1465.vod.redtraffic.xy
 Jordi and Nika - Surprise,http://21470.vod.redtraffic.xyz/ph569ac4d143d5c/play.m3u8
 schoolgirl sluts - Scene 2,http://60106.vod.adultiptv.net/ph59a4581103940/play.m3u8
 Chanel Preston Bondage and Rough Sex,http://10238.vod.adultiptv.net/ph572e9f226aa4d/play.m3u8
-#1 HD,http://1244.vod.adultiptv.net/ph59fed56c3ddff/play.m3u8
+#1,http://1244.vod.adultiptv.net/ph59fed56c3ddff/play.m3u8
 Hentai,http://1244.vod.redtraffic.xyz/ph5b5181ec164d2/play.m3u8
 #039;s,http://12204.vod.adultiptv.net/ph581afc493b25a/play.m3u8
 dansk pige sutter Pik.,http://6122.vod.adultiptv.net/ph55fd36b438ffa/play.m3u8
@@ -7251,7 +7148,7 @@ Stepsister drains brothers cock twice,http://60106.vod.redtraffic.xyz/ph5a4a6c15
 part 4,http://13216.vod.redtraffic.xyz/ph5a276154a6afa/play.m3u8
 BLACKED Two Teens Get Creampied By Monster Black Cock,http://13216.vod.redtraffic.xyz/ph5bc439975dbf7/play.m3u8
 The Only Cumshot Compilation,http://12204.vod.adultiptv.net/ph59daa5eded0ba/play.m3u8
-MILF Gets Black Cock Chanel Preston Cuckold HD,http://12156.vod.adultiptv.net/ph5932814887a45/play.m3u8
+MILF Gets Black Cock Chanel Preston Cuckold,http://12156.vod.adultiptv.net/ph5932814887a45/play.m3u8
 Cuckhold - Husband Watches Wife Katie Kox Fucked by BBC,http://10238.vod.redtraffic.xyz/ph5bac0835c405c/play.m3u8
 Exotic4K - Ebony Shay Evans gets her pussy fucked by big white cock,http://218158.vod.redtraffic.xyz/ph579f90bc5c599/play.m3u8
 Sloppy Christmas deepthroat - Day 6 BJ week - Miss Banana,http://12204.vod.redtraffic.xyz/ph5c1b32e3e20b3/play.m3u8
@@ -7721,11 +7618,11 @@ Nubiles-Porn Rough Punishment For Submissive Schoolgirl,http://1244.vod.redtraff
 BANGBROS - Field Day Orgy With Big Tits And Big Asses Everywhere!,http://6122.vod.adultiptv.net/ph5bb51146eb8cf/play.m3u8
 FAST AND ROUGH IN DOGGYSTYLE,http://6122.vod.adultiptv.net/ph5b5ec91c93537/play.m3u8
 Prison School - Episode 1,http://12204.vod.adultiptv.net/ph5adc7cadd51ac/play.m3u8
-Hottest Teen Nancy Tribute Tropical House PMV Cumshots HD,http://10238.vod.redtraffic.xyz/ph5a37ec0e93151/play.m3u8
+Hottest Teen Nancy Tribute Tropical House PMV Cumshots,http://10238.vod.redtraffic.xyz/ph5a37ec0e93151/play.m3u8
 Brother Blindfolded &amp; Fucked By Busty Petite Sis,http://6122.vod.redtraffic.xyz/ph59e657b3afb8f/play.m3u8
 FemaleAgent Hot sexual chemistry during casting,http://21470.vod.redtraffic.xyz/ph56a0bb8fa51e8/play.m3u8
 Русские пикаперы-02,http://10238.vod.redtraffic.xyz/ph5beba7be5fd8c/play.m3u8
-Ultimate Public Gif Compilation 2016 HD,http://12204.vod.redtraffic.xyz/ph56a42c2e3448f/play.m3u8
+Ultimate Public Gif Compilation 2016,http://12204.vod.redtraffic.xyz/ph56a42c2e3448f/play.m3u8
 Janice Griffith unleashes hardcore passion,http://1244.vod.adultiptv.net/ph567336a413ec3/play.m3u8
 Massage Rooms Tiny Gina Gerson takes big cock in her tight little hole,http://13216.vod.adultiptv.net/ph59e86b1fac511/play.m3u8
 Passion-HD - Alexis Adams needs some hard cock in her life,http://1244.vod.adultiptv.net/ph568ebd05de3f1/play.m3u8
@@ -7789,7 +7686,7 @@ Big Boobs Amateur Teen Fucked and Creampie,http://11216.vod.redtraffic.xyz/ph574
 Lesbian First Dates - Scene 1,http://1465.vod.adultiptv.net/ph58a7a95e960c2/play.m3u8
 ben dovers finishing school - Scene 3,http://12156.vod.adultiptv.net/ph59a481cf27bca/play.m3u8
 Rahyndee James Fucks Lana Rhoades Big Booty Babes Hiking Adventure,http://60106.vod.adultiptv.net/ph5b333c9a237fe/play.m3u8
-Krystal Boyd (Anjelica) - HDMassagePorn.com,http://21470.vod.redtraffic.xyz/ph581cdffb34a48/play.m3u8
+Krystal Boyd (Anjelica) -MassagePorn.com,http://21470.vod.redtraffic.xyz/ph581cdffb34a48/play.m3u8
 Kitty Caprice Satisfies Her Cock Craving (bbc15935),http://60106.vod.redtraffic.xyz/ph58ed0bc0e890a/play.m3u8
 Fitness Rooms Petite ballet teachers secret threesome,http://1244.vod.adultiptv.net/ph587e658b216dd/play.m3u8
 BadTeensPunished Tara Ashley,http://13216.vod.adultiptv.net/ph5a554b43a0e56/play.m3u8
@@ -7808,7 +7705,7 @@ Exotic4k - Latin Michelle Martinez gets her dripping wet pussy fucked,http://612
 Sophia Fiore E.d.i.t.,http://13216.vod.adultiptv.net/ph588ce385083a0/play.m3u8
 #039;ve Seen,http://13216.vod.redtraffic.xyz/ph5b5b60a53956b/play.m3u8
 FakeTaxi Short skirt minx rides cock in taxi,http://12156.vod.adultiptv.net/ph57bc046b4b80a/play.m3u8
-Silvie Deluxe Out of Business HD Porn,http://11216.vod.redtraffic.xyz/ph56386119f40b8/play.m3u8
+Silvie Deluxe Out of Business Porn,http://11216.vod.redtraffic.xyz/ph56386119f40b8/play.m3u8
 Yoga Practice With Teen Step Sister - Meko Lilly - Family Therapy,http://10238.vod.adultiptv.net/ph5b1c9d6b9ea01/play.m3u8
 Katya Clover[Clover] - Pretty Pussy,http://1465.vod.redtraffic.xyz/ph55e153a7d935a/play.m3u8
 Kissa,http://12156.vod.adultiptv.net/ph5a7ba9b7e9c9a/play.m3u8
@@ -7838,7 +7735,7 @@ Lesbea Tight young body lesbians make sensual love to each other,http://1244.vod
 #039;s Secret Photo Shoot - Family Therapy - Vienna Black,http://12156.vod.adultiptv.net/ph5a9c0b83b305f/play.m3u8
 Angel Lima and her slave,http://11216.vod.redtraffic.xyz/ph5b85cb7ec1c95/play.m3u8
 PURE TABOO Elena Koshka Creampie while Speaking Russian,http://1244.vod.adultiptv.net/ph5a4d3ade56375/play.m3u8
-Bridgette B And Blair Williams In Action HD,http://10238.vod.redtraffic.xyz/ph5a91f4e226bb4/play.m3u8
+Bridgette B And Blair Williams In Action,http://10238.vod.redtraffic.xyz/ph5a91f4e226bb4/play.m3u8
 Swinger foursome hardcore party with 2 tiny teens,http://12204.vod.adultiptv.net/ph5bcee41a0b8fc/play.m3u8
 PublicAgent Sexy sisters finish off a second big cock for Xmas,http://6122.vod.adultiptv.net/ph5667fe6d43275/play.m3u8
 This girl knows her way around a stiff dick!,http://60106.vod.adultiptv.net/ph5a597f308a439/play.m3u8
@@ -8244,14 +8141,14 @@ MOM Hot and horny Czech redhead milf next door and her toyboy lover,http://10238
 #039;s dreamlike sex,http://1244.vod.redtraffic.xyz/ph565c426a1641b/play.m3u8
 Barbara Bieber and Nathaly - Gyno plays,http://10238.vod.redtraffic.xyz/ph57384450be907/play.m3u8
 Female Fake Taxi Smoking hot Czech mates share wet pussy orgasms,http://1244.vod.redtraffic.xyz/ph594d17a44a7ab/play.m3u8
-LezKiss - Beautiful blonde has intense orgasm HD,http://60106.vod.redtraffic.xyz/ph597404d7e2725/play.m3u8
+LezKiss - Beautiful blonde has intense orgasm,http://60106.vod.redtraffic.xyz/ph597404d7e2725/play.m3u8
 Female Fake Taxi Expert pussy licking makes sexy czech driver cum,http://10238.vod.redtraffic.xyz/ph59157a35ae538/play.m3u8
 Lesbea Young cute face sitting lesbian teen girl has pussy eating orgasm,http://12204.vod.redtraffic.xyz/ph55bb369bd8052/play.m3u8
 Female Fake Taxi Amateur actress licks and fingers busty blondes wet pussy,http://1244.vod.redtraffic.xyz/ph595f68efbe0b0/play.m3u8
 Fitness Rooms Flexible young teen fucks her teacher after sweaty workout,http://13216.vod.adultiptv.net/ph589d7d25b4519/play.m3u8
 Fake Taxi Student has nice arse and wet pussy,http://21470.vod.redtraffic.xyz/ph595276bbaaf8f/play.m3u8
 Lucy Bell Extreme Violent Sex,http://21470.vod.redtraffic.xyz/ph57de57e19c065/play.m3u8
-Nessa Devil outdoor DP HD,http://13216.vod.redtraffic.xyz/ph567c784b6f6eb/play.m3u8
+Nessa Devil outdoor DP,http://13216.vod.redtraffic.xyz/ph567c784b6f6eb/play.m3u8
 Busty Blonde Rides Masseur,http://12156.vod.redtraffic.xyz/ph599d974a5ac9f/play.m3u8
 Fake Taxi Cute petite teen gets free ride,http://13216.vod.adultiptv.net/ph595e3e8bec8ac/play.m3u8
 Brittany Bardot &amp; Violeta - Spacious cunt,http://21470.vod.adultiptv.net/ph57c4ac05c1b35/play.m3u8
@@ -8296,7 +8193,7 @@ Mom Helps Stepson Relax Before His Date - Brianna Beach - Mom Comes First,http:/
 Compilation Lesbian Best Breast Feeding Big Tits Part.3,http://21470.vod.redtraffic.xyz/ph5abc164305a37/play.m3u8
 PORNFIDELITY - Asa Akira Licks Cum From Her Fleshlight Pussy After Anal,http://60106.vod.adultiptv.net/ph57473cb65eace/play.m3u8
 PervMom - Hot Mom Finds Stepsons Jizz Rag,http://1244.vod.redtraffic.xyz/ph5b05dcaf786b7/play.m3u8
-Madison Ivy Best Of The Best long 1hr compilation HD,http://60106.vod.adultiptv.net/ph59204134ca683/play.m3u8
+Madison Ivy Best Of The Best long 1hr compilation,http://60106.vod.adultiptv.net/ph59204134ca683/play.m3u8
 Passionate cute girl with big natural tits has sensual beautiful sex,http://10238.vod.redtraffic.xyz/ph594735b574338/play.m3u8
 Blair Williams The Massage Lady,http://13216.vod.redtraffic.xyz/ph56f029016ccae/play.m3u8
 Mature Huge Natural Boobs Ebony MILF Big Facial,http://13216.vod.redtraffic.xyz/ph589a9156bf4bb/play.m3u8
@@ -8386,7 +8283,7 @@ hot as fuck,http://21470.vod.redtraffic.xyz/ph5a9f8ff4ee156/play.m3u8
 Jav schoolgirls,http://218158.vod.redtraffic.xyz/ph5c08e1cdcd2fc/play.m3u8
 PORNFIDELITY - Perfect Fuckdoll Devon Gets A Facial and Swallows It All,http://1244.vod.redtraffic.xyz/ph573a425b217f7/play.m3u8
 FemaleFakeTaxi Big tits lesbians love the pussy,http://13216.vod.redtraffic.xyz/ph56f994eb3c63c/play.m3u8
-Esperanza Gomez Cumshot Cumpilation HD,http://10238.vod.adultiptv.net/ph586e60d64d282/play.m3u8
+Esperanza Gomez Cumshot Cumpilation,http://10238.vod.adultiptv.net/ph586e60d64d282/play.m3u8
 All-American Cheerleader Madison Ivy Fucks The School Mascot,http://12204.vod.redtraffic.xyz/ph59e6b87f4c825/play.m3u8
 Hard Fucking Schoolgirl,http://13216.vod.redtraffic.xyz/ph57bb7721f0491/play.m3u8
 MEL),http://21470.vod.adultiptv.net/ph5bca32e237519/play.m3u8
@@ -8623,7 +8520,7 @@ Steamy workout turns hardcore with Step mom and Step daughter,http://1465.vod.ad
 Cory Chase in Free Use Family,http://21470.vod.adultiptv.net/ph5b87f6116ebd9/play.m3u8
 Sexy redhead with a sweet set of jugs sucks off her shady landlord,http://60106.vod.adultiptv.net/ph5980f769e6b9b/play.m3u8
 Watching sex with hot step aunt,http://13216.vod.redtraffic.xyz/ph5b21fca1d32c2/play.m3u8
-Alix Lynx Nicole Aniston HD 1080p,http://10238.vod.redtraffic.xyz/ph570c9760d93a5/play.m3u8
+Alix Lynx Nicole Aniston 1080p,http://10238.vod.redtraffic.xyz/ph570c9760d93a5/play.m3u8
 #039;s day,http://1244.vod.redtraffic.xyz/ph5ad077820e498/play.m3u8
 #039;t Stop Sucking your Balls 4k,http://1465.vod.adultiptv.net/ph5b7271a69daf3/play.m3u8
 husband gets cucked by wife then gets pegged for being a good bitch,http://12156.vod.adultiptv.net/ph5910ba3a71910/play.m3u8
@@ -8837,7 +8734,7 @@ Passionate Morning Sex And Creampie With Amateur Babe NoFaceGirl,http://60106.vo
 JavaLav Tribute Video,http://10238.vod.redtraffic.xyz/ph5b08eff5d9b72/play.m3u8
 Cason From Thunders Arena Body Builder Wrestler Fucks Hot Horny Chick,http://12156.vod.adultiptv.net/ph5b57963bc230e/play.m3u8
 Pregnant ebony Kayla Ivy gets threesome fucked,http://11216.vod.adultiptv.net/ph572e036232b3c/play.m3u8
-Best Facial Cumpilation HD - JJ (No music),http://1465.vod.adultiptv.net/ph589f8d2a26c5e/play.m3u8
+Best Facial Cumpilation - JJ (No music),http://1465.vod.adultiptv.net/ph589f8d2a26c5e/play.m3u8
 Interracial Gangbang With Anal Slut Aaliyah Hadid,http://13216.vod.redtraffic.xyz/ph595893ff45b09/play.m3u8
 Sadistic bitch ruins huge orgasm,http://11216.vod.redtraffic.xyz/ph5930b1956107e/play.m3u8
 TEEN HUGE COCK stud fucks Nice Blonde Titty Country Girl,http://6122.vod.redtraffic.xyz/ph5b9fee676ef63/play.m3u8
@@ -8848,7 +8745,7 @@ BAEB Pussy stretched out by big dick for tiny babe Kenzie Reeves,http://218158.v
 #039;s boyfriend,http://1244.vod.redtraffic.xyz/ph5925743643456/play.m3u8
 College THICK COCK Frat Boy From Cali Beats Some Blond Puss Up,http://13216.vod.adultiptv.net/ph5b2855493f7e1/play.m3u8
 Horny girl having fun white and black cocks,http://60106.vod.redtraffic.xyz/ph5b64448c85e70/play.m3u8
-Overwatch Full HD [60FPS] - Fap of the Game 2 (Ultimate Edition),http://6122.vod.adultiptv.net/ph57dcf17359b64/play.m3u8
+Overwatch Full [60FPS] - Fap of the Game 2 (Ultimate Edition),http://6122.vod.adultiptv.net/ph57dcf17359b64/play.m3u8
 #039;s ass fucked by step-brother,http://11216.vod.redtraffic.xyz/ph57b3723abf8e2/play.m3u8
 Kawamura Yukie♡TEMPTATIO♡JPN Softcore,http://12204.vod.adultiptv.net/ph5a98c41bc07f0/play.m3u8
 Brazilian Pussy MF VIDEO,http://11216.vod.adultiptv.net/ph5b200ac3df482/play.m3u8
@@ -8871,7 +8768,7 @@ POVD Stunning Layla London big tits massage in POV,http://12156.vod.redtraffic.x
 moaning in stocking and high heel,http://1465.vod.redtraffic.xyz/ph5923100a68fdc/play.m3u8
 Fit18 - Emily Willis - 51kg - I Creampie A Flexible Former Ballerina 60fps,http://13216.vod.redtraffic.xyz/ph5c13bf508f2c0/play.m3u8
 BBC SLUT Compilation (Double Teamed Edition),http://13216.vod.adultiptv.net/ph5a6e773e7fe5c/play.m3u8
-Japanese wife sex at home with plumber 18+ new adult movies full hd,http://218158.vod.redtraffic.xyz/ph574068e8d1daf/play.m3u8
+Japanese wife sex at home with plumber 18+ new adult movies full,http://218158.vod.redtraffic.xyz/ph574068e8d1daf/play.m3u8
 CUM4K FILL HER UP With MULTIPLE DRIPPING Creampies,http://13216.vod.adultiptv.net/ph5bec739521439/play.m3u8
 MILF HANDJOBS MASSAGE ON DELICIOUS FAST HANDS,http://10238.vod.adultiptv.net/ph5be1d248e39ab/play.m3u8
 Beautiful Chinese college girl wearing stocking become a hooker,http://218158.vod.redtraffic.xyz/ph588391b736a1a/play.m3u8
@@ -9013,7 +8910,7 @@ BLUE PILL MEN - Frankie And The Gang Take A Trip Down Under Teen Zara Ryan,http:
 Alexis Crystal cuckold,http://12204.vod.adultiptv.net/ph59ae9929de2ac/play.m3u8
 Make Him Cuckold - Melissa Grand - Goodbye sex revenge,http://1465.vod.adultiptv.net/ph59c8aa88cff1e/play.m3u8
 Charlotte Sartre Gets Stuffed With Black Cock As Hubby Watches,http://11216.vod.redtraffic.xyz/ph581fc51ce5b96/play.m3u8
-XY BBC SURPRISE FOR MY WIFE HD,http://60106.vod.redtraffic.xyz/ph599ada8ec6bab/play.m3u8
+XY BBC SURPRISE FOR MY WIFE,http://60106.vod.redtraffic.xyz/ph599ada8ec6bab/play.m3u8
 CFNM - The Cuckold Husband,http://1244.vod.adultiptv.net/ph595aaf4d7989b/play.m3u8
 Rococo Royalle Fucks Her Husbands Ass and Makes Him Suck Cock,http://1465.vod.adultiptv.net/ph578f08f420f21/play.m3u8
 Man Shares His Wife with Two Studs,http://60106.vod.adultiptv.net/ph5b077058164ec/play.m3u8
@@ -9045,7 +8942,7 @@ Massage Rooms Beautiful model loves finger up the ass when fucking,http://1465.v
 Caught Her Step Brother Watching Porn,http://6122.vod.redtraffic.xyz/ph596484b05234b/play.m3u8
 DaneJones Athletic brunette gets her tight pussy stuffed with cock,http://6122.vod.adultiptv.net/ph57777598302dc/play.m3u8
 Skinny Emo Teen Meets Guy Online,http://1465.vod.redtraffic.xyz/ph57d0cadcf022d/play.m3u8
-Dillion Harper Cumshot Compilation HD - Part 1,http://10238.vod.adultiptv.net/ph57a5524a94841/play.m3u8
+Dillion Harper Cumshot Compilation - Part 1,http://10238.vod.adultiptv.net/ph57a5524a94841/play.m3u8
 JOI. Dream Girls. Lele and Trish take care of you in your dream.FR Eng Sub.,http://12204.vod.adultiptv.net/ph5c0fb40aa3a73/play.m3u8
 Pretty Young Teen Fucked Very Rough - HookupHotshot,http://12204.vod.redtraffic.xyz/ph5673a1a076871/play.m3u8
 Gang Bang Academy 2 - Scene 1,http://6122.vod.redtraffic.xyz/ph590115728d02f/play.m3u8
@@ -9213,7 +9110,7 @@ Make Him Cuckold - Slender wife fuck revenge,http://13216.vod.adultiptv.net/ph55
 #039;s Mouth,http://12204.vod.redtraffic.xyz/ph577d97e805e36/play.m3u8
 Make Him Cuckold - Sex revenge from a jealous girlfriend,http://12204.vod.adultiptv.net/ph5674bc5953471/play.m3u8
 mistress having fun with slave,http://11216.vod.redtraffic.xyz/ph5b9f9ec62dbf2/play.m3u8
-India Summer Vengeful Creampie HD,http://21470.vod.redtraffic.xyz/ph5756c471dbb4d/play.m3u8
+India Summer Vengeful Creampie,http://21470.vod.redtraffic.xyz/ph5756c471dbb4d/play.m3u8
 Make Him Cuckold - Jealous gf revenge cuckold sex,http://21470.vod.redtraffic.xyz/ph568ed15370ec4/play.m3u8
 Make Him Cuckold - Sex revenge from a fiancée,http://218158.vod.adultiptv.net/ph569eb21fd962a/play.m3u8
 VIXEN Bad Intern Begs To Be Punished By Her Boss,http://6122.vod.adultiptv.net/ph5a571acae2432/play.m3u8
