@@ -1922,6 +1922,9 @@ CNN,http://218.202.220.2:5000/nn_live.ts?id=CNN
 태연-쌍둥이지리ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
 
 歌舞频道,#genre#
+泳池派对DJ-老公你辛苦啦,http://111.73.46.108/video/m3u8/2020/01/20/cb10f923/playlist.m3u8
+湿身DJ-重低音电音节奏,http://111.73.46.108/video/m3u8/2020/01/30/45a9a470/playlist.m3u8
+湿身热舞DJ-外文慢嗨经典电音,http://111.73.46.108/video/m3u8/2020/01/30/655c119c/playlist.m3u8
 小风波收集,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
 Madonna - Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
 EXID - Every Night,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
@@ -2519,6 +2522,43 @@ Dorcel,p9p://45.86.67.154:9906/5d4c59d300046907078faf0e2ec1f6ef.ts
 Private,p9p://45.86.67.154:9906/5d4c5a4d0000fa2607918abd4b19d609.ts
 Redlight,p9p://45.86.67.154:9906/5d4c5ab0000b952e0793102c944e6d2b.ts
 Penthouse,p9p://45.86.67.154:9906/5d4f96c10008ca971435b1dd34df64a7.ts
+Miami,http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+Miami  Jenny,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+Miami  Jenny,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+Visit-X,http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+Visit-X,http://194.116.150.47:1935/vxtv/live_360p/playlist.m3u8
+Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+Man2Man,http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
+Nieuwe sinds,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+Web stream,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/26410872606_2106_19378video_720.m3u8
+Web stream,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+Nieuwe sinds,http://93.189.224.117:9030/russkayanoch
+Rusland,http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
+XXX 2,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+XXX 2,http://51.15.0.141:88/redlightHD/mpegts
+XXX 1,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+XXX 1,http://51.15.0.141:88/hustlerhd/mpegts
+SEXPRVE,http://200.194.238.229:8000/udp/227.0.0.64:1234
+AST.TV 2,http://www.ast.tv/stream/2/ultra.m3u8
+AST.TV 1,http://www.ast.tv/stream/1/ultra.m3u8
+苹果片,http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
+BARELY,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
+PLAYBOY,http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
+Update,http://88.212.50.123:8001/1:0:16:7E7:AF2:BB:E080000:0:0:0
+Hustler,http://88.212.50.123:8001/1:0:1:78C8:2C5:600:E080000:0:0:0
+仅在深夜播放,http://88.212.50.123:8001/1:0:1:78C3:2C5:600:E080000:0:0:0
+Private,http://88.212.50.123:8001/1:0:1:78BD:2C5:600:E080000:0:0:0
+Nieuwe sinds,http://80.24.75.92:5555/udp/239.111.4.1:1234
+Nieuwe sinds,http://5.255.90.184:2000/play/a03e
+电影1,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+限制级1,https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8?streamType=live
+限制级2,http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
+限制级4,http://176.197.26.198:81/udp/239.255.42.143:1234
+限制级6,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
+限制级7,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 
 麻豆视频_666,#genre#
 浓厚接吻,https://bp1.dkkomo.com/stream/full/japan/3200/111420_001-1pon.m3u8
