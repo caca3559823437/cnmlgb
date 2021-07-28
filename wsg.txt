@@ -4,116 +4,122 @@
 女团8,http://dyscdnali1.douyucdn.cn/live/211561rrWvZd76AP.flv?uuid=
 女团9,http://dyscdnali1.douyucdn.cn/live/222286rDHFFLiZCl.flv?uuid=
 女团11,http://dyscdnali1.douyucdn.cn/live/1285757rbK8l2hcf.flv?uuid=
-斗鱼1,http://dyscdnali1.douyucdn.cn/live/1504768rIizwk7Jz.flv?uuid=
-斗鱼17,http://dyscdnali1.douyucdn.cn/live/4332rz1B1TLlheIC.flv?uuid=
-斗鱼2,http://dyscdnali1.douyucdn.cn/live/747764r3ei7lgxc5.flv?uuid=
-斗鱼3,http://dyscdnali1.douyucdn.cn/live/323876rVVf7wiHyG.flv?uuid=
-斗鱼4,http://dyscdnali1.douyucdn.cn/live/6566658rY3gtCwNC.flv?uuid=
-斗鱼33,http://dyscdnali1.douyucdn.cn/live/252536rgQEx4a94R.flv?uuid=
-斗鱼49,http://dyscdnali1.douyucdn.cn/live/9445279rW9qoWqwQ.flv?uuid=
-斗鱼18,http://dyscdnali1.douyucdn.cn/live/426517rOaZIbcWDb.flv?uuid=
-斗鱼65,http://dyscdnali1.douyucdn.cn/live/6581531rjzr4eTuJ.flv?uuid=
-斗鱼81,http://dyscdnali1.douyucdn.cn/live/7669170rbZntoNrs.flv?uuid=
-斗鱼113,http://dyscdnali1.douyucdn.cn/live/9439471rArHlb5xf.flv?uuid=
-斗鱼97,http://dyscdnali1.douyucdn.cn/live/5354713r7oSnGMxp.flv?uuid=
-斗鱼5,http://dyscdnali1.douyucdn.cn/live/3627728rhDPNMYaG.flv?uuid=
-斗鱼34,http://dyscdnali1.douyucdn.cn/live/9931766rpZdeORJo.flv?uuid=
-斗鱼50,http://dyscdnali1.douyucdn.cn/live/1224356r3gBmG2az.flv?uuid=
-斗鱼19,http://dyscdnali1.douyucdn.cn/live/7254536r5qNo0mPm.flv?uuid=
-斗鱼35,http://dyscdnali1.douyucdn.cn/live/6537888rt2xnRaVd.flv?uuid=
-斗鱼66,http://dyscdnali1.douyucdn.cn/live/5489341rWJIpKPie.flv?uuid=
-斗鱼36,http://dyscdnali1.douyucdn.cn/live/4246519r0byp0qqJ.flv?uuid=
-斗鱼82,http://dyscdnali1.douyucdn.cn/live/9454126r46OLLCtx.flv?uuid=
-斗鱼98,http://dyscdnali1.douyucdn.cn/live/9984624r0SPwKttw.flv?uuid=
-斗鱼6,http://dyscdnali1.douyucdn.cn/live/310926rxaVCymr5Z.flv?uuid=
-斗鱼51,http://dyscdnali1.douyucdn.cn/live/9562616rIynYrQCv.flv?uuid=
-斗鱼20,http://dyscdnali1.douyucdn.cn/live/9484105rQPq7g1l5.flv?uuid=
-斗鱼67,http://dyscdnali1.douyucdn.cn/live/9292492riUx6cvsg.flv?uuid=
-斗鱼37,http://dyscdnali1.douyucdn.cn/live/9485398rsOCb9uco.flv?uuid=
-斗鱼83,http://dyscdnali1.douyucdn.cn/live/9720498re3BEtcpv.flv?uuid=
-斗鱼115,http://dyscdnali1.douyucdn.cn/live/1086930r0DSgFZZB.flv?uuid=
-斗鱼99,http://dyscdnali1.douyucdn.cn/live/9601429rGu5fiVmS.flv?uuid=
-斗鱼7,http://dyscdnali1.douyucdn.cn/live/3194372rlOSpluyL.flv?uuid=
-斗鱼52,http://dyscdnali1.douyucdn.cn/live/9644669rFJwdALPs.flv?uuid=
-斗鱼68,http://dyscdnali1.douyucdn.cn/live/8808506rsSYlYw8p.flv?uuid=
-斗鱼8,http://dyscdnali1.douyucdn.cn/live/9639225r1blkiD0H.flv?uuid=
-斗鱼22,http://dyscdnali1.douyucdn.cn/live/1165374rh7jqklxx.flv?uuid=
-斗鱼9,http://dyscdnali1.douyucdn.cn/live/431460rPd5dUpXol.flv?uuid=
-斗鱼38,http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv?uuid=
-斗鱼10,http://dyscdnali1.douyucdn.cn/live/434971rZykyXAmPV.flv?uuid=
-斗鱼23,http://dyscdnali1.douyucdn.cn/live/263824rxwFARCWaC.flv?uuid=
-斗鱼11,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-斗鱼24,http://dyscdnali1.douyucdn.cn/live/52787rLEEEZilKcJ.flv?uuid=
-斗鱼25,http://dyscdnali1.douyucdn.cn/live/925724rf3r05UbjQ.flv?uuid=
-斗鱼12,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-斗鱼26,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-斗鱼116,http://dyscdnali1.douyucdn.cn/live/8951348rrA2fXl4v.flv?uuid=
-斗鱼13,http://dyscdnali1.douyucdn.cn/live/218859rUp5PN3Slh.flv?uuid=
-斗鱼27,http://dyscdnali1.douyucdn.cn/live/96577rRV9ZOuPT7p.flv?uuid=
-斗鱼53,http://dyscdnali1.douyucdn.cn/live/5581257rliG8CVwH.flv?uuid=
-斗鱼28,http://dyscdnali1.douyucdn.cn/live/5427842r0KOAS94Z.flv?uuid=
-斗鱼69,http://dyscdnali1.douyucdn.cn/live/7778999ryWRXCCxg.flv?uuid=
-斗鱼39,http://dyscdnali1.douyucdn.cn/live/1487654rmWxDu9Fk.flv?uuid=
+电影1_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/322048/live_416544064_58389145.m3u8
+电影2_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/614472/live_362963326_14864388.m3u8
+电影5_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/742269/live_400392_6822511.m3u8
+电影6_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/892705/live_14659392_8620418.m3u8
+电影7_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/889909/live_102569357_4797059.m3u8
+电影8_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/865348/live_22989278_9714011.m3u8
+电影9_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/514762/live_420351661_73320656.m3u8
+电影10_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/964700/live_381718124_59580738.m3u8
+电影11_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/779624/live_97065163_17925468.m3u8
+电影12_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/912645/live_252582133_1552126.m3u8
+电影1_斗鱼,http://dyscdnali1.douyucdn.cn/live/52787rLEEEZilKcJ.flv?uuid=
+电影2_斗鱼,http://dyscdnali1.douyucdn.cn/live/7254536r5qNo0mPm.flv?uuid=
+电影3_斗鱼,http://dyscdnali1.douyucdn.cn/live/1504768rIizwk7Jz.flv?uuid=
+电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
+电影6_斗鱼,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+电影7_斗鱼,http://dyscdnali1.douyucdn.cn/live/252802rXrdW6hbDa.flv?uuid=
+电影8_斗鱼,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+电影9_斗鱼,http://dyscdnali1.douyucdn.cn/live/96577rRV9ZOuPT7p.flv?uuid=
+电影10_斗鱼,http://dyscdnali1.douyucdn.cn/live/2519292r5XMjcUiA.flv?uuid=
+电影14_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+电影15_斗鱼,http://dyscdnali1.douyucdn.cn/live/747764r3ei7lgxc5.flv?uuid=
+电影16_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+电影17_斗鱼,http://dyscdnali1.douyucdn.cn/live/8985119rIhSkx6p3.flv?uuid=
+电影18_斗鱼,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+电影19_斗鱼,http://dyscdnali1.douyucdn.cn/live/4332rz1B1TLlheIC.flv?uuid=
+电影20_斗鱼,http://dyscdnali1.douyucdn.cn/live/6566658rY3gtCwNC.flv?uuid=
+电影21_斗鱼,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+电影22_斗鱼,http://dyscdnali1.douyucdn.cn/live/8861179rIFT8fYfO.flv?uuid=
+电影25_斗鱼,http://dyscdnali1.douyucdn.cn/live/315457rlhQDSs2yk.flv?uuid=
+电影27_斗鱼,http://dyscdnali1.douyucdn.cn/live/248753rn5NROcDXx.flv?uuid=
+电影28_斗鱼,http://dyscdnali1.douyucdn.cn/live/9275635rQDfzWWxW.flv?uuid=
+电影29_斗鱼,http://dyscdnali1.douyucdn.cn/live/7842226rnIX2XUMC.flv?uuid=
+电影30_斗鱼,http://dyscdnali1.douyucdn.cn/live/5423r1e13QybeqZo.flv?uuid=
+电影31_斗鱼,http://dyscdnali1.douyucdn.cn/live/8921999reDF5VHBu.flv?uuid=
+电影32_斗鱼,http://dyscdnali1.douyucdn.cn/live/7925840rZtVMmuLm.flv?uuid=
+电影33_斗鱼,http://dyscdnali1.douyucdn.cn/live/544263rqpxGOGZ7X.flv?uuid=
+电影37_斗鱼,http://dyscdnali1.douyucdn.cn/live/508118rFJdmlB5it.flv?uuid=
+电影39_斗鱼,http://dyscdnali1.douyucdn.cn/live/8791622rQyl7GMZS.flv?uuid=
+电影40_斗鱼,http://dyscdnali1.douyucdn.cn/live/5503962r6Ua4YFQw.flv?uuid=
+电影41_斗鱼,http://dyscdnali1.douyucdn.cn/live/323876rVVf7wiHyG.flv?uuid=
+电影42_斗鱼,http://dyscdnali1.douyucdn.cn/live/7029806rkQZZCYi3.flv?uuid=
+电影43_斗鱼,http://dyscdnali1.douyucdn.cn/live/263824rxwFARCWaC.flv?uuid=
+电影44_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
+电影46_斗鱼,http://dyscdnali1.douyucdn.cn/live/310926rxaVCymr5Z.flv?uuid=
+电影47_斗鱼,http://dyscdnali1.douyucdn.cn/live/218859rUp5PN3Slh.flv?uuid=
+斗鱼29,http://dyscdnali1.douyucdn.cn/live/9931766rpZdeORJo.flv?uuid=
+斗鱼71,http://dyscdnali1.douyucdn.cn/live/6655271rxmF2Pias.flv?uuid=
+斗鱼43,http://dyscdnali1.douyucdn.cn/live/9445279rW9qoWqwQ.flv?uuid=
+斗鱼16,http://dyscdnali1.douyucdn.cn/live/9484105rQPq7g1l5.flv?uuid=
+斗鱼57,http://dyscdnali1.douyucdn.cn/live/2164691rgMdCM4gL.flv?uuid=
+斗鱼85,http://dyscdnali1.douyucdn.cn/live/9826611riOiWb2Bj.flv?uuid=
+斗鱼4,http://dyscdnali1.douyucdn.cn/live/9606419rBWWy4cmU.flv?uuid=
+斗鱼30,http://dyscdnali1.douyucdn.cn/live/252536rgQEx4a94R.flv?uuid=
+斗鱼99,http://dyscdnali1.douyucdn.cn/live/9636088rs65SSlpH.flv?uuid=
+斗鱼5,http://dyscdnali1.douyucdn.cn/live/9639225r1blkiD0H.flv?uuid=
+斗鱼72,http://dyscdnali1.douyucdn.cn/live/8371123r45De0xiE.flv?uuid=
+斗鱼44,http://dyscdnali1.douyucdn.cn/live/1224356r3gBmG2az.flv?uuid=
+斗鱼58,http://dyscdnali1.douyucdn.cn/live/3715426rttRPD75Q.flv?uuid=
+斗鱼86,http://dyscdnali1.douyucdn.cn/live/3627728rhDPNMYaG.flv?uuid=
+斗鱼100,http://dyscdnali1.douyucdn.cn/live/9980527rDiOGYAYn.flv?uuid=
+斗鱼73,http://dyscdnali1.douyucdn.cn/live/9454126r46OLLCtx.flv?uuid=
+斗鱼45,http://dyscdnali1.douyucdn.cn/live/9562616rIynYrQCv.flv?uuid=
+斗鱼11,http://dyscdnali1.douyucdn.cn/live/8694831r0cHBWtNf.flv?uuid=
+斗鱼32,http://dyscdnali1.douyucdn.cn/live/9485398rsOCb9uco.flv?uuid=
+斗鱼101,http://dyscdnali1.douyucdn.cn/live/9404705r6rZnC0Ku.flv?uuid=
+斗鱼74,http://dyscdnali1.douyucdn.cn/live/9720498re3BEtcpv.flv?uuid=
+斗鱼46,http://dyscdnali1.douyucdn.cn/live/5429211rk0vMJAPS.flv?uuid=
+斗鱼19,http://dyscdnali1.douyucdn.cn/live/1165374rh7jqklxx.flv?uuid=
+斗鱼60,http://dyscdnali1.douyucdn.cn/live/8168353rgTK9BzO8.flv?uuid=
+斗鱼12,http://dyscdnali1.douyucdn.cn/live/9837291rvM0u93Js.flv?uuid=
+斗鱼23,http://dyscdnali1.douyucdn.cn/live/925724rf3r05UbjQ.flv?uuid=
+斗鱼34,http://dyscdnali1.douyucdn.cn/live/4246519r0byp0qqJ.flv?uuid=
+斗鱼75,http://dyscdnali1.douyucdn.cn/live/562225rFiPqK1hMq.flv?uuid=
+斗鱼47,http://dyscdnali1.douyucdn.cn/live/9644669rFJwdALPs.flv?uuid=
+斗鱼61,http://dyscdnali1.douyucdn.cn/live/8808506rsSYlYw8p.flv?uuid=
+斗鱼14,http://dyscdnali1.douyucdn.cn/live/2632223rJ8DKLdt1.flv?uuid=
+斗鱼89,http://dyscdnali1.douyucdn.cn/live/5354713r7oSnGMxp.flv?uuid=
+斗鱼35,http://dyscdnali1.douyucdn.cn/live/1487654rmWxDu9Fk.flv?uuid=
+斗鱼76,http://dyscdnali1.douyucdn.cn/live/6449849re9lhOZz9.flv?uuid=
+斗鱼48,http://dyscdnali1.douyucdn.cn/live/3980787r6DuJvVXW.flv?uuid=
+斗鱼62,http://dyscdnali1.douyucdn.cn/live/6581531rjzr4eTuJ.flv?uuid=
+斗鱼26,http://dyscdnali1.douyucdn.cn/live/9734042rqsN7vg9p.flv?uuid=
+斗鱼90,http://dyscdnali1.douyucdn.cn/live/9984624r0SPwKttw.flv?uuid=
+斗鱼77,http://dyscdnali1.douyucdn.cn/live/9548850rw3AkVRVD.flv?uuid=
+斗鱼36,http://dyscdnali1.douyucdn.cn/live/4587723rW3cfJk1s.flv?uuid=
+斗鱼49,http://dyscdnali1.douyucdn.cn/live/752376rtrebfHSA1.flv?uuid=
+斗鱼63,http://dyscdnali1.douyucdn.cn/live/8936207rPicCWjai.flv?uuid=
+斗鱼91,http://dyscdnali1.douyucdn.cn/live/9601429rGu5fiVmS.flv?uuid=
+斗鱼78,http://dyscdnali1.douyucdn.cn/live/9650887rAf6NSuep.flv?uuid=
+斗鱼50,http://dyscdnali1.douyucdn.cn/live/6546908r8MNy5hGg.flv?uuid=
+斗鱼37,http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv?uuid=
+斗鱼64,http://dyscdnali1.douyucdn.cn/live/5489341rWJIpKPie.flv?uuid=
+斗鱼92,http://dyscdnali1.douyucdn.cn/live/9844562rc3tInoX9.flv?uuid=
+斗鱼79,http://dyscdnali1.douyucdn.cn/live/7669170rbZntoNrs.flv?uuid=
+斗鱼38,http://dyscdnali1.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
+斗鱼65,http://dyscdnali1.douyucdn.cn/live/3831627rht67717R.flv?uuid=
+斗鱼80,http://dyscdnali1.douyucdn.cn/live/4282654rqJ3gI94v.flv?uuid=
+斗鱼39,http://dyscdnali1.douyucdn.cn/live/8768613rLswO6sLV.flv?uuid=
+斗鱼52,http://dyscdnali1.douyucdn.cn/live/4400816rLijWw4Fa.flv?uuid=
+斗鱼66,http://dyscdnali1.douyucdn.cn/live/9292492riUx6cvsg.flv?uuid=
+斗鱼94,http://dyscdnali1.douyucdn.cn/live/8328531rRZ2MSqlI.flv?uuid=
 斗鱼40,http://dyscdnali1.douyucdn.cn/live/7701735rTEyl3yAG.flv?uuid=
-斗鱼85,http://dyscdnali1.douyucdn.cn/live/9650887rAf6NSuep.flv?uuid=
-斗鱼14,http://dyscdnali1.douyucdn.cn/live/9837291rvM0u93Js.flv?uuid=
-斗鱼117,http://dyscdnali1.douyucdn.cn/live/1217312r2OIRrJvG.flv?uuid=
-斗鱼15,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
-斗鱼101,http://dyscdnali1.douyucdn.cn/live/1430176r0BJbj3tc.flv?uuid=
-斗鱼54,http://dyscdnali1.douyucdn.cn/live/6546908r8MNy5hGg.flv?uuid=
-斗鱼29,http://dyscdnali1.douyucdn.cn/live/9734042rqsN7vg9p.flv?uuid=
-斗鱼70,http://dyscdnali1.douyucdn.cn/live/8936207rPicCWjai.flv?uuid=
-斗鱼41,http://dyscdnali1.douyucdn.cn/live/2519292r5XMjcUiA.flv?uuid=
-斗鱼86,http://dyscdnali1.douyucdn.cn/live/851249rVSuLDF23d.flv?uuid=
-斗鱼118,http://dyscdnali1.douyucdn.cn/live/9542834rbr6ckf9p.flv?uuid=
-斗鱼16,http://dyscdnali1.douyucdn.cn/live/2632223rJ8DKLdt1.flv?uuid=
-斗鱼102,http://dyscdnali1.douyucdn.cn/live/8328531rRZ2MSqlI.flv?uuid=
-斗鱼55,http://dyscdnali1.douyucdn.cn/live/752376rtrebfHSA1.flv?uuid=
-斗鱼30,http://dyscdnali1.douyucdn.cn/live/7537296rga2lP9T6.flv?uuid=
-斗鱼71,http://dyscdnali1.douyucdn.cn/live/3831627rht67717R.flv?uuid=
-斗鱼42,http://dyscdnali1.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
-斗鱼87,http://dyscdnali1.douyucdn.cn/live/4282654rqJ3gI94v.flv?uuid=
-斗鱼103,http://dyscdnali1.douyucdn.cn/live/9803994rQ4zkrA2A.flv?uuid=
-斗鱼56,http://dyscdnali1.douyucdn.cn/live/5503962r6Ua4YFQw.flv?uuid=
-斗鱼43,http://dyscdnali1.douyucdn.cn/live/4587723rW3cfJk1s.flv?uuid=
-斗鱼31,http://dyscdnali1.douyucdn.cn/live/8861179rIFT8fYfO.flv?uuid=
-斗鱼72,http://dyscdnali1.douyucdn.cn/live/465761reCmHrpfyP.flv?uuid=
-斗鱼88,http://dyscdnali1.douyucdn.cn/live/675072rgK2nwTlSn.flv?uuid=
-斗鱼104,http://dyscdnali1.douyucdn.cn/live/6489822rlRtXMzdl.flv?uuid=
-斗鱼57,http://dyscdnali1.douyucdn.cn/live/9275635rQDfzWWxW.flv?uuid=
-斗鱼44,http://dyscdnali1.douyucdn.cn/live/8768613rLswO6sLV.flv?uuid=
-斗鱼32,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
-斗鱼73,http://dyscdnali1.douyucdn.cn/live/6786937r2P8tFyys.flv?uuid=
-斗鱼89,http://dyscdnali1.douyucdn.cn/live/6492996rwGCMUBW8.flv?uuid=
-斗鱼105,http://dyscdnali1.douyucdn.cn/live/9838536rNLA0LX9H.flv?uuid=
-斗鱼58,http://dyscdnali1.douyucdn.cn/live/4400816rLijWw4Fa.flv?uuid=
-斗鱼45,http://dyscdnali1.douyucdn.cn/live/5423r1e13QybeqZo.flv?uuid=
-斗鱼74,http://dyscdnali1.douyucdn.cn/live/9781567rtkWG4EdX.flv?uuid=
-斗鱼90,http://dyscdnali1.douyucdn.cn/live/544263rqpxGOGZ7X.flv?uuid=
-斗鱼106,http://dyscdnali1.douyucdn.cn/live/827152rnvPGmMhBH.flv?uuid=
-斗鱼59,http://dyscdnali1.douyucdn.cn/live/9445557r4gh6OyjF.flv?uuid=
-斗鱼46,http://dyscdnali1.douyucdn.cn/live/3980787r6DuJvVXW.flv?uuid=
-斗鱼75,http://dyscdnali1.douyucdn.cn/live/7356023r3kY14SP1.flv?uuid=
-斗鱼91,http://dyscdnali1.douyucdn.cn/live/9826611rfowVLOO2.flv?uuid=
-斗鱼107,http://dyscdnali1.douyucdn.cn/live/8542427rPjpwqQEL.flv?uuid=
-斗鱼60,http://dyscdnali1.douyucdn.cn/live/2164691rgMdCM4gL.flv?uuid=
-斗鱼47,http://dyscdnali1.douyucdn.cn/live/9461990rryFranYE.flv?uuid=
-斗鱼76,http://dyscdnali1.douyucdn.cn/live/9560268rMBLM8Hbt.flv?uuid=
-斗鱼92,http://dyscdnali1.douyucdn.cn/live/9811596rjxBkYo84.flv?uuid=
-斗鱼108,http://dyscdnali1.douyucdn.cn/live/9630288rfuHv4tmS.flv?uuid=
-斗鱼61,http://dyscdnali1.douyucdn.cn/live/8921999reDF5VHBu.flv?uuid=
-斗鱼48,http://dyscdnali1.douyucdn.cn/live/5429211rk0vMJAPS.flv?uuid=
-斗鱼77,http://dyscdnali1.douyucdn.cn/live/6449849re9lhOZz9.flv?uuid=
-斗鱼109,http://dyscdnali1.douyucdn.cn/live/9547577royeKrbuD.flv?uuid=
-斗鱼62,http://dyscdnali1.douyucdn.cn/live/7623292rv3dOOoOm.flv?uuid=
-斗鱼78,http://dyscdnali1.douyucdn.cn/live/8371123r45De0xiE.flv?uuid=
-斗鱼94,http://dyscdnali1.douyucdn.cn/live/9652323rGQenf26k.flv?uuid=
-斗鱼63,http://dyscdnali1.douyucdn.cn/live/3715426rttRPD75Q.flv?uuid=
-斗鱼79,http://dyscdnali1.douyucdn.cn/live/6655271rxmF2Pias.flv?uuid=
-斗鱼95,http://dyscdnali1.douyucdn.cn/live/7493575rcQCZTINw.flv?uuid=
-斗鱼64,http://dyscdnali1.douyucdn.cn/live/8168353rgTK9BzO8.flv?uuid=
-斗鱼80,http://dyscdnali1.douyucdn.cn/live/562225rFiPqK1hMq.flv?uuid=
-斗鱼96,http://dyscdnali1.douyucdn.cn/live/3346305rZieRfNeE.flv?uuid=
+斗鱼53,http://dyscdnali1.douyucdn.cn/live/5581257rliG8CVwH.flv?uuid=
+斗鱼67,http://dyscdnali1.douyucdn.cn/live/6786937r2P8tFyys.flv?uuid=
+斗鱼95,http://dyscdnali1.douyucdn.cn/live/9683979rOcp4aA3g.flv?uuid=
+斗鱼41,http://dyscdnali1.douyucdn.cn/live/9461990rryFranYE.flv?uuid=
+斗鱼82,http://dyscdnali1.douyucdn.cn/live/6492996rwGCMUBW8.flv?uuid=
+斗鱼54,http://dyscdnali1.douyucdn.cn/live/9445557r4gh6OyjF.flv?uuid=
+斗鱼68,http://dyscdnali1.douyucdn.cn/live/9781567rtkWG4EdX.flv?uuid=
+斗鱼96,http://dyscdnali1.douyucdn.cn/live/9838536rNLA0LX9H.flv?uuid=
+斗鱼69,http://dyscdnali1.douyucdn.cn/live/465761reCmHrpfyP.flv?uuid=
+斗鱼97,http://dyscdnali1.douyucdn.cn/live/8542427rPjpwqQEL.flv?uuid=
+斗鱼56,http://dyscdnali1.douyucdn.cn/live/7623292rv3dOOoOm.flv?uuid=
+斗鱼84,http://dyscdnali1.douyucdn.cn/live/675072rgK2nwTlSn.flv?uuid=
+斗鱼70,http://dyscdnali1.douyucdn.cn/live/7356023r3kY14SP1.flv?uuid=
+斗鱼98,http://dyscdnali1.douyucdn.cn/live/9547577royeKrbuD.flv?uuid=
 B站0,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/859741/live_415611_4082642.m3u8
 B站23,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/958338/live_451957754_72297368.m3u8
 B站46,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/538051/live_1723538090_68226711.m3u8
@@ -123,37 +129,36 @@ B站24,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/479893/live_48843258
 B站47,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/253799/live_27977562_5364248.m3u8
 B站70,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/103892/live_29395003_7062664.m3u8
 B站2,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/919939/live_22989278_9714011.m3u8
-B站48,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/267946/live_30983753_3634648.m3u8
 B站3,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/278659/live_14659392_8620418.m3u8
 B站72,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/637301/live_278134251_52437732.m3u8
-B站25,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/541759/live_387161809_30629897.m3u8
+B站4,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/264431/live_482572673_49204800.m3u8
 B站50,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/309127/live_5858943_7092758.m3u8
 B站73,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/717189/live_478143410_71229116.m3u8
 B站26,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/601960/live_4848211_28415954.m3u8
 B站5,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/940786/live_25773623_6914527.m3u8
 B站51,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/977384/live_304521446_4567626.m3u8
 B站6,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/507083/live_9204521_73368507.m3u8
-B站52,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/463202/live_102641348_3365632.m3u8
 B站27,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/398857/live_56120460_4549142.m3u8
 B站7,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/785689/live_2370062_9705826.m3u8
 B站28,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/982891/live_130384806_8720167.m3u8
 B站8,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/609866/live_25999342_7533504.m3u8
 B站54,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/440952/live_118429374_6775682.m3u8
 B站29,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/511893/live_6257023_332_c521e483.m3u8
-B站9,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/447365/live_309134148_9466606.m3u8
 B站30,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/183764/live_298204611_4339573.m3u8
 B站100,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/705544/live_7442131_1840994.m3u8
-B站80,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/106566/live_11919748_1459771.m3u8
 B站56,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/958678/live_4095379_2590883.m3u8
 B站11,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/344221/live_128161066_71997803.m3u8
+B站31,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/455346/live_381718124_59580738.m3u8
 B站57,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/521863/live_318480547_36603912.m3u8
 B站12,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/744954/live_19358082_1399772.m3u8
 B站32,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/331002/live_1269455_7234509.m3u8
 B站33,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/212912/live_542140801_71429859.m3u8
-B站15,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/385937/live_30259454_5531064.m3u8
+B站14,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/260194/live_7981914_1286387.m3u8
+B站104,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/243246/live_179302204_68184269.m3u8
 B站61,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/573030/live_2011773984_1675738.m3u8
 B站35,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/119482/live_12209393_1193376.m3u8
 B站36,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/591991/live_52117226_4742362.m3u8
+B站62,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/372983/live_76438587_9765173.m3u8
 B站37,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/880338/live_103015858_4417931.m3u8
 B站106,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/299578/live_351217721_75785964.m3u8
 B站16,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/236821/live_97065163_17925468.m3u8
@@ -165,7 +170,125 @@ B站19,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/350999/live_16416058
 B站20,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/236517/live_334056_8894439.m3u8
 B站68,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/423211/live_90549890_3567031.m3u8
 B站21,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/895457/live_362079724_8461189.m3u8
-
+电影2_企鹅,http://3954-out.liveplay.myqcloud.com/live/3954_382971876.flv?bizid=3954&txSecret=5dde1d8c9751d429175e944ea35648fe&txTime=6108ab7f
+僵尸恐怖_企鹅,http://3954-out.liveplay.myqcloud.com/live/3954_363783415.flv?bizid=3954&txSecret=d4d9dc9af35d9a523fe67f49b52cb51b&txTime=6108ab80
+电影1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_37859000_37859000_0_0_0-15013_xa_37859000_37859000_0_0_0.m3u8?org=yyweb&uuid=ae5221905e334cb8887cdaff895bed63&t=1627437688&tk=fb6bd82c01bdce8ec34f0e3d8eca4ac6
+电影2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_79049030_79049030_0_0_0-15013_xa_79049030_79049030_0_0_0.m3u8?org=yyweb&uuid=fe3e712a1dbd496c83493a4353c79f4c&t=1627437688&tk=f41e9956a14e920d8145fafab4cb33e5
+电影3_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382656234_1382656234_0_0_0-15013_xa_1382656234_1382656234_0_0_0.m3u8?org=yyweb&uuid=5b3685d4d4e34354a193404124d73092&t=1627437689&tk=43bf712974e23a6781ab77f2a1d6e766
+僵尸鬼片_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_34229877_34229877_0_0_0-15013_xa_34229877_34229877_0_0_0.m3u8?org=yyweb&uuid=3b09ea511fbf4f1ab63e483ac9b8a812&t=1627437689&tk=29d327d254abe592e3f720cabcbf4edf
+搞笑僵尸鬼片_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_30668277_30668277_0_0_0-15013_xa_30668277_30668277_0_0_0.m3u8?org=yyweb&uuid=5dddae8b0b1d4f37b3239171a64bce64&t=1627437690&tk=448df67f90e73c60009f14ae97066260
+搞笑电影_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1346997359_1346997359_0_0_0-15013_xa_1346997359_1346997359_0_0_0.m3u8?org=yyweb&uuid=be7fd669150a4c0787eb69a4e47a27e6&t=1627437690&tk=3c0042a9be3109f3347767662df235ed
+茶啊二中_斗鱼,http://dyscdnali1.douyucdn.cn/live/2925610rwx2PWygN.flv?uuid=
+猫和老鼠1_斗鱼,http://dyscdnali1.douyucdn.cn/live/7528160rXCwPshQQ.flv?uuid=
+米娅陪看_斗鱼,http://dyscdnali1.douyucdn.cn/live/6537888rt2xnRaVd.flv?uuid=
+贝贝陪看_斗鱼,http://dyscdnali1.douyucdn.cn/live/431460rPd5dUpXol.flv?uuid=
+怡宝陪看_斗鱼,http://dyscdnali1.douyucdn.cn/live/434971rZykyXAmPV.flv?uuid=
+林正英1_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/991649/live_22989278_9714011.m3u8
+林正英3_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/331331/live_381718124_59580738.m3u8
+成龙_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_34460526_34460526_0_0_0-15013_xa_34460526_34460526_0_0_0.m3u8?org=yyweb&uuid=c5e53d1067224d989828b07284e74f41&t=1627437640&tk=e8b9f1838ed72a739293cca88834396b
+周星驰_企鹅,http://3954-out.liveplay.myqcloud.com/live/3954_199681168.flv?bizid=3954&txSecret=950f80b489b79f89bffda39ee0cc1a78&txTime=6108ab82
+释小龙_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_27869707_27869707_0_0_0-15013_xa_27869707_27869707_0_0_0.m3u8?org=yyweb&uuid=cd995aa7a9c9483aae8ff32d36c9ef2d&t=1627437641&tk=c40ee416663e825786be25fdbec98eb7
+贝爷②,http://tc-tct.douyucdn2.cn:80/dyliveflv1/36337r1uH4b7ZLzs.flv?wsAuth=8ae87e31d8bd9b2f6b5c256b7145451f&token=app-android1-296794511-36337-766622c31fb0db33525ebf8729edc27cbbe13c4b8444ec5e&logo=0&expire=0&did=f4c9f0a4875d528cafab6bda70005111&ver=v7.1.0&channel=94&pt=1&st=0&origin=tct&mix=0&isp=
+小宇,http://tc-tct.douyucdn2.cn:80/dyliveflv1/323876rVVf7wiHyG_2000.flv?wsAuth=873537c317c11fad5bd26d5b7e7dbcb8&token=app-android1-296794511-323876-ad60a296f846cd59b64a57d1a3634f667a625e297e44ebe8&logo=0&expire=0&did=f4c9f0a4875d528cafab6bda70005111&ver=v7.1.0&channel=94&pt=1&st=0&origin=tct&mix=0&isp=
+素颜,http://tc-tct.douyucdn2.cn:80/dyliveflv1a/96577rRV9ZOuPT7p_2000.flv?wsAuth=e99f933784ca7cf4c817504101c1d0ed&token=app-android1-296794511-96577-1b251e2eee2302e91870cf79e8dd37c054cdb8dd16235416&logo=0&expire=0&did=f4c9f0a4875d528cafab6bda70005111&ver=v7.1.0&channel=94&pt=1&st=0&origin=tct&mix=0&isp=
+小粤儿,http://tc-tct.douyucdn2.cn:80/dyliveflv3a/5033502rrYtnBjpx.flv?wsAuth=33c1e67317bdad6ad167b09135458140&token=app-androidhd1-0-5033502-e87fb2e05db6d5d1ad3c90f2eb2015175d2eeb4a92fb0ee8&logo=0&expire=0&did=b3b543f1-7f87-49c3-87a2-4356c51c6f7f&ver=v1.2.1&pt=1&st=0&origin=tct&mix=0&isp=
+粤语电影①,http://tc-tct.douyucdn2.cn:80/dyliveflv3/1226741rvcjQKMvm.flv?wsAuth=f9aaeacd453ff38502bd0ca578396cfa&token=app-androidhd1-0-1226741-0dc52b22d0295689a991f9ab1f76559630b78a32e3224b2b&logo=0&expire=0&did=b3b543f1-7f87-49c3-87a2-4356c51c6f7f&ver=v1.2.1&pt=1&st=0&origin=tct&mix=0&isp=p
+吃奶的虫,http://tc-tct.douyucdn2.cn:80/dyliveflv3/263824rxwFARCWaC_4000p.flv?wsAuth=bec2d3fd56402f846874ed58a7d3a2b1&token=app-android1-296794511-263824-8b71fec379b451b65cd01af4ce2755ae8d56940b28a0a010&logo=0&expire=0&did=f4c9f0a4875d528cafab6bda70005111&ver=v7.1.0&channel=94&pt=1&st=0&origin=tct&mix=0&isp=
+少女可乐,http://211.152.130.8:80/tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_4000.flv?wsAuth=c29b0638155469630f0523f82c38228c&token=app-android1-296794511-20415-d1d52564c95cba3de6cd69cbb68e5ffd5b69b97cd06b89eb&logo=0&expire=0&did=f4c9f0a4875d528cafab6bda70005111&ver=v7.1.0&channel=94&pt=1&st=0&origin=tct&mix=0&isp=
+电影 24/7,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+HBO HD,https://dl.dropbox.com/s/as9p2yufyypakyl/HBO.m3u8
+HBO RED HD,https://dl.dropbox.com/s/4g9x2urazh01m7i/RED.m3u8
+福克斯电影高清,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
+CINEMAX HD,https://dl.dropbox.com/s/1nqhsz02w72ojjl/MAX.m3u8
+&FLIX HD,https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+华纳电视高清,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+国家地理高清,http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+Nat Geo Wild HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+ASTRO 哦！K HD,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+第 5 频道,http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+ASTRO CERIA (BACKUP 2),http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+BT SPORT 1 HD,http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+SPORT TV 1,http://Mastro@77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+JAK TV,https://dl.dropboxusercontent.com/s/ctdm9c9zw2uz35j/jaktv.m3u8?dl=0
+RCTI,https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/rcti.m3u8?dl=0
+KOMPAS TV,https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/kompastv.m3u8?dl=0
+METRO TV,https://dl.dropboxusercontent.com/s/cat0n2r1qob59ag/metrotv.m3u8?dl=0
+SCTV,https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
+HBO Asia HD,https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+HBO 签名,https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+HBO 家庭,https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+HBO点击,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+HBO 红色,https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+AXN高清,https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+天体经典电影,https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1331053117
+林正英搞笑僵尸,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
+林正英鬼片500部,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
+香港经典搞笑鬼片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227227
+古惑仔片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352469735
+赌片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352487950
+天映频道,mitv://fccseuro.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
+天映频道,mitv://fccseuro.pvbox.live:18912/5e64a27b000b40186caada2a41021861.ts
+天映频道,mitv://fccsovh.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
+天映HD,mitv://fccsovh.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160.ts
+天映HD,mitv://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160.ts
+好莱坞电影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783.ts
+好莱坞电影,mitv://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1.ts
+好莱坞电影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts
+好莱坞电影,mitv://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783.ts
+东森洋片,mitv://fccsovh.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef.ts
+东森洋片,mitv://fccseuro.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef.ts
+东森电影 HD,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
+东森电影 HD,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
+东森电影 HD,mitv://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
+伟来电影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts
+伟来电影,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9.ts
+伟来电影,mitv://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts
+美亚电影台 HD,mitv://fccsovh.pvbox.live:18912/5b14098f00079615addc7da33962b735.ts
+美亚电影台 HD,mitv://fccseuro.pvbox.live:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
+美亚电影台 HD,mitv://fccseuro.pvbox.live:18912/5b14098f00079615addc7da33962b735.ts
+卫视中文,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
+卫视中文,mitv://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f.ts
+卫视中文,mitv://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80.ts
+卫视中文,mitv://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
+卫视电影,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad.ts
+卫视电影,mitv://fccseuro.pvbox.live:18912/5c2dd76a000ca61435a944c711910228.ts
+卫视电影,mitv://fccseuro.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad.ts
+高清影院,mitv://fccseuro.pvbox.live:18912/5b140a16000257643131fe220522a056.ts
+高清影院,mitv://fccsovh.pvbox.live:18912/5b140a16000257643131fe220522a056.ts
+龙华洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e.ts
+龙华洋片,mitv://fccseuro.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e.ts
+CINEMAWORLD,mitv://fccsovh.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772.ts
+CINEMAWORLD,mitv://fccseuro.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772.ts
+FOX CRIME HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts
+FOX CRIME HD,mitv://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts
+FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
+FOX HD,mitv://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
+FOX动作,mitv://fccsovh.pvbox.live:18912/5b140977000904d67563843aed175df7.ts
+FOX动作,mitv://fccseuro.pvbox.live:18912/5b140977000904d67563843aed175df7.ts
+FOX 家庭影院HD,mitv://fccsovh.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts
+FOX 家庭影院HD,mitv://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts
+FX 福克斯影视 HD,mitv://fccsovh.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f.ts
+FX 福克斯影视 HD,mitv://fccseuro.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f.ts
+HBO HD,mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+HBO HD,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts
+HBO HD,mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+CCTV-6 电影 HD,mitv://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
+CINEMAWORLD,mitv://fccseuro.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772
+FOX CRIME HD,mitv://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626
+FOX动作,mitv://fccseuro.pvbox.live:18912/5b140977000904d67563843aed175df7
+FOX 家庭影院HD,mitv://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef
+FX 福克斯影视 HD,mitv://fccseuro.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f
+HBO HD,mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
+东森电影 HD,mitv://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231
+伟来电影,mitv://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75
+美亚电影台 HD,mitv://fccseuro.pvbox.live:18912/5b14098f00079615addc7da33962b735
+卫视西片 HD,mitv://fccseuro.pvbox.live:18912/5b14098f00030ea4e4819ab008113231
+高清影院,mitv://fccseuro.pvbox.live:18912/5b140a16000257643131fe220522a056
+hbo hits,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
+HBO signature,mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
 大陆频道,#genre#
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
@@ -422,6 +545,76 @@ NewTV明星大片 2.5M1080,http://39.134.66.66/PLTV/88888888/224/3221225550/inde
 黑莓电竞+4M1080,http://39.134.155.159/PLTV/88888888/224/3221225643/index.m3u8
 
 港台频道,#genre#
+有线18台,rtmp://161.202.204.248/sat/hk042
+民视,rtmp://161.202.204.248/sat/tv052#rtmp://161.202.204.248:1935/sat/tv051
+台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
+中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
+華视,rtmp://161.202.204.248:1935/sat/tv111
+华视,rtmp://161.202.204.248/sat/tv112
+TVBS欢乐,rtmp://161.202.204.248/sat/tv422#rtmp://161.202.204.248/sat/tv421
+TVBS新闻,rtmp://161.202.204.248/sat/tv552
+TVBS欢乐,rtmp://59.124.75.153/sat/tv421
+TVBS欢乐,rtmp://59.124.75.153:1935/sat/tv421
+TVBS新闻,rtmp://59.124.75.153/sat/tv551
+TVBS新闻,rtmp://59.124.75.153:1935/sat/tv551
+TVBS欢乐,rtmp://161.202.204.248:1935/sat/tv421
+TVBS新闻,rtmp://161.202.204.248:1935/sat/tv551
+东森财经新闻,rtmp://59.124.75.153:1935/sat/tv571
+东森超视,rtmp://161.202.204.248/sat/tv772#rtmp://161.202.204.248:1935/sat/tv771#rtmp://161.202.204.248/sat/tv771
+有线18台,rtmp://59.124.75.153/sat/hk042
+民视,rtmp://59.124.75.153/sat/tv051
+台视,rtmp://59.124.75.153/sat/tv071
+中视,rtmp://59.124.75.153/sat/tv091
+华视,rtmp://59.124.75.153/sat/tv111
+纬来日本,rtmp://59.124.75.153:1935/sat/tv521
+纬来日本,rtmp://59.124.75.153/sat/tv522
+纬来育乐,rtmp://59.124.75.153/sat/tv701
+纬来育乐,rtmp://59.124.75.153:1935/sat/tv701
+Mono综合,rtmp://59.124.75.153/sat/tv761
+Mono综合,rtmp://59.124.75.153:1935/sat/tv761
+东森超视,rtmp://59.124.75.153/sat/tv771
+东森超视,rtmp://59.124.75.153:1935/sat/tv771
+Mono综合,rtmp://161.202.204.248/sat/tv761
+Mono综合,rtmp://161.202.204.248:1935/sat/tv761
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+星空音乐,rtmp://58.200.131.3:1935/livetv/channelv
+国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+星空音乐,rtmp://58.200.131.3:1935/livetv/channelv
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
+FOX体育,rtmp://161.202.204.248:1935/sat/tv731
+FOX2体育,rtmp://161.202.204.248:1935/sat/tv741
+TVBS新聞,rtmp://161.202.204.248/sat/tv551
+FOX3体育,rtmp://161.202.204.248:1935/sat/md031
+FOX3体育,rtmp://161.202.204.248:1935/sat/md021
+爱尔达体育1台,rtmp://161.202.204.248:1935/sat/md041
+日本MLB,rtmp://161.202.204.248:1935/sat/jp071
+博斯運動 II,rtmp://161.202.204.248:1935/sat/md051
+CBS2 720,rtmp://161.202.204.248:1935/sat/us011
+CBS2 480,rtmp://161.202.204.248:1935/sat/us012
+FOX体育,rtmp://161.202.204.248:1935/sat/us031
+FOX2体育,rtmp://161.202.204.248:1935/sat/us032
+星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+博斯魅力,rtmp://161.202.204.248/sat/md042
+爱尔达体育2台,rtmp://59.124.75.153/sat/md011
+爱尔达体育1台,rtmp://59.124.75.153/sat/md021
+爱尔达体育1台,rtmp://59.124.75.153:1935/sat/md031
+爱尔达体育1台,rtmp://161.202.204.248/sat/md011
+纬来体育,rtmp://161.202.204.248/sat/tv721#rtmp://161.202.204.248:1935/sat/tv721
+纬来育乐,rtmp://161.202.204.248/sat/tv701#rtmp://161.202.204.248/sat/tv702#rtmp://161.202.204.248:1935/sat/tv701
+纬来日本,rtmp://161.202.204.248:1935/sat/tv521#rtmp://161.202.204.248/sat/tv522
+有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk011
+星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+博斯运动1,,rtmp://59.124.75.153:1935/sat/md041
+爱尔达体育3台,rtmp://59.124.75.153/sat/md051
+纬来体育,rtmp://59.124.75.153/sat/tv721
+纬来体育,rtmp://59.124.75.153:1935/sat/tv721
+FOX体育,rtmp://59.124.75.153:1935/sat/tv731
+FOX2体育,rtmp://59.124.75.153:1935/sat/tv741
 凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文 10M720,http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 凤凰资讯 10M720,http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
@@ -600,7 +793,7 @@ Channel V,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playl
 MTVWMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 MTVSpankinNew,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-TVBS新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
+TVBS新闻,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 TVBS欢乐,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
 TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 中天综合,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
@@ -631,6 +824,27 @@ TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Global News,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+mtv台,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+NHK Eテレ,http://203.162.235.41:16901
+三立新聞,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
+中牟综合,http://live.dxhmt.cn:9081/tv/10122-1.m3u8
+乌克兰 Ⅰ M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+國家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+彭博财经台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+意大利 Ⅰ V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
+欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+求索动物FHD,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
+玄幻影院,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
+耀才財經台1,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=793591688
 
 亚洲频道,#genre#
 [日本]NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -1247,7 +1461,6 @@ FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 SkyNews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-
 Inquirer 990 Television,http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 Life TV,http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
 Life TV Asia,https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
@@ -1444,7 +1657,6 @@ BeritaSatu World (Opt-2),http://edge.linknetott.swiftserve.com/live/BsNew/amlst:
 BeritaSatu World (Opt-3),http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
 CNN Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 DAAI TV (Opt-2),http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 TV 9 Nusantara (Opt-2),http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
 TVKU,http://103.30.1.14:8080/hls/live.m3u8
 tvOne (Opt-2),http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -1522,108 +1734,192 @@ KBSWorld,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u
 英国sky TG24,http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 CNN,http://218.202.220.2:5000/nn_live.ts?id=CNN
 
-电影频道,#genre#
-贝爷②,http://tc-tct.douyucdn2.cn:80/dyliveflv1/36337r1uH4b7ZLzs.flv?wsAuth=8ae87e31d8bd9b2f6b5c256b7145451f&token=app-android1-296794511-36337-766622c31fb0db33525ebf8729edc27cbbe13c4b8444ec5e&logo=0&expire=0&did=f4c9f0a4875d528cafab6bda70005111&ver=v7.1.0&channel=94&pt=1&st=0&origin=tct&mix=0&isp=
-小宇,http://tc-tct.douyucdn2.cn:80/dyliveflv1/323876rVVf7wiHyG_2000.flv?wsAuth=873537c317c11fad5bd26d5b7e7dbcb8&token=app-android1-296794511-323876-ad60a296f846cd59b64a57d1a3634f667a625e297e44ebe8&logo=0&expire=0&did=f4c9f0a4875d528cafab6bda70005111&ver=v7.1.0&channel=94&pt=1&st=0&origin=tct&mix=0&isp=
-素颜,http://tc-tct.douyucdn2.cn:80/dyliveflv1a/96577rRV9ZOuPT7p_2000.flv?wsAuth=e99f933784ca7cf4c817504101c1d0ed&token=app-android1-296794511-96577-1b251e2eee2302e91870cf79e8dd37c054cdb8dd16235416&logo=0&expire=0&did=f4c9f0a4875d528cafab6bda70005111&ver=v7.1.0&channel=94&pt=1&st=0&origin=tct&mix=0&isp=
-小粤儿,http://tc-tct.douyucdn2.cn:80/dyliveflv3a/5033502rrYtnBjpx.flv?wsAuth=33c1e67317bdad6ad167b09135458140&token=app-androidhd1-0-5033502-e87fb2e05db6d5d1ad3c90f2eb2015175d2eeb4a92fb0ee8&logo=0&expire=0&did=b3b543f1-7f87-49c3-87a2-4356c51c6f7f&ver=v1.2.1&pt=1&st=0&origin=tct&mix=0&isp=
-粤语电影①,http://tc-tct.douyucdn2.cn:80/dyliveflv3/1226741rvcjQKMvm.flv?wsAuth=f9aaeacd453ff38502bd0ca578396cfa&token=app-androidhd1-0-1226741-0dc52b22d0295689a991f9ab1f76559630b78a32e3224b2b&logo=0&expire=0&did=b3b543f1-7f87-49c3-87a2-4356c51c6f7f&ver=v1.2.1&pt=1&st=0&origin=tct&mix=0&isp=p
-吃奶的虫,http://tc-tct.douyucdn2.cn:80/dyliveflv3/263824rxwFARCWaC_4000p.flv?wsAuth=bec2d3fd56402f846874ed58a7d3a2b1&token=app-android1-296794511-263824-8b71fec379b451b65cd01af4ce2755ae8d56940b28a0a010&logo=0&expire=0&did=f4c9f0a4875d528cafab6bda70005111&ver=v7.1.0&channel=94&pt=1&st=0&origin=tct&mix=0&isp=
-少女可乐,http://211.152.130.8:80/tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_4000.flv?wsAuth=c29b0638155469630f0523f82c38228c&token=app-android1-296794511-20415-d1d52564c95cba3de6cd69cbb68e5ffd5b69b97cd06b89eb&logo=0&expire=0&did=f4c9f0a4875d528cafab6bda70005111&ver=v7.1.0&channel=94&pt=1&st=0&origin=tct&mix=0&isp=
-电影 24/7,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-HBO HD,https://dl.dropbox.com/s/as9p2yufyypakyl/HBO.m3u8
-HBO RED HD,https://dl.dropbox.com/s/4g9x2urazh01m7i/RED.m3u8
-福克斯电影高清,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
-CINEMAX HD,https://dl.dropbox.com/s/1nqhsz02w72ojjl/MAX.m3u8
-&FLIX HD,https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-华纳电视高清,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
-国家地理高清,http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-Nat Geo Wild HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-ASTRO 哦！K HD,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-第 5 频道,http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
-ASTRO CERIA (BACKUP 2),http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
-BT SPORT 1 HD,http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-SPORT TV 1,http://Mastro@77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-JAK TV,https://dl.dropboxusercontent.com/s/ctdm9c9zw2uz35j/jaktv.m3u8?dl=0
-RCTI,https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/rcti.m3u8?dl=0
-KOMPAS TV,https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/kompastv.m3u8?dl=0
-METRO TV,https://dl.dropboxusercontent.com/s/cat0n2r1qob59ag/metrotv.m3u8?dl=0
-SCTV,https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
-HBO Asia HD,https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
-HBO 签名,https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
-HBO 家庭,https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-HBO点击,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-HBO 红色,https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
-AXN高清,https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-天体经典电影,https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1331053117
-林正英搞笑僵尸,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-林正英鬼片500部,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
-香港经典搞笑鬼片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227227
-古惑仔片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352469735
-赌片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352487950
-天映频道,mitv://fccseuro.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
-天映频道,mitv://fccseuro.pvbox.live:18912/5e64a27b000b40186caada2a41021861.ts
-天映频道,mitv://fccsovh.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
-天映HD,mitv://fccsovh.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160.ts
-天映HD,mitv://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160.ts
-好莱坞电影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783.ts
-好莱坞电影,mitv://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1.ts
-好莱坞电影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts
-好莱坞电影,mitv://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783.ts
-东森洋片,mitv://fccsovh.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef.ts
-东森洋片,mitv://fccseuro.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef.ts
-东森电影 HD,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
-东森电影 HD,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
-东森电影 HD,mitv://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
-伟来电影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts
-伟来电影,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9.ts
-伟来电影,mitv://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts
-美亚电影台 HD,mitv://fccsovh.pvbox.live:18912/5b14098f00079615addc7da33962b735.ts
-美亚电影台 HD,mitv://fccseuro.pvbox.live:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
-美亚电影台 HD,mitv://fccseuro.pvbox.live:18912/5b14098f00079615addc7da33962b735.ts
-卫视中文,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
-卫视中文,mitv://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f.ts
-卫视中文,mitv://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80.ts
-卫视中文,mitv://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
-卫视电影,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad.ts
-卫视电影,mitv://fccseuro.pvbox.live:18912/5c2dd76a000ca61435a944c711910228.ts
-卫视电影,mitv://fccseuro.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad.ts
-高清影院,mitv://fccseuro.pvbox.live:18912/5b140a16000257643131fe220522a056.ts
-高清影院,mitv://fccsovh.pvbox.live:18912/5b140a16000257643131fe220522a056.ts
-龙华洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e.ts
-龙华洋片,mitv://fccseuro.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e.ts
-CINEMAWORLD,mitv://fccsovh.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772.ts
-CINEMAWORLD,mitv://fccseuro.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772.ts
-FOX CRIME HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts
-FOX CRIME HD,mitv://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts
-FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
-FOX HD,mitv://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
-FOX动作,mitv://fccsovh.pvbox.live:18912/5b140977000904d67563843aed175df7.ts
-FOX动作,mitv://fccseuro.pvbox.live:18912/5b140977000904d67563843aed175df7.ts
-FOX 家庭影院HD,mitv://fccsovh.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts
-FOX 家庭影院HD,mitv://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts
-FX 福克斯影视 HD,mitv://fccsovh.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f.ts
-FX 福克斯影视 HD,mitv://fccseuro.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f.ts
-HBO HD,mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
-HBO HD,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts
-HBO HD,mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
-CCTV-6 电影 HD,mitv://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
-CINEMAWORLD,mitv://fccseuro.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772
-FOX CRIME HD,mitv://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626
-FOX动作,mitv://fccseuro.pvbox.live:18912/5b140977000904d67563843aed175df7
-FOX 家庭影院HD,mitv://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef
-FX 福克斯影视 HD,mitv://fccseuro.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f
-HBO HD,mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
-东森电影 HD,mitv://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231
-伟来电影,mitv://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75
-美亚电影台 HD,mitv://fccseuro.pvbox.live:18912/5b14098f00079615addc7da33962b735
-卫视西片 HD,mitv://fccseuro.pvbox.live:18912/5b14098f00030ea4e4819ab008113231
-高清影院,mitv://fccseuro.pvbox.live:18912/5b140a16000257643131fe220522a056
-hbo hits,mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
-HBO signature,mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
+女团频道,#genre#
+韩国歌团001ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+韩国歌团002ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+韩国歌团003ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+韩国歌团004ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+韩国歌团005ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+韩国歌团006ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+韩国歌团007ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+韩国歌团008ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+韩国歌团009ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+韩国歌团010ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+韩国歌团012ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+韩国歌团013ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+韩国歌团014ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+韩国歌团015ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+韩国歌团016ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+韩国歌团017ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+韩国歌团018ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+韩国歌团019ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+韩国歌团020ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+韩国歌团021ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
+韩国歌团022ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+韩国歌团023ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
+韩国歌团024ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
+韩国歌团025ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167718.mp4
+韩国歌团026ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
+韩国歌团027ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
+韩国歌团029ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
+韩国歌团030ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+韩国歌团031ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
+韩国歌团032ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
+韩国歌团033ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
+韩国歌团034ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
+韩国歌团035ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+韩国歌团036ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
+韩国歌团037ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
+韩国歌团042ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
+韩国歌团043ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
+韩国歌团044ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240179867562.mp4
+韩国歌团045ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
+韩国歌团046ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
+韩国歌团047ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+韩国歌团048ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
+韩国歌团049ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+韩国歌团050ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+韩国歌团051ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065838644.mp4
+韩国歌团052ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239945877111.mp4
+韩国歌团053ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240184339138.mp4
+韩国歌团054ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239842640589.mp4
+韩国歌团055ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
+韩国歌团056ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
+韩国歌团057ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
+韩国歌团058ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+韩国歌团059ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070818783.mp4
+韩国歌团060ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
+韩国歌团061ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239951329234.mp4
+韩国歌团062ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240191295627.mp4
+韩国歌团063ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240026585459.mp4
+韩国歌团064ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
+韩国歌团065ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
+韩国歌团066ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240196491782.mp4
+韩国歌团067ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
+韩国歌团068ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240017737344.mp4
+韩国歌团070ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
+韩国歌团071ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240205555546.mp4
+韩国歌团072ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239983417489.mp4
+韩国歌团074ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
+韩国歌团075ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240222023079.mp4
+韩国歌团076ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107150280.mp4
+韩国歌团077ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
+韩国歌团078ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
+韩国歌团079ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225803033.mp4
+韩国歌团080ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239989445779.mp4
+韩国歌团081ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240229579224.mp4
+韩国歌团082ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993533054.mp4
+韩国歌团083ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994225085.mp4
+韩国歌团084ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
+韩国歌团085ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
+韩国歌团086ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
+韩国歌团087ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
+韩国歌团088ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
+韩国歌团089ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
+韩国歌团090ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
+韩国歌团091ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239999177791.mp4
+韩国歌团092ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239895496483.mp4
+韩国歌团093ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240119938989.mp4
+韩国歌团094ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002397273.mp4
+韩国歌团095ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
+韩国歌团096ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239899840062.mp4
+韩国歌团097ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240243499351.mp4
+韩国歌团098ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240127638122.mp4
+韩国歌团099ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
+韩国歌团100ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+韩国歌团101ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240247623420.mp4
+韩国歌团102ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240043672242.mp4
+韩国歌团103ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240339124000.mp4
+韩国歌团104ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221702622.mp4
+韩国歌团105ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993732827.mp4
+韩国歌团106ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994460907.mp4
+韩国歌团107ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240340899550.mp4
+韩国歌团108ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995692215.mp4
+韩国歌团109ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240341971789.mp4
+韩国歌团110ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239996664565.mp4
+韩国歌团111ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240342839842.mp4
+韩国歌团112ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225254466.mp4
+韩国歌团113ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
+韩国歌团114ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998000351.mp4
+韩国歌团115ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240105989528.mp4
+韩国歌团116ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
+韩国歌团117ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
+韩国歌团118ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107389699.mp4
+韩国歌团119ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240345787129.mp4
+韩国歌团120ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240227966801.mp4
+韩国歌团121ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
+韩国歌团122ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240108721427.mp4
+韩国歌团123ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001176191.mp4
+韩国歌团125ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001228776.mp4
+韩国歌团126ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240109533631.mp4
+韩国歌团127ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240347663598.mp4
+韩国歌团128ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001932458.mp4
+韩国歌团129ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
+韩国歌团130ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240111085001.mp4
+韩国歌团131ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350575186.mp4
+韩国歌团132ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350771160.mp4
+韩国歌团133ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240113261859.mp4
+韩国歌团134ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
+韩国歌团135ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240236014123.mp4
+韩国歌团136ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008036293.mp4
+韩国歌团137ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
+韩国歌团138ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008780109.mp4
+韩国歌团139ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240009608741.mp4
+韩国歌团140ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240379515679.mp4
+韩国歌团141ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
+韩国歌团142ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
+韩国歌团143ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
+韩国歌团145ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
+韩国歌团146ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
+韩国歌团147ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
+韩国歌团148ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240387107547.mp4
+韩国歌团149ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
+韩国歌团150ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240388683474.mp4
+韩国歌团151ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
+韩国歌团152ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
+韩国歌团153ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
+태연ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240271145699.mp4
+태연&종현-Lonelyⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+태연&종현-숨소리ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
+태연&종현-숨소리ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+태연&종현-숨소리ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
+태연&종현-숨소리ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
+태연-11:11ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
+태연-11:11ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
+태연-11:11ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
+태연-11:11ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
+태연-Circusⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
+태연-Fineⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
+태연-Fineⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+태연-Fineⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+태연-Fineⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
+태연-Fineⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
+태연-Fineⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
+태연-Fineⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+태연-Iⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+태연-Iⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
+태연-Iⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
+태연-Iⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
+태연-Iⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
+태연-Iⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
+태연-Iⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
+태연-Iⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
+태연-Iⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
+태연-Iⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
+태연-Iⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240250429573.mp4
+태연-Rainⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+태연-Rainⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
+태연-Rainⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
+태연-Rainⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+태연-Voiceⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
+태연-Voiceⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+태연-WhenWeWereYoungⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
+태연-Whyⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
+태연-Whyⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
+태연-그대라는시ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
+태연-사계ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+태연-쉿ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
+태연-쌍둥이지리ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
 
 歌舞频道,#genre#
 小风波收集,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
