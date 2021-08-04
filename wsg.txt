@@ -238,10 +238,6 @@ CNA,http://198.16.106.62:8278/streams/d/cna/playlist.m3u8
 第5频道,http://198.16.106.62:8278/streams/d/Channel5HD/playlist.m3u8
 苏利亚,http://198.16.106.62:8278/streams/d/Suria/playlist.m3u8
 妙米,http://198.16.106.62:8278/streams/d/MiaoMi/playlist.m3u8
-TVBS新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
-TVBS欢乐,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
-TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
-中天综合,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 民视,http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
 民视台湾台,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
 三立台湾台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
@@ -251,10 +247,8 @@ TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 纬来精彩台,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
 纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
 纬来戏剧台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
-纬来综合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
-亚洲旅游,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
@@ -326,7 +320,262 @@ HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 国家地理野生频道,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
+华視新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
+TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+中視新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台視新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
+东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
+寰宇新聞,http://seb.sason.top/sc/hyxw.m3u8
+探索頻道,http://125.227.210.37:10388/VideoInput/play.ts
+迪士尼,http://125.227.210.37:14250/VideoInput/play.ts
+CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
+三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+國家地理頻道,http://125.227.210.37:16408/VideoInput/play.ts
+中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
+東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
+壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+年代新聞(維修),http://125.227.210.37:11055/VideoInput/play.ts
+三立新闻台,http://125.227.210.37:15589/VideoInput/play.ts
+非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
+衛視西片,http://125.227.210.37:18789/VideoInput/play.ts
+HBO,http://125.227.210.37:16027/VideoInput/play.ts
+東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
+澳視葡語,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+无线新台,http://osstv.fytt123.com/fylike520/fylike520/315
+无线新闻台,http://osstv.fytt123.com/fylike520/fylike520/3
+凤凰卫视高清[1280*720],http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+凤凰香港蓝光[1280*720],http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+凤凰中文台[1280*720],http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+凤凰中文台[1280*720],http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+凤凰资讯台[1280*720],http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯台[1280*720],http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+凤凰资讯[1280*720],http://117.169.120.138:8080/live/fhzixun/index.m3u8
+中国环球电视[1024*576],http://live.cgtn.com/500/prog_index.m3u8
+香港卫视文旅[854*480],https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+耀才財經台1[1024*576],http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+凤凰卫视中文台[1280*720],http://117.169.120.138:8080/live/fhchinese/.m3u8
+凤凰卫视中文台[1280*720],http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰卫视中文台1[1280*720],http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+凤凰香港台[1024*576],http://223.82.250.72/live/fhhongkong/1.m3u8
+凤凰卫视香港台[1280*720],http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
+鳳凰資訊[1280*720],http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰卫视资讯台[1280*720],http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+澳视澳门[1280*720],http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
+澳门卫星[1280*720],http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+澳门资讯[1280*720],http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
+港台電視31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+港台電視32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+港台電視32,http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
+港台電視33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
+香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+香港开电视,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+無綫新聞 newsevent1,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
+無綫新聞 newsevent2,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
+ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+賽馬直擊,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-HR-NO/02.m3u8
+阳光卫视,https://stream.isuntv.com/680k/mid_video_index.m3u8
+亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+熱血時報,http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
+澳視澳門,http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+澳視葡文,http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+澳門MACAU,http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
+澳門體育,http://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+澳門資訊,http://live4.tdm.com.mo/ch5/_difinst_/info_ch5.live/playlist.m3u8
+澳門綜藝,http://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+澳門立法會直播,http://live4.tdm.com.mo/tv/ch21.live/playlist.m3u8
+澳門有線 CH1,http://202.175.127.77/live/show/ch1/index.m3u8
+澳門互動新聞台,http://202.175.127.77/live/show/ch2/index.m3u8
+澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
+有線財經資訊台,https://api.leonardpark.dev/live/icable/108
+有線新聞台,https://api.leonardpark.dev/live/icable/109
+TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+翡翠台,http://61.238.6.49:8000/bysid/1
+魅力足球,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+澳視MACAU,http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+澳視澳門台,http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+澳視資訊,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+港台電視32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
+ViuTV,http://61.238.6.49:8000/bysid/99
+ViuTV Six,http://61.238.6.49:8000/bysid/96
+astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+ASTro港剧台,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳视综艺,http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
+澳视微影,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳视资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+港台電視新聞,http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
+港台电视31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+港台电视32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+港视32台,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
+亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
+香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+C+频道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+澳门葡语,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+凤凰卫视蓝光2,http://117.169.120.138:8080/live/fhchinese/index.m3u8
+澳视澳门,http://61.244.22.4/ch1/ch1.live/index.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
+澳视卫星,http://61.244.22.4/ch3/ch3.live/index.m3u8
+鳳凰資訊,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+澳门卫视台,http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+凤凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+凤凰资讯,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+澳視葡文,http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+澳視衛視,http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+凤凰资讯,http://117.169.120.160:8080/live/fhzixun/1.m3u8
+风凰资讯,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
+凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=38044364
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+澳门2台,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳门3台,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳门综艺,http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中视新闻台,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+華視教育體育文化台,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+華視新聞資訊台 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
+華視新聞資訊台 HD,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+國會頻道1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
+國會頻道2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
+台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
+民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
+民视,http://seb.sason.top/ptv/ftv.php?id=ms
+民视,http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
+民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
+民视新闻台,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
+民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
+民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
+民视台湾台,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
+民視旅游,http://seb.sason.top/ptv/ftv.php?id=ly
+寰宇新闻,http://seb.sason.top/sc/hyxw.m3u8
+中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8
+东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
+东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+東森美洲 HD,http://seb.sason.top/sc/dsmz_fhd.m3u8
+TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+三立财经新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立新闻台,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
+三立台灣台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
+緯來體育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
+緯來日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
+緯來戲劇台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+緯來精采台,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+勁爆體育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+超级体育ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
+超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
+精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+耀才財經台1,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+卫视卡式,http://kuqq.gq/ub.php?id=1085
+新唐人,https://live.ntdimg.com/aplive200/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
+新唐人舊金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
+新唐人加東台,https://live.ntdimg.com/mllive860/playlist.m3u8
+新唐人美東台,https://live.ntdimg.com/live400/playlist.m3u8
+新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+音乐20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+民視新聞台,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+好消息电视台1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+第一财经HD,http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+精彩电视,http://39.134.24.193/PLTV/88888888/224/3221225813/index.m3u8?epg=cntv-cctv8?回看=http://39.134.24.193/PLTV/88888888/224/3221225813/index.m3u8
+精彩电影,http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8?epg=cntv-cctv6?回看=http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8
+精彩体育,http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8?epg=cntv-cctv5?回看=http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8
+精彩综艺,http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8?epg=cntv-cctv3?回看=http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8
+優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
+優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+中牟综合,http://live.dxhmt.cn:9081/tv/10122-1.m3u8
+乌克兰 Ⅰ M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
+卡塔尔 Ⅰ 卡斯体育,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+國家地理野生,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
+意大利 Ⅰ V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
+新唐人加東台,https://live.ntdimg.com/mllive220/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/uwlive520/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/sflive220/playlist.m3u8
+東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+民視新聞,http://210.61.56.23/hls/ftvtv/index.m3u8
+玄幻影院,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
+緯來體育台,http://125.227.210.37:18358/VideoInput/play.ts
+耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=793591688
+中山公共,http://dslive.grtn.cn/zszh/sd/live.m3u8
+云浮综合,http://dslive.grtn.cn/yfzh/sd/live.m3u8
+五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+亚洲新闻台(CNA),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
+新视觉,http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+第一财经,http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+美国之音中文,http://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
+熊猫影视,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21253818
+经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
+经典影视台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=23169468
+天映电影50,http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
+天映电影50,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+Sky News,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+凤凰香港台,http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
+有線綜合娛樂台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
+有線直播新聞台,https://api.leonardpark.dev/live/icable/110
+Now財經333台,https://www.navchina.cf/IPTV/now.php?id=333
+鳳凰衛視中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+鳳凰衛視資訊台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+鳳凰衛視香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+Now直播331台,https://api.leonardpark.dev/live/now/331
+Now新聞台,https://www.navchina.cf/IPTV/now.php?id=332
+MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
+双峰电视一套 (360p),http://hnsf.chinashadt.com:2036/zhuanma/tv1.stream_360p/playlist.m3u8
+天映经典频,https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+天映频道,https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 有线18台,rtmp://161.202.204.248/sat/hk042
 民视,rtmp://161.202.204.248/sat/tv052#rtmp://161.202.204.248:1935/sat/tv051
 台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
@@ -397,7 +646,6 @@ FOX2体育,rtmp://161.202.204.248:1935/sat/us032
 纬来体育,rtmp://59.124.75.153:1935/sat/tv721
 FOX体育,rtmp://59.124.75.153:1935/sat/tv731
 FOX2体育,rtmp://59.124.75.153:1935/sat/tv741
-
 无线新闻,p5p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVBS新闻,p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 纬来体育,p5p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e.ts
@@ -472,36 +720,6 @@ TVBS,p5p://fccs.123178.top:9906/60435407000d43d906f30c28a0b64eda.ts
 爱放动漫,p5p://fccs.123178.top:9906/60447b1e000e9a430193d36877b2a95b.ts
 爱尔达综合台,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
 爱尔达影剧台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
-三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
-华視新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
-TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-中視新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
-台視新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
-东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
-寰宇新聞,http://seb.sason.top/sc/hyxw.m3u8
-探索頻道,http://125.227.210.37:10388/VideoInput/play.ts
-迪士尼,http://125.227.210.37:14250/VideoInput/play.ts
-CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
-三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-國家地理頻道,http://125.227.210.37:16408/VideoInput/play.ts
-中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
-東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
-壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-年代新聞(維修),http://125.227.210.37:11055/VideoInput/play.ts
-三立新闻台,http://125.227.210.37:15589/VideoInput/play.ts
-非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
-衛視西片,http://125.227.210.37:18789/VideoInput/play.ts
-HBO,http://125.227.210.37:16027/VideoInput/play.ts
-東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
-FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
-澳視葡語,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-无线新台,http://osstv.fytt123.com/fylike520/fylike520/315
-无线新闻台,http://osstv.fytt123.com/fylike520/fylike520/3
 
 电影频道,#genre#
 2021蛇王島,https://n1.szjal.cn/20210721/4IasNTck/index.m3u8
@@ -650,7 +868,6 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 电影14_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
 电影15_斗鱼,http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
 电影16_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-电影17_斗鱼,http://dyscdnali1.douyucdn.cn/live/8985119rTkdqiLdS.flv?uuid=
 电影18_斗鱼,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 电影19_斗鱼,http://dyscdnali1.douyucdn.cn/live/4332rPilCZUnNr9P.flv?uuid=
 电影20_斗鱼,http://dyscdnali1.douyucdn.cn/live/6566658rY3gtCwNC.flv?uuid=
@@ -658,8 +875,6 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 电影22_斗鱼,http://dyscdnali1.douyucdn.cn/live/8861179rIFT8fYfO.flv?uuid=
 电影25_斗鱼,http://dyscdnali1.douyucdn.cn/live/315457rlhQDSs2yk.flv?uuid=
 电影27_斗鱼,http://dyscdnali1.douyucdn.cn/live/248753rn5NROcDXx.flv?uuid=
-电影29_斗鱼,http://dyscdnali1.douyucdn.cn/live/7842226rHTQPzFuy.flv?uuid=
-电影30_斗鱼,http://dyscdnali1.douyucdn.cn/live/5423rVrv34H1KMFd.flv?uuid=
 电影33_斗鱼,http://dyscdnali1.douyucdn.cn/live/544263rqpxGOGZ7X.flv?uuid=
 电影37_斗鱼,http://dyscdnali1.douyucdn.cn/live/508118rFJdmlB5it.flv?uuid=
 电影39_斗鱼,http://dyscdnali1.douyucdn.cn/live/8791622rQyl7GMZS.flv?uuid=
@@ -668,7 +883,6 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 电影43_斗鱼,http://dyscdnali1.douyucdn.cn/live/263824rxwFARCWaC.flv?uuid=
 电影44_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 电影46_斗鱼,http://dyscdnali1.douyucdn.cn/live/310926rxaVCymr5Z.flv?uuid=
-电影47_斗鱼,http://dyscdnali1.douyucdn.cn/live/218859rUp5PN3Slh.flv?uuid=
 电影1_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/799790/live_416544064_58389145.m3u8
 电影2_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/830956/live_362963326_14864388.m3u8
 电影5_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/769247/live_400392_6822511.m3u8
@@ -676,7 +890,6 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 电影7_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/843070/live_102569357_4797059.m3u8
 电影8_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/837360/live_22989278_9714011.m3u8
 电影10_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/664910/live_381718124_59580738.m3u8
-电影11_b站,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/880180/live_97065163_17925468.m3u8
 斗鱼1,http://dyscdnali1.douyucdn.cn/live/9639225r1blkiD0H.flv?uuid=
 斗鱼2,http://dyscdnali1.douyucdn.cn/live/431460rPd5dUpXol.flv?uuid=
 斗鱼29,http://dyscdnali1.douyucdn.cn/live/8768613rLswO6sLV.flv?uuid=
@@ -688,13 +901,10 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 斗鱼72,http://dyscdnali1.douyucdn.cn/live/675072rOYS9rCVm4.flv?uuid=
 斗鱼5,http://dyscdnali1.douyucdn.cn/live/2632223rJ8DKLdt1.flv?uuid=
 斗鱼59,http://dyscdnali1.douyucdn.cn/live/6786937r2P8tFyys.flv?uuid=
-斗鱼31,http://dyscdnali1.douyucdn.cn/live/9461990rryFranYE.flv?uuid=
 斗鱼45,http://dyscdnali1.douyucdn.cn/live/2164691rgMdCM4gL.flv?uuid=
 斗鱼18,http://dyscdnali1.douyucdn.cn/live/7537296rTdKDixQ0.flv?uuid=
-斗鱼60,http://dyscdnali1.douyucdn.cn/live/7669170rbZntoNrs.flv?uuid=
 斗鱼32,http://dyscdnali1.douyucdn.cn/live/5429211rk0vMJAPS.flv?uuid=
 斗鱼46,http://dyscdnali1.douyucdn.cn/live/7623292rv3dOOoOm.flv?uuid=
-斗鱼8,http://dyscdnali1.douyucdn.cn/live/9484105rQPq7g1l5.flv?uuid=
 斗鱼19,http://dyscdnali1.douyucdn.cn/live/9485398rvUaS3J3k.flv?uuid=
 斗鱼10,http://dyscdnali1.douyucdn.cn/live/5427842rZw9KpcWz.flv?uuid=
 斗鱼61,http://dyscdnali1.douyucdn.cn/live/6655271rxmF2Pias.flv?uuid=
@@ -721,7 +931,6 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 斗鱼37,http://dyscdnali1.douyucdn.cn/live/9562616rKseMBP21.flv?uuid=
 斗鱼25,http://dyscdnali1.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
 斗鱼93,http://dyscdnali1.douyucdn.cn/live/9547577rb6RvmwMr.flv?uuid=
-斗鱼66,http://dyscdnali1.douyucdn.cn/live/6449849re9lhOZz9.flv?uuid=
 斗鱼38,http://dyscdnali1.douyucdn.cn/live/9644669rupYvoAm2.flv?uuid=
 斗鱼80,http://dyscdnali1.douyucdn.cn/live/7493575rTZ8N4pNM.flv?uuid=
 斗鱼26,http://dyscdnali1.douyucdn.cn/live/4587723rW3cfJk1s.flv?uuid=
@@ -730,14 +939,11 @@ FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 斗鱼81,http://dyscdnali1.douyucdn.cn/live/5354713r7oSnGMxp.flv?uuid=
 斗鱼27,http://dyscdnali1.douyucdn.cn/live/4246519rosxSsVn4.flv?uuid=
 斗鱼95,http://dyscdnali1.douyucdn.cn/live/3603763recO1oURs.flv?uuid=
-斗鱼54,http://dyscdnali1.douyucdn.cn/live/1165374rh7jqklxx.flv?uuid=
-斗鱼40,http://dyscdnali1.douyucdn.cn/live/5581257rliG8CVwH.flv?uuid=
 斗鱼69,http://dyscdnali1.douyucdn.cn/live/851249rzjtbDIcnx.flv?uuid=
 斗鱼55,http://dyscdnali1.douyucdn.cn/live/9292492riUx6cvsg.flv?uuid=
 斗鱼41,http://dyscdnali1.douyucdn.cn/live/9647845rYmLyPKu2.flv?uuid=
 斗鱼83,http://dyscdnali1.douyucdn.cn/live/9601429rGu5fiVmS.flv?uuid=
 斗鱼70,http://dyscdnali1.douyucdn.cn/live/7642724rYIQ3VuSK.flv?uuid=
-斗鱼56,http://dyscdnali1.douyucdn.cn/live/465761reCmHrpfyP.flv?uuid=
 斗鱼42,http://dyscdnali1.douyucdn.cn/live/752376rZ7m77RLmY.flv?uuid=
 B站0,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/843878/live_415611_4082642.m3u8
 B站52,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/266614/live_27977562_5364248.m3u8
@@ -754,7 +960,6 @@ B站5,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/512252/live_102569357
 B站31,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/517996/live_244139258_5651295.m3u8
 B站57,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/910996/live_17410626_9366308.m3u8
 B站6,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/854338/live_482572673_49204800.m3u8
-B站32,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/676348/live_2229934_8067215.m3u8
 B站84,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/113424/live_29395003_7062664.m3u8
 B站7,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/731806/live_6734550_81648801.m3u8
 B站85,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/348972/live_431286535_45905113.m3u8
@@ -762,11 +967,8 @@ B站8,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/565807/live_2370062_9
 B站34,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/392283/live_16416058_332_c521e483.m3u8
 B站86,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/950320/live_436396221_4816964.m3u8
 B站35,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/488192/live_334056_8894439.m3u8
-B站36,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/781428/live_41378435_9778678.m3u8
 B站62,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/555894/live_458113229_23604285.m3u8
 B站11,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/976610/live_25773623_6914527.m3u8
-B站37,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/253015/live_362079724_8461189.m3u8
-B站63,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/419736/live_406288782_21283001.m3u8
 B站12,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/658918/live_488432581_30861882.m3u8
 B站38,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/265410/live_387161809_30629897.m3u8
 B站91,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/825058/live_278134251_52437732.m3u8
@@ -781,11 +983,9 @@ B站69,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/906751/live_31848054
 B站44,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/543258/live_4848211_28415954.m3u8
 B站19,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/171489/live_19358082_1399772.m3u8
 B站71,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/866850/live_504364241_23876062.m3u8
-B站72,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/473073/live_25908834_3153107.m3u8
 B站22,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/651682/live_23803304_6445235.m3u8
 B站23,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/295754/live_7981914_1286387.m3u8
 B站49,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/529916/live_698307037_74886247.m3u8
-B站24,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/763744/live_97065163_17925468.m3u8
 B站50,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/689326/live_103015858_4417931.m3u8
 B站25,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/988632/live_381718124_59580738.m3u8
 
@@ -902,983 +1102,18 @@ GOODTV,http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 신세계쇼핑,http://wliveout.kollus.com/shinsegaetvshopping_h0000k/index.m3u8
 K쇼핑,https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
 GSTV-쇼핑,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
-
-欧美频道,#genre#
-Woohoo HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36899
-VH1 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36900
-Telecine Cult HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36901
-TLC HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36902
-Syfy HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36903
-Studio Universal HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36904
-Premiere 7 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36905
-Premiere 6 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36906
-Nick HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36907
-Nick Jr. HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36908
-NatGeo Kids HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36909
-MTV HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36910
-HBO POP HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36911
-HBO Xtreme HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36912
-HBO Mundi HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36913
-Lifetime HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36914
-Gloob HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36915
-GloboNews HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36917
-Star Life HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36918
-Food Network HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36919
-E! HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36920
-Disney Channel HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36921
-Discovery Science HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36922
-Discovery Kids HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36923
-HGTV HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36924
-Comedy Central HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36925
-Cinemax HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36926
-Cartoon Network HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36927
-AMC HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36928
-A&E HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36929
-Warner Channel HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36930
-Viva HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36931
-Universal TV HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36932
-TNT Séries HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36933
-TNT HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36934
-Telecine Touch HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36935
-Telecine Premium HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36936
-Telecine Pipoca HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36937
-Telecine Fun HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36938
-Telecine Action HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36939
-TBS HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36940
-SporTV 3 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36942
-SporTV 2 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36943
-Space HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36944
-SBT HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36945
-RedeTV! HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36946
-RecordTV HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36947
-Premiere Clubes HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36948
-Premiere 5 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36949
-Premiere 4 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36950
-Premiere 3 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36951
-Premiere 2 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36952
-Paramount Channel HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36953
-Off HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36954
-National Geographic Wild HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36955
-National Geographic HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36956
-Multishow HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36957
-Megapix HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36958
-ID: Investigação Discovery HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36959
-History HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36960
-History 2 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36961
-HBO Signature HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36962
-HBO Plus HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36963
-HBO HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36964
-HBO Family HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36965
-HBO 2 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36966
-GNT HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36967
-Globo Rio HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36968
-FX HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36969
-FoxSports HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36970
-FoxSports 2 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36971
-Star Channel HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36972
-Star Hits 2 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36973
-Star Hits HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36974
-ESPN 2 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36976
-ESPN HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36977
-Discovery World HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36981
-Discovery Turbo HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36982
-Discovery Theater HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36983
-Discovery Home & Health,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36984
-Discovery Channel HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36985
-Combate HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36986
-Sony Channel HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36987
-BIS HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36988
-BandSports HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36989
-Band HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36990
-AXN HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36991
-Animal Planet HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36992
-BabyTV,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36993
-Telecine Premium,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36994
-Telecine Touch,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36995
-Warner Channel,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36996
-Viva,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36997
-TV Escola,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36999
-TV Aparecida,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37003
-Terra Viva,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37004
-Telecine Fun,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37005
-SporTV 3,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37006
-Sony Channel,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37007
-Rede Vida HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37011
-RedeTV!,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37012
-Rede Brasil,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37013
-TV Ra Tim Bum,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37015
-Premiere Clubes,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37016
-Premiere 7,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37017
-Canção Nova HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37023
-Woohoo,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37025
-Universal TV,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37027
-TV TEM Sorocaba,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37029
-TV TEM Bauru,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37030
-TruTV,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37032
-Tooncast,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37033
-TNT Séries,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37034
-TNT,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37035
-TLC,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37036
-TCM,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37037
-Telecine Pipoca,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37038
-Telecine Cult,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37039
-Telecine Action,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37040
-TBS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37041
-Syfy,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37042
-Studio Universal,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37043
-SporTV 2,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37044
-Space,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37046
-SBT,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37048
-Record News HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37050
-RecordTV,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37051
-Prime Box Brazil,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37053
-Premiere 6,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37056
-Premiere 5,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37057
-Premiere 4,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37058
-Premiere 3,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37059
-Premiere 2,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37060
-Paramount Channel,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37062
-Off,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37063
-Nick,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37064
-Nick Jr.,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37065
-National Geographic Wild,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37066
-NatGeo Kids,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37067
-National Geographic,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37068
-Music Box Brazil,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37069
-Multishow,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37070
-MTV,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37071
-Megapix,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37072
-HBO POP,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37073
-HBO Xtreme E,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37074
-HBO Xtreme,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37075
-HBO Mundi,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37076
-Lifetime,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37077
-History,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37081
-HBO Signature,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37082
-HBO Plus E,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37083
-HBO Plus,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37084
-HBO Family,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37085
-HBO 2,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37086
-GNT,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37088
-TV Bahia HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37096
-FX,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37097
-FoxSports 2,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37098
-FoxSports,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37099
-Star Life,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37100
-Star Channel,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37101
-Food Network,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37102
-Fish TV,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37103
-ESPN Brasil,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37104
-ESPN,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37105
-E!,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37108
-Disney XD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37109
-Disney Junior,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37110
-Disney Channel,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37111
-Discovery Turbo,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37112
-Discovery Kids,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37113
-ID: Investigação Discovery,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37114
-Discovery Home & Health HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37115
-Discovery Channel,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37116
-Curta!,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37117
-Comedy Central,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37118
-Combate,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37119
-Cinemax,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37120
-Cartoon Network,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37121
-Canal Brasil,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37122
-Boomerang,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37123
-BandSports,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37125
-BandNews,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37126
-Band,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37127
-Animal Planet,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37128
-A&E,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37130
-BIS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37131
-AXN,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37132
-Arte 1,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37133
-SporTV HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37255
-SporTV,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37256
-Star Hits,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37335
-Star Hits 2,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37336
-Globo SP HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37361
-RPC Curitiba,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37366
-ESPN Extra FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38380
-RPC Curitiba FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38381
-History FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38383
-Warner Channel FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38384
-Star Hits 2 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38386
-Discovery World FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38387
-Discovery Turbo FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38388
-Discovery Home & Health FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38389
-Boomerang FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38390
-BandNews FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38391
-Animal Planet FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38392
-Viva FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38393
-SporTV 3 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38394
-SporTV 2 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38395
-Gloob FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38396
-GloboNews FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38397
-FoxSports 2 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38398
-ESPN FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38401
-Disney Channel FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38402
-BIS FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38403
-Discovery Channel FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38404
-Premiere 7 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
-Premiere 6 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38406
-Premiere 5 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38407
-Premiere 4 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38408
-Premiere 3 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38409
-Premiere 2 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38410
-Premiere Clubes FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38411
-ESPN Brasil FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38413
-Telecine Touch FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38414
-Telecine Premium FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38415
-Telecine Pipoca FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38416
-Telecine Fun FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38417
-Telecine Action FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38418
-SporTV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38419
-SBT FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38420
-RecordTV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38421
-HBO 2 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38423
-Star Channel FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38427
-Combate FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38428
-Band FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38429
-EPTV Ribeirão HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38640
-Globo Minas HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40251
-RBS TV Porto Alegre HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40252
-Food Network FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40257
-HGTV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40259
-Comedy Central FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40260
-Cinemax FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40261
-AMC FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40262
-A&E FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40263
-Lifetime FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40265
-MTV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40266
-Woohoo FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40267
-HBO Mundi FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40268
-HBO POP FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40270
-VH1 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40271
-Globo Brasília HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40513
-MTV Live HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40518
-Premiere Clubes [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40783
-SporTV [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40785
-National Geographic FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41280
-TV Aparecida HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41341
-PlayKids HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41359
-Arte 1 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41467
-AXN FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41468
-Sony Channel FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41470
-Cartoon Network FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41471
-Curta! FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41472
-Discovery Kids FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41473
-Discovery Science FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41474
-Discovery Theater FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41475
-E! FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41476
-ESPN 2 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41477
-Fish TV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41478
-Star Life FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41479
-Star Hits FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41480
-Futura FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41481
-FX FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41482
-Gloobinho FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41483
-GNT FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41484
-History 2 FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41485
-HBO Family FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41486
-HBO Plus FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41487
-HBO Signature FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41488
-ID: Investigação Discovery FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41489
-Megapix FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41491
-MTV Live FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41492
-Multishow FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41493
-Music Box Brazil FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41494
-NatGeo Kids FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41496
-National Geographic Wild FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41497
-Nick Jr. FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41498
-Off FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41499
-Paramount Channel FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41500
-Prime Box Brazil FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41501
-Record News FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41502
-Space FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41503
-Syfy FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41504
-TBS FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41505
-Telecine Cult FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41506
-TNT FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41507
-TNT Séries FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41508
-TruTV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41509
-TV Ra Tim Bum FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41510
-Studio Universal FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41511
-Disney Junior FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41512
-Band SP FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41514
-Globo Minas FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41515
-RecordTV Paulista FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41516
-Canal Brasil FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41517
-RedeTV! FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41518
-Rede Vida FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41519
-RecordTV Rio FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41521
-PLAYKIDS FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41522
-Record News,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41529
-Band SP HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41530
-Ligeirinho [24h],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41893
-Manda Chuva [24h],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41894
-Pepe Legal [24h],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41897
-ESPN Extra,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41977
-BandNews HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42411
-RecordTV Bahia HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42624
-RecordTV Brasília HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42626
-Combate [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42635
-BandSports FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42900
-HBO Xtreme FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42901
-Mais GloboSat FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42902
-Cultura FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42903
-RecordTV Minas FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42904
-RecordTV Bahia FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42905
-RecordTV RS FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42907
-Globo TV Sergipe,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42908
-ESPN Extra HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42910
-Fish TV HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42911
-SBT Interior SP,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42912
-History 2,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42915
-Globo EPTV Araraquara,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42950
-EPTV Campinas HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42952
-Globo EPTV São Carlos,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42955
-Globo Inter TV Natal,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42956
-NSC TV Florianópolis HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42958
-RBS TV Porto Alegre,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42959
-Rede Amazônica Manaus,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42960
-RPC Curitiba HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42961
-SC TV Chapecó FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42969
-RPC Foz do Iguaçu FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42973
-RPC Foz do Iguaçu HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42974
-EPTV Campinas FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42983
-Globo Nordeste FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42984
-NSC TV Florianópolis FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42985
-Globo TV Anhanguera FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42986
-TV Bahia FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42987
-TV TEM SJRP FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42993
-EPTV Ribeirão FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42999
-Globo [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/43430
-Syfy FHD H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50532
-SONY FULL HD H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50533
-CARTOON NETWORK H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50534
-CINEMAX - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50535
-COMBATE H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50536
-COMEDY - CENTRAL H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50537
-DISCOVERY CHANNEL H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50538
-DISCOVERY SCIENCE H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50540
-ESPN 2 - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50541
-FOOD NETWORK - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50543
-Star Channel - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50544
-FOX SPORTS 2 - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50545
-BandSports,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50613
-A&E HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50614
-A&E [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50628
-AMC FHD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50636
-AMC HD  [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50639
-AMC [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50640
-ANIMAL PLANET [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50641
-Arte 1 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50643
-AXN FHD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50644
-Canal do Boi,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50645
-AXN HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50646
-AXN [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50647
-BABY TV HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50648
-BABY TV [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50649
-BAND CAMPINAS HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50650
-BandNews HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50654
-BandNews [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50655
-BAND SPORTS HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50656
-BAND SPORTS [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50657
-BIS FHD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50660
-BOOMERANG FHD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50663
-CANCAO NOVA [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50665
-CARTOON NETWORK HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50667
-CINEMAX FHD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50668
-CINEMAX HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50669
-COMBATE FHD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50671
-COMBATE HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50672
-COMBATE [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50673
-COMEDY CENTRAL HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50674
-COMEDY CENTRAL [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50675
-CURTA [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50676
-DISCOVERY CHANNEL FHD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50681
-DISCOVERY CHANNEL HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50691
-DISCOVERY CHANNEL [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50701
-HGTV FHD  [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50702
-DISCOVERY HOME & HEALTH HD  [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50704
-DISCOVERY HOME & HELTH [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50705
-DISCOVERY KIDS HD  [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50706
-DISCOVERY KIDS [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50707
-DISCOVERY SCIENCE HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50708
-DISCOVERY THEATER HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50709
-DISCOVERY TURBO HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50710
-DISCOVERY TURBO [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50711
-DISCOVERY WORLD HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50712
-DISNEY CHANNEL HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50713
-DISNEY CHANNEL [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50714
-DISNEY JR HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50715
-DISNEY JR [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50716
-Disney XD HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50717
-DISNEY XD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50718
-ESPN 2  HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50734
-ESPN BRASIL HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50736
-ESPN HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50739
-ESPN [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50740
-FOOD NETWORK HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50742
-FOOD NETWORK [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50745
-Star Channel HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50747
-Star Life HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50748
-Star Life [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50749
-Star Hits HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50750
-Star Hits 2 HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50751
-Star Channel [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50752
-FOX SPORTS 2 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50754
-FX HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50770
-FX [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50771
-GLOOB HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50773
-GLOOBINHO [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50774
-GNT HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50775
-GNT [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50781
-H2 HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50786
-H2 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50787
-HBO 2 HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50788
-HBO 2 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50789
-HBO FAMILY HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50790
-HBO FAMILY [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50791
-HBO HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50792
-HBO PLUS *E [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50793
-HBO PLUS [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50794
-HBO [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50795
-HBO SIGNATURE HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50796
-HBO SIGNATURE [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50797
-HISTORY CHANNEL HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50798
-HISTORY CHANNEL [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50799
-INVESTIGACAO DISCOVERY HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50803
-LIFETIME HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50829
-LIFETIME [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50834
-MAIS GLOBOSAT HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50836
-MAIS GLOBOSAT [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50838
-HBO Mundi HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50842
-HBO Xtreme [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50845
-HBO Mundi [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50849
-HBO POP HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50851
-HBO POP [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50852
-MegaPix HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50853
-MegaPix [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50854
-MTV HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50855
-MULTISHOW HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50857
-MULTISHOW [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50858
-MUSIC BOX BRASIL [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50859
-NATGEO HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50902
-NATGEO KIDS HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50903
-NATGEO KIDS [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50904
-NATGEO [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50905
-NATGEO WILD HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50920
-NATGEO WILD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50925
-NICK HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50932
-NICK JR HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50933
-NICK JR [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50934
-NICKELODEON [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50935
-NOVO TEMPO [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50936
-OFF HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50937
-PARAMOUNT CHANNEL HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50938
-PARAMOUNT CHANNEL [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50945
-PREMIERE 2 HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50953
-PREMIERE 2 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50954
-PREMIERE 3 HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50966
-PREMIERE 3 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50973
-PREMIERE 4 HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50976
-PREMIERE 4 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50977
-PREMIERE 5 HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50983
-PREMIERE 5 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50984
-PREMIERE 6 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50986
-PREMIERE 7 HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50987
-PREMIERE 7 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50988
-PREMIERE 8 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/50989
-PREMIERE CLUBES [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51001
-Discovery Science,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51002
-PRIMEBOX BRASIL [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51004
-RECORD HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51006
-Discovery Theater,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51007
-RECORD NEWS [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51009
-RECORD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51012
-REDE TV HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51014
-REDE TV [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51024
-REDE VIDA [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51032
-SBT HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51039
-SBT [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51044
-SPACE HD  [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51047
-SPACE [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51048
-Disney XD H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51050
-SPORTV 2 HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51051
-SPORTV 2 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51052
-SPORTV 3 HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51053
-SPORTV 3 [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51054
-SPORTV HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51055
-SPORTV [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51056
-STUDIO UNIVERSAL [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51081
-TELECINE ACTION HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51083
-TELECINE ACTION [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51084
-TELECINE CULT HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51085
-TELECINE FUN HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51087
-TELECINE FUN [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51088
-TELECINE PIPOCA HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51089
-TELECINE PIPOCA [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51090
-TELECINE PREMIUM HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51104
-TELECINE PREMIUM [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51109
-TELECINE TOUCH HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51113
-TELECINE TOUCH [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51115
-TNT HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51119
-TNT [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51120
-TNT SERIES HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51121
-TNT SERIES [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51122
-GLOBO EPTV SAO CARLOS [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51145
-GLOBO BRASILIA HD [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51146
-GLOBO NORDESTE  [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51148
-GLOBO Rio HD  [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51149
-GLOBO SP HD  [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51150
-HBO PLUS HD  [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51151
-GLOBO BRASILIA [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51152
-GLOBO INTERTV CABUGI  [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51153
-GLOBO MINAS [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51154
-GLOBO TV TRIBUNA SANTOS  [ALT],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51155
-RBS TV Porto Alegre FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51215
-FOX SPORTS - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51241
-FX-H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51242
-GLOBO NEWS FHD - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51243
-Gloob - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51244
-H2 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51245
-HBO PLUS- H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51246
-HBO SIGNATURE - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51247
-HBO2 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51248
-INVESTIGATION DISCOVERY  H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51250
-LIFETIME - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51251
-MTV - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51252
-MULTISHOW H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51253
-NAT GEO KIDS H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51255
-OFF - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51257
-PREMIERE 2 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51259
-PREMIERE 3 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51260
-PREMIERE 4 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51261
-PREMIERE 5 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51262
-PREMIERE 6  H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51263
-PREMIERE CLUBES H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51265
-SPACE - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51267
-SPORTV 2 - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51268
-SPORTV - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51270
-TELECINE ACTION H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51286
-TELECINE CULT H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51287
-TELECINE FUN H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51301
-TELECINE PIPOCA H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51302
-TELECINE PREMIUM H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51303
-TNT - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51305
-TNT SERIES - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51306
-WARNER CHANNEL H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51308
-Globo Paraná HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51309
-Globo TV Amazônica HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/51310
-NSC TV Joinville FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52538
-NSC TV Joinville HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52539
-NSC TV Joinville,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52540
-RBS TV Pelotas FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52541
-RBS TV Pelotas HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52542
-RBS TV Pelotas,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52543
-Globo TV Cabo Branco FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52544
-Globo TV Cabo Branco HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52545
-Globo TV Cabo Branco,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52546
-GLOBO TV RIO SUL FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52547
-Globo TV Rio Sul HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52548
-Globo TV Rio Sul,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52549
-Globo TV Santa Cruz FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52563
-Globo TV Santa Cruz HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52564
-Globo TV Santa Cruz,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52565
-RBS TV Caxias FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52566
-RBS TV Caxias HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52567
-RBS TV Caxias,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52568
-NSC TV Blumenau FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52569
-NSC TV Blumenau HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52570
-NSC TV Blumenau,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52571
-Inter TV Serra Mar,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52572
-Inter TV Serra Mar HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52573
-Inter TV Serra Mar FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52574
-Inter TV Grande Minas,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52575
-Inter TV Grande Minas HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52576
-Inter TV Grande Minas FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52577
-Inter TV dos Vales,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52578
-Inter TV dos Vales HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52587
-Inter TV dos Vales FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52590
-Inter TV Alto Litoral HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52592
-Inter TV Alto Litoral FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52593
-Pica Pau [24h],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/53025
-He-Man 24hs,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/53051
-Premiere 8,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/54120
-TV Justiça,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/56402
-NARUTO 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/56465
-Todo Mundo Odeia o Chris,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/56467
-Historias Disney 24hs,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/56468
-X-Man,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/56470
-Incrível Hulk 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/56623
-RecordTV Sergipe HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/56898
-Globo TV Verdes Mares Fortaleza,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/56908
-Homens de Preto 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57186
-TV Senado,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57266
-Homem de Ferro 24hs,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57340
-PERNALONGA 24H,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57341
-Guardiões da Galaxia 24hs,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57342
-o pimentinha 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57343
-Os Cavaleiros do Zodiaco 24hs,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57344
-Smithsonian Channel HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57387
-Smithsonian Channel,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57388
-Smithsonian Channel FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57389
-Formiga Atómica 24hs,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57681
-DRAGON BALL Z 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57682
-SBT TV Alterosa HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57773
-TVídeoNews,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57777
-Globo TV Subae Globo Bahia HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57804
-RecordTV Litoral Santos HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57806
-TV CABRALIA RECORD BAHIA HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57809
-SBT TV Aratu HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57810
-RecordTV Belém HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57811
-RecordTV Rio Preto HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57812
-Band Campinas HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/57814
-TV Diário Fortaleza,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/58090
-TV Diário Fortaleza HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/58091
-DRAGON BALL SUPER 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/58092
-Sobrenatural 24hs,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/58093
-DRAGON BALL 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/58094
-OS FLINTSTONES,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/58095
-DAZN 1 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/58130
-DAZN 2 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/58433
-ESPN BRASIL FHD H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59096
-ESPN FHD H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59097
-ESPN 2 FHD H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59098
-Dois Homens e Meio 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59100
-Digimon 24h,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59101
-Desenhos Disney 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59102
-CHAVES DESENHO 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59103
-RIT,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59354
-Zoomoo,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59355
-Chapolin Colorado 24hs,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59743
-CAO CORAGEM 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59744
-As tartarugas ninjas 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59745
-Bob Esponja 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59746
-Ben 10 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59747
-Caverna do Dragão 24HS,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59748
-Breaking Bad 24hs,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59749
-MENINAS SUPER PODEROSAS 24h,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59750
-ALADIN 24h,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/59753
-Gazeta HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/60201
-Polishop TV,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61690
-RecordTV [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61836
-RedeTV! [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61837
-Discovery Channel [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61838
-TNT [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61839
-SBT [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61840
-Animal Planet [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61841
-Multishow [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61842
-Cartoon Network [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61843
-MegaPix 4K,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61844
-TNT Séries [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61845
-National Geographic [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61846
-FoxSports 2 [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61847
-Esporte Interativo HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61879
-As Tartarugas Ninja 24h,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61883
-Cascão Maratona 24h,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61884
-Tico E Teco 24h,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61886
-Masha e o Urso 24h,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61887
-POCOYO 24h,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61888
-SBT RS HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61889
-SBT MINAS HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61890
-SBT Pará HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61891
-Gazeta FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61960
-Cultura HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61961
-Rede Gospel,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61962
-Novo Tempo FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61963
-TLC FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61964
-Film&Arts FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61965
-SBT SP,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61970
-Disney XD FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61971
-HBO FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61972
-Globo Goias FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61973
-TV Bahia,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61974
-Globo TV Verdes Mares Fortaleza HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/61976
-Band Rio HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62088
-RecordTV Minas HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62089
-ANIMAL PLANET H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62794
-AXN H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62796
-BandNews H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62797
-BAND SPORTS H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62798
-BIS H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62799
-BOOMERANG H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62800
-CANAL SONY H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62802
-TV GAZETA H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62803
-CARTOON H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62804
-TV APARECIDA H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62806
-TRUTV H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62807
-CINEMAX H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62808
-TLC H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62809
-REDE TV H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62811
-RECORD NEWS H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62812
-COMEDY CENTRAL H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62813
-GLOOBINHO H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62814
-GLOBO RIBEIRAO PRETO H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62815
-GLOBO PORTO ALEGRE H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62816
-ESPN 2 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62817
-ESPN EXTRA H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62818
-GLOBO NORDESTE H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62819
-GLOBO MINAS H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62820
-GLOBO CAMPINAS H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62821
-FOOD NETWORK H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62822
-DISNEY XD -  H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62823
-Star Channel H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62825
-WOOHOO H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62827
-Star Life H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62829
-Star Hits H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62830
-TV NOVO TEMPO H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62831
-Star Hits 2 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62832
-FUTURA H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62834
-FX H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62836
-SBT H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62838
-RECORDTV H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62839
-GLOBO NEWS H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62840
-PFC 7 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62841
-GLOOB H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62843
-PFC 4 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62844
-HBO 2 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62845
-NAT GEO KIDS - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62846
-HBO FAMILY H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62847
-HBO H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62848
-MULTISHOW - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62849
-MTV LIVE H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62850
-INVESTIGATION DISC H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62851
-HBO PLUS H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62852
-H2 - H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62853
-GNT H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62854
-GLOBO SP H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62855
-HBO SIGNATURE H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62856
-GLOBO Rio H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62857
-HISTORY H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62858
-FOX SPORTS H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62859
-LIFETIME H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62860
-MAIS GLOBOSAT H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62861
-FOX SPORTS 2 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62862
-HBO Mundi H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62863
-FISH TV H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62864
-HBO Xtreme H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62865
-HBO POP H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62866
-FASHION TV H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62867
-MegaPix H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62868
-ESPN H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62869
-ESPN BRASIL H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62870
-E! H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62871
-DISNEY JR H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62872
-DISNEY H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62873
-MTV H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62874
-DISC WORLD H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62875
-MUSIC BOX BRAZIL H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62876
-DISC TURBO H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62877
-NATGEO H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62878
-DISC THEATER H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62879
-DISC SCIENCE H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62880
-DISC KIDS H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62881
-NATGEO WILD H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62882
-DISC HOME HEALTH H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62883
-NICK JR H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62884
-HGTV H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62885
-NICKELODEON H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62886
-BAND H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62887
-AMC H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62888
-A&E H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62889
-OFF H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62890
-WARNER H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62891
-PARAMOUNT H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62892
-VIVA H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62893
-VH1 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62894
-PFC 2 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62895
-UNIVERSAL H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62896
-TV RA TIM BUM H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62898
-PFC CLUBES H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62900
-TNT SERIES H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62902
-PRIME BOX BRAZIL H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62903
-REDE VIDA H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62904
-TNT H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62905
-TC TOUCH H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62906
-TC PREMIUM H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62907
-TC PIPOCA H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62908
-TC FUN H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62909
-SPACE H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62910
-TC CULT H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62911
-TBS H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62913
-SPORTV 2 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62914
-SYFY H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62915
-SPORTV 3 H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62916
-STUDIO UNIVERSAL H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62917
-SPORTV H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62918
-RecordTV RS HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62987
-Band Sergipe HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62992
-Record Campinas HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62998
-SBT Brasília HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/62999
-Band Brasília HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63000
-PREMIERE CLUBES HD [Alternativo],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63093
-SPORTV HD [Alternativo],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63095
-DAZN 01 HD (A),http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63112
-DAZN 02 HD (A),http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63113
-DAZN 03 HD (A),http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63115
-DAZN 04 HD (A),http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63116
-Rede Amazônica Rio Branco HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63212
-Rede Amazônica Porto Velho HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63213
-RPC Maringá HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63274
-RPC Maringá FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63275
-FoxSports FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63306
-RecordTV Paraná HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63383
-Band Recife FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63384
-RecordTV Recife FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63387
-TV Diario Cariri FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63388
-TV Verdes Mares Cariri FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63389
-Boa Vontade TV,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63392
-Terra Viva FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63394
-Nova Nordeste FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63395
-SBT TV Aratu FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63396
-Chef TV HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63400
-Chef TV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63401
-Ideal TV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63403
-NHK World Japan HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63409
-PlayTV HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63411
-Boomerang HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63627
-TV Brasil HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63632
-Canal Brasil HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63636
-Arte 1 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63637
-TCM HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63644
-TCM FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63645
-Curta! HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63646
-Tooncast HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63647
-Tooncast FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63648
-TruTV HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63649
-True TV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63650
-Music Box Brazil HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63651
-Globo TV Liberal Belem HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63654
-Globo TV Morena Campo Grande HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63655
-Globo TV Morena Ponta Pora HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63656
-TV Estacao FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63657
-TV Universitária FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63658
-RIT TV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63659
-Rede Brasil FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63660
-TV Senado HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63665
-SBT TV Alterosa FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63675
-Band RS HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63681
-TV Tribuna ES HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63691
-TV Tribuna ES FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63692
-Globo TV Vitória ES HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63693
-Globo TV Vitória ES FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63694
-Globo RPC Parana HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63695
-TV Taroba HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63696
-Band Goiânia HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63697
-RecordTV Goias HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63718
-Boa Vontade TV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63719
-RecordTV Rio HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63721
-TV Diário Fortaleza FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63723
-Inter TV Alto Litoral,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63724
-DogTV HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63767
-DogTV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63768
-FashionTV Brasil HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63769
-FashionTV Brasil FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63770
-SBT SP FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63772
-Red Bull TV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63775
-Woohoo FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63777
-Zoomoo FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63778
-Zoomoo HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63779
-Rede Gospel FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63781
-Shoptime HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63783
-Travel Box Brazil FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63785
-TV Ra Tim Bum HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63786
-Gazeta [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64377
-Telecine Premium [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64378
-Band [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64379
-FoxSports [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64380
-TV Pai Eterno HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64548
-InterTV Cabo Frio HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64591
-Globo Brasília FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64592
-Rede Super FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64595
-Rede Gênesis FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64596
-TV Paraíba HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64602
-TV Diário HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64613
-Globo Amazonas HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64649
-Rede Amazônica Boa Vista HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64650
-Globo Goiânia HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64651
-Globo Inter TV Natal HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64652
-Globo Recife HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64653
-Globo Vitória HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64655
-RecordTV Pará HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64656
-Premiere 8 HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64657
-Band Interior RJ HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64658
-TV Cultura PA HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64660
-HBO [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64674
-CNN BRASIL HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/65039
-CNN BRASIL FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/65041
-CNN BRASIL H265,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/65042
-SBT Serra Dourada HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/65268
-RecordTV Santa Catarina HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/65271
-Globo Internacional HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/65272
-TV Educação FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/66417
-TV Educação HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/66418
-RecordTV Manaus HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/66612
-Polishop TV FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/67295
-Nosso Tempo FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/67296
-TV Pai Eterno FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/67299
-Telecine Pipoca [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/67687
-HBO Xtreme [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/67688
-Star Channel [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/67689
-VH1 MegaHits HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/68119
-VH1 Mega Hits FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/68121
-TV Novo Tempo HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/68524
-Travel Box Brazil HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/68525
-Canal do Boi HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/68528
-Futura HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/68530
-Prime Box Brazil HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/68532
-Rede Amazônica Manaus FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/72910
-Rede Amazônica Manaus HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/72911
-DAZN 05 HD (B),http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/72976
-DAZN 06 HD (B),http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/72977
-Globo TV Clube Piaui FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73037
-ESPN BRASIL HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73051
-Globo EPTV Sul de Minas FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73061
-EPTV Sul de Minas HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73062
-NSC TV Criciúma FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73070
-NSC TV Criciúma HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73071
-NSC TV Centro-Oeste FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73086
-NSC TV Centro Oeste HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73087
-RPC Ponta Grossa FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73090
-RPC Ponta Grossa HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73091
-RPC TV Paranavaí FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73093
-RPC TV Paranavaí HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73094
-RBS TV Santa Maria FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73099
-RBS TV Santa Maria HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73101
-Rede Amazônica Porto Velho FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73234
-Rede Amazônica Boa Vista FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73236
-Trace Brazuca FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73329
-Rede Amazônica Rio Branco FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73451
-Mais GloboSat HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73453
-Globo TV Grande Rio HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73455
-CNT ES HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74655
-Canção Nova FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74663
-Mosaico Premiere FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74668
-GloboNews [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74789
-CNN Brasil [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74790
-Discovery Home & Health [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74791
-Viva [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74792
-Comedy Central [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74793
-Discovery Turbo [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74794
-GNT [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74795
-Telecine Action [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74797
-ESPN Brasil [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74798
-AXN [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74799
-CONMEBOL [4K],http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74800
-Inter TV Cabugi HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74953
-Inter TV Cabugi FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74954
-Globo Rio Interior HD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74955
-Globo Rio Interior FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74956
-TV Sudoeste FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74958
-TV Mirante Cocais FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74964
-RBS TV Passo Fundo FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74966
-RPC Cascavel FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74968
-RPC Londrina FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74970
-TV TEM Bauru FHD,http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/74972
+NHK[1280*720],http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+彭博财经台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+Canal Macau,http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+新唐人美西台,http://live.ntdimg.com/uwlive520/playlist.m3u8
+KBS1,http://bbb.usa7.345888.xyz/ub.php?id=174
+NHK Eテレ,http://203.162.235.41:16901
+Warner TV HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
+TLC,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+KBSWorld,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u8
+Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 NTV7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 Bernama,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
@@ -1894,6 +1129,153 @@ NBC,http://stream.tvtap.live:8081/live/us-nbcback.stream/playlist.m3u8
 CNBC,http://stream.tvtap.live:8081/live/us-cnbc.stream/playlist.m3u8
 ABCnews,http://stream.tvtap.live:8081/live/us-abcnews.stream/playlist.m3u8
 ABC,http://stream.tvtap.live:8081/live/us-abc.stream/playlist.m3u8
+
+东南亚台,#genre#
+Vĩnh Long 1 HD,https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1200000.m3u8
+Vĩnh Long 1 HD,https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+Vĩnh Long 2 HD,https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+Vĩnh Long 3 HD,https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
+Vĩnh Long 4 HD,https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+VTC14 HD,https://vtc130121.cdn.vnns.io/VTC14/playlist.m3u8
+An Giang HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
+Bà Rịa Vũng Tàu HD,https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
+Bắc Giang HD,http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
+Bắc Ninh HD,https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
+Bắc Kạn,http://113.160.162.131:8080/tv/bk.m3u8
+Bạc Liêu HD,https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
+Bến Tre,http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+Bình Định HD,http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+Bình Dương 1 HD,https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+Bình Dương 2 HD,https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+Bình Dương 6,https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
+Bình Dương 11,https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
+Bình Thuận HD,https://livecdn.fptplay.net/sdc/binhthuan_2000.stream/chunklist.m3u8
+Cà Mau HD,https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
+Cần Thơ HD,https://mekongpassion.com/live/tv/chunklist.m3u8
+Cao Bằng HD,http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
+Đà Nẵng 1 HD,http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+Đà Nẵng 2 HD,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+Đắk Lắk,https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
+Điện Biên,https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
+Đồng Nai 1 HD,https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+Đồng Nai 2 HD,https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+Đồng Tháp 1 HD,http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
+Đồng Tháp 2,http://202.43.109.144:1935/thdt2/thdt2/chunklist.m3u8
+Gia Lai,https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
+河江,http://113.162.84.113:8080/hls/fm/index.m3u8
+Hà Nam HD,http://103.90.220.236/thhnlive/tv1live.m3u8
+Hà Nội 2 HD,https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8
+Hà Tĩnh HD,http://hatinhtv.vn:82/hls/httv.m3u8
+Hải Dương,https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
+Hải Phòng HD,https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
+Hậu Giang HD,https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
+Hòa Bình,https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
+Hưng Yên HD,https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
+Khánh Hòa HD,https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
+Kiên Giang HD,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+Kiên Giang 1 HD,http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+Kon Tum HD,http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+Lai Chau,https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
+Lâm Đồng HD,http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+Lạng Sơn HD,http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+老蔡高清,http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+Long An HD,http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+Ninh Thuận,https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
+Phú Thọ HD,https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
+Phú Yên HD,https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
+Quảng Bình,https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
+Quảng Nam,https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
+Quảng Ngãi HD,https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
+like Gecko) Chrome/81.0.4044.138 Safari/537.36,https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+Sơn La HD,http://118.107.85.4:1935/live/smil:STV.smil/chunklist_b1384000.m3u8
+Tây Ninh HD,http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+Thái Nguyên 1 HD,http://103.90.220.236/tntvlive/tv1live.m3u8
+Thanh Hóa HD,https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/chunklist.m3u8
+Tiền Giang HD,http://thtg.vn:8001/thtg.m3u8
+Trà Vinh HD,https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
+Tuyên Quang HD,http://27.72.164.157:8080/hls/ttv.m3u8
+Vĩnh Phúc HD,http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+ANTV HD,https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
+VNews,https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
+Nhân Dân TV,https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
+Quốc Hội,http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
+QPVN,https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2800000.m3u8
+BTV9 - An Viên TV,https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
+BTV10 - NCM,https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
+VTV6 HD || Xemtv,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/chunks.m3u8
+VTV7 HD,https://livecdn.fptplay.net/hda3/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+VTV8 HD,https://livecdn.fptplay.net/hda2/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+VTV9 HD,https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b1200000.m3u8
+VTC1 HD,https://vtc130121.cdn.vnns.io/VTC1/playlist.m3u8
+VTC1 HD || 帧数,https://livecdn.fptplay.net/hda1/vtc1_hls.smil/chunklist_b2500000.m3u8
+VTC3 HD,https://vtc130121.cdn.vnns.io/VTC3/playlist.m3u8
+VTC4 HD,https://vtc130121.cdn.vnns.io/VTC4/playlist.m3u8
+VTC5 HD,https://vtc130121.cdn.vnns.io/VTC5/playlist.m3u8
+VTC6 HD,https://vtc130121.cdn.vnns.io/VTC6/playlist.m3u8
+VTC7 HD - TodayTV,https://vtc130121.cdn.vnns.io/VTC7/playlist.m3u8
+VTC8,https://vtc130121.cdn.vnns.io/VTC8/playlist.m3u8
+VTC9 HD,https://vtc130121.cdn.vnns.io/VTC9/playlist.m3u8
+VTC10 HD,https://vtc130121.cdn.vnns.io/VTC10/playlist.m3u8
+VTC11,https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
+VTC12 - VTC K,https://vtc130121.cdn.vnns.io/VTC12/playlist.m3u8
+VTC13 HD,https://vtc130121.cdn.vnns.io/VTC13/playlist.m3u8
+VTC16 HD,https://vtc130121.cdn.vnns.io/VTC16/playlist.m3u8
+HTV1,https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+HTV2 - Vie 频道,https://livecdn.fptplay.net/hda1/htv2hd_hls.smil/chunklist_b2500000.m3u8
+HTV3 - DreamsTV,https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+HTV Key,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+HTV CO.OP,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/playlist.m3u8
+HTV Thể Thao,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+HTVC Thuần Việt,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+HTVC Thuần Việt HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+HTVC Gia đình HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+HTVC Phụ nữ HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+HTVC Du lịch Cuộc sống HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+HTVC Can nhạc HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+HTVC Phim HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+HTVC Plus HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+FBNC HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
+HTVC Homeshopping,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
+
+欧美频道,#genre#
+FOX HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+FOX Family Movies HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+FOX 电影高清,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+FOX 电影高清,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+FOX Life HD,https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+FOX Sports HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
+FOX Sports 2 HD,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+FOX Sports 3 HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
+AXN HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8,http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+Animax HD,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+Boomerang HD,https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+BabyFirst,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+Cartoon Network HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8?
+Cartoon Network HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
+Channel V HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+KIX HD,https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
+派拉蒙,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+TLC,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+亚洲食品网络,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+达芬奇高清,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+BBC Lifestyle,https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+BBC Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
+BBC World News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Bloomberg,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+CNA,https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
+CGTN,https://live.cgtn.com/1000/prog_index.m3u8
+法国 24,http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_old_900.m3u8
+KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+NHK World,https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+TV5Monde,https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+动物星球,https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+Discovery,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+国家地理高清,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+Nat Geo Wild HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 FOX,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 FOXMOVIES,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
@@ -1959,7 +1341,6 @@ HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 NatGeo_People,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
 Discovery Eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-Luxe TV,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
 Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
@@ -1967,6 +1348,119 @@ Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+Channel V[1280*720],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+Channel V[1920*1080],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+Outdoor Channel[1280*720],http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+Fashion TV[800*453],http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+Fashion TV[800*453],http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+AFC-美食[1280*720],https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+FOX-生活[1280*720],https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+索尼动画[1280*720],https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+国家地理[1280*720],https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+航天频道[1280*720],https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
+CNN[785*576],http://218.202.220.2:5000/nn_live.ts?id=CNN
+FOX-体育二台[1280*720],http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+TDM Macau (Opt-1),http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+TDM HD Macau (Opt-1),http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
+TDM Sports Macau (Opt-1),http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+FOX HD,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+BBC lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+EVE,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
+Nick,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+Nick JR,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+Babytv,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+Cbeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+Disneyxd,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+Disneyjr,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+ASTRO SPORT 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+ASTRO SPORT 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+求索纪录,http://125.210.152.21:9120/live/QSKX.m3u8
+求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+求索生活,http://125.210.152.21:9120/live/QSDW.m3u8
+求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+求索科学,http://125.210.152.21:9120/live/QSSH.m3u8
+求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+Animax Japan,http://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+HGTV50,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+BBC Lifestyle,http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+NAT GEO WILD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+Discovery Channel,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+Animal Planet,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+Fashion TV,http://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+求索记录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+WarnerTV HD,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+Tennis HD,https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+HISTORY HD,https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+H2 HD,https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+Golf HD,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+Fox Sport3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+Fox Sport2,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+DiscoveryHDWorld,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+AnimalPlanet,https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+Bloomberg US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+Fox Sports 3 Asia,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+Fox Sports 2 Asia,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+Fox Sports 1 Asia,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+MTV Spankin\' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
+BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
+BBC World News,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBS_TV(불교),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+Bloomberg TV Europe,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
+eleven 1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+eleven 2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+eleven_sports_2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+FX HD測試,http://125.227.210.37:13498/VideoInput/play.ts
+Global News,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+HBO Family FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
+HBO FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
+HBO測試,http://125.227.210.37:16027/VideoInput/play.ts
+HGTV,http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
+History FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
+mtv台,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+MX Live,http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+Nat Geo People HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
+Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7081
+National Geographic HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
+Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+Discovery,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+NatGeo_People,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
+National Geographic Wild HD,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+HBO台湾,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+CNN,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
+BBCWorldNews,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
+BBCEarth,https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
+Bloomberg,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
+DWNews,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+FOXSport1,http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+FOXSport3,http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+FOXMovie,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
 韩国女团,#genre#
 韩国歌团001ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
@@ -3298,7 +2792,6 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 夜宿美女同事岬奈奈美家裡被沒穿胸罩,https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
 憧憬的女OL天使萌社員研修旅行,https://47b61.cdnedge.live/file/avple-images/hls/4922/4922.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
-
 浓厚接吻,https://bp1.dkkomo.com/stream/full/japan/3200/111420_001-1pon.m3u8
 亞洲娃娃,https://iwant-sex.com/videos/13206/13206.m3u8
 草死我了,https://iwant-sex.com/videos/13366/13366.m3u8
@@ -3353,7 +2846,6 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 色狼来擦我,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/8/PPPD-663/index.m3u8
 擦骚,http://video1.rhsj520.com:8091/nyrm3/wuma/heyzo_hd_1956_full/1500kb/hls/index.m3u8
 泰国人妖1,https://www.ast.tv/stream/1/ultra.m3u8
-
 Miami,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 Miami  Jenny,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
