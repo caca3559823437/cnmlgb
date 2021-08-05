@@ -204,6 +204,29 @@ TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 亚旅,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+港台電視31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+港台電視32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+港台電視33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
+香港電台普通話台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w650052535.m3u8
+翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+TVB 星河頻道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+無綫新聞 newsevent1,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
+無綫新聞 newsevent2,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
+ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+有線財經資訊台,https://api.leonardpark.dev/live/icable/108
+有線新聞台,https://api.leonardpark.dev/live/icable/109
+有線直播新聞台,https://api.leonardpark.dev/live/icable/110
+鳳凰衛視中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+鳳凰衛視資訊台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+鳳凰衛視香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+賽馬直擊,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-HR-NO/02.m3u8
+星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
+陽光衛視,https://stream.isuntv.com/680k/mid_video_index.m3u8
+亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+熱血時報,http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳视综艺,http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
 澳视微影,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
@@ -320,6 +343,46 @@ HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 国家地理野生频道,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+中視 HD,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+中視新聞 HD,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中視經典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中視菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+華視教育體育文化 HD,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+華視新聞資訊 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
+華視新聞資訊 HD,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+國會頻道1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
+國會頻道2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
+台視新聞 HD,http://seb.sason.top/sc/tsxw_fhd.m3u8
+民視 HD,http://seb.sason.top/ptv/ftv.php?id=ms
+民視第一台 HD,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+民視第一台 HD,http://seb.sason.top/ptv/ftv.php?id=dy
+民視新聞台 HD,http://seb.sason.top/sc/msxw_fhd.m3u8
+民視新聞台 HD,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
+民視台灣台 HD,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
+民視台灣台 HD,http://seb.sason.top/ptv/ftv.php?id=tw
+民視台灣台 HD,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+民視綜藝,http://seb.sason.top/ptv/ftv.php?id=zy
+民視旅游,http://seb.sason.top/ptv/ftv.php?id=ly
+中天新聞 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8
+東森新聞 HD,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞 HD,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+TVBS新聞台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立新聞 HD,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
+三立台灣台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
+壹新聞 HD,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+緯來體育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
+緯來日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
+緯來戲劇台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+緯來精采台,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
@@ -1019,6 +1082,29 @@ BS TBS,http://203.162.235.41:16913
 BSフジ,http://203.162.235.41:16911
 テレビ东京,http://203.162.235.41:16908
 BS东京,http://203.162.235.41:16915
+KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+NASA Media Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NDTV 24X7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+NHK WORLD JAPAN HD,https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+Nippon TV News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+RT,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+Russia Today Documentary HD [ENG],http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+Russia Today Documentary HD [RUS],https://uiptv.do.am/1ufc/300663722/playlist.m3u8
+SBS,https://www.navchina.cf/IPTV/sbs.php?id=S01
+SBS Biz,https://www.navchina.cf/IPTV/sbs.php?id=S06
+SBS Fun,https://www.navchina.cf/IPTV/sbs.php?id=S04
+SBS Golf,https://www.navchina.cf/IPTV/sbs.php?id=S05
+SBS GorealraM,https://www.navchina.cf/IPTV/sbs.php?id=S19
+SBS LOVE FM,https://www.navchina.cf/IPTV/sbs.php?id=S08
+SBS Plus,https://www.navchina.cf/IPTV/sbs.php?id=S03
+SBS POWER FM,https://www.navchina.cf/IPTV/sbs.php?id=S07
+SBS Sports,https://www.navchina.cf/IPTV/sbs.php?id=S02
+sky news,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+Telesur,https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+TRT World,https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 韩国·NBS新闻频道,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 韩国·TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
 韩国·TBS,http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
@@ -1301,6 +1387,37 @@ METRO TV,https://dl.dropboxusercontent.com/s/cat0n2r1qob59ag/metrotv.m3u8?dl=0
 SCTV,https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
 H2 HD,https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 DiscoveryHDWorld,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+FOX HD,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+BBC lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+EVE,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
+Nick,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+Nick JR,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+Babytv,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+Cbeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+Disneyxd,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+Disneyjr,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang Korea,https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
+beIN Sports 1 Asia,https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+beIN Sports 1 English,https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+beIN Sports 2 English,https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+BeIN Sports Xtra,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+Bloomberg Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+Bloomberg US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+CBSN,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNBC 18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+Deutsche Welle (English),https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+Euronews,http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+FOX SPORTS 2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+France 24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV8,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
