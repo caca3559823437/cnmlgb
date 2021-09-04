@@ -433,6 +433,7 @@ Mono综合,rtmp://161.202.204.248/sat/tv761
 Mono综合,rtmp://161.202.204.248:1935/sat/tv761
 壹电视新闻,http://v3948069e.live.126.net/live/xtxndaws57833801/50.flv
 民视新闻,http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv
+民视新闻,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 东森财经,http://v3948069e.live.126.net/live/xttzgmzd89254972/43.flv
 寰宇新聞,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 非凡新闻,http://107.167.5.66/mylive/102/2058/index.m3u8
@@ -1332,6 +1333,12 @@ CGNTV韩国,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunkli
 韩国lEBS 儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 
 欧美频道,#genre#
+CNN,https://cnnsd.newscdn.org/Pcvhpcp2mHgWk95y8eYCZg==,1630773677/1677200617/index.m3u8
+CNN,https://cnnsd.newscdn.org/Pcvhpcp2mHgWk95y8eYCZg==,1630773677/1677200617/tracks-v1a1/mono.m3u8
+CNN Philippines,https://streaming.cnnphilippines.com/live/myStream/chunklist_w1877522213.m3u8
+BBC 新闻（英国）,http://87.247.44.25/btv/SWM/BBC_World/BBC_World_720p_3500kbps.m3u8
+法國24電視,http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/01.m3u8
+法國24電視,http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/02.m3u8
 CNN (360p),http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 CNN (480p),http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
 FOX NewsNow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
