@@ -245,29 +245,15 @@ CCTV老故事,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/322122704
 世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 怀旧剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
-怀旧剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
 风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
 第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
 第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
 兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
-兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
-文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
-女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
-文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
-高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
-风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
-风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 央视台球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
-央视台球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
-电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
-CCTV-9,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls
-CCTV-17,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 
 卫视频道,#genre#
 江苏卫视,http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
@@ -305,7 +291,6 @@ CCTV-17,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32212260
 湖南卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 湖南卫视,http://117.169.124.36:6610/ysten-businessmobile/live/hdhunanstv/index.m3u8
 湖南卫视,http://183.207.248.71:80/cntv/live1/hunanstv/hunanstv
-山东卫视,http://livealone302.iqilu.com/iqilu/sdtv.m3u8
 山东卫视,http://117.169.124.36:6610/ysten-businessmobile/live/hdshandongstv/index.m3u8
 山东卫视,http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
 东南卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
@@ -362,7 +347,6 @@ CGTN,http://live.cgtn.com:80/1000/prog_index.m3u8
 江苏卫视,http://39.134.65.162:80/pltv/88888888/224/3221225503/index.m3u8
 黑龙江卫视,http://idclive.hljtv.com:8080/live/weishi_hd.m3u8
 山东卫视,http://lives.jnnews.tv:80/video/s10001-SDTV/index.m3u8
-山东卫视,http://livealone302.iqilu.com:80/iqilu/sdtv.m3u8
 贵州卫视,http://39.134.65.162:80/PLTV/88888888/224/3221225576/index.m3u8
 云南卫视,https://hwfee.yunshicloud.com:443/8xughf/e0bx15.m3u8
 四川卫视,http://scgctvshow.sctv.com:80/scgc/sctv1deu5453w/1.m3u8
@@ -978,7 +962,6 @@ VIP影院,https://tx.liveplay.live.kugou.com/live/fx_hifi_1319986999_avc.flv
 有线18,http://124.238.99.44:808/hls/356/index.m3u8
 有线新闻,http://gslb.cdn.hk.chinamobile.com/live/6aec56586c324021927637a750c1811e/cb76365be43b4ba598eb2f2ef3cffcd9-3.m3u8
 点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
-18,https://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
 翡翠,http://g.alicdn.com/de/prismplayer-flash/1.2.16/PrismPlayer.swf?vurl=http://m.567it.com/jade.m3u8
 翡翠,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 翡翠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -1350,9 +1333,6 @@ HGTV,http://iptv.tvmalaysia.cc:80/321456/321456/7076
 History,http://iptv.tvmalaysia.cc:80/321456/321456/7079
 点击电影,http://iptv.tvmalaysia.cc:80/321456/321456/7066
 Nat Geo HD,http://iptv.tvmalaysia.cc:80/321456/321456/7075
-Nat Geo People HD,http://iptv.tvmalaysia.cc:80/321456/321456/7080
-Nickelodeon HD,http://iptv.tvmalaysia.cc:80/321456/321456/6814
-Oh!K HD,http://iptv.tvmalaysia.cc:80/321456/321456/6726
 PRIMEtime,http://iptv.tvmalaysia.cc:80/321456/321456/7227
 ROCK Extreme,http://iptv.tvmalaysia.cc:80/321456/321456/8861
 索尼一号,http://iptv.tvmalaysia.cc:80/321456/321456/8863
@@ -1751,22 +1731,12 @@ TVB J1 US,p3p://45.86.67.154:9906/608458a2000bcdfa1998618f766f8696.ts
 纬来戏剧,p3p://45.86.67.154:9906/6085c5700003a5fb053da5e29e1e6b58.ts
 
 港台测试,#genre#
-J2,https://p2.weizan.cn/1646497941/241849434346185861/live.m3u8
 新闻,https://p2.weizan.cn/1646497941/113158785015619768/live.m3u8
 ViuTV,https://p2.weizan.cn/1646497941/584748994834606962/live.m3u8
 HKC新闻,https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
-HKC603,https://p2.weizan.cn/1646497941/912180711177351574/live.m3u8
 无线新闻,http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
-无线财经,http://v3948069e.live.126.net/live/dkajilmz47218296/5.flv
-J2,http://v3948069e.live.126.net/live/dexusbev73633945/2.flv
-ViuTV,http://v3948069e.live.126.net/live/ifjusrvz66848136/6.flv
-ViuTV6,http://v3948069e.live.126.net/live/wudfvkez02034404/7.flv
 港版美亚,http://v3948069e.live.126.net/live/hodtv4003.flv
-TVB星河,http://v3948069e.live.126.net/live/muukvgei99262641/3.flv
-TVB星河,http://host496323.us.ooqr.com/pltv/gz.php?id=135
 星空卫视,http://host496323.us.ooqr.com/pltv/gz.php?id=87
-RTHK31,http://v3948069e.live.126.net/live/yqqpusjk61144008/8.flv
-RTHK32,http://v3948069e.live.126.net/live/pceodhgw65290464/9.flv
 開电视,http://v3948069e.live.126.net/live/ehxdcued02570081/56.flv
 香港C+,http://v3948069e.live.126.net/live/ropcaxhl14651386/13.flv
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
@@ -1774,50 +1744,141 @@ MAVlife,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 FRANCE,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
-星河台,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w722142972.m3u8
-香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-美亚电影台,http://v3948069e.live.126.net/live/hod300.flv
-天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-BOO恐怖HD,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-无线新闻,http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
-无线财经资讯,http://v3948069e.live.126.net/live/dkajilmz47218296/5.flv
-J2,http://v3948069e.live.126.net/live/dexusbev73633945/2.flv
-明珠台,http://v3948069e.live.126.net/live/mqvrerdv14487084/54.flv
 明珠台,http://host496323.us.ooqr.com/pltv/gz.php?id=26
 凤凰香港,http://host496323.us.ooqr.com/pltv/gz.php?id=fhhk
 凤凰资讯,http://host496323.us.ooqr.com/pltv/gz.php?id=fhzx
-ViuTV,http://v3948069e.live.126.net/live/ifjusrvz66848136/6.flv
-ViuTV6,http://v3948069e.live.126.net/live/wudfvkez02034404/7.flv
+民视新闻,http://50.7.61.148:30080/Entry/ftvnews
+非凡商业 HD,http://50.7.61.147:30080/Entry/ubnbus
+ELEVEN1,http://125.227.210.37:10677/VideoInput/play.ts
+C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
+C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+凤凰电影台,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+寰宇新闻全球台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
+寰宇新闻台湾台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15
+民视台湾台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
+民视第一台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv003
+非凡新闻,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv010
+影迷数位电影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
+Cnex,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
+达文西,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018
+华视,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041
+公视戏剧,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
+靖洋戏剧台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv045
+靖天综合台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv046
+靖天日本台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv047
+非凡商业,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv048
+台视新闻,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv051
+华视新闻资讯,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv052
+GinxEsports,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv053
+靖天映画台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv055
+CLASSICA古典乐,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv059
+台视,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv066
+爱尔达娱乐,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
+TVBS新闻,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072
+TVBS直播,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073
+CatchPlay,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv076
+TraceSports,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv077
+Arirang,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv079
+MezzoLiveHD,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv083
+智林体育,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv101
+东森购物1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv102
+财经频道,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv104
+中天亚洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
+V0A美国之音,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv03
+民视旅游,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv07
+民视影剧,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv09
+半岛国际新闻,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv10
+民视新闻台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv13
+龙华卡通,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
+BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
+龙华电影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
+博斯魅力,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04
+博斯高球1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05
+博斯高球2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06
+博斯运动2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08
+博斯网球,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09
+博斯无限,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10
+龙华日韩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
+龙华偶像,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
+亚洲旅游,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn17
+ELTV英语,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
+龙华经典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
+东森电影台,http://host496323.us.ooqr.com/pltv/gz.php?id=dsdy
+东森洋片,http://host496323.us.ooqr.com/pltv/gz.php?id=dsyp
+公视,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
+公视,http://sytv.xtvants.fun/mytv.php?id=gs&token=qq3036107507&user=fmys
+公视,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
+海豚综合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+韩国娱乐台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+寰宇新闻全球台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+纬来电影台,http://50.7.61.148:30080/Entry/vlmovie
+中國環球電視,http://live.cgtn.com/500/prog_index.m3u8
+imode时尚频道,https://juyunlive.juyun.tv/live/24950198.m3u8?WithCaption
+创世电视,http://al-pull2.hkatv.vip/live/CTV.m3u8?WithCaption
+亚旅卫视,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8?WithCaption
+國家地理,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+无线新闻,http://v3948069e.live.126.net/live/srwntrbz30571026/4.flv
+明珠台,http://host496323.us.ooqr.com/pltv/gz.php?id=26
+凤凰香港,http://host496323.us.ooqr.com/pltv/gz.php?id=fhhk
+凤凰资讯,http://host496323.us.ooqr.com/pltv/gz.php?id=fhzx
+有线新闻,http://v3948069e.live.126.net/live/tghjJYZGYFFHUYFTVBBJNBGODSZWQQWERTGFDT/ggbox/index.flv
+港版美亚(粤),http://v3948069e.live.126.net/live/hod300.flv
 港版美亚(国),http://v3948069e.live.126.net/live/hodtv4003.flv
-TVB星河(国),http://v3948069e.live.126.net/live/muukvgei99262641/3.flv
 TVB星河(粤）,http://host496323.us.ooqr.com/pltv/gz.php?id=135
 TVB星河(国),http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 星空卫视,http://host496323.us.ooqr.com/pltv/gz.php?id=87
-RTHK31,http://v3948069e.live.126.net/live/yqqpusjk61144008/8.flv
-RTHK32,http://v3948069e.live.126.net/live/pceodhgw65290464/9.flv
-香港18,https://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
 開电视,http://v3948069e.live.126.net/live/ehxdcued02570081/56.flv
 香港C+,http://v3948069e.live.126.net/live/ropcaxhl14651386/13.flv
-东森新闻,http://50.7.61.147:30080/Entry/etnews
-HBO,http://50.7.61.148:30080/Entry/hbo
-纬来日本,http://50.7.61.147:30080/Entry/vljp
+翡翠台（内地）,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+星河台.,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w722142972.m3u8
+天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+BOO恐怖HD,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 台视 HD,http://50.7.61.148:30080/Entry/ttv
 TVBS HD,http://50.7.61.148:30080/Entry/tvbs
 民视新闻,http://50.7.61.148:30080/Entry/ftvnews
 中视 HD,http://50.7.61.148:30080/Entry/ctv
-TVBS新闻 HD,http://50.7.61.148:30080/Entry/tvbsnews
 非凡商业 HD,http://50.7.61.147:30080/Entry/ubnbus
 TLC,http://50.7.61.147:30080/Entry/tlc
 JET综合,http://50.7.61.147:30080/Entry/jet
 民视 HD,http://50.7.61.147:30080/Entry/ftv
 华视CTS HD,http://50.7.61.147:30080/Entry/cts
-壹新闻 HD,http://50.7.61.147:30080/Entry/etv
 SET三立台湾,http://50.7.61.148:30080/Entry/settw-
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 AXN,http://50.7.61.148:30080/Entry/axn
-
+亚洲旅游 TLC Asia,http://50.7.61.149:30080/Entry/tlc
+AFC 亚洲旅游台,http://50.7.61.147:30080/Entry/asiatravel
+AFC 亚洲旅游台,http://50.7.61.149:30080/Entry/asiatravel
+卫视电影台,http://50.7.61.147:30080/Entry/starmovie
+卫视电影台,http://50.7.61.149:30080/Entry/starmovie
+香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+天映电影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
+TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
+美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+星影卫视,http://data.3g.yy.com/live/hls/29900720/29900720
+龙翔时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
+东森电影台,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
+东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
+天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
+私人影院,http://gxfrg007.8800.org:8282/tsfile/live/1061_1.m3u8
+凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+凤凰资讯,http://gxfrg007.8800.org:8282/tsfile/live/1064_1.m3u8
+翡翠台,http://host496323.us.ooqr.com/pltv/gz.php?id=25
+RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
+HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
+Now直播331台,https://api.leonardpark.dev/live/now/331
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 翡翠,rtmp://125.227.67.184:1935/live/EmeraldTerrace
 无线新闻,rtmp://125.227.67.184:1935/live/31
 viutv,rtmp://125.227.67.184:1935/live/ViuV
@@ -1947,7 +2008,6 @@ ELTA体育2,rtmp://59.124.75.138/sat/md051
 愛爾體2,rtmp://161.202.204.248/sat/md031
 愛爾體2,rtmp://59.124.75.153:1935/sat/md031
 ELEVEN1,rtmp://161.202.204.248/sat/tv731
-ELEVEN1,http://125.227.210.37:10677/VideoInput/play.ts
 ELEVEN2,rtmp://161.202.204.248/sat/tv741
 博斯運動I,rtmp://59.124.75.153:1935/sat/md011
 博斯网球,rtmp://59.124.75.153:1935/sat/md021
@@ -2237,7 +2297,6 @@ YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 1,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 YTN DMB,http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 여수MBC(MBC丽水),https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
-Arirang[1920*1080],http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Arirang[1920*1080],http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang[1920*1080],http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 Arirang[1920*1080],http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -2279,7 +2338,6 @@ CBS 9 Washington DC (WUSA-HD),https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@989
 CBS News (CBSN),https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
 CBS News | CBSN Live Event,https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
 CBS News,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-NHK BS1 (BS101),http://203.162.235.41:16909
 NHK BSプレミアム,http://203.162.235.41:16910
 NHK Eテレ,http://203.162.235.41:16901
 NHK World Premium,https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
@@ -2779,7 +2837,6 @@ MSNBC,http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/mono.m3u8
 France i24 News,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 Sky News,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 Korea Sony HD,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-Flix chinese sub,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 Action HD,http://93.157.62.180/TringAction/index.m3u8
 Super HD,http://93.157.62.180/TringSuper/index.m3u8
 Sony Pix,https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
@@ -2890,7 +2947,6 @@ Shopping Live,http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/pla
 Shot TV,http://persik.by/stream/8138/423934/10454.m3u8
 Simon,http://hls.simon.ua/live-HD/live/playlist.m3u8
 Skrypin UA,https://open-cdn.lanet.tv/live/1008.m3u8
-Slagr TV,http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
 Slagr TV 2,http://92.62.234.233/slagr2.m3u
 Sous FM,http://138.201.226.83:1935/public/stream_720p/playlist.m3u8
 STARS TV,http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
@@ -2914,10 +2970,6 @@ CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
 中国环球,http://livees.cgtn.com/1000e/prog_index.m3u8
 布莱恩电视,https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/chunklist.m3u8
 MTV音乐,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-ASSP1HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139276
-ASSP2HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139277
-ASSP3HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139278
-ASSP4HD,http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/139279
 SS 1,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52859.m3u8
 SS 4,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52862.m3u8
 SS Action,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52300.ts
@@ -3179,48 +3231,37 @@ Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 斗鱼电影43,http://dyscdnali1.douyucdn.cn/live/263824rvcnE5WlGq.flv?uuid=
 斗鱼电影46,http://dyscdnali1.douyucdn.cn/live/310926riHQZHaxed.flv?uuid=
 斗鱼电影47,http://dyscdnali1.douyucdn.cn/live/218859rqPPCnL2wr.flv?uuid=
-斗鱼52,http://dyscdnali1.douyucdn.cn/live/5581257rVNNT2yq9.flv?uuid=
+斗鱼-女神金[1920*1080],http://dyscdnali3.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
+斗鱼-警匪[1280*720],http://dyscdnali3.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
+斗鱼-恐怖[852*480],http://dyscdnali3.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+斗鱼-林正英[1280*720],http://dyscdnali3.douyucdn.cn/live/310926riHQZHaxed.flv?uuid=
+斗鱼-神乐华语[1920*1080],http://dyscdnali3.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+斗鱼-神乐经典[1920*1080],http://dyscdnali3.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+斗鱼-神乐欧美[1920*1080],http://dyscdnali3.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+斗鱼-神乐粤语[1920*1080],http://dyscdnali3.douyucdn.cn/live/6566671rlC7M648e.flv?uuid=
+斗鱼-贝爷影厅[1920*1080],http://dyscdnali3.douyucdn.cn/live/252802rQOL4akKz2.flv?uuid=
+斗鱼-小鸽陪看[1280*720],http://dyscdnali3.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+斗鱼-甜牛奶[1280*720],http://dyscdnali3.douyucdn.cn/live/7494871rNr8olI88.flv?uuid=
+斗鱼-僵尸鬼片[1920*1080],http://dyscdnali3.douyucdn.cn/live/218859rqPPCnL2wr.flv?uuid=
+斗鱼-欧美恐怖[1280*720],http://dyscdnali3.douyucdn.cn/live/96577r2GlkQkSAeM.flv?uuid=
+斗鱼-香港赌片[1280*720],http://dyscdnali3.douyucdn.cn/live/315457rtOkUP9dtx.flv?uuid=
+斗鱼-经典科幻[1920*1080],http://dyscdnali3.douyucdn.cn/live/248753rz50pe6jOK.flv?uuid=
+斗鱼4[1280*720],http://dyscdnali3.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+斗鱼10[960*540],http://dyscdnali3.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
+斗鱼13[1920*1080],http://dyscdnali3.douyucdn.cn/live/206858rtesHKjl.flv?uuid=
+斗鱼_周末影院1,http://zzy789.xyz/douyu1.php?id=3637726
 斗鱼198,http://dyscdnali1.douyucdn.cn/live/7493575rtd5VrJzJ.flv?uuid=
 斗鱼124,http://dyscdnali1.douyucdn.cn/live/8936207rxu2kTu7r.flv?uuid=
-斗鱼54,http://dyscdnali1.douyucdn.cn/live/9445279rvY6PCnhf.flv?uuid=
 斗鱼21,http://dyscdnali1.douyucdn.cn/live/9386057rGjtrIWSd.flv?uuid=
 斗鱼199,http://dyscdnali1.douyucdn.cn/live/3831627rVOz5KNSw.flv?uuid=
 斗鱼22,http://dyscdnali1.douyucdn.cn/live/2632223rIQXiYdLe.flv?uuid=
-斗鱼274,http://dyscdnali1.douyucdn.cn/live/9396762rCecXknqQ.flv?uuid=
 斗鱼23,http://dyscdnali1.douyucdn.cn/live/52787rEKyx5UJA7E.flv?uuid=
 斗鱼56,http://dyscdnali1.douyucdn.cn/live/3980787rVI3fG6Tv.flv?uuid=
-斗鱼91,http://dyscdnali1.douyucdn.cn/live/9367188rdlcpVS0z.flv?uuid=
-斗鱼134,http://dyscdnali1.douyucdn.cn/live/9370168rRlfnlkaa.flv?uuid=
-斗鱼138,http://dyscdnali1.douyucdn.cn/live/9388783rUcMJIeX5.flv?uuid=
-斗鱼288,http://dyscdnali1.douyucdn.cn/live/9356937rV2X0UpzL.flv?uuid=
 斗鱼141,http://dyscdnali1.douyucdn.cn/live/4282654rZ6bgd7oa.flv?uuid=
 斗鱼297,http://dyscdnali1.douyucdn.cn/live/8711212rNALCcaB1.flv?uuid=
 斗鱼1,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 斗鱼2,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
 斗鱼3,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
-优酷电影1,http://tv.rdys888.top/bak/proxy/youku.php?id=8022366
-优酷电影2,http://tv.rdys888.top/bak/proxy/youku.php?id=8022040
-优酷电影3,http://tv.rdys888.top/bak/proxy/youku.php?id=8022038
-优酷电影4,http://tv.rdys888.top/bak/proxy/youku.php?id=8020381
-优酷电影5,http://tv.rdys888.top/bak/proxy/youku.php?id=8020331
-优酷电影6,http://tv.rdys888.top/bak/proxy/youku.php?id=8018618
-优酷电影7,http://tv.rdys888.top/bak/proxy/youku.php?id=8031710
-优酷电影8,http://tv.rdys888.top/bak/proxy/youku.php?id=8031706
-优酷电影9,http://tv.rdys888.top/bak/proxy/youku.php?id=8031704
-优酷电影10,http://tv.rdys888.top/bak/proxy/youku.php?id=8031620
-优酷电影11,http://tv.rdys888.top/bak/proxy/youku.php?id=8031623
-优酷电影13,http://tv.rdys888.top/bak/proxy/youku.php?id=8031592
-优酷电影14,http://tv.rdys888.top/bak/proxy/youku.php?id=8031589
-优酷电影15,http://tv.rdys888.top/bak/proxy/youku.php?id=8031587
-优酷电影16,http://tv.rdys888.top/bak/proxy/youku.php?id=8031580
-优酷电影17,http://tv.rdys888.top/bak/proxy/youku.php?id=8031574
-优酷电影18,http://tv.rdys888.top/bak/proxy/youku.php?id=8028239
-优酷电影19,http://tv.rdys888.top/bak/proxy/youku.php?id=8027873
-优酷电影21,http://tv.rdys888.top/bak/proxy/youku.php?id=8026514
-优酷电影22,http://tv.rdys888.top/bak/proxy/youku.php?id=8020409
-优酷电影23,http://tv.rdys888.top/bak/proxy/youku.php?id=8020410
-优酷电影24,http://tv.rdys888.top/bak/proxy/youku.php?id=8020408
-优酷电影25,http://tv.rdys888.top/bak/proxy/youku.php?id=8035190
 女团3_斗鱼,http://dyscdnali1.douyucdn.cn/live/231464r9XzaQ89ir.flv?uuid=
 斗鱼1,http://dyscdnali1.douyucdn.cn/live/434971r3ZA8dMt4g.flv?uuid=
 斗鱼37,http://dyscdnali1.douyucdn.cn/live/1487654rng22ENGO.flv?uuid=
@@ -3229,7 +3270,6 @@ Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 斗鱼6,http://dyscdnali1.douyucdn.cn/live/7537296rTdKDixQ0.flv?uuid=
 斗鱼21,http://dyscdnali1.douyucdn.cn/live/5427842rKcjAisVg.flv?uuid=
 斗鱼8,http://dyscdnali1.douyucdn.cn/live/9837291riC523X24.flv?uuid=
-斗鱼44,http://dyscdnali1.douyucdn.cn/live/7066113rqksMV0w7.flv?uuid=
 斗鱼9,http://dyscdnali1.douyucdn.cn/live/9734042rxTLV7mFs.flv?uuid=
 斗鱼45,http://dyscdnali1.douyucdn.cn/live/7623292rOpb9hhJ1.flv?uuid=
 斗鱼3,http://epg.112114.xyz/douyu/9396703
@@ -3341,71 +3381,12 @@ TVB电视剧,http://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
 埋堆堆66,http://121.12.115.162/txdirect.hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.m3u8
 埋堆堆67,http://121.12.115.162/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
-影视轮播1,http://vip.auney.cn/api/huya.php?id=11352910
-影视轮播2,http://vip.auney.cn/api/huya.php?id=11601982
-影视轮播4,http://vip.auney.cn/api/huya.php?id=11336578
-影视轮播5,http://vip.auney.cn/api/huya.php?id=11352959
 影视轮播8,http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
 影视轮播9,http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
 影视轮播10,http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
 影视轮播12,http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
 影视轮播13,http://tx.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.flv?wsSecret=a6be4bb3447ac30130cae26975f5b4fd&wsTime=610fc9c6&uid=0&seqid=16283382405083448&ctype=tars_mobile&ver=1&t=103
-影视轮播14,http://tx.flv.huya.com/huyalive/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.flv?wsSecret=6d943461d160d33adefb77872da6b670&wsTime=610fca0d&uid=0&seqid=16283382858624148&ctype=tars_mobile&ver=1&t=103
 影视轮播15,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.flv?wsSecret=216a3a0a3c3074f7afc38d6583ed4c94&wsTime=610fc9f4&uid=0&seqid=16283382607331776&ctype=tars_mobile&ver=1&t=103
-影视轮播16,http://vip.auney.cn/api/huya.php?id=11342414
-影视轮播17,http://vip.auney.cn/api/huya.php?id=11336719
-影视轮播18,http://vip.auney.cn/api/huya.php?id=11342419
-影视轮播19,http://vip.auney.cn/api/huya.php?id=11352964
-影视轮播20,http://vip.auney.cn/api/huya.php?id=11602044
-影视轮播21,http://vip.auney.cn/api/huya.php?id=11352962
-影视轮播22,http://vip.auney.cn/api/huya.php?id=11342422
-影视轮播23,http://vip.auney.cn/api/huya.php?id=11282233
-影视轮播24,http://vip.auney.cn/api/huya.php?id=11352886
-影视轮播25,http://vip.auney.cn/api/huya.php?id=11342433
-影视轮播26,http://vip.auney.cn/api/huya.php?id=11352913
-影视轮播27,http://vip.auney.cn/api/huya.php?id=11352871
-影视轮播28,http://vip.auney.cn/api/huya.php?id=11352979
-影视轮播29,http://vip.auney.cn/api/huya.php?id=11602075
-影视轮播30,http://vip.auney.cn/api/huya.php?id=11601978
-影视轮播31,http://vip.auney.cn/api/huya.php?id=11601960
-影视轮播32,http://vip.auney.cn/api/huya.php?id=11352938
-影视轮播33,http://vip.auney.cn/api/huya.php?id=11601986
-影视轮播34,http://vip.auney.cn/api/huya.php?id=11336572
-影视轮播35,http://vip.auney.cn/api/huya.php?id=11342423
-影视轮播36,http://vip.auney.cn/api/huya.php?id=11602041
-影视轮播37,http://vip.auney.cn/api/huya.php?id=11342432
-影视轮播38,http://vip.auney.cn/api/huya.php?id=11342435
-影视轮播39,http://vip.auney.cn/api/huya.php?id=11352894
-影视轮播40,http://vip.auney.cn/api/huya.php?id=11602034
-影视轮播41,http://vip.auney.cn/api/huya.php?id=11352876
-影视轮播42,http://vip.auney.cn/api/huya.php?id=11601970
-影视轮播43,http://vip.auney.cn/api/huya.php?id=11352880
-影视轮播44,http://vip.auney.cn/api/huya.php?id=11602069
-影视轮播45,http://vip.auney.cn/api/huya.php?id=11602046
-影视轮播46,http://vip.auney.cn/api/huya.php?id=11352916
-影视轮播47,http://vip.auney.cn/api/huya.php?id=11352906
-影视轮播48,http://vip.auney.cn/api/huya.php?id=11342437
-影视轮播49,http://vip.auney.cn/api/huya.php?id=11342397
-影视轮播50,http://vip.auney.cn/api/huya.php?id=11352897
-影视轮播51,http://vip.auney.cn/api/huya.php?id=11342402
-影视轮播52,http://vip.auney.cn/api/huya.php?id=11602033
-影视轮播53,http://vip.auney.cn/api/huya.php?id=11352934
-影视轮播54,http://vip.auney.cn/api/huya.php?id=11352941
-影视轮播55,http://vip.auney.cn/api/huya.php?id=11342428
-影视轮播56,http://vip.auney.cn/api/huya.php?id=10871113
-影视轮播57,http://vip.auney.cn/api/huya.php?id=11352969
-影视轮播58,http://vip.auney.cn/api/huya.php?id=11352881
-影视轮播59,http://vip.auney.cn/api/huya.php?id=11342388
-影视轮播60,http://vip.auney.cn/api/huya.php?id=11352909
-影视轮播61,http://vip.auney.cn/api/huya.php?id=11336726
-影视轮播62,http://vip.auney.cn/api/huya.php?id=11352915
-影视轮播63,http://vip.auney.cn/api/huya.php?id=11352940
-影视轮播64,http://vip.auney.cn/api/huya.php?id=11352958
-影视轮播65,http://vip.auney.cn/api/huya.php?id=11352872
-影视轮播67,http://vip.auney.cn/api/huya.php?id=11352973
-影视轮播68,http://vip.auney.cn/api/huya.php?id=11336592
-影视轮播69,http://vip.auney.cn/api/huya.php?id=11602068
-影视轮播70,http://vip.auney.cn/api/huya.php?id=11342430
 
 韩国女团,#genre#
 韩国歌团001ⓗ,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
@@ -4466,8 +4447,6 @@ reol-サイサキ,http://qukufile2.qianqian.com/data2/video/d9ef17b3d5ccaa335a85
 邓紫棋★14,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240297965874.mp4
 
 美女欣赏,#genre#
-[设置方法],http://img1.liang520.com/blog/202108/16/01/6690b6157db514816e2d4681aac28f0c.mp4
-[设置视频],http://img1.liang520.com/blog/202108/16/01/abd67ab61478f3c88f58452e3602c429.mp4
 快手美女1,http://txmov2.a.yximgs.com/upic/2019/05/13/20/BMjAxOTA1MTMyMDI2MjVfNzEzNzc4ODNfMTMwNDE2NTcwNzRfMV8z_b_B6efe4edd5b752c5403713ba942e0aabe.mp4
 快手美女2,http://qnmov.a.yximgs.com/upic/2019/02/23/21/BMjAxOTAyMjMyMTQ0MzZfNzEzNzc4ODNfMTA5ODE1MDEyOThfMV8z_b_B8a77889dc1bafbfc533481f94740f9f5.mp4
 快手美女3,http://txmov2.a.yximgs.com/upic/2019/05/26/20/BMjAxOTA1MjYyMDUxNTFfMzAyMDEzMzFfMTM0NDgwMDczMDZfMV8z_b_Bf1233cc873199d77198eddd3c8abc3eb.mp4
@@ -5116,6 +5095,14 @@ HOT,mitv://ns2.hellotvvod.com:9906/c89f06c3593342ff9c3cb59d2542a192
 JStar极限,mitv://ns2.hellotvvod.com:9906/c7a6ba75285d476e973cf01367ac6b1a
 HAPPY,mitv://ns2.hellotvvod.com:9906/9895c01831c643ea816f126483f1242d
 
+彩虹e台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
+松视1台,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
+松视2台,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
+松视3台,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
+K频道,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9
+潘朵啦玩美台,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
+LOOK TV,rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
+
 彩虹e,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
 彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
 潘朵啦玩美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
@@ -5563,82 +5550,6 @@ Hustler TV,http://78.83.191.18:8000/play/a078
 迈阿密电视,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 访问-X TV,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 Man2Man,http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
-Hustler_HD,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/1
-Brazzers,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/2
-Dorcel,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/3
-Blue_Hustler,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/4
-Penthouse_Gold,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/5
-French_Lover,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/6
-Penthouse_Passion,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/7
-Barely_Legal,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/8
-Playboy,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/9
-Private_HD,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/10
-Prive_TV,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/11
-Redlight_HD,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/12
-Sext6senso,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/14
-
-老外壹区_666,#genre#
-
-情色2,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6290/index.m3u8
-第3,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6291/index.m3u8
-情色4,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6292/index.m3u8
-情色6,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6293/index.m3u8
-情色7,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6294/index.m3u8
-情色8,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6295/index.m3u8
-Erox HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6296/index.m3u8
-邪恶天使高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6199/index.m3u8
-进化论争吵,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6200/index.m3u8
-超高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6201/index.m3u8
-Eroxxx HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5015/index.m3u8
-Exxxotica HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/2397/index.m3u8
-启动,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6273/index.m3u8
-Fast Boyz,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6274/index.m3u8
-FrenchLover,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/2160/index.m3u8
-假借录F,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6202/index.m3u8
-Fap TV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6205/index.m3u8
-Fap TV 女有限,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6209/index.m3u8
-Fap TV 长度,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6210/index.m3u8
-Fap TV 透明,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6211/index.m3u8
-FemJoy,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6212/index.m3u8
-有MYLF,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6216/index.m3u8
-Hands on Hardcore,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6217/index.m3u8
-硬X,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6218/index.m3u8
-Hitzefrei HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6220/index.m3u8
-有孔,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6221/index.m3u8
-热和平均,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6222/index.m3u8
-辣妹操,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6223/index.m3u8
-热,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6275/index.m3u8
-HOT XXL HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6276/index.m3u8
-热的乐趣,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6277/index.m3u8
-Hustler HD Europe,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/244/index.m3u8
-日本HDV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6225/index.m3u8
-Lesbea,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6227/index.m3u8
-女人最大,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6278/index.m3u8
-女人最大,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6229/index.m3u8
-小亚洲高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6230/index.m3u8
-色欲电影,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6232/index.m3u8
-MetArt HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6233/index.m3u8
-MetArt HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6235/index.m3u8
-MYLF 电视高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6236/index.m3u8
-MvH 硬,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6297/index.m3u8
-#EXTINF:-1，顽皮的美国,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6237/index.m3u8
-Nubiles TV HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6238/index.m3u8
-ox-ax HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6239/index.m3u8
-Penthouse Gold HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5011/index.m3u8
-Penthouse Gold HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5012/index.m3u8
-#EXTINF：-1，阁楼Quickies HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5013/index.m3u8
-#EXTINF:-1，抖电视,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/1073/index.m3u8
-私人高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6245/index.m3u8
-私人电视,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/243/index.m3u8
-#EXTINF:-1，公共代理,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6246/index.m3u8
-红灯高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/242/index.m3u8
-Reality Kings HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6247/index.m3u8
-RK Prime,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6248/index.m3u8
-RK TV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6249/index.m3u8
-SCT,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/876/index.m3u8
-SuperOne HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6298/index.m3u8
-SuperOne HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6252/index.m3u8
-SexArt,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6253/index.m3u8
 Asian,http://cdn.adultiptv.net/asian.m3u8
 Miami,http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 Miami  Jenny,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
@@ -5695,7 +5606,6 @@ Hustler (18+) US,http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/5525
 Balkan Erotik (18+),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/13404
 Brazzers (18+) US,http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/13403
 PlayBoy TV HD (18+),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/19674
-PlayBoy TV (18+),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/19673
 Playboy (18+) ES,http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/5512
 Pink' o TV (18+) IT,http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/16348
 Pink Erotic 2 (18+),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/5520
@@ -5737,10 +5647,8 @@ ALBA XXX 5,http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/666423
 ALBA XXX 6,http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/666424
 Legal Porno HD (18+),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/674063
 Max Blonde (18+),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/674068
-Max Blowjob (18+),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/674069
 Max Brunette (18+),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/674070
 Max Fetish (18+),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/674072
-Max Russian (18+),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/674077
 PassionXXX (+18),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/674118
 xxx1 (+18),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/674119
 SeXtreme (+18),http://mag.you24.online:8080/dhofj32p9w/smcti2bzrh/674130
@@ -6023,17 +5931,352 @@ YOSSO TV SEXY,http://8n6ygj3g.ottclub.xyz/iptv/CT48QBLVYBT79U/14176/index.m3u8
 Русская Ночь,http://8n6ygj3g.ottclub.xyz/iptv/CT48QBLVYBT79U/147/index.m3u8
 Русская ночь orig,http://8n6ygj3g.ottclub.xyz/iptv/CT48QBLVYBT79U/9344/index.m3u8
 Шалун,http://8n6ygj3g.ottclub.xyz/iptv/CT48QBLVYBT79U/922/index.m3u8
-Viasat History,http://185.228.135.48:8080/tv_viasat_history_hd/index.m3u8
-Viasat Explore,http://185.228.135.48:8080/tv_viasat_explorer_hd/index.m3u8
-Viasat Nature,http://185.228.135.48:8080/tv_viasat_nature_hd/index.m3u8
-Viasat Nature HD/Viasat History HD,http://185.228.135.48:8080/tv_viasat_nature_hd_history_hd/index.m3u8
-Доктор,http://185.228.135.48:8080/tv_doctor_sd/index.m3u8
-История,http://185.228.135.48:8080/tv_istoriya_sd/index.m3u8
-History,http://185.228.135.48:8080/tv_history_hd/index.m3u8
-Travel Channel hd,http://185.228.135.48:8080/tv_travel_channel_hd/index.m3u8
-Travel and Adventure,http://185.228.135.48:8080/tv_travel_and_adventure_sd/index.m3u8
-TLC hd,http://185.228.135.48:8080/tv_tlc_hd/index.m3u8
 Black Widow 4K,http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60289.mkv
+
+激情壹区_666,#genre#
+DDF Busty,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6193/index.m3u8
+Naughty America,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6237/index.m3u8
+Русская Ночь,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/147/index.m3u8
+Нюарт TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/2057/index.m3u8
+Шалун,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/922/index.m3u8
+Playboy,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/527/index.m3u8
+Sexto Senso,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/875/index.m3u8
+Penthouse Quickies 1300k,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/5012/index.m3u8
+Candy,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/923/index.m3u8
+FrenchLover,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/2160/index.m3u8
+Redlight HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/242/index.m3u8
+Vivid Red HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/2162/index.m3u8
+Eroxxx HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/5015/index.m3u8
+XXL,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/5009/index.m3u8
+Passion XXX,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/878/index.m3u8
+O-la-la,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/2161/index.m3u8
+Extasy 4K,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/5014/index.m3u8
+Private TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/243/index.m3u8
+Barely legal,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/871/index.m3u8
+Exxxotica HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/2397/index.m3u8
+Dorcel TV HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/245/index.m3u8
+21 Sextury,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6164/index.m3u8
+Adult Time,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6166/index.m3u8
+Anal Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6167/index.m3u8
+Analized HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6168/index.m3u8
+AST TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6169/index.m3u8
+AST TV 2,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6170/index.m3u8
+A3 Bikini,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6165/index.m3u8
+Babes TV HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6172/index.m3u8
+Bang Bros HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6173/index.m3u8
+Bang!,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6174/index.m3u8
+Big Ass Adult TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6175/index.m3u8
+Big Dick Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6176/index.m3u8
+Big Tits Adult TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6177/index.m3u8
+Blacked HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6178/index.m3u8
+Blonde Adult TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6179/index.m3u8
+Blowjob Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6180/index.m3u8
+Brunette Adult TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6183/index.m3u8
+Cherry Pimps,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6185/index.m3u8
+Club 17,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6186/index.m3u8
+Русская ночь orig,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/9344/index.m3u8
+Compilation Adult TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6187/index.m3u8
+Cuckold Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6188/index.m3u8
+Cum Louder,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6189/index.m3u8
+Cum4k,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6190/index.m3u8
+cento x cento,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6184/index.m3u8
+Day with a Pornstar,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6192/index.m3u8
+Digital Desire HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6195/index.m3u8
+Digital Playground HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6196/index.m3u8
+Dorcel Club,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6197/index.m3u8
+Dusk,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6198/index.m3u8
+Evil Angel HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6199/index.m3u8
+Evolved Fights,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6200/index.m3u8
+Extasy HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6201/index.m3u8
+Fake Taxi HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6202/index.m3u8
+Fap TV 2,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6203/index.m3u8
+Fap TV 3,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6204/index.m3u8
+SuperONE HD RO,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/7001/index.m3u8
+Fap TV Anal,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6206/index.m3u8
+Fap TV BBW,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6207/index.m3u8
+Fap TV Compilation,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6208/index.m3u8
+Fap TV Lesbian,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6209/index.m3u8
+Fap TV Parody,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6210/index.m3u8
+Fap TV Teens,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6211/index.m3u8
+FemJoy,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6212/index.m3u8
+Fetish Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6213/index.m3u8
+Gangbang Adult TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6214/index.m3u8
+Gay Adult TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6215/index.m3u8
+Got MYLF,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6216/index.m3u8
+Hands on Hardcore,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6217/index.m3u8
+Hard X,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6218/index.m3u8
+Hardcore Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6219/index.m3u8
+Hitzefrei HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6220/index.m3u8
+Holed,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6221/index.m3u8
+Hot and Mean,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6222/index.m3u8
+Hot Guys Fuck,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6223/index.m3u8
+Interracial Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6224/index.m3u8
+Japan HDV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6225/index.m3u8
+Latina Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6226/index.m3u8
+Lesbea,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6227/index.m3u8
+Lesbian Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6228/index.m3u8
+Lethal Hardcore,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6229/index.m3u8
+Little Asians HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6230/index.m3u8
+Live Cams Adult TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6231/index.m3u8
+Lust Cinema,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6232/index.m3u8
+MetArt HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6233/index.m3u8
+MILF Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6234/index.m3u8
+Monsters of Cock,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6235/index.m3u8
+MYLF TV HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6236/index.m3u8
+Nubiles TV HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6238/index.m3u8
+ox-ax HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6239/index.m3u8
+Pink Erotic 3,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6240/index.m3u8
+Pink Erotic 4,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6241/index.m3u8
+Playboy Plus,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6242/index.m3u8
+Pornstar Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6243/index.m3u8
+POV Adult TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6244/index.m3u8
+Private HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6245/index.m3u8
+Public Agent,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6246/index.m3u8
+Reality Kings HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6247/index.m3u8
+RK Prime,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6248/index.m3u8
+RK TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6249/index.m3u8
+Rough Adult TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6250/index.m3u8
+Russian Adult TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6251/index.m3u8
+Sex With Muslims,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6252/index.m3u8
+SexArt,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6253/index.m3u8
+sext 6 senso,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6254/index.m3u8
+SINematica,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6255/index.m3u8
+Teen Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6256/index.m3u8
+Threesome Red TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6257/index.m3u8
+Tiny4K,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6258/index.m3u8
+Trans Angels,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6259/index.m3u8
+True Amateurs,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6260/index.m3u8
+Tushy HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6261/index.m3u8
+TushyRAW,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6262/index.m3u8
+Visit-X TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6263/index.m3u8
+Vivid TV Europe,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6264/index.m3u8
+Vixen HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6265/index.m3u8
+We Live Together,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6266/index.m3u8
+White Boxxx,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6267/index.m3u8
+Wicked,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6268/index.m3u8
+Xpanded TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6269/index.m3u8
+Balkan Erotic,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6270/index.m3u8
+Bangerz,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6271/index.m3u8
+Emanuelle HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6272/index.m3u8
+Extreme,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6273/index.m3u8
+Fast Boyz,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6274/index.m3u8
+HOT,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6275/index.m3u8
+HOT XXL HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6276/index.m3u8
+Hot Pleasure,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6277/index.m3u8
+Lesbian Affair,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6278/index.m3u8
+Oldtimer,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6279/index.m3u8
+Playboy LA,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6280/index.m3u8
+Red XXX,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6281/index.m3u8
+Sexy Hot,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6282/index.m3u8
+Taboo,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6283/index.m3u8
+Venus,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6284/index.m3u8
+X-MO,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6285/index.m3u8
+XY Max HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6286/index.m3u8
+XY Mix HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6287/index.m3u8
+XY Plus HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6288/index.m3u8
+Erotic,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6289/index.m3u8
+Erotic 2,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6290/index.m3u8
+Erotic 3,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6291/index.m3u8
+Erotic 4,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6292/index.m3u8
+Erotic 6,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6293/index.m3u8
+Erotic 7,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6294/index.m3u8
+Erotic 8,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6295/index.m3u8
+Erox HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6296/index.m3u8
+MvH Hard,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6297/index.m3u8
+SuperOne HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6298/index.m3u8
+Ню Арт HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/6307/index.m3u8
+Dorcel HD orig,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/9064/index.m3u8
+Redlight HD orig,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/9066/index.m3u8
+Passion XXX orig,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/9067/index.m3u8
+O-La-La orig,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/9068/index.m3u8
+Ню Арт HD orig,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/9071/index.m3u8
+XXL orig,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/9345/index.m3u8
+EXXXOTICA HD orig,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/9346/index.m3u8
+ОХ-АХ HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/11068/index.m3u8
+KinoXXX,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/11052/index.m3u8
+EXTASY HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/11051/index.m3u8
+VF Cartoon 18+,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/11117/index.m3u8
+Alba 1 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12105/index.m3u8
+Alba 1,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12106/index.m3u8
+Alba 2 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12107/index.m3u8
+Alba 2,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12108/index.m3u8
+Alba 3,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12109/index.m3u8
+Alba 4,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12110/index.m3u8
+Alba 5,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12111/index.m3u8
+PURE BABES,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12112/index.m3u8
+BRAZZERS TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12113/index.m3u8
+Bang U,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12114/index.m3u8
+XY Plus 1,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12115/index.m3u8
+XY Plus 2,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12116/index.m3u8
+XY Plus 6,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12117/index.m3u8
+XY Plus 12,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12118/index.m3u8
+XY Plus 24,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12119/index.m3u8
+PASSION XXX,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12120/index.m3u8
+Super one HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12121/index.m3u8
+X1 TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12122/index.m3u8
+LEO TV FHD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12123/index.m3u8
+French Lover,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12124/index.m3u8
+Meiden Van Holland,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12125/index.m3u8
+Shalun TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12126/index.m3u8
+Beate UHSE TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12127/index.m3u8
+EROCOM TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12128/index.m3u8
+DUSK TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12129/index.m3u8
+X Plus Milf HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12130/index.m3u8
+DORCEL TV FHD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12131/index.m3u8
+DORCEL XXX TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12132/index.m3u8
+Venus HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12133/index.m3u8
+FREE X TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12134/index.m3u8
+PLAYBOY TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12135/index.m3u8
+PASSIE TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12136/index.m3u8
+VERAPORN 4K,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12137/index.m3u8
+VERAPORN 4K 2,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12138/index.m3u8
+VERAPORN TEENS,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12139/index.m3u8
+VERAPORN TEENS 2,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12140/index.m3u8
+VERAPORN GROUP SEX,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12141/index.m3u8
+VERAPORN GROUP SEX 2,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12142/index.m3u8
+VERAPORN ANAL,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12143/index.m3u8
+VERAPORN FEET,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12144/index.m3u8
+VERAPORN BIG TITS,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12145/index.m3u8
+PINK EROTICA 1,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12146/index.m3u8
+PINK EROTICA 2,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12147/index.m3u8
+PINK EROTICA 3,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12148/index.m3u8
+PINK EROTICA 4,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12149/index.m3u8
+PINK EROTICA 5,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12150/index.m3u8
+PINK EROTICA 6,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12151/index.m3u8
+PINK EROTICA 7,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12152/index.m3u8
+PINK EROTICA 8,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12153/index.m3u8
+TURKCE ALTAZILI YENI,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12154/index.m3u8
+TURKCE ALTAZILI YENI 1,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12155/index.m3u8
+TURKCE ALTAZILI YENI 2,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12156/index.m3u8
+TURKCE ALTAZILI YENI 3,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12157/index.m3u8
+TURKCE ALTAZILI YENI 4,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12158/index.m3u8
+TURK AMATOTLER,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12159/index.m3u8
+SL EROTIC HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12160/index.m3u8
+SL HOT 1 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12161/index.m3u8
+SL HOT 2 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12162/index.m3u8
+SL HOT 3 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12163/index.m3u8
+SL HOT 4 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12164/index.m3u8
+SL HOT 5 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12165/index.m3u8
+SL HOT 6 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12166/index.m3u8
+SL HOT 7 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12167/index.m3u8
+SL HOT 8 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12168/index.m3u8
+SL HOT 9 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12169/index.m3u8
+BAG U,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12170/index.m3u8
+XXXINTERRACIAL TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12171/index.m3u8
+LATINA TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12172/index.m3u8
+MILF TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12173/index.m3u8
+PORNSTAR TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12174/index.m3u8
+POV TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12175/index.m3u8
+ROUGH TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12176/index.m3u8
+RUSSIAN TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12177/index.m3u8
+TEEN TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12178/index.m3u8
+DESTINY TV HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12179/index.m3u8
+THREESOME TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12180/index.m3u8
+BANGBROS UHD 4K,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12181/index.m3u8
+EXTACY 4K,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12182/index.m3u8
+DIRTY HOBBY,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12183/index.m3u8
+GANGBANG CREAMPIE,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12184/index.m3u8
+SELECT XXX,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12185/index.m3u8
+SELECT XXX VINTAGE,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12186/index.m3u8
+HOTWIFE PREMIUM,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12187/index.m3u8
+TUSHY TV,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12188/index.m3u8
+ROCCO TV 7/24,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12189/index.m3u8
+BLACKED TV PREMIUM,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12190/index.m3u8
+BLACKED TV ELITE,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12191/index.m3u8
+GLORYHOLE LOVE FHD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12192/index.m3u8
+TRANS PREMIUM,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12193/index.m3u8
+MAD SEX PARTY,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12194/index.m3u8
+FILMAX ADULT 2 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12195/index.m3u8
+FILMAX ADULT 3 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12196/index.m3u8
+FILMAX ADULT 4 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12197/index.m3u8
+FILMAX ADULT 5 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12198/index.m3u8
+FILMAX ADULT 6 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12199/index.m3u8
+FILMAX ADULT 7 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12200/index.m3u8
+FILMAX ADULT 8 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12201/index.m3u8
+FILMAX ADULT 9 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12202/index.m3u8
+FILMAX ADULT 10 HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12203/index.m3u8
+GAY PREMIUM,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12204/index.m3u8
+FAST BOYZ GAY,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/12205/index.m3u8
+XXX Love\'s Berry HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/14140/index.m3u8
+BTV Киска (+18),http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/14003/index.m3u8
+BTV Шелк тв HD (+18),http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/14027/index.m3u8
+BTV Erotik 1 (18+) HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/14095/index.m3u8
+BTV Erotik 2 (18+) HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/14096/index.m3u8
+BTV Erotik 3 (18+) HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/14097/index.m3u8
+YOSSO TV SEXY,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/14176/index.m3u8
+BTV Японские sex game,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/15077/index.m3u8
+SKY HIGH ADULT HD,http://97c7f0af.rossteleccom.net/iptv/3P9DCM9N4NUDUP/15166/index.m3u8
+Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+MILF,http://cdn.adultiptv.net/milf.m3u8
+Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
+Fetish,http://cdn.adultiptv.net/fetish.m3u8
+Big Ass,http://cdn.adultiptv.net/bigass.m3u8
+Interracial,http://cdn.adultiptv.net/interracial.m3u8
+Latina,http://cdn.adultiptv.net/latina.m3u8
+POV,http://cdn.adultiptv.net/pov.m3u8
+Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+Teen,http://cdn.adultiptv.net/teen.m3u8
+Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
+Threesome,http://cdn.adultiptv.net/threesome.m3u8
+Russian,http://cdn.adultiptv.net/russian.m3u8
+Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+Rough,http://cdn.adultiptv.net/rough.m3u8
+Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+Compilation,http://cdn.adultiptv.net/compilation.m3u8
+Brunette,http://cdn.adultiptv.net/brunette.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8
+Gay,http://cdn.adultiptv.net/gay.m3u8
+Anal,http://cdn.adultiptv.net/anal.m3u8
+Asian,http://cdn.adultiptv.net/asian.m3u8
+Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
+SESTO SENSO TV,http://iptv.csserv.co:8000/live/clientr725/631739/2002.ts
+PENTHOUSE,http://iptv.csserv.co:8000/live/clientr725/631739/2006.m3u8
+REDLIGHT HD,http://iptv.csserv.co:8000/live/clientr725/631739/2005.m3u8
+SCT HD,http://iptv.csserv.co:8000/live/clientr725/631739/1516.m3u8
+Adult_3,http://iptv.csserv.co:8000/live/clientr725/631739/1461.ts
+Adult_4,http://iptv.csserv.co:8000/live/clientr725/631739/1460.ts
+Adult_5,http://iptv.csserv.co:8000/live/clientr725/631739/1459.ts
+DORCEL TV HD,http://iptv.csserv.co:8000/live/clientr725/631739/1517.ts
+Brazzers HD,http://iptv.csserv.co:8000/live/clientr725/631739/2009.ts
+VENUS,http://iptv.csserv.co:8000/live/clientr725/631739/2008.ts
+Adult_7,http://iptv.csserv.co:8000/live/clientr725/631739/1998.ts
+playboyv,http://iptv.csserv.co:8000/live/clientr725/631739/1803.ts
+骗子高清,http://51.15.0.141:88/hustlerhd/index.m3u8
+骗子高清,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+骗子高清,http://51.15.0.141:88/hustlerhd/mpegts
+红灯高清,http://51.15.0.141:88/redlightHD/index.m3u8
+红灯高清,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+红灯高清,http://51.15.0.141:88/redlightHD/mpegts
+Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+超一,http://185.96.176.139:8080/superone/index.m3u8
+Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+胭脂电视,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+超高清,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+SWAG,https://video2.51daao.com/btt1/2020/09/20200930/DWR0uP5r/index.m3u8
+东京热,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0436/index.m3u8
+一本道,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101315_170-1pon/index.m3u8
+HEYZO,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
+比基尼电视,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+访问-X,http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+茉莉,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Nieuwe sinds,http://80.24.75.92:5555/udp/239.111.4.1:1234
+#EXTINF:-1，迈阿密,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+迈阿密珍妮,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+顶层公寓,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+Man2Man,http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
+苹果片,http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
+网络流,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+像壁,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+XXL,http://82.42.140.103:8001/1:0:1:1d4:26ac:13f:820000:0:0:0:
+蓝色骗子高清,http://82.42.140.103:8001/1:0:16:4221:2f44:13E:820000:0:0:0:
+经历的触摸,http://82.42.140.103:8001/1:0:1:1CBB:1CE8:71:820000:0:0:0:
+骗子高清,http://82.42.140.103:8001/1:0:19:4223:2f44:13E:820000:0:0:0:
+骗子高清,http://82.42.140.103:8001/1:0:19:4220:2f44:13E:820000:0:0:0:
+私人电视,http://82.42.140.103:8001/1:0:1:4222:3DB8:13E:820000:0:0:0:
+black hd,http://51.15.0.141:88/blacked_hd/index.m3u8
 Space Jam: Nuevas Leyendas (2021) 4K,http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/60363.mkv
 Escuadrón Suicida 2 (2021) 4K,http://ultra-premium-pro.xyz:8090/movie/Jennifer/Jennifer1234/63001.mkv
 Ejército de los muertos (2021) 4k,http://ultra-premium-pro.xyz:8090/movie/35megaplaytv/k1VGGuSC7c/56496.mkv
@@ -6057,39 +6300,6 @@ hustlernetwork,https://www.hustler.com/api/m3u8/A167D4F7FF9AD92495115DB1511EE9A5
 妻子的第一次色情拍摄,https://pornercdn.xyz/hls/0105000/105055/lowest/lowest.m3u8
 我爱给克里斯一个愉快的夜晚——凯特·马利,https://pornercdn.xyz/hls/0104000/104557/fullhd/fullhd.m3u8
 BlackValleyGirls Maya Bijou,https://cdn1.cdn9x.com/654osmi1/1080p.m3u8
-AST 电视,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6169/index.m3u8
-辣妹高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6171/index.m3u8
-辣妹电视高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6172/index.m3u8
-Bang Bros HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6173/index.m3u8
-樱桃皮条客,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6185/index.m3u8
-菊花,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6186/index.m3u8
-菊花,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6189/index.m3u8
-Cum4k,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6190/index.m3u8
-女儿交换,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6191/index.m3u8
-女儿交换,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6192/index.m3u8
-DDF丰满,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6193/index.m3u8
-DDF网络,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6194/index.m3u8
-数字欲望高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6195/index.m3u8
-数字内容高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6196/index.m3u8
-多塞尔俱乐部,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6197/index.m3u8
-Dorcel TV HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6198/index.m3u8
-sext 6 传感器,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6254/index.m3u8
-Tiny4K,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6258/index.m3u8
-跨天使,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6259/index.m3u8
-真正的业余爱好,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6260/index.m3u8
-Tushy HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6261/index.m3u8
-TushyRAW,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6262/index.m3u8
-Vivid TV Europe,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6264/index.m3u8
-泼妇高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6265/index.m3u8
-我们住进,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6266/index.m3u8
-White Boxxx,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6267/index.m3u8
-邪恶,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6268/index.m3u8
-扩展电视,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6269/index.m3u8
-Bangerz,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6271/index.m3u8
-性感火辣,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6282/index.m3u8
-运动,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6283/index.m3u8
-金星,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6284/index.m3u8
-情色,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6289/index.m3u8
 成人 VOD1,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
 白色妖姬 -美樂蒂,https://je40u.cdnedge.live/file/avple-images/hls/61584d514617d9667f1fa689/playlist.m3u8
 阿爾法車震中篇,https://je40u.cdnedge.live/file/avple-images/hls/615b142d62da73610588de51/playlist.m3u8
@@ -6116,7 +6326,26 @@ Filmon TV 2 (18+),http://www.filmon.com/vr-streams/618.high/playlist.m3u8
 Filmon TV 3 (18+),http://www.filmon.com/vr-streams/615.high/playlist.m3u8
 Filmon TV 4 (18+),http://www.filmon.com/vr-streams/612.high/playlist.m3u8
 
-大陆壹区_666,#genre#
+激情贰区_666,#genre#
+國產源擼閣①,https://lbbf9.com/20191102/8tOZ9w12/index.m3u8
+國產源擼閣②,https://lbbf9.com/20191030/hwjpxFVH/index.m3u8
+國產源擼閣③,https://lbbf9.com/20191030/8Zgys1TO/index.m3u8
+國產源擼閣④,https://lajiao-bo.com/20190501/HtOWsWii/index.m3u8
+國產源擼閣⑤,https://lbbf9.com/20191031/MS9Rth4m/index.m3u8
+國產源擼閣⑥,https://lbbf9.com/20191029/Nh4ivuGD/index.m3u8
+國產源擼閣⑦,https://lbbf9.com/20191027/Ng1QIETF/index.m3u8
+國產源擼閣⑧,https://lbbf9.com/20191112/mHGSHyLg/index.m3u8
+國產源擼閣⑩,https://lbbf9.com/20191112/hritZ6s1/index.m3u8
+童心未泯國產源①,https://lbbf9.com/20191113/Z5tt1lLV/index.m3u8
+童心未泯國產源②,https://lbbf9.com/20191113/te2K6ssy/index.m3u8
+童心未泯國產源③,https://lbbf9.com/20191113/IJuMZDWu/index.m3u8
+童心未泯國產源④,https://lbbf9.com/20191113/X81HvtYv/index.m3u8
+童心未泯國產源⑤,https://lbbf9.com/20191113/blhH8Gfa/index.m3u8
+童心未泯國產源⑥,https://lbbf9.com/20191113/70oWnMVT/index.m3u8
+童心未泯國產源⑦,https://lbbf9.com/20191113/HQWapd2G/index.m3u8
+童心未泯國產源⑧,https://lbbf9.com/20191113/1Zdq30pq/index.m3u8
+童心未泯國產源⑨,https://lbbf9.com/20191030/uRLVDUbl/index.m3u8
+童心未泯國產源⑩,https://lbbf9.com/20191030/NViQtRx2/index.m3u8
 大陆1,https://vip4.ddyunbo.com/20210221/gS5t2jEz/index.m3u8?skipl=1
 大陆2,https://vip4.ddyunbo.com/20210220/9CcKySuz/index.m3u8?skipl=1
 大陆3,https://vip4.ddyunbo.com/20210220/U7alv33Q/index.m3u8?skipl=1
@@ -6751,7 +6980,253 @@ D奶的诱惑又白又嫩.mp4,https://video2.caomin5168.com/20190703/5naXOl5J/in
 丰满模特骚姿拍摄.mov,https://video2.caomin5168.com/20190607/FMOgMQzf/index.m3u8
 爆操美乳女神.mp4,https://video2.caomin5168.com/20190607/WJ3AQGRO/index.m3u8
 
-大陆叁区_666,#genre#
+激情叁区_666,#genre#
+私拍洩露美女大尺度撩騷誘惑私拍,https://video1.91pandian.com/20190930/mn3MaCS0/index.m3u8
+偷拍超級大奶大學英語老師和學生酒店開房,https://video1.91pandian.com/20191004/dbZbgDtM/index.m3u8
+私拍俏皮嫩妹換裝私拍大秀,https://video1.91pandian.com/20190930/hVMkWSxt/index.m3u8
+私拍完美身材極品女神誘惑艷舞私拍,https://video1.91pandian.com/20191001/ARftPm2g/index.m3u8
+私拍漂亮美女酒店開房浴缸泡沫私拍,https://video1.91pandian.com/20190930/szX8eIQ3/index.m3u8
+微博最新流出90後小美女與男友自拍視頻和艷照,https://video1.91pandian.com/20191004/sefd58NR/index.m3u8
+又賤又猥瑣的小青年帶了好幾樣情趣道具約會大學生漂亮美女外表看似清純內心很騷肏的尖叫對白搞笑,https://video1.91pandian.com/20191004/Nsmsx1Gc/index.m3u8
+網紅美少女黎子大人勁爆極品爆乳女神美乳嫩逼美鮑,https://video1.91pandian.com/20191004/PlWYm6kn/index.m3u8
+紋身哥水療會所情趣房玩服務非常不錯的小姐姐,https://video1.91pandian.com/20191004/7TqnoRYi/index.m3u8
+藝校性感短裙美女和網友吃過飯後到足療店包廂等技師來時就被男的掀開短裙幹又到酒店繼續操逼緊水汪真能叫!,https://video1.91pandian.com/20191004/n0xShzFm/index.m3u8
+約炮極品黑絲靚妹主動坐車來約會奶大膚白水多呻吟銷魂,https://video1.91pandian.com/20191004/g4bE67Eo/index.m3u8
+與白嫩美乳漂亮女友激情做愛扒開小內內迫切插入無套爆操抽插騎乘風騷扭動完美露臉,https://video1.91pandian.com/20191004/DTwZW4wc/index.m3u8
+樣子超萌的97年藝校小蘿莉yoyo口爆做愛逼逼很粉嫩,https://video1.91pandian.com/20191004/Xlk9zmeh/index.m3u8
+後入黑絲炮友,https://video1.91pandian.com/20191004/y48OARX4/index.m3u8
+職業白領和上司酒店上演制服誘惑,https://video1.91pandian.com/20191004/Bh0EcWn2/index.m3u8
+真大膽網紅臉性感美女和男友體驗刺激到鄉下花生地裡露天啪啪旁邊還個老頭在幹農活又在鄉下廁所裡肏逼!,https://video1.91pandian.com/20191004/9O4AdguX/index.m3u8
+華裔嫩模自慰完美嫩逼,https://video1.91pandian.com/20191004/hrXAF3ZN/index.m3u8
+清純學妹主動求草,https://video1.91pandian.com/20190930/6tAAY4fC/index.m3u8
+美女主播性感情趣裝脫光浴室洗澡自慰,https://video1.91pandian.com/20190930/aw70DjrT/index.m3u8
+熱戀中的高校男女出租屋激情纏綿拍拍高潮面色緋紅,https://video1.91pandian.com/20190930/XlLqBjAH/index.m3u8
+美少女的寂寞輕狂清純小美女舞騷弄姿揉乳玩穴給男友看被渣男放到網絡流出,https://video1.91pandian.com/20190930/CeCno3LI/index.m3u8
+人妻被同事抽操變換姿勢深深抽插超爽,https://video1.91pandian.com/20190930/TSh776sf/index.m3u8
+身材不錯大奶性感女神道具自慰摳逼噴尿,https://video1.91pandian.com/20190930/S6bZ2i3J/index.m3u8
+蘿莉嫩妹主播萌梓清純嫩妹奶子堅挺自慰插穴很誘人,https://video1.91pandian.com/20190930/JGyqfhNi/index.m3u8
+黑衣人妻自慰勾引機關強掃射,https://video1.91pandian.com/20191004/q6yd54ha/index.m3u8
+性感白絲襪無內襯衣濕身私拍,https://video1.91pandian.com/20190930/NbWsKGws/index.m3u8
+國模嚴佳麗性感制服誘惑私拍,https://video1.91pandian.com/20190930/LqdMYDv3/index.m3u8
+極品情趣巫師私拍特寫,https://video1.91pandian.com/20190930/JJXDvtSw/index.m3u8
+國模張靜文大尺度私拍視頻,https://video1.91pandian.com/20190930/b31DwrXA/index.m3u8
+少婦老公這是人家特意為你錄的當你想人家的時候,https://video1.91pandian.com/20191001/zj7NokEY/index.m3u8
+人妻約炮洗澡黑絲開戰,https://video1.91pandian.com/20191001/3ZVdEkey/index.m3u8
+嫩妹呻吟和炮友啪啪,https://video1.91pandian.com/20191001/GfPlPKUV/index.m3u8
+漂亮美女開房被猥瑣男爆操,https://video1.91pandian.com/20191001/sYNQtXWw/index.m3u8
+女友激情浴室啪啪超刺激激後入,https://video1.91pandian.com/20191001/SWkR3Vus/index.m3u8
+全姿勢解鎖酒店爆艹體校職業體操美女運動員一字馬插入插的很深,https://video1.91pandian.com/20191001/GZN883QW/index.m3u8
+美乳大學美女各種度姿勢爆操呻吟動聽,https://video1.91pandian.com/20191001/bFYlFyJn/index.m3u8
+紋身壯男暴插嫩逼小妹,https://video1.91pandian.com/20190929/nfuVYh7O/index.m3u8
+公司高管愛上極品行政小姐相約開房偷情愛愛,https://video1.91pandian.com/20190930/59l58XWa/index.m3u8
+很漂浪的肥逼妹子全裸跳蛋自慰誘人逼逼跳蛋塞入拉扯高潮噴水給炮友口交,https://video1.91pandian.com/20190930/u5o8fPma/index.m3u8
+超性感眼鏡妹沙發上拿著振動棒自慰,https://video1.91pandian.com/20190930/KQhlgvpv/index.m3u8
+雙女浴室跪舔玩3P,https://video1.91pandian.com/20190929/UgyozXtI/index.m3u8
+廣東打工的臨時夫妻開房慶祝生日激情后入淫叫爆操.MPG,https://video1.91pandian.com/20190930/u5IRefPg/index.m3u8
+真空黃發女神揉奶聊騷,https://video1.91pandian.com/20190929/XMpn21YV/index.m3u8
+大胸黑絲小表妹激情這奶子又大又軟，逼逼很肥自慰呻吟，看著有點胖一般的雞巴滿足不了,https://video1.91pandian.com/20190930/IDECOsMS/index.m3u8
+約炮超性感無內黑絲女神足交深插美穴,https://video1.91pandian.com/20190927/ufLYmP1W/index.m3u8
+身材完美小禦姐閨房展示極品美胸,https://video1.91pandian.com/20190925/317b5747/index.m3u8
+完美身材極品嫩模製服絲襪高跟誘惑自慰呻吟私拍,https://video1.91pandian.com/20190925/TPMQaZnY/index.m3u8
+震蛋自慰給攝影師舔咪咪用腳擼雞巴極品嫩模酒店大尺度私拍,https://video1.91pandian.com/20190925/3j5rnW5Z/index.m3u8
+賓館約會黑絲情趣裝長發溫柔漂亮大屁股姐姐連乾了她3炮肉棒剛插進去說好大呀自己動很刺激,https://video1.91pandian.com/20190928/JFH0kv9b/index.m3u8
+珍貴資源前女友分手洩露流出22套學生妹子多,https://video1.91pandian.com/20190927/zqdh6fjE/index.m3u8
+極品網紅臉美女女廁被色狼性侵富家少婦遭入室強啪,https://video1.91pandian.com/20190928/2V37kpAK/index.m3u8
+黑絲少婦啪啪跳蛋配合搞的少婦啊啊叫小伙幹的太猛了內射,https://video1.91pandian.com/20190928/DoR0AhzX/index.m3u8
+大學生閨蜜姐妹酒店玩雙飛先一起給足交然後輪番啪啪啪,https://video1.91pandian.com/20190928/knfj78j4/index.m3u8
+霸道魔鬼身材的極品微博網紅巨乳女神與炮友公廁啪啪自拍高速抽插把女神操爽了,https://video1.91pandian.com/20190928/ffmIZPig/index.m3u8
+九零後小帥哥和煙癮很大的漂亮妹子啪啪小哥舔逼的樣子真搞笑,https://video1.91pandian.com/20190928/1Wq0Ca0K/index.m3u8
+超短裙時尚性感的大學美女酒店被性慾旺盛的男友各種高難度體位狠狠爆插了3次白皙翹臀後入猛乾水嫩漂亮,https://video1.91pandian.com/20190928/C3tEXhjm/index.m3u8
+白色高跟愛麗絲女僕裝扛腿猛操蒙眼美乳騷貨淫語亂叫,https://video1.91pandian.com/20190928/UKsPVxvU/index.m3u8
+K酒店雙男猥瑣陪酒小姐,https://video1.91pandian.com/20190929/iW8xQpGp/index.m3u8
+超級變態飢渴少婦媽媽口交兒子小雞吧,https://video1.91pandian.com/20190929/i33SON2U/index.m3u8
+酒吧認識的極品性感氣質DJ女約了很多次1500元答應酒店啪啪,https://video1.91pandian.com/20190928/pMya7bhB/index.m3u8
+真空上陣超漂亮小少婦完美展示,https://video1.91pandian.com/20190921/e2RHaPSF/index.m3u8
+巨乳絲襪性感美女裸體跳艷舞勾引情人後被狠狠連操了2次快點射嘴裡!,https://video1.91pandian.com/20190928/4AxK396u/index.m3u8
+美女主播戶外直播袒胸露逼,https://video1.91pandian.com/20190925/XKugm7mS/index.m3u8
+年輕漂亮的大學美女性感絲襪丁字褲誘惑男的邊幹還邊說：把拍的視頻上傳網上給大家看!,https://video1.91pandian.com/20190927/cNTXVpEK/index.m3u8
+年輕大學生情侶週日校外開房啪啪啪小妹子叫的很給力表情銷魂叫老公不要還說自己騷清晰,https://video1.91pandian.com/20190927/lY4p5RYc/index.m3u8
+前女友珍貴資源前女友分手洩露流出學生妹子多！,https://video1.91pandian.com/20190927/u5OEfVjM/index.m3u8
+女神美女胖哥啪啪,https://video1.91pandian.com/20190925/dDeQCujM/index.m3u8
+豪乳主播倒貼錢勾搭了司機大哥,https://video1.91pandian.com/20190925/KENPjn7l/index.m3u8
+漂亮姐姐自慰直播吃雞吧,https://video1.91pandian.com/20190925/3QfFbNPq/index.m3u8
+特別性感漂亮的女技師做全套服務偷偷打開手機直播被美女發現不生氣反而肏的更厲害,https://video1.91pandian.com/20190927/HArYXJoO/index.m3u8
+目測一線B長腿絲襪大學生賓館人體模特私拍,https://video1.91pandian.com/20190925/9kahaots/index.m3u8
+漂亮美乳乳交夾J8靚模星女郎顧欣怡大尺度私拍,https://video1.91pandian.com/20190925/sACdbDSc/index.m3u8
+氣質短髮黑絲情趣裝性感野模裸身跳繩私拍,https://video1.91pandian.com/20190925/Vy41qVQN/index.m3u8
+開房打炮一邊看電視一邊操真帶勁,https://video1.91pandian.com/20190927/LKbyCRy6/index.m3u8
+口活非常棒的高校美女挖牆腳自己閨蜜男友開房挑釁似的給她打電話,https://video1.91pandian.com/20190927/s1KL7cZh/index.m3u8
+情場高手網聊勾搭的外表清純漂亮大學生小美女性格單純很乖巧蠻腰翹臀乾一半還接個電話,https://video1.91pandian.com/20190927/PRxPzDyR/index.m3u8
+情侶露臉做愛自拍脫衣前戲到做愛內射全過程女友活真好口交樣子很銷魂小伙子很猛都給草起飛了,https://video1.91pandian.com/20190927/I8m6uLKL/index.m3u8
+氣質發嗲妹約個忠實鐵粉外出玩手不自主向司機大吊摸露出嫩奶誘惑不行,https://video1.91pandian.com/20190927/6cbziQkI/index.m3u8
+性感漂亮的網紅女神鹿少女劇情演繹趁爸爸不在主動引誘在睡覺的外甥啪啪爽的大叫：寶寶操我快一點射我嘴裡,https://video1.91pandian.com/20190927/zGUE1ojt/index.m3u8
+性感翹臀美女激情后入,https://video1.91pandian.com/20190921/puxsE9Mq/index.m3u8
+性感小姐姐戶外漏出拍攝,https://video1.91pandian.com/20190921/Dydq1Pbd/index.m3u8
+老婆的閨蜜大胸白虎妹最近失戀了喝了不少酒躺在床上用手給她搞興奮了把給她乾了,https://video1.91pandian.com/20190927/zlt5ubNT/index.m3u8
+路邊店人妻少婦接客打車司機忍不住摳逼,https://video1.91pandian.com/20190927/QiSMSgv2/index.m3u8
+性感黑絲單位主管樹林野戰,https://video1.91pandian.com/20190925/dWoEmJzh/index.m3u8
+豪乳主播勾搭小哥租房爆操,https://video1.91pandian.com/20190925/uaX3HmWV/index.m3u8
+男材女貌的大學生情侶性愛自拍女女的樣子很淫騷,https://video1.91pandian.com/20190927/nioHf8Wb/index.m3u8
+玉女粉嫩美穴私拍,https://video1.91pandian.com/20190924/Dkod3DfZ/index.m3u8
+情婦黑絲性感誘惑身軀口交後入爆插,https://video1.91pandian.com/20190924/8hsMoUN3/index.m3u8
+最新錄製模特身材顏值美女和粉絲炮友啪啪幹完還意猶未盡對著鏡頭自己再一次弄出水_,https://video1.91pandian.com/20190924/EBpd8wRM/index.m3u8
+愛上嫂子的極品翹臀,https://video1.91pandian.com/20190926/VzwLYtay/index.m3u8
+大床房偷情被偷拍,https://video1.91pandian.com/20190926/zbpytYkR/index.m3u8
+大學生妹子站立式後入,https://video1.91pandian.com/20190926/6ruHhEpY/index.m3u8
+高難度激情爆操瘦小嫩妹,https://video1.91pandian.com/20190926/S6vSW7wu/index.m3u8
+炮友開房激情釋放,https://video1.91pandian.com/20190921/U6TJyNWg/index.m3u8
+情趣珍珠內褲誘惑露逼,https://video1.91pandian.com/20190921/9Ig5pWWI/index.m3u8
+快遞小哥小吳榜上瞭如狼似虎之年老闆娘去開房穿上情趣內衣讓他用力干以後升他做主管,https://video1.91pandian.com/20190918/WPzqobHB/index.m3u8
+內射篇高清內射女友精液流出,https://video1.91pandian.com/20190918/Xe8dDm5N/index.m3u8
+雙女閨蜜青色按摩店激情享受,https://video1.91pandian.com/20190921/hvYGgmoc/index.m3u8
+女神大叔摸逼摸著逼毛真是淫蕩,https://video1.91pandian.com/20190925/Lmbx39lO/index.m3u8
+年輕情侶之間的私密,https://video1.91pandian.com/20190918/QINyOvdZ/index.m3u8
+身材苗條長腿美乳女主播口交啪啪火腿腸自慰,https://video1.91pandian.com/20190925/b4a14yLY/index.m3u8
+極品小姨子短裙絲襪讓自慰私拍,https://video1.91pandian.com/20190924/B4SFInQx/index.m3u8
+精緻胴體爆乳女神,https://video1.91pandian.com/20190924/qkZWQVOc/index.m3u8
+騷到骨子裡的紅色妖姬極度調教小伙給她舔騷逼喝尿,https://video1.91pandian.com/20190924/Kokmz2Wt/index.m3u8
+騷貨衛生間手淫自拍,https://video1.91pandian.com/20190924/XJO8eztr/index.m3u8
+肥臀豐滿美婦全身特殊按摩服務,https://video1.91pandian.com/20190924/FaHLLSjC/index.m3u8
+高顏值短髮小姐姐被炮友幹的翻來覆去直接求饒,https://video1.91pandian.com/20190924/GBZTUoiX/index.m3u8
+高顏值極品小野模全裸出境完美拍攝,https://video1.91pandian.com/20190924/PLB8UCzP/index.m3u8
+虐愛母狗小騷貨蹲位口交母狗調教,https://video1.91pandian.com/20190924/0RN7NIOb/index.m3u8
+女王調教豪乳熟女騷婦,https://video1.91pandian.com/20190924/rvMC7QMS/index.m3u8
+炮友開房相互舔陰,https://video1.91pandian.com/20190924/3lZOb6ud/index.m3u8
+極品美女被淫手扣得大聲呻吟,https://video1.91pandian.com/20190921/WUP0HC4W/index.m3u8
+蘿莉制服上位征服炮友,https://video1.91pandian.com/20190921/46zUPL7h/index.m3u8
+黑絲製服可愛學妹宿舍內對著鏡頭摳穴自慰挑逗網友騷得不要不要的,https://video1.91pandian.com/20190918/AVm13hdx/index.m3u8
+很是風騷漂亮美少婦俯視視角直播摳穴自慰騷穴淫水白漿很多看的很誘人,https://video1.91pandian.com/20190918/Viu73RMd/index.m3u8
+性感美女主播＜醫生親親＞和男友聊著天舔著土豪雞巴被操的多次噴潮,https://video1.91pandian.com/20190923/K7E0QWyc/index.m3u8
+健身會所啪啪白虎饅頭逼口爆顏射,https://video1.91pandian.com/20190926/ydVQKcS8/index.m3u8
+一王倆後跪求顏射,https://video1.91pandian.com/20190926/B2D4xJoa/index.m3u8
+這小姐姐沒幹幾下就說下面出水了,https://video1.91pandian.com/20190923/uRsO2mdr/index.m3u8
+精品推薦微信約炮平面模特極品比基尼美女露臉口交,https://video1.91pandian.com/20190918/uaw64kas/index.m3u8
+主播妍寶寶出名後酒店援交土豪啪啪自拍曝光胸大貌美插的狠叫的更厲害,https://video1.91pandian.com/20190923/BFmkKiyr/index.m3u8
+極限湯上萊卡攝影師『破神』唯美嫩逼美乳比感官更強的是觀念篇,https://video1.91pandian.com/20190921/GmXI5pAi/index.m3u8
+金牌攝影師拍姑娘系列之《脫在分手後》全裸口紅爆乳,https://video1.91pandian.com/20190921/ksN4F1rx/index.m3u8
+繩師竹子作品全集-好多美女嫩模大尺度出演,https://video1.91pandian.com/20190921/lugBomyR/index.m3u8
+制服護士嫩模虐待調教私拍,https://video1.91pandian.com/20190921/r9xZDHxD/index.m3u8
+校園體院籃球專業帥男激情爆操啦啦隊小師妹,https://video1.91pandian.com/20190923/UGFVj0qA/index.m3u8
+星級酒店衛生間爆操身材曼妙的校園小妹妹帶著口罩嗷嗷呻吟,https://video1.91pandian.com/20190923/LGTlB16m/index.m3u8
+性交技巧和牛逼的老師和學生開房激小雞巴很厲害連續抽查不喘息,https://video1.91pandian.com/20190923/6JAHPe79/index.m3u8
+長髮美腿身材很不錯的極品小姐姐上位邊呻吟邊坐插,https://video1.91pandian.com/20190923/U3mSs9Xl/index.m3u8
+後入極品人氣少婦,https://video1.91pandian.com/20190921/CELYfsGb/index.m3u8
+後入漁網連體少婦爽爆眼球,https://video1.91pandian.com/20190921/3YjjdyDb/index.m3u8
+極品護士制服小姐上位自拍呻吟,https://video1.91pandian.com/20190921/VJVmBnUS/index.m3u8
+高顏值白嫩極品比女人還女人火爆啪啪啪畫面唯美誘人,https://video1.91pandian.com/20190918/eIZDoiNq/index.m3u8
+國內真實良家洩密鑫珊夫妻,https://video1.91pandian.com/20190918/7uIMMWZr/index.m3u8
+裸聊主播聊天室和男友直播做愛人妻爆棚,https://video1.91pandian.com/20190923/3nc3q9sF/index.m3u8
+皮膚水嫩清純可愛小美女直播自慰大秀年齡不大奶子可真不小還有舞蹈功底,https://video1.91pandian.com/20190923/irw3BQaK/index.m3u8
+嫖妓兵團老司機龍哥酒店偷拍電召300塊一炮顏值還可以的坐檯小姐,https://video1.91pandian.com/20190916/BeWK21pr/index.m3u8
+豹紋高跟騷貨艾薇兒露臉伺候我撅著屁股給我舔雞巴主動上位求草淫聲浪語不斷誘惑狼友,https://video1.91pandian.com/20190918/03bz1XPG/index.m3u8
+口罩女打飛機,https://video1.91pandian.com/20190915/1At58cSq/index.m3u8
+浪叫聲聽的人心癢癢猶如聲優的肥臀瑜伽美女老師被土豪各種爆乾水太多,https://video1.91pandian.com/20190916/uepxPIqy/index.m3u8
+性感漂亮的美女空姐曾老公不在偷偷到情人家啪啪最少射了3次真受不了了,https://video1.91pandian.com/20190920/2T6kpH3a/index.m3u8
+性感睡衣黑絲情趣口活超棒，被小哥無套激情多體位抽插，直接口爆.mkv,https://video1.91pandian.com/20190921/nqmlgFqe/index.m3u8
+再流出低俗鬧洞房，讓一對新人脫光衣服當場做遊戲驗身，新娘子不願意了！,https://video1.91pandian.com/20190914/qtWTdLPA/index.m3u8
+重磅推特洩密推特數百位良家學妹洩露大尺度精品,https://video1.91pandian.com/20190914/e83I8S5m/index.m3u8
+舞蹈系性感美女放假好久沒操逼了剛開學就迫不及待到男友出租屋求操幹完下面乾嘴巴最後全射嘴裡了,https://video1.91pandian.com/20190915/3KXZQ2cE/index.m3u8
+酒足飯飽社會小青年有男有女組團K開個包廂淫亂大喊BB露出來JJ露出來3個騷娘們搞一個老爺們,https://video1.91pandian.com/20190916/LKzvfeHn/index.m3u8
+淫亂夫妻邀請有錢單身老闆賓館玩3P雙洞齊開疊羅漢幹的騷貨嗷嗷叫場面太火爆國語對白,https://video1.91pandian.com/20190916/F9U0mIfg/index.m3u8
+約啪白皙大長腿氣質美女大學生吹簫上位坐蓮呻吟給力,https://video1.91pandian.com/20190916/W1wyiVTX/index.m3u8
+小騷貨娃娃臉還抽煙真抗操換了好幾個姿勢一頓爆操才滿足她,https://video1.91pandian.com/20190920/sfYUhArM/index.m3u8
+眼鏡哥酒店約炮超級刺激給力的天然C杯氣質外圍女,https://video1.91pandian.com/20190916/1YmgtpFT/index.m3u8
+極品長腿巨乳網紅女神泡沫與炮友無套激情啪操美乳圓潤逼肉粉嫩連操一小時喜歡女上騎乘,https://video1.91pandian.com/20190921/UPwQNrjQ/index.m3u8
+樣子斯文的氣質眼鏡女白領兼職女主播和土豪粉絲賓館豪華套房約炮不知道啥原因妹子下面出血了,https://video1.91pandian.com/20190916/VZlTGjFr/index.m3u8
+和校花啦啦隊長極致誘惑啪啪慶祝省足球賽奪冠啦啦隊長制服還沒脫騎上去就懟操小騷貨主動騎著操我太熱辣,https://video1.91pandian.com/20190916/p2NBmMDM/index.m3u8
+皮膚白皙清純美臀美女自拍福利合集廚房全裸捆綁道具插BB邊玩遊戲邊被操,https://video1.91pandian.com/20190920/92Nscwmt/index.m3u8
+高顏值性感美女洗澡都這麼騷氣故意挑逗把下面洗乾淨然後大震動器加肉棒把騷穴搞的淫水氾濫叫的誘人,https://video1.91pandian.com/20190916/teHdp12c/index.m3u8
+約炮極品S身形細腰翹臀外圍女模按在床邊爆操嬌喘呻吟好聽幹完還請喝大補湯,https://video1.91pandian.com/20190920/FTY4KCSQ/index.m3u8
+浴缸爆操96年性感長髮美女性感的小屁股後插式乾的直喊不要了操的肚子痛啊啊啊,https://video1.91pandian.com/20190914/uvFM0Rvm/index.m3u8
+女神級氣質性感高挑美女主播被粉絲網友1000元約啪到她家幹玩一次還不想走等美女洗完澡又操了一次.太漂亮了!,https://video1.91pandian.com/20190921/YdA4Ct2Q/index.m3u8
+翹臀大學美女身穿制服被導師各種姿勢狂肏口爆視訊輯二,https://video1.91pandian.com/20190916/rl1KBGM5/index.m3u8
+粉系網紅伯虎肥鮑魚可愛美女和長屌炮友約啪嫩茓肉肉的很耐艹,https://video1.91pandian.com/20190916/K4zWE9nV/index.m3u8
+藝術範漂亮女孩小穎被前渣男友自拍性愛視頻流出,https://video1.91pandian.com/20190914/wTwfvTFq/index.m3u8
+女友特別性感漂亮的大學女閨蜜勾搭了很久送了不少禮物終於答應和我偷偷開次房,https://video1.91pandian.com/20190913/kaBb30sg/index.m3u8
+最新性愛慾望系列建築工地露出自慰冰屌插穴肆意呻吟,https://video1.91pandian.com/20190917/UDepnVjZ/index.m3u8
+凹凸有致的極品女神首次三點全露女神竟是名器蝴蝶逼.mp4,https://video1.91pandian.com/20190921/qDErUrNG/index.m3u8
+國模窗台前寫真,https://video1.91pandian.com/20190921/kxc1wusE/index.m3u8
+賓館女模花式內衣寫真.mp4,https://video1.91pandian.com/20190921/jBfNoSrk/index.m3u8
+國模尤妮絲福利寫真,https://video1.91pandian.com/20190921/AVynxuOC/index.m3u8
+國模易陽突破尺度露點與老外纏綿,https://video1.91pandian.com/20190921/Fh37ihr1/index.m3u8
+乖巧98年成都嫩模瑤瑤互動深喉口爆美乳浪穴,https://video1.91pandian.com/20190921/4siXtpva/index.m3u8
+肥臀禦姐激情坐插,https://video1.91pandian.com/20190921/ScGD8Hhf/index.m3u8
+肥逼高挑嫩模翹起屁股淫手撫摸,https://video1.91pandian.com/20190921/VlFLjr5l/index.m3u8
+帥氣斌哥廣州旅遊約操游泳館認識的漂亮少婦售票員翹著屁股迎接大屌,https://video1.91pandian.com/20190917/FV6MzbOX/index.m3u8
+短髮紋身小姐姐性感搖擺,https://video1.91pandian.com/20190921/JWC7cmOC/index.m3u8
+超級誘惑大奶美女被揉奶,https://video1.91pandian.com/20190921/Q5zIwYXi/index.m3u8
+超級完美嫩鮑魚自摸誘惑,https://video1.91pandian.com/20190921/H1FqrL8r/index.m3u8
+超火爆家庭式亂倫兒子操親媽,https://video1.91pandian.com/20190921/7tehPiUN/index.m3u8
+普通話對白大學生美女醜曦宿舍大秀,https://video1.91pandian.com/20190918/9xEZdGfs/index.m3u8
+紋身小哥和女友啪啪大秀顏值不錯妹子躺著抽插後入上位騎乘猛插,https://video1.91pandian.com/20190918/CASTuX8b/index.m3u8
+顏值很高的短髮小姐姐大秀美逼,https://video1.91pandian.com/20190918/WLOoKrv9/index.m3u8
+小情侶主播直播打炮拍拍口活很不錯,https://video1.91pandian.com/20190918/gum5PRU9/index.m3u8
+氣質性感的推女郎嫩模艾XX瘋狂5P亂操內部自拍流出挨個輪流爆操幹的淫叫不斷,https://video1.91pandian.com/20190917/TVJMP5EZ/index.m3u8
+破解網絡攝像頭偷拍夫妻居家裸身.mpeg,https://video1.91pandian.com/20190918/0Xs7rbNf/index.m3u8
+一位美女從兼職平面模特到人妻的多P淫亂性癮之路,https://video1.91pandian.com/20190917/8MWB0mLL/index.m3u8
+氣質性感的漂亮小姨子在家幫忙看孩子吃飯時被姐夫故意灌醉玩弄啪啪,https://video1.91pandian.com/20190918/7LNPxqVA/index.m3u8
+身材SEX豹紋齊逼短裙馬尾辮外企小騷貨與洋上司啪啪啪老外口活厲害舔的她急喘啊啊叫欲仙欲死,https://video1.91pandian.com/20190918/sumrUuQs/index.m3u8
+顏值一級棒的漂亮包臀裙氣質美女劇情演繹下班回來的性感護士被好色歹徒尾隨到家強行捆綁蹂躪,https://video1.91pandian.com/20190917/blOn3jT7/index.m3u8
+汪珍珍在健身會所練瑜伽被洋老外康愛福撕破練功褲啪啪白虎饅頭逼口爆,https://video1.91pandian.com/20190917/4jDOEoqR/index.m3u8
+未流出V之美好遊戲時光極品粉穴完美露出,https://video1.91pandian.com/20190917/muwah8ra/index.m3u8
+藝術院校舞蹈系性感美女放假好久沒操逼了剛開學就迫不及待到男友出租屋求操幹完下面乾嘴巴最後全射嘴裡了!,https://video1.91pandian.com/20190918/IpOcKYPp/index.m3u8
+約啪喜歡看球的苗條氣質外圍女模COS足球寶貝裝渾圓小翹臀啪啪越戰越勇嬌嫩呻吟對白淫蕩,https://video1.91pandian.com/20190918/3fBTLh0E/index.m3u8
+最新處女小母狗自拍視頻合集圓珠筆插極品饅頭B快感難以形容想肉棒插進來,https://video1.91pandian.com/20190918/LbqQZneP/index.m3u8
+微乳小姐姐被操的喊爸爸,https://video1.91pandian.com/20190916/ZdUPGYnn/index.m3u8
+學生妹摳逼自慰淫水外噴,https://video1.91pandian.com/20190916/coMYWmFf/index.m3u8
+留學生玥第一次享受剃毛,https://video1.91pandian.com/20190917/PXKtSp74/index.m3u8
+苗條身材小美女人生第一次性愛自拍會呼吸的無毛粉穴多姿勢爆操浪叫中出,https://video1.91pandian.com/20190917/2tIxu9SE/index.m3u8
+絕對勁爆的風騷男女直播戶外公園衛生間野戰開砲,https://video1.91pandian.com/20190918/56CEWQMG/index.m3u8
+酒店約操車展上認識的女神級職業裝車模掀開短裙直接後插幹完換套衣服床上又操大叫：你的好大好癢好舒服!,https://videozm.dlyilian.com:8091/20190911/530oaYit/index.m3u8
+很給力的長J8耳釘男玩操無毛妹子估計是頂到宮頸了插一下叫一下很有節奏感720P高清,https://videozm.dlyilian.com:8091/20190911/oGhm8qPi/index.m3u8
+91大神xh98hx性感紋身超S身材女僕誘惑超淫蕩,https://videozm.dlyilian.com:8091/20190913/9pLSy0go/1000kb/hls/index.m3u8
+91大神xh98hx約炮女主播_番號xh03-1080P高清完整版,https://videozm.dlyilian.com:8091/20190913/sIO9jTVi/1000kb/hls/index.m3u8
+猛操白色高跟愛麗絲女僕裝淫語亂叫,https://videozm.dlyilian.com:8091/20190913/pbh71iyT/1000kb/hls/index.m3u8
+會議桌爆操OL語文老師嗓子叫啞了,https://videozm.dlyilian.com:8091/20190913/DIX6jnP7/1000kb/hls/index.m3u8
+91大神xh98hx番號xh45：近景特寫白色軟妹泳裝～1080P高清完整版！,https://videozm.dlyilian.com:8091/20190913/lXfc6l5n/1000kb/hls/index.m3u8
+女熱大陸_引退作品_大橋未久,https://videozm.dlyilian.com:8091/20190910/032715_004/1000kb/hls/index.m3u8
+老婆懷孕後每天憋著難受花了一個多月時間終於把喜歡健身的美女小姨子哄上了床奶子又圓又挺扯著胳膊後插!,https://videozm.dlyilian.com:8091/20190911/J90UgCGi/index.m3u8
+開房後入極品小白領,https://video1.91pandian.com/20190916/QUNjach0/index.m3u8
+熱戀三年的清純女友即將成為我的妻你知我長短我知你深淺無套後入內射,https://video1.91pandian.com/20190913/4DC71UQa/index.m3u8
+人前女神級美女人後淫騷不堪的性感翹臀美女大尺度自慰自拍視頻外洩無毛白虎木耳都乾成那樣了!,https://video1.91pandian.com/20190913/dDkaIOit/index.m3u8
+推特流出廣東外語學院畢業生張X菲旅加加拿大與老外4P激情視頻流出不要命了居然還有黑人,https://video1.91pandian.com/20190913/gbP414Ew/index.m3u8
+愛播物語美穴誘惑女主播噴水大秀,https://video1.91pandian.com/20190917/kZvLtG3E/index.m3u8
+工廠女工姐姐宿舍振動棒激情插逼呻吟自慰,https://video1.91pandian.com/20190917/nTz3QV85/index.m3u8
+氣質車模火辣熱褲露出私拍超級誘惑,https://video1.91pandian.com/20190917/DsxYT59a/index.m3u8
+情趣連體泳衣襯托著完美身材的極品嫩模浴室私拍,https://video1.91pandian.com/20190917/5OppyamZ/index.m3u8
+大學生野戰系列妹子按摩棒爽完以後再被後入,https://video1.91pandian.com/20190918/Oi1bApEO/index.m3u8
+對白狠淫蕩苗條白嫩人妻騷女經理老公不在家與炮友偷情口活一流無毛逼幹的浪叫不斷,https://video1.91pandian.com/20190918/DBCEkF7G/index.m3u8
+風騷校花逃課去草逼年輕的姑娘就是會玩全程露臉69口交舔逼淫聲浪語不斷表情很騷快要被幹死了,https://video1.91pandian.com/20190918/Doo4P1nw/index.m3u8
+各地作死瘋狂鬧洞房大合集-伴娘、新娘、鬧洞房,https://video1.91pandian.com/20190918/bH99gRFG/index.m3u8
+豪華房偷拍豐滿白嫩美女性慾真旺私會小鮮肉情人足足乾了3次才放過小鮮肉,https://video1.91pandian.com/20190918/EomaKwUN/index.m3u8
+極品白領大胸小可愛飢渴性戰紋身小帥哥翻版爆乳無毛嫩鮑連續啪操兩次淫語浪叫求快點射,https://video1.91pandian.com/20190918/4TuvCxqU/index.m3u8
+極品顏值花椒綠播女神曼曼man賓館豪華套房被土豪粉絲五位數約炮啪啪酒店啪啪啪口活超讚大奶白領美少婦邊搞邊聊天叫床聲特別好聽說頂死我了一對大奶亂抖對白搞笑,https://video1.91pandian.com/20190918/BwyyxPs7/index.m3u8
+女神級別大美女思妍和粉絲約啪真羨慕這個有錢的土豪粉絲OL制服加開檔黑絲開檔小內褲叫的好騷,https://video1.91pandian.com/20190918/RktzWH8i/index.m3u8
+女神級主播長腿姑娘黑絲情趣罕見姨媽秀性感裸舞手摳道具玩騷逼姨媽往外流,https://video1.91pandian.com/20190918/pdlvY0Iu/index.m3u8
+胖土豪酒店豪華套房玩弄爆乳嫩模,https://video1.91pandian.com/20190918/bBmThUe4/index.m3u8
+噴血推薦-綠葉房偷拍清純漂亮大學美女被男友爆操一次不過癮把他鎖在砲椅上自己坐雞巴上面乾,https://video1.91pandian.com/20190918/CoBHV3D0/index.m3u8
+上海服裝店美女老闆娘和隔壁賣咖哩飯的老闆賓館偷情啪啪美女騷的連內褲都不穿性感翹臀掀開就開操!,https://video1.91pandian.com/20190918/kuUTaXKk/index.m3u8
+完美身材小姐姐跪式口交,https://video1.91pandian.com/20190916/mT4HzIKY/index.m3u8
+風騷漂亮兩姐妹和男炮友三人直播一個啪啪的時候另一個在旁邊看著,https://video1.91pandian.com/20190918/qUO4lHEd/index.m3u8
+週日到朋友家串門時趁朋友不在勾引正在玩電腦的漂亮小嫂子毛毛又黑又旺果然是個騷貨,https://video1.91pandian.com/20190913/glBpGCG2/index.m3u8
+大眼女主播溫泉直播讓人摸奶摸逼還給小伙打飛機幸福來的就是這麼突然,https://video1.91pandian.com/20190918/GkEIXoO6/index.m3u8
+最新流出大學生劉玥和逼逼粉嫩的閨蜜被洋老外康愛福輪流草口爆的樣子非常淫騷,https://video1.91pandian.com/20190913/Wp3F6rYy/index.m3u8
+顏值白領美女露露睡前給同居帥哥男友口爆，被顏射一臉,https://video1.91pandian.com/20190913/zX8hbOrE/index.m3u8
+東北定制淫蕩的騷貨被後入內射艹的噴水,https://video1.91pandian.com/20190917/yDE834yO/index.m3u8
+清純漂亮美少女氧氣少女苗條身材粉嫩逼逼自慰摳穴很誘人,https://video1.91pandian.com/20190907/bitUAuZe/index.m3u8
+高清自拍完美身材情趣白絲誘惑道具插逼呻吟自拍,https://video1.91pandian.com/20190909/E8SpDGWx/index.m3u8
+高顏值旗袍小妹激情口爆大雞巴,https://video1.91pandian.com/20190909/2ttKfhDG/index.m3u8
+生完孩子的極品少婦偷腥男上司高潮呻吟,https://video1.91pandian.com/20190909/HPCSaQ9w/index.m3u8
+外表清純漂亮大學生美女趁宿舍姐妹不在脫光自拍誘人身體一對奶子飽滿圓潤輕輕掰開陰唇貌似沒被幹過,https://video1.91pandian.com/20190910/wBcTSgKg/index.m3u8
+微博女M笑笑SM·戀足向3P極品絕版資源視頻,https://video1.91pandian.com/20190910/714ta7EW/index.m3u8
+肥臀少婦排插呻吟一個比一個騷無毛一線天肥逼騷貨被手指炮機幹到高潮噴水欲仙欲死對白淫蕩,https://video1.91pandian.com/20190911/HAOedAaz/index.m3u8
+同學聚會後初戀情人車上脫掉內褲勾引我直接帶小紅裙騷貨酒店啪啪後入爆操內褲給我收藏,https://video1.91pandian.com/20190911/TlCclPpc/index.m3u8
+土豪哥酒店高價約操172CM奶大性感的腿模美女各種配合淫叫：幹的我逼好癢操我,https://video1.91pandian.com/20190911/jpUvpHL3/index.m3u8
+顏值不錯苗條身材少婦和炮友雙人啪啪上位後入多種姿勢換著操,https://video1.91pandian.com/20190912/fwLcCbOp/index.m3u8
+眼鏡男高級會所找位特別性感漂亮的女技師做全套服務,https://video1.91pandian.com/20190913/lyffrgXG/index.m3u8
+玩健身的飛機頭帥哥和藝校女友啪啪這雞巴好粗啊妹子下面有些乾澀這麼粗插下去都沒見出水,https://video1.91pandian.com/20190914/IwTKRBXm/index.m3u8
+超級漂亮的花仙子空姐不雅視頻,https://video1.91pandian.com/20190915/HsU2fqSP/index.m3u8
+美女妹紙做瑜伽姿勢極度誘惑,https://video1.91pandian.com/20190915/TZYYB2xu/index.m3u8
 迷醉性爱视频首度回应谁没有爱,https://video1.91pandian.com/20190911/64S0ECYO/index.m3u8
 美臀性奴帮帮我口交！,https://video1.91pandian.com/20190911/An7TQLBM/index.m3u8
 乱伦经典所以小没放过,https://video1.91pandian.com/20190911/sEAGjOuv/index.m3u8
@@ -6812,6 +7287,67 @@ D奶的诱惑又白又嫩.mp4,https://video2.caomin5168.com/20190703/5naXOl5J/in
 黑丝极品人妻少妇偷情酒店房间上激情后入,https://video1.91pandian.com/20190907/ZwTD1Rtk/index.m3u8
 某艺术学院极品美女不小心喝醉后被人换了3套衣服和丝袜进行玩弄绝对不值被干一次,https://video1.91pandian.com/20190906/dh0ooLZn/index.m3u8
 门票挺贵的明星脸蛋穿着性感女仆丝袜和帅哥露脸啪啪,https://video1.91pandian.com/20190906/JR7djran/index.m3u8
+迷醉性爱视频首度回应谁没有爱,https://video1.91pandian.com/20190911/64S0ECYO/index.m3u8
+美臀性奴帮帮我口交！,https://video1.91pandian.com/20190911/An7TQLBM/index.m3u8
+乱伦经典所以小没放过,https://video1.91pandian.com/20190911/sEAGjOuv/index.m3u8
+裸条肉肉福利利益,https://video1.91pandian.com/20190911/Dw29GzXt/index.m3u8
+空姐被喷的搜索_都是这春药的威力强大是少数了,https://video1.91pandian.com/20190911/gD9fcnrK/index.m3u8
+黑丝长腿网红少女,https://video1.91pandian.com/20190911/Y7gGs7my/index.m3u8
+国外真空低温,https://video1.91pandian.com/20190911/VYSiMDH9/index.m3u8
+高颜值苗条美女全裸秀,https://video1.91pandian.com/20190911/YYB3s8oN/index.m3u8
+高颜值美女跳蛋塞逼逼逼自慰！,https://video1.91pandian.com/20190911/emhpfb4y/index.m3u8
+放学被少年干一炮,https://video1.91pandian.com/20190911/VVjuJl0v/index.m3u8
+萝莉脱掉丝袜漏出美臀太诱惑了,https://video1.91pandian.com/20190910/8iPLq3Uf/index.m3u8
+仿真人娃娃.mp4,https://video1.91pandian.com/20190911/9tzwhCOm/index.m3u8
+学生小姐姐姐姐露奶自拍,https://video1.91pandian.com/20190910/IUrdYXbW/index.m3u8
+性感淫骚御姐男厕自慰自拍,https://video1.91pandian.com/20190910/PLJVcuhG/index.m3u8
+性感极品长腿白丝萝莉俏皮展示小嫩比,https://video1.91pandian.com/20190910/jNCupmlV/index.m3u8
+嫩妹上位技巧娴熟性感诱惑,https://video1.91pandian.com/20190910/8MGr27Kw/index.m3u8
+情侣激情打炮自拍,https://video1.91pandian.com/20190910/qDMRvcS4/index.m3u8
+马尾姑娘美丽的台阶漏出自拍,https://video1.91pandian.com/20190910/DWPgW0VW/index.m3u8
+短发小姐姐手机自拍抠逼淫叫.mp4,https://video1.91pandian.com/20190910/wH3PBhmi/index.m3u8
+户外漏出极品白虎自慰,https://video1.91pandian.com/20190910/qaRyn5Uo/index.m3u8
+白嫩美乳自拍大秀完成光盘.mp4,https://video1.91pandian.com/20190910/l2wtWCZU/index.m3u8
+超刺激的女神点击喷尿潮喷,https://video1.91pandian.com/20190904/xwc5hGFM/index.m3u8
+吊钟巨奶上位运动",https://video1.91pandian.com/20190904/z7tWoZsk/index.m3u8
+红衣性感骚妇自慰呻吟,https://video1.91pandian.com/20190904/UogykILn/index.m3u8
+后入花裙少妇爆操不停,https://video1.91pandian.com/20190904/hQxkp7mr/index.m3u8
+激战大奶女神,https://video1.91pandian.com/20190904/1B6sdj0O/index.m3u8
+极品短发气质御姐火车卧铺啪啪,https://video1.91pandian.com/20190904/1SnOiYbV/index.m3u8
+极品黑丝少妇寂寞诱惑,https://video1.91pandian.com/20190904/KDHWdqnY/index.m3u8
+极品女神被操的面容绯红,https://video1.91pandian.com/20190904/xatSROEg/index.m3u8
+极品小姐姐迎战3P交合,https://video1.91pandian.com/20190904/9tKsPdNT/index.m3u8
+巨奶少妇能夹住圆珠笔,https://video1.91pandian.com/20190904/E8wUwBNv/index.m3u8
+酒吧辣妹口交大肉棒,https://video1.91pandian.com/20190904/QW0CjOaz/index.m3u8
+口交巨屌炮友,https://video1.91pandian.com/20190904/JToOvlVw/index.m3u8
+萝莉小妹衬衣真空外漏出,https://video1.91pandian.com/20190904/LpTbMjQV/index.m3u8
+國產极品高挑美女自拍,https://video1.91pandian.com/20190904/rZRnursR/index.m3u8
+女神级美女魅力诱惑强荐,https://video1.91pandian.com/20190904/zTnIEGl2/index.m3u8
+女神级美女美女诱惑最新呆呆粉色护士口爆视频,https://video1.91pandian.com/20190904/XdsMPYjC/index.m3u8
+豪妇自慰自拍,https://video1.91pandian.com/20190904/8HS5cME6/index.m3u8
+体格单薄薄房超的小青年会所叫了一个年轻性感条小技师干的还挺生猛搞的妹子嗷嗷叫疼死了,https://video1.91pandian.com/20190913/rVZtmVjn/index.m3u8
+情趣主题酒店大战和黑丝开裆小骚货多体位变换肏的小贱人套服不停说好爽无内射,https://video1.91pandian.com/20190913/ikd8Y9E1/index.m3u8
+东莞情侣做爱口交露B换衣录音,https://video1.91pandian.com/20190912/dNPD5ifO/index.m3u8
+北京小情侣日常做爱换衣记录,https://video1.91pandian.com/20190913/LZz9VUmI/index.m3u8
+闺蜜特别性感美女的大学女蜜勾搭了送出去送生日礼物终于答应和我偷偷开次房开始不同意拍下操爽后随便,https://video1.91pandian.com/20190911/FhmibuWw/index.m3u8
+农村大屌纹身小青年与大肥屁股玩女孩上打炮经典体位遍个小伙体力好把妹子干的不起来,https://video1.91pandian.com/20190911/MA8vwMxj/index.m3u8
+奶茶妹小眯眯眯眯眯眯眯眯眯眯眼夫人闺蜜薇薇陪候大屌粉丝鸳鸯浴啪啪,https://video1.91pandian.com/20190911/eUIJiVYb/index.m3u8
+长腿高颜值女神露脸啪啪用ipad边看A片边做爱夹杂着两个叫床声好刺激,https://video1.91pandian.com/20190910/kb5U3xS4/index.m3u8
+介绍朋友个口活不错的借良家少妇草完还给深喉口爆毒龙,https://video1.91pandian.com/20190910/0McBnwmY/index.m3u8
+绿帽侠新娘不能满足媳妇找个大大男技给她推油把她搞兴奋了和技师一块=3P,https://video1.91pandian.com/20190910/Nc5epSpB/index.m3u8
+颜值无可击的极品嫩模主动出击口爆电影巨人屌完美口,https://video1.91pandian.com/20190909/II4e1oWr/index.m3u8
+颜值不错的打工妹出男友和激情拍拍,https://video1.91pandian.com/20190909/GuOcqH0n/index.m3u8
+女神级性感美乳大胸三线女星出名前和早操自拍外泄特别爱吃大鸡鸡扛着腿干,https://video1.91pandian.com/20190909/f3amPbzW/index.m3u8
+女神级超美女第一次开房开始害羞不让模特脱光衣服想操时男的竟阳病了,https://video1.91pandian.com/20190909/fZV95sHc/index.m3u8
+打工的姐妹露逼毛色诱在山上捡木头的草帽大叔一直干到天黑,https://video1.91pandian.com/20190909/1PdAXfPD/index.m3u8
+超性感黑丝开档萝莉翘臀展示极品美鲍鱼,https://video1.91pandian.com/20190909/RrzkfvOK/index.m3u8
+几御姐蹲位口交拍后入,https://video1.91pandian.com/20190907/2Vjz7dN2/index.m3u8
+衣冠禽兽老师勾引学生和她40岁的母亲打炮,https://video1.91pandian.com/20190907/VeVis5YV/index.m3u8
+很年轻的漂亮嫩妹和炮友多体位啪啪啪大秀长漂亮叫的淫荡有点贫乳,https://video1.91pandian.com/20190907/KvKNwSwx/index.m3u8
+黑丝极品人妻少妇偷情酒店房间上激情后入,https://video1.91pandian.com/20190907/ZwTD1Rtk/index.m3u8
+某艺术学院极品美女不小心喝醉后被人换了3套衣服和丝袜进行玩弄绝对不值被干一次,https://video1.91pandian.com/20190906/dh0ooLZn/index.m3u8
+门票挺贵的明星脸蛋穿着性感女仆丝袜和帅哥露脸啪啪,https://video1.91pandian.com/20190906/JR7djran/index.m3u8
+
 兄弟新交的女朋友-李雪,https://je40u.cdnedge.live/file/avple-images/hls/60e440690fcb11183bc80a17/playlist.m3u8
 泳裝妹妹的誘惑相奸-韓棠,https://stream.cdnedge21.live/file/avple-images/hls/60e80af5295d6915521367d3/playlist.m3u8
 釋放淫欲的神女-吳芳宜,https://47b61.cdnedge.live/file/avple-images/hls/60e735e9295d6915521367d0/playlist.m3u8
@@ -6832,7 +7368,7 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 浓厚接吻,https://bp1.dkkomo.com/stream/full/japan/3200/111420_001-1pon.m3u8
 新婚夫妇的性生活,https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
 
-大陆肆区_666,#genre#
+激情肆区_666,#genre#
 果冻传媒01,https://video2.51daao.com/btt1/2021/03/20210315/nqgw0eJK/index.m3u8
 果冻传媒02,https://video2.51daao.com/btt1/2021/03/20210309/rwTpu16k/index.m3u8
 果冻传媒03,https://video2.51daao.com/btt1/2021/03/20210309/WQ1u7YIC/index.m3u8
@@ -6895,6 +7431,7 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 天美传媒27,https://video2.51daao.com/btt1/2021/01/20210131/BQY1vCJ4/index.m3u8
 天美传媒28,https://video2.51daao.com/btt1/2021/01/20210131/7haGYFAa/index.m3u8
 天美传媒29,https://video2.51daao.com/btt1/2021/01/20210131/OB3WS438/index.m3u8
+
 麻豆传媒269,https://video2.51daao.com/btt1/2021/01/20210101/ZtagNnv5/index.m3u8
 麻豆传媒267,https://video2.51daao.com/btt1/2021/01/20210102/7aYTRmyx/index.m3u8
 麻豆传媒266,https://video2.51daao.com/btt1/2021/01/20210102/8B1wCf8c/index.m3u8
@@ -7069,6 +7606,7 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 麻豆传媒116,https://video2.51daao.com/btt1/2021/01/20210131/Oiiygf8A/index.m3u8
 麻豆传媒108,https://video2.51daao.com/btt1/2021/01/20210131/wHvSnhkB/index.m3u8
 麻豆传媒115,https://video2.51daao.com/btt1/2021/01/20210131/5RBSXGmn/index.m3u8
+
 麻豆传媒86,https://video2.51daao.com/btt1/2021/02/20210208/GoFSCFqp/index.m3u8
 麻豆传媒83,https://video2.51daao.com/btt1/2021/02/20210208/s9by1nkc/index.m3u8
 麻豆传媒84,https://video2.51daao.com/btt1/2021/02/20210208/ufryjQKG/index.m3u8
@@ -7131,6 +7669,7 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 麻豆传媒07,https://video2.51daao.com/btt1/2021/03/20210315/eJD1DnHc/index.m3u8
 麻豆传媒05,https://video2.51daao.com/btt1/2021/03/20210315/QLJViitJ/index.m3u8
 麻豆传媒06,https://video2.51daao.com/btt1/2021/03/20210315/V8HtLFLG/index.m3u8
+
 麻豆傳媒008,https://video2.51daao.com/btt1/2021/04/20210419/O5V1edwH/index.m3u8
 麻豆傳媒009,https://video2.51daao.com/btt1/2021/04/20210419/z6S4PgRO/index.m3u8
 麻豆傳媒010,https://video2.51daao.com/btt1/2021/04/20210419/zrgSC5Db/index.m3u8
@@ -7222,6 +7761,7 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 麻豆傳媒098,https://video2.51daao.com/btt1/2021/03/20210315/va5KjBCF/index.m3u8
 麻豆傳媒099,https://video2.51daao.com/btt1/2021/03/20210315/VTm3ZPZ6/index.m3u8
 麻豆傳媒100,https://video2.51daao.com/btt1/2021/03/20210315/P5m5440P/index.m3u8
+
 新麻豆传媒0.1,https://video2.51daao.com/btt1/2021/05/20210505/opxgQxWX/index.m3u8
 新麻豆传媒0.2,https://video2.51daao.com/btt1/2021/05/20210505/6cOclcGh/index.m3u8
 新麻豆传媒0.3,https://video2.51daao.com/btt1/2021/05/20210505/cBzSQi2w/index.m3u8
@@ -7383,7 +7923,330 @@ SWAG超主动闺蜜榨汁器,https://video2.51daao.com/btt1/2020/11/20201126/edv
 SWAG用淫水泛滥的穴迎接你,https://video2.51daao.com/btt1/2020/10/20201026/n3yTtZsh/index.m3u8
 SWAG骚女友被你落在这了,https://video2.51daao.com/btt1/2020/12/20201205/yPW2TR2Z/index.m3u8
 
-欧美壹区_666,#genre#
+激情伍区_666,#genre#
+Heyzo-0426,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0426_full/1500kb/hls/index.m3u8
+Heyzo-0427,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0427_full/1500kb/hls/index.m3u8
+Heyzo-0428,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0428_full/1500kb/hls/index.m3u8
+Heyzo-0430,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0430_full/1500kb/hls/index.m3u8
+Heyzo-0431,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0431_full/1500kb/hls/index.m3u8
+Heyzo-0432,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0432_full/1500kb/hls/index.m3u8
+Heyzo-0433,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0433_full/1500kb/hls/index.m3u8
+Heyzo-0434,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0434_full/1500kb/hls/index.m3u8
+Heyzo-0435,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0435_full/1500kb/hls/index.m3u8
+Heyzo-0436,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0436_full/1500kb/hls/index.m3u8
+Heyzo-0437,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0437_full/1500kb/hls/index.m3u8
+Heyzo-0438,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0438_full/1500kb/hls/index.m3u8
+Heyzo-0439,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0439_full/1500kb/hls/index.m3u8
+Heyzo-0441,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0441_full/1500kb/hls/index.m3u8
+Heyzo-0442,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0442_full/1500kb/hls/index.m3u8
+Heyzo-0443,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0443_full/1500kb/hls/index.m3u8
+Heyzo-0445,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0445_full/1500kb/hls/index.m3u8
+Heyzo-0446,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0446_full/1500kb/hls/index.m3u8
+Heyzo-0447,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0447_full/1500kb/hls/index.m3u8
+Heyzo-0448,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0448_full/1500kb/hls/index.m3u8
+Heyzo-0449,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0449_full/1500kb/hls/index.m3u8
+Heyzo-0450,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0450_full/1500kb/hls/index.m3u8
+Heyzo-0451,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0451_full/1500kb/hls/index.m3u8
+Heyzo-0452,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0452_full/1500kb/hls/index.m3u8
+Heyzo-0453,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0453_full/1500kb/hls/index.m3u8
+Heyzo-0454,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0454_full/1500kb/hls/index.m3u8
+Heyzo-0455,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0455_full/1500kb/hls/index.m3u8
+Heyzo-0456,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0456_full/1500kb/hls/index.m3u8
+Heyzo-0457,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0457_full/1500kb/hls/index.m3u8
+Heyzo-0460,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0460_full/1500kb/hls/index.m3u8
+Heyzo-0461,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0461_full/1500kb/hls/index.m3u8
+Heyzo-0462,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0462_full/1500kb/hls/index.m3u8
+Heyzo-0463,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0463_full/1500kb/hls/index.m3u8
+Heyzo-0464,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0464_full/1500kb/hls/index.m3u8
+Heyzo-0465,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0465_full/1500kb/hls/index.m3u8
+Heyzo-0466,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0466_full/1500kb/hls/index.m3u8
+Heyzo-0467,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0467_full/1500kb/hls/index.m3u8
+Heyzo-0468,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0468_full/1500kb/hls/index.m3u8
+Heyzo-0470,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0470_full/1500kb/hls/index.m3u8
+Heyzo-0471,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0471_full/1500kb/hls/index.m3u8
+Heyzo-0472,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0472_full/1500kb/hls/index.m3u8
+Heyzo-0473,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0473_full/1500kb/hls/index.m3u8
+Heyzo-0474,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0474_full/1500kb/hls/index.m3u8
+Heyzo-0475,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0475_full/1500kb/hls/index.m3u8
+Heyzo-0476,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0476_full/1500kb/hls/index.m3u8
+Heyzo-0477,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0477_full/1500kb/hls/index.m3u8
+Heyzo-0478,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0478_full/1500kb/hls/index.m3u8
+Heyzo-0480,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0480_full/1500kb/hls/index.m3u8
+Heyzo-0481,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0481_full/1500kb/hls/index.m3u8
+Heyzo-0482,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0482_full/1500kb/hls/index.m3u8
+Heyzo-0483,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0483_full/1500kb/hls/index.m3u8
+Heyzo-0484,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0484_full/1500kb/hls/index.m3u8
+Heyzo-0485,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0485_full/1500kb/hls/index.m3u8
+Heyzo-0486,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0486_full/1500kb/hls/index.m3u8
+Heyzo-0487,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0487_full/1500kb/hls/index.m3u8
+Heyzo-0488,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0488_full/1500kb/hls/index.m3u8
+Heyzo-0489,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0489_full/1500kb/hls/index.m3u8
+Heyzo-0490,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0490_full/1500kb/hls/index.m3u8
+Heyzo-0491,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0491_full/1500kb/hls/index.m3u8
+Heyzo-0492,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0492_full/1500kb/hls/index.m3u8
+Heyzo-0493,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0493_full/1500kb/hls/index.m3u8
+Heyzo-0494,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0494_full/1500kb/hls/index.m3u8
+Heyzo-0495,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0495_full/1500kb/hls/index.m3u8
+Heyzo-0499,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0499_full/1500kb/hls/index.m3u8
+Heyzo-0500,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0500_full/1500kb/hls/index.m3u8
+Heyzo-0501,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0501_full/1500kb/hls/index.m3u8
+Heyzo-0502,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0502_full/1500kb/hls/index.m3u8
+Heyzo-0503,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0503_full/1500kb/hls/index.m3u8
+Heyzo-0504,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0504_full/1500kb/hls/index.m3u8
+Heyzo-0505,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0505_full/1500kb/hls/index.m3u8
+Heyzo-0506,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0506_full/1500kb/hls/index.m3u8
+Heyzo-0507,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0507_full/1500kb/hls/index.m3u8
+Heyzo-0509,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0509_full/1500kb/hls/index.m3u8
+Heyzo-0510,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0510_full/1500kb/hls/index.m3u8
+Heyzo-0511,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0511_full/1500kb/hls/index.m3u8
+Heyzo-0512,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0512_full/1500kb/hls/index.m3u8
+Heyzo-0513,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0513_full/1500kb/hls/index.m3u8
+Heyzo-0514,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0514_full/1500kb/hls/index.m3u8
+Heyzo-0515,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0515_full/1500kb/hls/index.m3u8
+Heyzo-0516,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0516_full/1500kb/hls/index.m3u8
+Heyzo-0517,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0517_full/1500kb/hls/index.m3u8
+Heyzo-0518,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0518_full/1500kb/hls/index.m3u8
+Heyzo-0519,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0519_full/1500kb/hls/index.m3u8
+Heyzo-0520,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0520_full/1500kb/hls/index.m3u8
+Heyzo-0521,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0521_full/1500kb/hls/index.m3u8
+Heyzo-0524,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0524_full/1500kb/hls/index.m3u8
+Heyzo-0525,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0525_full/1500kb/hls/index.m3u8
+Heyzo-0526,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0526_full/1500kb/hls/index.m3u8
+Heyzo-0527,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0527_full/1500kb/hls/index.m3u8
+Heyzo-0528,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0528_full/1500kb/hls/index.m3u8
+Heyzo-0529,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0529_full/1500kb/hls/index.m3u8
+Heyzo-0530,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0530_full/1500kb/hls/index.m3u8
+Heyzo-0531,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0531_full/1500kb/hls/index.m3u8
+Heyzo-0532,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0532_full/1500kb/hls/index.m3u8
+Heyzo-0533,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0533_full/1500kb/hls/index.m3u8
+Heyzo-0534,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0534_full/1500kb/hls/index.m3u8
+Heyzo-0535,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0535_full/1500kb/hls/index.m3u8
+Heyzo-0536,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0536_full/1500kb/hls/index.m3u8
+Heyzo-0537,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0537_full/1500kb/hls/index.m3u8
+Heyzo-0538,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0538_full/1500kb/hls/index.m3u8
+Heyzo-0539,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0539_full/1500kb/hls/index.m3u8
+Heyzo-0540,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0540_full/1500kb/hls/index.m3u8
+Heyzo-0541,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0541_full/1500kb/hls/index.m3u8
+Heyzo-0543,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0543_full/1500kb/hls/index.m3u8
+Heyzo-0544,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0544_full/1500kb/hls/index.m3u8
+Heyzo-0545,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0545_full/1500kb/hls/index.m3u8
+Heyzo-0546,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0546_full/1500kb/hls/index.m3u8
+Heyzo-0547,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0547_full/1500kb/hls/index.m3u8
+Heyzo-0548,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0548_full/1500kb/hls/index.m3u8
+Heyzo-0549,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0549_full/1500kb/hls/index.m3u8
+Heyzo-0550,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0550_full/1500kb/hls/index.m3u8
+Heyzo-0551,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0551_full/1500kb/hls/index.m3u8
+Heyzo-0552,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0552_full/1500kb/hls/index.m3u8
+Heyzo-0553,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0553_full/1500kb/hls/index.m3u8
+Heyzo-0554,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0554_full/1500kb/hls/index.m3u8
+Heyzo-0555,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0555_full/1500kb/hls/index.m3u8
+Heyzo-0556,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0556_full/1500kb/hls/index.m3u8
+Heyzo-0557,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0557_full/1500kb/hls/index.m3u8
+Heyzo-0558,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0558_full/1500kb/hls/index.m3u8
+Heyzo-0559,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0559_full/1500kb/hls/index.m3u8
+Heyzo-0560,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0560_full/1500kb/hls/index.m3u8
+Heyzo-0561,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0561_full/1500kb/hls/index.m3u8
+Heyzo-0562,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0562_full/1500kb/hls/index.m3u8
+Heyzo-0563,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0563_full/1500kb/hls/index.m3u8
+Heyzo-0564,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0564_full/1500kb/hls/index.m3u8
+Heyzo-0565,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0565_full/1500kb/hls/index.m3u8
+Heyzo-0566,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0566_full/1500kb/hls/index.m3u8
+Heyzo-0567,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0567_full/1500kb/hls/index.m3u8
+Heyzo-0568,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0568_full/1500kb/hls/index.m3u8
+Heyzo-0569,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0569_full/1500kb/hls/index.m3u8
+Heyzo-0570,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0570_full/1500kb/hls/index.m3u8
+Heyzo-0572,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0572_full/1500kb/hls/index.m3u8
+Heyzo-0573,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0573_full/1500kb/hls/index.m3u8
+Heyzo-0574,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0574_full/1500kb/hls/index.m3u8
+Heyzo-0575,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0575_full/1500kb/hls/index.m3u8
+Heyzo-0576,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0576_full/1500kb/hls/index.m3u8
+Heyzo-0577,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0577_full/1500kb/hls/index.m3u8
+Heyzo-0579,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0579_full/1500kb/hls/index.m3u8
+Heyzo-0580,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0580_full/1500kb/hls/index.m3u8
+Heyzo-0581,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0581_full/1500kb/hls/index.m3u8
+Heyzo-0582,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0582_full/1500kb/hls/index.m3u8
+Heyzo-0583,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0583_full/1500kb/hls/index.m3u8
+Heyzo-0584,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0584_full/1500kb/hls/index.m3u8
+Heyzo-0585,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0585_full/1500kb/hls/index.m3u8
+Heyzo-0586,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0586_full/1500kb/hls/index.m3u8
+Heyzo-0587,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0587_full/1500kb/hls/index.m3u8
+Heyzo-0588,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0588_full/1500kb/hls/index.m3u8
+Heyzo-0589,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0589_full/1500kb/hls/index.m3u8
+Heyzo-0590,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0590_full/1500kb/hls/index.m3u8
+Heyzo-0591,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0591_full/1500kb/hls/index.m3u8
+Heyzo-0592,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0592_full/1500kb/hls/index.m3u8
+Heyzo-0593,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0593_full/1500kb/hls/index.m3u8
+Heyzo-0594,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0594_full/1500kb/hls/index.m3u8
+Heyzo-0595,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0595_full/1500kb/hls/index.m3u8
+Heyzo-0596,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0596_full/1500kb/hls/index.m3u8
+Heyzo-0597,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0597_full/1500kb/hls/index.m3u8
+Heyzo-0599,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0599_full/1500kb/hls/index.m3u8
+Heyzo-0600,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0600_full/1500kb/hls/index.m3u8
+Heyzo-0601,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0601_full/1500kb/hls/index.m3u8
+Heyzo-0602,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0602_full/1500kb/hls/index.m3u8
+Heyzo-0603,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0603_full/1500kb/hls/index.m3u8
+Heyzo-0604,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0604_full/1500kb/hls/index.m3u8
+Heyzo-0605,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0605_full/1500kb/hls/index.m3u8
+Heyzo-0606,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0606_full/1500kb/hls/index.m3u8
+Heyzo-0607,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0607_full/1500kb/hls/index.m3u8
+Heyzo-0608,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0608_full/1500kb/hls/index.m3u8
+Heyzo-0609,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0609_full/1500kb/hls/index.m3u8
+Heyzo-0610,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0610_full/1500kb/hls/index.m3u8
+Heyzo-0611,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0611_full/1500kb/hls/index.m3u8
+Heyzo-0612,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0612_full/1500kb/hls/index.m3u8
+Heyzo-0613,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0613_full/1500kb/hls/index.m3u8
+Heyzo-0614,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0614_full/1500kb/hls/index.m3u8
+Heyzo-0615,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0615_full/1500kb/hls/index.m3u8
+Heyzo-0616,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0616_full/1500kb/hls/index.m3u8
+Heyzo-0617,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0617_full/1500kb/hls/index.m3u8
+Heyzo-0618,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0618_full/1500kb/hls/index.m3u8
+Heyzo-0619,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0619_full/1500kb/hls/index.m3u8
+Heyzo-0620,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0620_full/1500kb/hls/index.m3u8
+Heyzo-0621,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0621_full/1500kb/hls/index.m3u8
+Heyzo-0622,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0622_full/1500kb/hls/index.m3u8
+Heyzo-0623,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0623_full/1500kb/hls/index.m3u8
+Heyzo-0624,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0624_full/1500kb/hls/index.m3u8
+Heyzo-0625,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0625_full/1500kb/hls/index.m3u8
+Heyzo-0626,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0626_full/1500kb/hls/index.m3u8
+Heyzo-0627,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0627_full/1500kb/hls/index.m3u8
+Heyzo-0628,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0628_full/1500kb/hls/index.m3u8
+Heyzo-0629,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0629_full/1500kb/hls/index.m3u8
+Heyzo-0630,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0630_full/1500kb/hls/index.m3u8
+Heyzo-0631,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0631_full/1500kb/hls/index.m3u8
+Heyzo-0632,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0632_full/1500kb/hls/index.m3u8
+Heyzo-0633,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0633_full/1500kb/hls/index.m3u8
+Heyzo-0634,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0634_full/1500kb/hls/index.m3u8
+Heyzo-0635,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0635_full/1500kb/hls/index.m3u8
+Heyzo-0636,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0636_full/1500kb/hls/index.m3u8
+Heyzo-0637,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0637_full/1500kb/hls/index.m3u8
+Heyzo-0638,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0638_full/1500kb/hls/index.m3u8
+HEYZO720P02,https://videomy.yongaomy.com/20191223/msg5JABw/index.m3u8
+HEYZO720P29,https://videocdnbaidu.rhsj520.com/3/NY99/heyzo-0558/1500kb/hls/index.m3u8
+HEYZO720P30,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1958_full/1500kb/hls/index.m3u8
+HEYZO720P31,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1941_full/1500kb/hls/index.m3u8
+HEYZO720P32,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1973_full/1500kb/hls/index.m3u8
+HEYZO720P33,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1971_full/1500kb/hls/index.m3u8
+HEYZO720P34,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1965_full/1500kb/hls/index.m3u8
+HEYZO720P35,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1970_full/1500kb/hls/index.m3u8
+HEYZO720P36,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1945_full/1500kb/hls/index.m3u8
+HEYZO720P37,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1980_full/1500kb/hls/index.m3u8
+HEYZO720P38,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1974_full/1500kb/hls/index.m3u8
+HEYZO720P39,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1944_full/1500kb/hls/index.m3u8
+HEYZO720P40,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1960_full/1500kb/hls/index.m3u8
+HEYZO720P41,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1954_full/1500kb/hls/index.m3u8
+HEYZO720P42,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1981_full/1500kb/hls/index.m3u8
+HEYZO720P43,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1962_full/1500kb/hls/index.m3u8
+HEYZO720P44,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1946_full/1500kb/hls/index.m3u8
+HEYZO720P45,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1976_full/1500kb/hls/index.m3u8
+HEYZO720P46,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1957_full/1500kb/hls/index.m3u8
+HEYZO720P47,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1940_full/1500kb/hls/index.m3u8
+HEYZO720P48,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1950_full/1500kb/hls/index.m3u8
+HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/index.m3u8
+
+一本道720P03,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/121115_205-1pon/index.m3u8
+一本道720P04,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/120915_204-1pon/index.m3u8
+一本道720P05,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/112015_193-1pon/index.m3u8
+一本道720P06,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/112015_004-1pon/index.m3u8
+一本道720P08,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/110615_185-1pon/index.m3u8
+一本道720P09,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/092315_158-1pon/index.m3u8
+一本道720P10,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090515_148-1pon/index.m3u8
+一本道720P11,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090415_147-1pon/index.m3u8
+一本道720P12,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090215_146-1pon/index.m3u8
+一本道720P13,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/082715_142-1pon/index.m3u8
+一本道720P14,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/082515_141-1pon/index.m3u8
+一本道720P15,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/082215_140-1pon/index.m3u8
+一本道720P16,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081815_137-1pon/index.m3u8
+一本道720P17,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081615_136-1pon/index.m3u8
+一本道720P18,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081515_135-1pon/index.m3u8
+一本道720P19,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
+一本道720P20,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081115_131-1pon/index.m3u8
+一本道720P21,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/111615_191-1pon/index.m3u8
+一本道720P22,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/111415_190-1pon/index.m3u8
+一本道720P23,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/111215_188-1pon/index.m3u8
+1Pondo-110715_186,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/110715_186-1pon/index.m3u8
+一本道720P25,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/110515_184-1pon/index.m3u8
+一本道720P26,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/103115_181-1pon/index.m3u8
+一本道720P28,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102215_184-1pon/index.m3u8
+一本道720P29,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102115_175-1pon/index.m3u8
+一本道720P30,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102115_001-1pon/index.m3u8
+一本道720P31,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102015_174-1pon/index.m3u8
+一本道720P32,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101015_169-1pon/index.m3u8
+1PONDO-100715-167,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/100715_167-1pon/index.m3u8
+一本道720P34,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/100615_166-1pon/index.m3u8
+一本道720P35,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/100115_163-1pon/index.m3u8
+一本道720P36,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/092615_161-1pon/index.m3u8
+一本道720P37,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/092515_160-1pon/index.m3u8
+一本道720P38,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091915_156-1pon/index.m3u8
+一本道720P39,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091815_155-1pon/index.m3u8
+一本道720P40,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091715_154-1pon/index.m3u8
+一本道720P41,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091115_151-1pon/index.m3u8
+一本道720P42,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091015_150-1pon/index.m3u8
+一本道720P43,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/090815_149-1pon/index.m3u8
+一本道720P44,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-121015_001/index.m3u8
+一本道720P45,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120815_203/index.m3u8
+一本道720P46,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120515_202/index.m3u8
+一本道720P47,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120415_201/index.m3u8
+一本道720P48,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120315_200/index.m3u8
+一本道720P49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112815_198/index.m3u8
+一本道720P50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112715_197/index.m3u8
+
+东热720P04,https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
+东热720P05,https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
+东热720P06,https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
+东热720P07,https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
+东热720P08,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/djr/n0817/index.m3u8
+东热720P09,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/3/djr/n0476/index.m3u8
+东热720P11,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0458/index.m3u8
+东热720P12,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0457/index.m3u8
+东热720P13,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0456/index.m3u8
+东热720P14,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0455/index.m3u8
+东热720P15,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0453/index.m3u8
+东热720P16,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0451/index.m3u8
+东热720P18,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0450/index.m3u8
+东热720P19,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0449/index.m3u8
+东热720P20,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0448/index.m3u8
+东热720P21,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0447/index.m3u8
+东热720P22,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0446/index.m3u8
+东热720P23,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0445/index.m3u8
+东热720P24,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0444/index.m3u8
+东热720P25,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0443/index.m3u8
+东热720P26,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0442/index.m3u8
+东热720P27,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0441/index.m3u8
+东热720P28,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0440/index.m3u8
+东热720P29,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0439/index.m3u8
+东热720P30,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0438/index.m3u8
+东热720P31,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0437/index.m3u8
+
+加勒比720P18,https://video1.rhsj520.com/nyrm3/jlb-112/010711-584/1500kb/hls/index.m3u8
+加勒比720P19,https://video1.rhsj520.com/nyrm3/jlb-112/010811-585/1500kb/hls/index.m3u8
+加勒比720P20,https://video1.rhsj520.com/nyrm3/jlb-112/101110-505/1500kb/hls/index.m3u8
+加勒比720P21,https://video1.rhsj520.com/nyrm3/jlb-03-02/013011-605/1500kb/hls/index.m3u8
+加勒比720P22,https://video1.rhsj520.com/nyrm3/jlb-2019-03/072711-762-1/1500kb/hls/index.m3u8
+加勒比720P23,https://video1.rhsj520.com/nyrm3/jlb-2019-03/091411-806/1500kb/hls/index.m3u8
+加勒比720P24,https://video1.rhsj520.com/nyrm3/jlb-2019-03/092011-811/1500kb/hls/index.m3u8
+加勒比720P25,https://video1.rhsj520.com/nyrm3/jlb201902/031412-967/1500kb/hls/index.m3u8
+加勒比720P26,https://video1.rhsj520.com/nyrm3/jlb201902/050212-010/1500kb/hls/index.m3u8
+加勒比720P27,https://video1.rhsj520.com/nyrm3/jlb201902/071412-074/1500kb/hls/index.m3u8
+加勒比720P28,https://video1.rhsj520.com/nyrm3/jlb201902/101912-161/1500kb/hls/index.m3u8
+加勒比720P29,https://video1.rhsj520.com/nyrm3/jlb201902/110312-174/1500kb/hls/index.m3u8
+加勒比720P30,https://video1.rhsj520.com/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
+加勒比720P31,https://video1.rhsj520.com/nyrm3/20181220/jlb/013114-533/index.m3u8
+加勒比720P33,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/123114-771/index.m3u8
+加勒比720P34,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/123014-770/index.m3u8
+加勒比720P35,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/123014-001/index.m3u8
+加勒比720P36,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122814-769/index.m3u8
+加勒比720P37,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122714-768/index.m3u8
+加勒比720P38,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122614-767/index.m3u8
+加勒比720P39,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122514-766/index.m3u8
+加勒比720P40,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122414-765/index.m3u8
+加勒比720P41,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122414-001/index.m3u8
+加勒比720P43,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122214-763/index.m3u8
+加勒比720P44,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122114-762/index.m3u8
+加勒比720P45,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122014-761/index.m3u8
+加勒比720P46,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121914-760/index.m3u8
+加勒比720P47,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121614-758/index.m3u8
+加勒比720P49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121214-756/index.m3u8
+
 DRPC-1,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0426_full/1500kb/hls/index.m3u8
 DRPC-2,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0427_full/1500kb/hls/index.m3u8
 DRPC-3,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0428_full/1500kb/hls/index.m3u8
@@ -7577,37 +8440,163 @@ DRPC-192,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0636_full/1500kb
 DRPC-193,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0637_full/1500kb/hls/index.m3u8
 DRPC-194,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0638_full/1500kb/hls/index.m3u8
 
-欧美贰区_666,#genre#
-XXX | 骗子电视,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/28238
-XXX | 色情舞蹈,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49310
-XXX | 极品,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49311
-XXX | 钢棒,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49314
-XXX | 多宝电视,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49315
-XXX | 恋物癖 OPC,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49316
-XXX | 多尔西 XXX,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49317
-XXX | 花花公子,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49321
-XXX | FAP 电视花花公子,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49334
-XXX | 色情明星,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49339
-XXX | 俄语,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/57742
-XXX | 成人 XXX2,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/77472
-XXX | 阁楼,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/77473
-XXX | 性感的,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/106545
-XXX | 迈阿密电视 OPC https://iptv.live,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/106546
-XXX | 私人电视,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/115996
-XXX | 金星OPC,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/117890
-XXX| 俄语,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/117891
-XXX | 比格蒂斯,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/117892
-XXX | 恋物癖,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/117893
-XXX | 红色交通,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/135294
-XXX | 激情打手枪,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/170712
-XXX | 多汁,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/170713
-XXX: Babes TV HD,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyFxQAjgLU_UGKmZfvSenSc/ts
-XXX: Balkan Erotic HD,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxlc7w4R8eHWuR9ovokyoje/ts
-XXX: Bang U,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyrBNRj2RW0QVmbh3ZwiNG2/ts
-XXX: Bangerz,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIxxRCPOcVpY_acRmAjEceVw/ts
-XXX: Blue Hustler HD,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIydbcVI3Y7cOsbDkZWyfmSx/ts
-XXX: Blue Hustler,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyQBFV5jwpSw7cLXZy1AFqg/ts
-XXX: Brazzers TV HD,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIzrkIdRPwooQNCO7f0cjWjA/ts
+激情陆区_666,#genre#
+KOREA-4-1,http://hotstream.asia/2018/3/2/kbj18021307.mp4
+KOREA-4-2,http://hotstream.asia/2018/3/2/kbj18021908-02.mp4
+KOREA-4-3,http://hotstream.asia/2018/3/2/kbj18022311-1.mp4
+KOREA-4-4,http://hotstream.asia/2018/3/2/wc18021105.mp4
+KOREA-4-5,http://hotstream.asia/2018/3/16/wc010102.mp4
+KOREA-4-6,http://hotstream.asia/2018/3/16/wc021603.mp4
+KOREA-4-7,http://hotstream.asia/2018/3/16/wc101501.mp4
+KOREA-4-8,http://hotstream.asia/2018/3/16/am122501.mp4
+KOREA-4-9,http://hotstream.asia/2018/3/16/wc012201.mp4
+KOREA-4-10,http://hotstream.asia/2018/3/16/wc012602.mp4
+KOREA-4-11,http://hotstream.asia/2018/3/16/wc122001-1.mp4
+KOREA-4-12,http://hotstream.asia/2018/3/16/wc122001-2.mp4
+KOREA-4-13,http://hotstream.asia/2018/3/16/FC2_0119.mp4
+KOREA-4-14,http://hotstream.asia/2018/3/16/am102201.mp4
+KOREA-4-15,http://hotstream.asia/2018/3/16/sexy-dance.mp4
+KOREA-4-16,http://hotstream.asia/2018/3/16/am111702-ori.mp4
+KOREA-4-17,http://hotstream.asia/2018/3/16/wc020501.mp4
+KOREA-4-19,http://hotstream.asia/2018/3/2/kbj18022708-01.mp4
+KOREA-4-20,http://hotstream.asia/2018/3/2/wc18021106.mp4
+KOREA-4-21,http://hotstream.asia/2018/3/2/wc18022208-01.mp4
+KOREA-4-22,http://hotstream.asia/2018/3/2/ka18021401.mp4
+KOREA-4-23,http://hotstream.asia/2018/3/2/wc18022204.mp4
+KOREA-4-24,http://hotstream.asia/2018/3/2/kbj18022705.mp4
+KOREA-4-25,http://hotstream.asia/2018/3/2/kbj18021913.mp4
+KOREA-4-26,http://hotstream.asia/2018/3/2/kp18022002.mp4
+KOREA-4-27,http://hotstream.asia/2018/3/2/kbj18020811-01.mp4
+KOREA-4-28,http://hotstream.asia/2018/3/16/wc122201.mp4
+KOREA-3-1,http://hotstream.asia/2018/2/12/kbj18020910.mp4
+KOREA-3-2,http://hotstream.asia/2018/2/12/kbj18020812.mp4
+KOREA-3-3,http://hotstream.asia/2018/2/12/kbj18020810.mp4
+KOREA-3-4,http://hotstream.asia/2018/2/12/a18020703.mp4
+KOREA-3-5,http://hotstream.asia/2018/2/12/kbj18021007.mp4
+KOREA-3-6,http://hotstream.asia/2018/2/12/kbj18013011.mp4
+KOREA-3-7,http://hotstream.asia/2018/2/12/kbj18013004-01.mp4
+KOREA-3-8,http://hotstream.asia/2018/2/12/kbj18020909-02.mp4
+KOREA-3-9,http://hotstream.asia/2018/2/12/camjddfihsyh.mp4
+KOREA-3-10,http://hotstream.asia/2018/2/12/jpkmdhiejf.mp4
+KOREA-3-11,http://hotstream.asia/2018/2/12/jpnmamnyrtt.mp4
+KOREA-3-12,http://hotstream.asia/2018/2/12/91xiaoagauzl.mp4
+KOREA-3-13,http://hotstream.asia/2018/2/12/kbj18020706.mp4
+KOREA-3-14,http://hotstream.asia/2018/2/12/kbj18020703.mp4
+KOREA-3-15,http://hotstream.asia/2018/2/12/kbj18020903.mp4
+KOREA-3-16,http://hotstream.asia/2018/2/12/Sofia180124.mp4
+KOREA-3-17,http://hotstream.asia/2018/2/12/kbj18020307.mp4
+KOREA-3-18,http://hotstream.asia/2018/2/12/kbj18020408.mp4
+KOREA-3-19,http://hotstream.asia/2018/2/12/kbj18020509.mp4
+KOREA-3-20,http://hotstream.asia/2018/2/12/gNGGUOIHX.mp4
+KOREA-3-21,http://hotstream.asia/2018/3/2/kbj18022502.mp4
+KOREA-3-22,http://hotstream.asia/2018/3/2/kbj18022713-01.mp4
+KOREA-3-23,http://hotstream.asia/2018/3/2/kbj18022708-02.mp4
+KOREA-3-24,http://hotstream.asia/2018/3/2/wc18022208-02.mp4
+KOREA-3-25,http://hotstream.asia/2018/3/2/kbj18022509.mp4
+KOREA-3-26,http://hotstream.asia/2018/3/2/kbj18022309.mp4
+KOREA-3-27,http://hotstream.asia/2018/2/12/a18020704.mp4
+KOREA-3-28,http://hotstream.asia/2018/2/12/wc18020304-07.mp4
+KOREA-3-29,http://hotstream.asia/2018/2/12/hgyyqbcsj2.mp4
+KOREA-3-30,http://hotstream.asia/2018/2/12/wc18020802.mp4
+KOREA-3-33,http://hotstream.asia/2018/3/2/kbj18021508.mp4
+KOREA-3-34,http://hotstream.asia/2018/3/2/kbj18022311-2.mp4
+KOREA-3-35,http://hotstream.asia/2018/3/2/kbj18022104.mp4
+KOREA-3-36,http://hotstream.asia/2018/3/2/kbj18021914.mp4
+KOREA-2-1,http://hotstream.asia/2018/1/30/a18011504.mp4
+KOREA-2-2,http://hotstream.asia/2018/1/30/kbj18011010.mp4
+KOREA-2-3,http://hotstream.asia/2018/1/30/kbj18012013-01.mp4
+KOREA-2-4,http://hotstream.asia/2018/1/30/kbj18011913.mp4
+KOREA-2-5,http://hotstream.asia/2018/1/30/a18012502.mp4
+KOREA-2-6,http://hotstream.asia/2018/1/30/kbj18011317-01.mp4
+KOREA-2-7,http://hotstream.asia/2018/1/30/kbj18011909.mp4
+KOREA-2-8,http://hotstream.asia/2018/1/30/kbj18011901-02.mp4
+KOREA-2-9,http://hotstream.asia/2018/1/30/kbj18012506.mp4
+KOREA-2-10,http://hotstream.asia/2018/1/30/kbj18012509-1.mp4
+KOREA-2-11,http://hotstream.asia/2018/1/30/kbj18012207.mp4
+KOREA-2-12,http://hotstream.asia/2018/1/30/kbj18012208.mp4
+KOREA-2-13,http://hotstream.asia/2018/1/30/a18012506.mp4
+KOREA-2-14,http://hotstream.asia/2018/1/30/kbj18011316-2.mp4
+KOREA-2-15,http://hotstream.asia/2018/1/30/kbj18012013-02.mp4
+KOREA-2-16,http://hotstream.asia/2018/1/30/kbj18011313-3.mp4
+KOREA-2-17,http://hotstream.asia/2018/1/30/kbj18012509-3.mp4
+KOREA-2-18,http://hotstream.asia/2018/1/30/kbj18012206.mp4
+KOREA-2-19,http://hotstream.asia/2018/1/30/kbj18011514.mp4
+KOREA-2-20,http://hotstream.asia/2018/1/30/kbj18012409.mp4
+KOREA-2-21,http://hotstream.asia/2018/1/30/kbj18011901-03.mp4
+KOREA-2-22,http://hotstream.asia/2018/1/30/kbj18011008.mp4
+KOREA-2-23,http://hotstream.asia/2018/1/30/kbj18012510.mp4
+KOREA-2-24,http://hotstream.asia/2018/1/30/kbj18011014.mp4
+KOREA-2-25,http://hotstream.asia/2018/1/30/kbj18011320-02.mp4
+KOREA-2-26,http://hotstream.asia/2018/1/30/a18012205.mp4
+KOREA-2-27,http://hotstream.asia/2018/1/30/wc18010802.mp4
+KOREA-2-28,http://hotstream.asia/2018/1/30/kbj18012011.mp4
+KOREA-2-29,http://hotstream.asia/2018/1/30/kbj18012007.mp4
+KOREA-2-30,http://hotstream.asia/2018/1/30/kbj18011317-02.mp4
+KOREA-2-32,http://hotstream.asia/2018/1/30/kbj18011901-01.mp4
+KOREA-2-33,http://hotstream.asia/2018/1/30/kbj18012403.mp4
+KOREA-2-34,http://hotstream.asia/2018/1/30/a18011506.mp4
+KOREA-2-35,http://hotstream.asia/2018/1/30/a18012207.mp4
+KOREA-2-36,http://hotstream.asia/2018/2/12/kbj18020809.mp4
+KOREA-2-37,http://hotstream.asia/2018/2/12/kbj18013004-02.mp4
+KOREA-2-38,http://hotstream.asia/2018/2/12/kbj18013005-01.mp4
+KOREA-2-39,http://hotstream.asia/2018/2/12/kbj18013010.mp4
+KOREA-2-40,http://hotstream.asia/2018/2/12/kbj18020305.mp4
+KOREA-2-41,http://hotstream.asia/2018/2/12/kbj18013004-03.mp4
+KOREA-2-42,http://hotstream.asia/2018/2/12/kbj18020909-01.mp4
+KOREA-2-43,http://hotstream.asia/2018/2/12/kbj18020409.mp4
+KOREA-2-44,http://hotstream.asia/2018/2/12/korean-scandal.mp4
+KOREA-2-45,http://hotstream.asia/2018/2/12/a18020702.mp4
+KOREA-1-1,http://hotstream.asia/2019/5/5/a19041512.mp4
+KOREA-1-2,http://hotstream.asia/2019/5/5/HSJS190324.mp4
+KOREA-1-3,http://hotstream.asia/2019/5/5/1904207.mp4
+KOREA-1-4,http://hotstream.asia/2019/5/5/a19041507-2.mp4
+KOREA-1-5,http://hotstream.asia/2019/5/5/1.mp4
+KOREA-1-6,http://hotstream.asia/2019/5/5/BYV190409.mp4
+KOREA-1-7,http://hotstream.asia/2019/5/5/a19042507.mp4
+KOREA-1-8,http://hotstream.asia/2019/5/5/lysjwtk.mp4
+KOREA-1-9,http://hotstream.asia/2019/5/5/a19041802.mp4
+KOREA-1-10,http://hotstream.asia/2019/5/5/xuehuSVT.mp4
+KOREA-1-11,http://hotstream.asia/2019/5/5/a19041803.mp4
+KOREA-1-12,http://hotstream.asia/2019/5/5/CXS190404.mp4
+KOREA-1-13,http://hotstream.asia/2019/5/5/HSD190323.mp4
+KOREA-1-14,http://hotstream.asia/2019/5/5/kbj19042104.mp4
+KOREA-1-15,http://hotstream.asia/2019/5/5/a19041903.mp4
+KOREA-1-16,http://hotstream.asia/2019/5/5/ZPV190327.mp4
+KOREA-1-17,http://hotstream.asia/2019/5/5/a19041507-1.mp4
+KOREA-1-18,http://hotstream.asia/2019/5/5/kbj19042208.mp4
+KOREA-1-19,http://hotstream.asia/2019/5/5/kbj19042909.mp4
+KOREA-1-20,http://hotstream.asia/2019/5/5/kbj19042106.mp4
+KOREA-0-1,http://hotstream.asia/2019/8/2/a19072111.mp4
+KOREA-0-2,http://hotstream.asia/2019/8/2/a19072307.mp4
+KOREA-0-3,http://hotstream.asia/2019/8/2/a19080205.mp4
+KOREA-0-4,http://hotstream.asia/2019/8/2/kbj19072410.mp4
+KOREA-0-5,http://hotstream.asia/2019/8/2/kbj19072108.mp4
+KOREA-0-6,http://hotstream.asia/2019/8/2/kbj19072207-1.mp4
+KOREA-0-7,http://hotstream.asia/2019/8/2/a19080208.mp4
+KOREA-0-8,http://hotstream.asia/2019/8/2/a19072107.mp4
+KOREA-0-9,http://hotstream.asia/2019/8/2/kbj19072206-2.mp4
+KOREA-0-10,http://hotstream.asia/2019/8/2/kbj19072412.mp4
+KOREA-0-11,http://hotstream.asia/2019/8/2/a19072306.mp4
+KOREA-0-12,http://hotstream.asia/2019/8/2/kbj19073107.mp4
+KOREA-0-13,http://hotstream.asia/2019/8/2/kbj19072103.mp4
+KOREA-0-14,http://hotstream.asia/2019/8/2/kbj19072113-1.mp4
+KOREA-0-15,http://hotstream.asia/2019/8/2/kbj19073102-2.mp4
+KOREA-0-16,http://hotstream.asia/2019/8/2/a19080211.mp4
+KOREA-0-17,http://hotstream.asia/2019/8/2/kbj19072207-2.mp4
+KOREA-0-18,http://hotstream.asia/2019/8/2/WBC44170527-1.mp4
+KOREA-0-19,http://hotstream.asia/2019/8/2/kbj19072206-1.mp4
+KOREA-0-20,http://hotstream.asia/2019/8/2/a19080210.mp4
+KOREA-0-21,http://hotstream.asia/2019/8/2/kbj19072201.mp4
+KOREA-0-22,http://hotstream.asia/2019/8/2/a19080201.mp4
+KOREA-0-23,http://hotstream.asia/2019/8/2/GMV180906-1.mp4
+KOREA-0-24,http://hotstream.asia/2019/8/2/a19070901.mp4
+KOREA-0-25,http://hotstream.asia/2019/8/2/mir385mi01.mp4
+KOREA-0-26,http://hotstream.asia/2019/8/2/xiunin.mp4
+KOREA-0-27,http://hotstream.asia/2019/8/2/kbj19072112-2.mp4
+KOREA-0-28,http://hotstream.asia/2019/8/2/kbj19073102-1.mp4
+KOREA-0-29,http://hotstream.asia/2019/7/25/1970204-4.mp4
+
+激情柒区_666,#genre#
 XXX: Brazzers TV Europe,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwfEnNeGreI4NwufkrxX4kU/ts
 XXX: Brazzers eXXtra,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIwlCcBnNS48Ll3rgaKh3Rbv/ts
 XXX: Candy,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIyNeN9QrQl_22z8P9SSatGN/ts
@@ -7732,7 +8721,7 @@ XXX: We Live Together HD,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdD
 XXX: White Boxxx HD,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIy_kfsQfT6xPP--K0_za9r6/ts
 XXX: Wicked HD,http://neczbm.to:80/play/n9sfrHRqHhNOQgEheVT6F8gXSvHZdDhWz5E192moeIx7--ENz0O0LwXKrxG3Ml35/ts
 
-日本壹区_666,#genre#
+激情玖区_666,#genre#
 CastingCouch X亞洲人身材嬌小的極光溫特斯（Aurora Winters）被鑄造劑性交,http://13216.vod.redtraffic.xyz/ph5a7a321ceba13/play.m3u8
 Christy Charming / Paula Shy-可愛的黑髮貝貝完美的山雀在白色...,http://21470.vod.adultiptv.net/ph55dff26e04a5d/play.m3u8
 亞洲青少年與完美的胸部粗糙在線聯播,http://12204.vod.adultiptv.net/ph58ae48bdc953c/play.m3u8
@@ -8331,7 +9320,7 @@ BANGBROS-Brooke Karter Gobble Gobbles Juan El Caballo Loco＆＃039; s Big Dick,
 BLACKEDRAW Curvy Beauty亂搞BBC HARD首次約會,http://10238.vod.adultiptv.net/ph5bee7afdb432a/play.m3u8
 YHIVI取消了鋼琴演奏的技巧，然後在臉上露出粗暴的性愛和精液,http://21470.vod.adultiptv.net/ph5ad4622318b23/play.m3u8
 
-日韩贰区_666,#genre#
+激情拾区_666,#genre#
 僕生中出人妻 篠田ゆう,http://videocdn.quweikm.com:8091/20180730/SET-009c/index.m3u8
 SERO-0205c-抜14発中出  武井麻希,http://videocdn.quweikm.com:8091/20180730/SERO-0205c/index.m3u8
 SERO-0272c-男性主導の体位 上原亜衣,http://videocdn.quweikm.com:8091/20180730/SERO-0272c/index.m3u8
@@ -8845,6 +9834,8 @@ SET-017c-容姿端麗,http://videocdn.quweikm.com:8091/20180730/SET-017c/index.m
 ABP-697Bc-究極性交,http://videocdn.quweikm.com:8091/20181001/ABP-697Bc/index.m3u8
 SET-014c-処女同棲生活,http://videocdn.quweikm.com:8091/20180730/SET-014c/index.m3u8
 SET-010c-巨乳美人,http://videocdn.quweikm.com:8091/20180730/SET-010c/index.m3u8
+
+激情拾壹_666,#genre#
 JUL-269-C黑母乳人妻OL被最的男人幹到想死,http://videozm.whqhyg.com:8091/20200711/fVqOk81I/index.m3u8
 STARS-253-C對憧憬女主播本莊鈴使用洗腦精華水讓她變成徹徹底底的淫娃,http://videozm.whqhyg.com:8091/20200711/lJ4xsMgX/index.m3u8
 WANZ-961-C忍住春高超淫技就你套射,http://videozm.whqhyg.com:8091/20200629/WANZ-961-C/index.m3u8
@@ -8852,8 +9843,6 @@ MIDE-680-C然朴素和青梅竹吃了5天同居生活水卜,https://videozm.whqh
 SHKD-875-C犯了她姐姐的那一天… 夏目彩,https://videozm.whqhyg.com:8091/20210114/Haj5WZFL/index.m3u8
 NDRA-060-C成居情的妻子17黑川,https://videozm.whqhyg.com:8091/20210114/wEMqUjUz/index.m3u8
 XRW-528c-早漏妹排卵日子作生活君色華奈,http://videocdn.quweikm.com:8091/20181001/XRW-528c/index.m3u8
-
-日韩叁区_666,#genre#
 XRW-558 在老公不知情间做了5次内射还不停止的年轻太太 (假名) 羽生亚里纱,https://dadi-bo.com/20181218/ntacGKAG/800kb/hls/index.m3u8
 PPPD-679盛夏中的大嫂 她被汗液浸濕的J罩杯巨乳讓我不能控制自已,https://dadi-bo.com/20190109/NiNXKKBm/800kb/hls/index.m3u8
 MIDE-558沉浸在癡漢中…明明知道待在這輛車裡不行 …― 水卜櫻,https://dadi-bo.com/20181231/pnt5g13k/800kb/hls/index.m3u8
@@ -8877,16 +9866,12 @@ HJMO-408夫妇挑战,https://videozm.whqhyg.com:8091/20201212/zIafFh3D/1000kb/hl
 JUY-885丈夫的上司侵犯后的第7天，我失去了理智…。星奈爱,https://videozm.whqhyg.com:8091/20201213/SaNp2jgL/1000kb/hls/index.m3u8
 欲求不满人妻与大叔中出偷情,https://vip4.ddyunbo.com/20201104/hbsstESu/600kb/hls/index.m3u8
 MEYD-433 老公带来养子是巨大肉棒 希岛爱理,https://videozm.whqhyg.com:8091/20200523/YfREJhdI/1000kb/hls/index.m3u8
-MEYD-574 要是不知道繼子是巨根就好,https://awslsn1.sisuoyun.com/81820210205/YM1209229/1000kb/hls/index.m3u8
-MEYD-309-夫の巨根,https://d2hv8j6mlnhp44.cloudfront.net/81820171130/MEYD-309/550kb/hls/index.m3u8
 【無碼破解】少女教主至尊魔王『希美真由』被凌辱的搜查官ipz-124,http://mozart.horowitzclass.com/media/videos/mp4/8219_240p.mp4?st=n5bnVqqqa04QPqwi-eUAAg&e=1613237584
 STAR-409 PART2 唯美又激烈地啪啪 做完身体微抽搐 jav無碼破解版流出,http://mozart.horowitzclass.com/media/videos/mp4/9622_240p.mp4?st=W3WvjAmUH_-b_9ytK-8xLA&e=1613237669
 SNIS-286 吉沢明歩 03 日本無碼破解,http://mozart.horowitzclass.com/media/videos/mp4/12231_240p.mp4?st=kSsPo25l8f32JcvZaCUWtQ&e=1613237852
-JUFE-131 無意間插入大嫂私處後… 緊到拔不出來強制連續中出！ 小梅惠奈,https://awslsn1.sisuoyun.com/81820200518/YM0503098/1000kb/hls/index.m3u8
 SDAB-115 青春洋溢的可爱女高中生 松本一香,https://videozmcdn.stz8.com:8091/20200228/DvKSXNkT/1000kb/hls/index.m3u8
 MIAA-258 跟玩伴练习幹砲肏到中出 松本一香,https://videozm.whqhyg.com:8091/20200427/QlIM7HzG/1000kb/hls/index.m3u8
 DASD-588 从肉棒喷发的珍奶、要喝看看吗？ 渚光希,https://videozmcdn.stz8.com:8091/20191112/1YUlWqZB/1000kb/hls/index.m3u8
-IENE-603 被抓包瞭！拿姐的內褲自慰,https://d2dwgfvoet7hsw.cloudfront.net/99920190719/EYJ1LHG603/1000kb/hls/index.m3u8
 IENF-023 能隔着一张保鲜膜和朋友摩擦下体吗？,https://videomy.yongaomy.com/20191117/IENF-023/1500kb/hls/index.m3u8
 DOCP-142 女儿家教媚药发情,https://vd7.zhiyuanhongda.com/20200804/menv8ZkY/1000kb/hls/index.m3u8
 FERA-114 让妈妈喝下媚的话… 水野优香,https://videozmcdn.stz8.com:8091/20191227/rUxoTqSq/1000kb/hls/index.m3u8
@@ -9116,7 +10101,7 @@ ESK-304c- みう20さい,http://videocdn.hndtl.com:8091/20181120/ESK-304c/index.
 EBOD-656c-J罩杯超爆乳辣妹.. .,http://videocdn.hndtl.com:8091/20181120/EBOD-656c/index.m3u8
 EBOD-655c-極上姉妹愛人2人中出,http://videocdn.hndtl.com:8091/20181120/EBOD-655c/index.m3u8
 
-日韩肆区_666,#genre#
+激情拾贰_666,#genre#
 一本道1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道2,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8?skipl=1
 一本道3,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8?skipl=1
@@ -9131,7 +10116,6 @@ EBOD-655c-極上姉妹愛人2人中出,http://videocdn.hndtl.com:8091/20181120/E
 电影1,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
 限制级1,https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8?streamType=live
 限制级2,http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
-限制级4,http://176.197.26.198:81/udp/239.255.42.143:1234
 限制级6,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
 限制级7,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
@@ -9365,20 +10349,6 @@ EBOD-655c-極上姉妹愛人2人中出,http://videocdn.hndtl.com:8091/20181120/E
 高清16,https://vip4.ddyunbo.com/20210301/mquCR1yb/index.m3u8?skipl=1
 韩国1,https://vip4.ddyunbo.com/20210212/mdxgU6Ud/index.m3u8?skipl=1
 韩国2,https://vip4.ddyunbo.com/20210211/S9h1NoiL/index.m3u8?skipl=1
-有码1,https://dadi-bo.com/20190202/mIc6v9OJ/index.m3u8?skipl=1
-有码2,https://dadi-bo.com/20190202/HNCU599A/index.m3u8?skipl=1
-有码3,https://dadi-bo.com/20190205/CDV50Agi/index.m3u8?skipl=1
-有码4,https://dadi-bo.com/20190205/F7xLiWQA/index.m3u8?skipl=1
-有码5,https://dadi-bo.com/20190205/MhfKhOYC/index.m3u8?skipl=1
-有码6,https://ddyunbo.com/20190410/4913_fa3602bb/index.m3u8?sign=1bea34de19ed2cf8181a2424b59d97ac
-有码7,https://ddyunbo.com/20190410/4924_4a63292a/index.m3u8?sign=6525c506688bd7e89780da0699ddfd0f
-有码8,https://vip4.ddyunbo.com/20210210/BApwQrdz/index.m3u8?skipl=1
-有码9,https://vip4.ddyunbo.com/20210210/iRypVtMK/index.m3u8?skipl=1
-有码10,https://lbbf9.com/20200803/ttn2CwFM/index.m3u8
-有码12,https://2.ddyunbo.com/20200613/K9Bn7rTi/index.m3u8?skipl=1
-有码13,https://vip4.ddyunbo.com/20201025/gzR77HPU/index.m3u8?skipl=1
-有码14,https://vip4.ddyunbo.com/20201024/qlOuR9h6/index.m3u8?skipl=1
-有码15,https://3.ddyunbo.com/20201001/1uBN5BCj/index.m3u8?skipl=1
 日韩高清31,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 大嫂,https://u89ey.cdnedge.live/file/avple-images/hls/612716f53beeaf76c2bbdb0d/playlist.m3u8
 綠茶女友,https://47b61.cdnedge.live/file/avple-images/hls/6133728dab335a56e394824c/playlist.m3u8
@@ -9386,116 +10356,8 @@ EBOD-655c-極上姉妹愛人2人中出,http://videocdn.hndtl.com:8091/20181120/E
 父女的不倫之戀-李小藍,https://10j99.cdnedge.live/file/avple-images/hls/610c7539ff7a912d5bde15c2/playlist.m3u8
 艷母2-孟若羽,https://8bb88.cdnedge.live/file/avple-images/hls/610c6639ff7a912d5bde15c0/playlist.m3u8
 菜鳥特務-袁子儀,https://u89ey.cdnedge.live/file/avple-images/hls/610ae7f567e1cd7424668638/playlist.m3u8
-兄弟新交的女朋友-李雪,https://je40u.cdnedge.live/file/avple-images/hls/60e440690fcb11183bc80a17/playlist.m3u8
-泳裝妹妹的誘惑相奸-韓棠,https://stream.cdnedge21.live/file/avple-images/hls/60e80af5295d6915521367d3/playlist.m3u8
-釋放淫欲的神女-吳芳宜,https://47b61.cdnedge.live/file/avple-images/hls/60e735e9295d6915521367d0/playlist.m3u8
-歐洲杯-何苗,https://stream.cdnedge15.live/file/avple-images/hls/60e6f101295d6915521367be/playlist.m3u8
-笨女孩的聰明想法-蘇語棠,https://stream.cdnedge21.live/file/avple-images/hls/60e630591cefd85c8cb9e38a/playlist.m3u8
-綠帽男友的復仇-尤莉,https://stream.cdnedge15.live/file/avple-images/hls/60deb63541b32117d66a0b94/playlist.m3u8
-我的妹妹不可能這麼可愛2-穆娜,https://stream.cdnedge17.live/file/avple-images/hls/60ddf5c941b32117d66a0b92/playlist.m3u8
-自由奔放で小悪魔な妹とイチャイチャ同棲性活 鳥越花,https://47b61.cdnedge.live/file/avple-images/hls/6124/6124.m3u8
-朋友出差的日子和他的巨乳女友夢乃愛華從早到晚72小時瘋狂做愛記錄,https://47b61.cdnedge.live/file/avple-images/hls/1605627929/5000/5244/5244.m3u8
-AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145aa619c774a8b/playlist.m3u8
-就算一直暗戀的青梅竹馬小倉由菜已经結婚了我也還是放不下和慾求不滿的她偷情內射性愛 小倉由菜,https://47b61.cdnedge.live/file/avple-images/hls/1605630110/7000/7810/7810.m3u8
-女友不在的幾天內和她的姐姐高橋聖子瘋狂做愛,https://47b61.cdnedge.live/file/avple-images/hls/1605633653/2000/2585/2585.m3u8
-女朋友的姐姐葵的全力走光誘惑我,https://47b61.cdnedge.live/file/avple-images/hls/1605636162/0/424/424.m3u8
-夜宿美女同事岬奈奈美家裡被沒穿胸罩,https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
-憧憬的女OL天使萌社員研修旅行,https://47b61.cdnedge.live/file/avple-images/hls/4922/4922.m3u8
-公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
 东京热,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0436/index.m3u8
 一本道,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101315_170-1pon/index.m3u8
 HEYZO,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
 Iroha Natsume ออฟชั่นพุ่งพรวดหนูนวดปิดหนี้ RBD-932,https://cdn1.cdn9x.com/naga3n55/1080p.m3u8
 JUY-484 ระทึกน่าดูเป็นชู้เผาขน,https://cdn1.cdn9x.com/kkh0s5gv/1080p.m3u8
-
-基佬搞基_666,#genre#
-基佬01,https://vod-sh-qn-cdn.uneed.com/vod/052671bbacf7619267bd2aad351565cd/SD/playlist.m3u8
-基佬02,https://vod-bj-qn-cdn.uneed.com/vod/321609413e05964808c38c4df3636da9/SD/playlist.m3u8
-基佬03,https://vod-sh-qn-cdn.uneed.com/vod/04ead7cc8f6bd8d799038857924a2cfe/SD/playlist.m3u8
-基佬04,https://vod-bj-qn-cdn.uneed.com/vod/f57ca5342a0274148eddbbb596ba3ff4/SD/playlist.m3u8
-基佬05,https://vod-sh-qn-cdn.uneed.com/vods/cloud-album/406a90cf762eb0cbcfe41d6ddce2ed44_720p.m3u8
-基佬06,https://vod-bj-qn-cdn.uneed.com/vod/92ad1d35d0298e84e67d37d81847501a/SD/playlist.m3u8
-基佬07,https://vod-hk-qn-cdn.uneed.com/vod/f0b4a2a0f0505b7cd6d2de29649cb3eb/SD/playlist.m3u8
-基佬08,https://vod-bj-qn-cdn.uneed.com/vod/03d2dcc8d9accfba4b431f1a238e4a41/SD/playlist.m3u8
-基佬10,https://vod-bj-qn-cdn.uneed.com/vod/e2670e67c3f8a18975315f1329225ea6/SD/playlist.m3u8
-基佬11,https://vod-bj-qn-cdn.uneed.com/vod/389e2fa84651d4f8d605caeafb8a63c8/SD/playlist.m3u8
-基佬12,https://vod-bj-qn-cdn.uneed.com/vod/93cc4ab5e8966df2797ebdc3661f52a2/SD/playlist.m3u8
-基佬13,https://vod-bj-qn-cdn.uneed.com/vod/d2360bbc3813ad780a818f16022b99fb/SD/playlist.m3u8
-基佬14,https://vod-bj-qn-cdn.uneed.com/vod/0046ce4516bc12b548c92e9e7eeca49a/SD/playlist.m3u8
-基佬15,https://vod-bj-qn-cdn.uneed.com/vod/7e446023402219ca36be4c9ad6f36e5a/SD/playlist.m3u8
-基佬17,https://vod-sh-qn-cdn.uneed.com/vod/18f00218229bf3ed26df4cae15fea6dd/SD/playlist.m3u8
-基佬19,https://vod-bj-qn-cdn.uneed.com/vod/effa41c1745355b7f1a22618bc0997dd/SD/playlist.m3u8
-基佬20,https://vod-bj-qn-cdn.uneed.com/vod/d5dac499380c2a0ebe3da929c43c1203/SD/playlist.m3u8
-基佬21,https://vod-sh-qn-cdn.uneed.com/vod/dfb3930b24480390692ae99e815681d9/SD/playlist.m3u8
-基佬22,https://vod-sh-qn-cdn.uneed.com/vods/cloud-album/ea16446adab3554bc3d9ff176f286824_720p.m3u8
-基佬23,https://vod-bj-qn-cdn.uneed.com/vod/cc64ef108bfa82991c718408e7d7ced8/SD/playlist.m3u8
-基佬24,https://vod-bj-qn-cdn.uneed.com/vod/0fd09643cb3ec2ee78bf0caf122c11cc/SD/playlist.m3u8
-基佬25,https://vod-bj-qn-cdn.uneed.com/vod/cf535c46435c9ce8dd060ec8e875417c/SD/playlist.m3u8
-基佬26,https://grey-vod-bj-qn-cdn.uneed.com/vod/962c36c773eddd4734de6901fe0171ae/SD/playlist.m3u8
-基佬27,https://vod-bj-qn-cdn.uneed.com/vod/a5004533206f68e569598a32c2afd87d/SD/playlist.m3u8
-基佬28,https://vod-bj-qn-cdn.uneed.com/vod/f65de4802f4c59a996216803e813c75d/SD/playlist.m3u8
-基佬29,https://vod-bj-qn-cdn.uneed.com/vod/28ab00100a865dc514dc313ca65f0422/SD/playlist.m3u8
-基佬30,https://vod-sh-qn-cdn.uneed.com/vod/1f690e574f832c7932ee5233512fe28b/SD/playlist.m3u8
-基佬31,https://vod-sh-qn-cdn.uneed.com/vod/7b14cd5a3c7ff7d72414edaf5a6e53e7/SD/playlist.m3u8
-基佬33,https://vod-bj-qn-cdn.uneed.com/vod/9678f8af199fec399b7ea585d04e302a/SD/playlist.m3u8
-基佬34,https://vod-bj-qn-cdn.uneed.com/vod/868a204936d80576b25c3736e2014842/SD/playlist.m3u8
-基佬35,https://vod-sh-qn-cdn.uneed.com/vods/cloud-album/172e90be1bb54e84af9b254575065931_720p.m3u8
-基佬36,https://vod-bj-qn-cdn.uneed.com/vod/094f01c9e7d8009344821016cf7cea10/SD/playlist.m3u8
-基佬37,https://vod-sh-qn-cdn.uneed.com/vod/f5fd7561e629e14316c94b2331f8e62f/SD/playlist.m3u8
-基佬38,https://vod-sh-qn-cdn.uneed.com/vod/cd84499cff145048d3968b0f3ca78612/SD/playlist.m3u8
-基佬39,https://vod-bj-qn-cdn.uneed.com/vod/1e8fdf5d4fb0ab17846b4bbdfe59d0dc/SD/playlist.m3u8
-基佬40,https://vod-bj-qn-cdn.uneed.com/vod/049f8bfff5659457ec2a89067075d621/SD/playlist.m3u8
-基佬43,https://vod-sh-qn-cdn.uneed.com/vod/a4f9ed57a3bd8130c6c425bd08dbc806/SD/playlist.m3u8
-基佬44,https://vod-bj-qn-cdn.uneed.com/vod/f2c8bf65ba45080df8be75c48b7a4bb5/SD/playlist.m3u8
-基佬45,https://vod-sh-qn-cdn.uneed.com/vod/c5e41152ba613467f07c5a5ba6f9cda2/SD/playlist.m3u8
-基佬46,https://vod-hk-qn-cdn.uneed.com/vod/90d28eedb9f83fed9fa0629c58413490/SD/playlist.m3u8
-基佬47,https://vod-sh-qn-cdn.uneed.com/vod/9b64db5b7f59a3b471cb6b4d9b0c3572/SD/playlist.m3u8
-基佬48,https://vod-bj-qn-cdn.uneed.com/vod/d551dbefe31ed09dd87c9447692da5df/SD/playlist.m3u8
-基佬49,https://vod-sh-qn-cdn.uneed.com/vod/96090c3face044b7710fce8ef0012d0c/SD/playlist.m3u8
-基佬50,https://vod-bj-qn-cdn.uneed.com/vod/ee201d0395c4fd1683b3c3545fe873ec/SD/playlist.m3u8
-基佬51,https://vod-sh-qn-cdn.uneed.com/vod/9bb46b30ef53837868faedbfa5e500d4/SD/playlist.m3u8
-基佬52,https://vod-bj-qn-cdn.uneed.com/vod/a47d3203af68ec42b6311f08af1a0e6b/SD/playlist.m3u8
-基佬53,https://vod-bj-qn-cdn.uneed.com/vod/eafca94290d0055a35b70c058beb63cb/SD/playlist.m3u8
-基佬54,https://vod-sh-qn-cdn.uneed.com/vod/491b527844f722898d69c4a8ded909a6/SD/playlist.m3u8
-基佬55,https://vod-sh-qn-cdn.uneed.com/vod/e0f1dff5bccf93601a4eee55e3fc215e/SD/playlist.m3u8
-基佬56,https://vod-sh-qn-cdn.uneed.com/vod/86499fe16b00dd8a69c3e53457e89156/SD/playlist.m3u8
-基佬57,https://vod-sh-qn-cdn.uneed.com/vod/f5195b145974275fa2ec26ae0a18b998/SD/playlist.m3u8
-基佬58,https://vod-sh-qn-cdn.uneed.com/vod/af67c740699cfef91978a50d5416fa88/SD/playlist.m3u8
-基佬59,https://vod-bj-qn-cdn.uneed.com/vod/a4985e47a36d41693ea66025d0823508/SD/playlist.m3u8
-基佬60,https://vod-bj-qn-cdn.uneed.com/vod/582412742b7a5c3fb379976bca6a50ce/SD/playlist.m3u8
-基佬70,https://vod-sh-qn-cdn.uneed.com/vod/26d82d0debda1dc8ad0f48522b938e5f/SD/playlist.m3u8
-基佬71,https://vod-bj-qn-cdn.uneed.com/vod/aa152d0d2088d825d236224a31898e46/SD/playlist.m3u8
-基佬72,https://vod-bj-qn-cdn.uneed.com/vod/454f6d066ced91d87df12a26f59725bb/SD/playlist.m3u8
-基佬73,https://vod-sh-qn-cdn.uneed.com/vod/61fb980be3b0e624b4d65498a3e6e538/SD/playlist.m3u8
-基佬74,https://vod-bj-qn-cdn.uneed.com/vod/46f1fa926bab3a2f19834cf4c0f17aff/SD/playlist.m3u8
-基佬75,https://vod-sh-qn-cdn.uneed.com/vod/d5c2730373abf4607bc8e38c2bd71ecf/SD/playlist.m3u8
-基佬76,https://vod-bj-qn-cdn.uneed.com/vod/010fa74f71e9fe23d65ac1793ffdd32c/SD/playlist.m3u8
-基佬77,https://vod-bj-qn-cdn.uneed.com/vod/ba34ea5f8fcdc46d7ff7ef64e8125945/SD/playlist.m3u8
-基佬78,https://vod-bj-qn-cdn.uneed.com/vod/5267962a4a67c4f682ed2a7b4729d282/SD/playlist.m3u8
-基佬79,https://vod-bj-qn-cdn.uneed.com/vod/85f788c0b49608487f1d8a873daf1d8d/SD/playlist.m3u8
-基佬80,https://grey-vod-bj-qn-cdn.uneed.com/vod/5f32b5c626ccc68a2e78afffee00a2f8/SD/playlist.m3u8
-基佬81,https://vod-bj-qn-cdn.uneed.com/vod/da7d348a97c4b063a7a0b17ac6b525ca/SD/playlist.m3u8
-基佬82,https://vod-bj-qn-cdn.uneed.com/vod/9ce24ee2d8c236fdad6aaf33953052ee/SD/playlist.m3u8
-基佬83,https://vod-bj-qn-cdn.uneed.com/vod/ed92b4a5e6f2799ab5b84b5a3fd13fb1/SD/playlist.m3u8
-基佬84,https://vod-bj-qn-cdn.uneed.com/vod/8c625e0b501b57e74da2ba5553710136/SD/playlist.m3u8
-基佬85,https://vod-bj-qn-cdn.uneed.com/vod/98ff8e505eee4b8f7853164113d3bbcf/SD/playlist.m3u8
-基佬86,https://vod-bj-qn-cdn.uneed.com/vod/65bc91039369ec77043cd5d152b338a3/SD/playlist.m3u8
-基佬87,https://vod-bj-qn-cdn.uneed.com/vod/c53d8f14546ae7fb582b6e48698a40cb/SD/playlist.m3u8
-基佬88,https://vod-sh-qn-cdn.uneed.com/vod/9b2899acf596a80585ef18b1d5297226/SD/playlist.m3u8
-基佬89,https://vod-sh-qn-cdn.uneed.com/vod/2f548fb67bb1200cfd0b475ed99520a8/SD/playlist.m3u8
-基佬90,https://vod-sh-qn-cdn.uneed.com/vod/644d6618b98171bafc80c067b94fd55a/SD/playlist.m3u8
-基佬91,https://vod-sh-qn-cdn.uneed.com/vod/384e910728a28b025e10fa10aa33a6e5/SD/playlist.m3u8
-基佬92,https://vod-bj-qn-cdn.uneed.com/vod/d12c3fc8269d0fbf587110b7e658aead/SD/playlist.m3u8
-基佬93,https://vod-bj-qn-cdn.uneed.com/vod/3ad80441022817729ee4df8c5e7b9ef7/SD/playlist.m3u8
-基佬94,https://vod-bj-qn-cdn.uneed.com/vod/e79194c0c19b46109eed005d5fd9befd/SD/playlist.m3u8
-基佬95,https://vod-sh-qn-cdn.uneed.com/vod/51aad5219c76fc21e9926599bfd59895/SD/playlist.m3u8
-基佬96,https://vod-bj-qn-cdn.uneed.com/vod/7be03bd060a982c1196f443c0bd81257/SD/playlist.m3u8
-基佬97,https://vod-bj-qn-cdn.uneed.com/vod/49571042b0f424ee3794bbadf97a0a42/SD/playlist.m3u8
-基佬98,https://vod-bj-qn-cdn.uneed.com/vod/b33e911107c1b9ee980269a26b2bfd2d/SD/playlist.m3u8
-基佬99,https://vod-bj-qn-cdn.uneed.com/vod/b1e9ef2769021c1e4733ee671fc03aed/SD/playlist.m3u8
-基佬100,https://vod-bj-qn-cdn.uneed.com/vod/793eeb366c54d67d7b56718e24ee4bdc/SD/playlist.m3u8
-基佬101,https://vod-sh-qn-cdn.uneed.com/vod/49714cf84ea46a9046884858fccb3996/SD/playlist.m3u8
-基佬102,https://vod-hk-qn-cdn.uneed.com/vod/0710c6ddace899d3002acc57a1027349/SD/playlist.m3u8
-基佬103,https://vod-bj-qn-cdn.uneed.com/vod/35b0c1391023fb09ec5ea6db6cbeb33d/SD/playlist.m3u8
-基佬104,https://vod-bj-qn-cdn.uneed.com/vod/cf2203b3a804931f6a69314622e72150/SD/playlist.m3u8
-
