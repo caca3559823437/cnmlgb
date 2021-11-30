@@ -569,26 +569,24 @@ CNC 英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 广西,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226186/index.m3u8
 云南,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226188/index.m3u8
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-北京纪实,http://223.110.235.132/ott.js.chinamobile.com/TVOD/3/224/3221227711/index.m3u8
-北京纪实,http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
-北京纪实,http://39.134.71.75/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
 
 本地频道,#genre#
-新闻综合,http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+生活时尚,http://183.207.248.71/gitv/live1/G_SHENGHUOSS/G_SHENGHUOSS
 上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+北京纪实,http://223.110.235.132/ott.js.chinamobile.com/TVOD/3/224/3221227711/index.m3u8
+北京纪实,http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
+北京纪实,http://39.134.71.75/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
+新闻综合,http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 欢笑剧场,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 都市剧场,http://183.207.248.71/gitv/live1/G_DUSHIJC/G_DUSHIJC
-动漫秀场,http://39.134.39.38/PLTV/88888888/224/3221226197/index.m3u8
-生活时尚,http://183.207.248.71/gitv/live1/G_SHENGHUOSS/G_SHENGHUOSS
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 足球魅力,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
@@ -2248,7 +2246,6 @@ NOW新闻,http://v3948069e.live.126.net/live/tghjBVUTYUIGTGTFTFTFRFVTVF/ggbox/in
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 RTHK32,http://v3948069e.live.126.net/live/jA6fP3oK4lJ0cM7bF7kV9rY8qC6fL1dQ.flv
-香港国际财经台,http://v3948069e.live.126.net/live/qF7qZ9zR2nD2nC2zH5kU5iZ8aA2dN8zA.flv
 Now直播331台,https://api.leonardpark.dev/live/now/331
 明珠台,http://host496323.us.ooqr.com/pltv/gz.php?id=26
 翡翠台,http://host496323.us.ooqr.com/pltv/gz.php?id=25
@@ -2535,7 +2532,6 @@ ANIMAL PLANET,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 Boomerang,http://iptv.tvmalaysia.cc:80/321456/321456/7199
 电影世界,http://iptv.tvmalaysia.cc:80/321456/321456/7219
 Fox Movies Premium,http://iptv.tvmalaysia.cc:80/321456/321456/8838
-HBO Hits,http://iptv.tvmalaysia.cc:80/321456/321456/7068
 HBO 签名,http://iptv.tvmalaysia.cc:80/321456/321456/7069
 HGTV,http://iptv.tvmalaysia.cc:80/321456/321456/7076
 History,http://iptv.tvmalaysia.cc:80/321456/321456/7079
@@ -3062,7 +3058,6 @@ CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
 中国环球,http://livees.cgtn.com/1000e/prog_index.m3u8
 布莱恩电视,https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/chunklist.m3u8
 SS 4,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52862.m3u8
-SS Cricket,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52293.ts
 SS 看,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52290.ts
 SS LaLiga,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52294.ts
 SS 英超联赛,http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.ts
@@ -3687,12 +3682,6 @@ HUB娛家,mitv://ns2.hellotvvod.com:9906/da8e392d1e5e49e08e64e5ce00c0568e
 斗鱼2,http://epg.112114.xyz/douyu/6581531
 斗鱼4,http://epg.112114.xyz/douyu/4369939
 斗鱼5,http://epg.112114.xyz/douyu/1174353
-哔哩1,http://epg.112114.xyz/bili/11579951
-哔哩2,http://epg.112114.xyz/bili/482946
-哔哩3,http://epg.112114.xyz/bili/1954990
-哔哩4,http://epg.112114.xyz/bili/662181
-哔哩5,http://epg.112114.xyz/bili/22905626
-哔哩6,http://epg.112114.xyz/bili/871583
 经典影艺,http://epg.112114.xyz/bili/608888
 CHC高清电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC家庭电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
@@ -3798,8 +3787,6 @@ SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 K K_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-斗鱼4K,http://epg.112114.xyz/douyu/9249162
-斗鱼4K,http://zzy789.xyz/douyu1.php?id=9249162
 LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 CHC解压喜剧,http://bp-caster.bestv.com.cn/570/1/video.m3u8
 CHC高清电影,http://39.134.19.20/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
