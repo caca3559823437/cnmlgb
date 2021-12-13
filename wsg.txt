@@ -65,21 +65,6 @@ CCTV-17,http://111.12.101.23:6610/PLTV/77777777/224/3221225513/index.m3u8?servic
 CCTV-14,http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
 CCTV-4,http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
 CCTV-4,http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8
-CCTV-5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-CCTV-1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
-CCTV-3,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
-CCTV-5,http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
-CCTV-5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV-6,http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
-CCTV-6,http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
-CCTV-7,http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
-CCTV-8,http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
-CCTV-9,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
-CCTV-10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
-CCTV-11,http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
-CCTV-12,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
-CCTV-14,http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
-CCTV-17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
 CCTV-1,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225977/index.m3u8
 CCTV-1,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226190/index.m3u8
@@ -521,8 +506,6 @@ CNC 英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 游戏风云,http://183.207.248.71/gitv/live1/G_YOUXIFY/G_YOUXIFY
 老故事,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
-CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 CGTN法语,http://39.135.129.164/PLTV/88888888/224/3221226727/1.m3u8
 CGTN阿语,http://39.135.129.162/PLTV/88888888/224/3221226729/1.m3u8
 CGTN俄语,http://39.135.129.166/PLTV/88888888/224/3221226772/1.m3u8
@@ -585,7 +568,6 @@ LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 欢笑剧场,http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8
 法治天地,http://112.25.48.68/live/program/live/fztd/1300000/mnf.m3u8
 生活时尚,http://112.25.48.68/live/program/live/shsshd/4000000/mnf.m3u8
-纪实人文,http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 都市剧场,http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
 都市剧场,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
 极速汽车,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
@@ -813,26 +795,11 @@ LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 斗鱼-女神金,http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
 斗鱼4,http://dyscdnali3.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
 斗鱼10,http://dyscdnali3.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
-斗鱼23,http://dyscdnali1.douyucdn.cn/live/52787rEKyx5UJA7E.flv?uuid=
 斗鱼-神乐经典,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 斗鱼2,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
 斗鱼-神乐欧美,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
 斗鱼1,http://dyscdnali1.douyucdn.cn/live/434971r3ZA8dMt4g.flv?uuid=
 斗鱼10,http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
-斗鱼-神乐经典,http://sxhe.kandiantv.cn/douyu1.php?id=122402
-斗鱼电影2,http://sxhe.kandiantv.cn/douyu1.php?id=218859
-斗鱼电影3,http://sxhe.kandiantv.cn/douyu1.php?id=252802
-斗鱼-神乐欧美,http://sxhe.kandiantv.cn/douyu1.php?id=20415
-斗鱼电影9,http://sxhe.kandiantv.cn/douyu1.php?id=5033502
-斗鱼电影12,http://sxhe.kandiantv.cn/douyu1.php?id=5423
-斗鱼电影13,http://sxhe.kandiantv.cn/douyu1.php?id=2793084
-斗鱼电影19,http://sxhe.kandiantv.cn/douyu1.php?id=562225
-斗鱼电影20,http://sxhe.kandiantv.cn/douyu1.php?id=6763930
-斗鱼电影21,http://sxhe.kandiantv.cn/douyu1.php?id=2436390
-斗鱼电影22,http://sxhe.kandiantv.cn/douyu1.php?id=4290711
-斗鱼电影23,http://sxhe.kandiantv.cn/douyu1.php?id=5522351
-斗鱼电影24,http://sxhe.kandiantv.cn/douyu1.php?id=5127679
-斗鱼电影28,http://sxhe.kandiantv.cn/douyu1.php?id=7412199
 斗鱼电影1,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv
 斗鱼电影4,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv
 斗鱼电影5,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv
@@ -866,14 +833,11 @@ LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 斗鱼158,http://dyscdnali1.douyucdn.cn/live/9486015rwpCFnuUS.flv?uuid=
 斗鱼120,http://dyscdnali1.douyucdn.cn/live/9430717rm4y2xGYu.flv?uuid=
 斗鱼87,http://dyscdnali1.douyucdn.cn/live/9367188rkzYeo1Bb.flv?uuid=
-斗鱼235,http://dyscdnali1.douyucdn.cn/live/9192852r43BdYXiL.flv?uuid=
-斗鱼197,http://dyscdnali1.douyucdn.cn/live/5907076rB0KbV4VA.flv?uuid=
 斗鱼159,http://dyscdnali1.douyucdn.cn/live/9390955rqcT42oD9.flv?uuid=
 斗鱼121,http://dyscdnali1.douyucdn.cn/live/9366922rXqgSEcFp.flv?uuid=
 斗鱼88,http://dyscdnali1.douyucdn.cn/live/9429545rKprwe5lL.flv?uuid=
 斗鱼274,http://dyscdnali1.douyucdn.cn/live/5424258r0Jp6fqXI.flv?uuid=
 斗鱼236,http://dyscdnali1.douyucdn.cn/live/8837964rU60BgU4m.flv?uuid=
-斗鱼198,http://dyscdnali1.douyucdn.cn/live/9396672ra2pO05lO.flv?uuid=
 斗鱼160,http://dyscdnali1.douyucdn.cn/live/752376ruGMI4d6r9.flv?uuid=
 斗鱼122,http://dyscdnali1.douyucdn.cn/live/9484187ryD6OY6Of.flv?uuid=
 斗鱼89,http://dyscdnali1.douyucdn.cn/live/8821917ryzOfxgMD.flv?uuid=
@@ -905,9 +869,6 @@ LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 斗鱼280,http://dyscdnali1.douyucdn.cn/live/1188129rsMJZB9M5.flv?uuid=
 斗鱼127,http://dyscdnali1.douyucdn.cn/live/5376478rLPb5d6QX.flv?uuid=
 斗鱼94,http://dyscdnali1.douyucdn.cn/live/9440460rYoytWnVr.flv?uuid=
-斗鱼204,http://dyscdnali1.douyucdn.cn/live/9505584rZpd5l5u7.flv?uuid=
-斗鱼166,http://dyscdnali1.douyucdn.cn/live/9720498rLQkvgEjA.flv?uuid=
-斗鱼281,http://dyscdnali1.douyucdn.cn/live/9039399rRtdVzUQH.flv?uuid=
 斗鱼128,http://dyscdnali1.douyucdn.cn/live/8820996rPMbk11Ib.flv?uuid=
 斗鱼205,http://dyscdnali1.douyucdn.cn/live/9415755rCcRzC35i.flv?uuid=
 斗鱼282,http://dyscdnali1.douyucdn.cn/live/9356637rcTQNHJRz.flv?uuid=
@@ -917,7 +878,6 @@ LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 斗鱼206,http://dyscdnali1.douyucdn.cn/live/8868213rrHiXs63U.flv?uuid=
 斗鱼283,http://dyscdnali1.douyucdn.cn/live/9481484rlBHjUszS.flv?uuid=
 斗鱼130,http://dyscdnali1.douyucdn.cn/live/9663084rEiDHl1XT.flv?uuid=
-斗鱼97,http://dyscdnali1.douyucdn.cn/live/8921999rb3rWtlip.flv?uuid=
 斗鱼207,http://dyscdnali1.douyucdn.cn/live/827152rxU3lw4mo8.flv?uuid=
 斗鱼169,http://dyscdnali1.douyucdn.cn/live/8762120r9LTvVlnR.flv?uuid=
 斗鱼131,http://dyscdnali1.douyucdn.cn/live/9564766rlnwKCqUk.flv?uuid=
@@ -940,22 +900,15 @@ LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 斗鱼103,http://dyscdnali1.douyucdn.cn/live/3643605rORala0pM.flv?uuid=
 斗鱼289,http://dyscdnali1.douyucdn.cn/live/9437283rzFDpARU6.flv?uuid=
 斗鱼174,http://dyscdnali1.douyucdn.cn/live/9606419rmop438iv.flv?uuid=
-斗鱼290,http://dyscdnali1.douyucdn.cn/live/9958943rOpvEFAPW.flv?uuid=
 斗鱼104,http://dyscdnali1.douyucdn.cn/live/9569905r0BTkhVHd.flv?uuid=
-斗鱼175,http://dyscdnali1.douyucdn.cn/live/9191006rapJHIVIa.flv?uuid=
 斗鱼291,http://dyscdnali1.douyucdn.cn/live/9820039r0dCCpLlP.flv?uuid=
 斗鱼105,http://dyscdnali1.douyucdn.cn/live/9442430rHPoItj2a.flv?uuid=
-斗鱼176,http://dyscdnali1.douyucdn.cn/live/8833450rK15LAivO.flv?uuid=
-斗鱼292,http://dyscdnali1.douyucdn.cn/live/5124602r0tbelfn4.flv?uuid=
 斗鱼106,http://dyscdnali1.douyucdn.cn/live/5354713rCF4hggnY.flv?uuid=
-斗鱼177,http://dyscdnali1.douyucdn.cn/live/9371308r741On5LA.flv?uuid=
 斗鱼293,http://dyscdnali1.douyucdn.cn/live/9535657rF7tfXsZt.flv?uuid=
 斗鱼107,http://dyscdnali1.douyucdn.cn/live/5187099rQyFmZI5r.flv?uuid=
-斗鱼178,http://dyscdnali1.douyucdn.cn/live/9495454rbf1dPDZh.flv?uuid=
 斗鱼294,http://dyscdnali1.douyucdn.cn/live/9371407rzC3i1EEf.flv?uuid=
 斗鱼179,http://dyscdnali1.douyucdn.cn/live/9450568re9Hv8o75.flv?uuid=
 斗鱼108,http://dyscdnali1.douyucdn.cn/live/3506483rXrZUX50n.flv?uuid=
-斗鱼295,http://dyscdnali1.douyucdn.cn/live/9272043rkysOhIXm.flv?uuid=
 斗鱼180,http://dyscdnali1.douyucdn.cn/live/9396762rnkfsGc80.flv?uuid=
 斗鱼109,http://dyscdnali1.douyucdn.cn/live/5067952r5YUROWbV.flv?uuid=
 斗鱼296,http://dyscdnali1.douyucdn.cn/live/9329242rQ8hwY7qo.flv?uuid=
@@ -966,15 +919,12 @@ LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 斗鱼183,http://dyscdnali1.douyucdn.cn/live/675072rYksX46j5Z.flv?uuid=
 斗鱼298,http://dyscdnali1.douyucdn.cn/live/9483965rposx9qXh.flv?uuid=
 斗鱼113,http://dyscdnali1.douyucdn.cn/live/8884164rov4xM2iQ.flv?uuid=
-斗鱼299,http://dyscdnali1.douyucdn.cn/live/8221699rFhR2OiVU.flv?uuid=
 斗鱼114,http://dyscdnali1.douyucdn.cn/live/532050r2XWCM01Ax.flv?uuid=
-斗鱼300,http://dyscdnali1.douyucdn.cn/live/9619048rhFs4GJBw.flv?uuid=
 斗鱼185,http://dyscdnali1.douyucdn.cn/live/9822277r8Tb3RXOT.flv?uuid=
 斗鱼115,http://dyscdnali1.douyucdn.cn/live/8936207r6I99Ljsv.flv?uuid=
 斗鱼301,http://dyscdnali1.douyucdn.cn/live/9665834rBHvD2p1h.flv?uuid=
 斗鱼186,http://dyscdnali1.douyucdn.cn/live/9717093rerE7MrcQ.flv?uuid=
 斗鱼116,http://dyscdnali1.douyucdn.cn/live/9406600rNdXiwsig.flv?uuid=
-斗鱼117,http://dyscdnali1.douyucdn.cn/live/9611771rI9innvFb.flv?uuid=
 斗鱼1,http://epg.112114.xyz/douyu/263824
 斗鱼2,http://epg.112114.xyz/douyu/8663752
 斗鱼3,http://epg.112114.xyz/douyu/308347
@@ -1023,7 +973,6 @@ LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 斗鱼48,http://epg.112114.xyz/douyu/315131
 斗鱼49,http://epg.112114.xyz/douyu/323876
 斗鱼51,http://epg.112114.xyz/douyu/4332
-斗鱼52,http://epg.112114.xyz/douyu/52787
 斗鱼53,http://epg.112114.xyz/douyu/6079455
 斗鱼54,http://epg.112114.xyz/douyu/7673566
 斗鱼55,http://epg.112114.xyz/douyu/8945323
@@ -1061,10 +1010,7 @@ CBN每日影院,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fs
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 黑莓电影,http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221225539/index.m3u8
 黑莓电影,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
-超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
-超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
 古装剧场,http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
-动作电影,http://39.135.46.77/PLTV/77777777/224/3221226540/index.m3u8?id=02
 Y + 剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 TVB电视剧,http://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
 邵氏电影,http://pull.kktv8.com/livekktv/143960119.flv
@@ -1165,54 +1111,6 @@ CHC动作电影,http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 CHC 动作电影 HD,http://39.134.19.68:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC 家庭影院 HD,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8,http://39.134.19.153:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 CHC 高清电影 HD,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8,http://39.134.19.76:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-周末·电影院1,http://blanki.cf/api/douyu.php?id=3637726
-周末·电影院2,http://blanki.cf/api/douyu.php?id=3637765
-特辑·电影院,http://blanki.cf/api/douyu.php?id=3637778
-牛叔·说电影,http://blanki.cf/api/douyu.php?id=2758565
-英叔·电影,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
-电影·僵尸鬼片,http://blanki.cf/api/douyu.php?id=310926
-电影·恐怖灾难,http://blanki.cf/api/douyu.php?id=263824
-电影·国语译制,http://blanki.cf/api/douyu.php?id=2436390
-电影·周星驰,http://blanki.cf/api/douyu.php?id=122402
-电影·刘德华,http://blanki.cf/api/douyu.php?id=85894
-电影·林正英,http://blanki.cf/api/douyu.php?id=218859
-电影·成龙,http://blanki.cf/api/douyu.php?id=6763930
-电影·酷炫,http://blanki.cf/api/douyu.php?id=4332
-电影·酷炫2,http://blanki.cf/api/douyu.php?id=252802
-电影·酷炫3,http://blanki.cf/api/douyu.php?id=36337
-电影·华语,http://blanki.cf/api/douyu.php?id=925724
-电影·粤语,http://blanki.cf/api/douyu.php?id=6566671
-电影·粤语2,http://blanki.cf/api/douyu.php?id=5033502
-电影·粤语3,http://blanki.cf/api/douyu.php?id=2466104
-电影·赌片,http://blanki.cf/api/douyu.php?id=315457
-电影·海外,http://blanki.cf/api/douyu.php?id=747764
-电影·科幻,http://blanki.cf/api/douyu.php?id=20415
-电影·高分,http://blanki.cf/api/douyu.php?id=52787
-电影·惊悚,http://blanki.cf/api/douyu.php?id=96577
-电影·战争,http://blanki.cf/api/douyu.php?id=4870914
-电影·喜剧,http://blanki.cf/api/douyu.php?id=9292492
-电影·经典,http://blanki.cf/api/douyu.php?id=58451
-电影·怀旧,http://blanki.cf/api/douyu.php?id=9205290
-电影·影院,http://blanki.cf/api/douyu.php?id=1274132
-电影·大片,http://blanki.cf/api/douyu.php?id=248753
-电影·欧美,http://blanki.cf/api/douyu.php?id=2793084
-电影·影厅,http://blanki.cf/api/douyu.php?id=508118
-电影·蚂蚱,http://blanki.cf/api/douyu.php?id=6079455
-电影·兔兔,http://blanki.cf/api/douyu.php?id=1504768
-电影·云宝,http://blanki.cf/api/douyu.php?id=7305938
-电影·小梁,http://blanki.cf/api/douyu.php?id=7270927
-电影·丸丸,http://blanki.cf/api/douyu.php?id=8898611
-陪看·小宇,http://blanki.cf/api/douyu.php?id=323876
-陪看·怡寶,http://blanki.cf/api/douyu.php?id=434971
-陪看·姽婳,http://blanki.cf/api/douyu.php?id=1409682
-陪看·猪酱,http://blanki.cf/api/douyu.php?id=7029806
-陪看·牛奶,http://blanki.cf/api/douyu.php?id=7494871
-陪看·橙子,http://blanki.cf/api/douyu.php?id=4549169
-陪看·晚晚,http://blanki.cf/api/douyu.php?id=8861179
-陪看·小栗子,http://blanki.cf/api/douyu.php?id=7254536
-陪看·小圆子,http://blanki.cf/api/douyu.php?id=6566658
-陪看·犟启儿,http://blanki.cf/api/douyu.php?id=9230590
-陪看·苏诺诺,http://blanki.cf/api/douyu.php?id=252536
 埋堆堆01,http://121.51.249.99/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8
 埋堆堆02,http://121.51.249.99/txdirect.hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8
 埋堆堆03,http://121.51.249.99/txdirect.hls.huya.com/src/1199561219773-1199561219773-5434611909938642944-2399122563002-10057-A-0-1.m3u8
@@ -2798,7 +2696,6 @@ HKC體育2,http://45.11.92.153/lbq/TTBBd5868.php?id=356
 澳門Macau,http://45.11.92.153/lbq/TTBBd5868.php?id=364
 澳門蓮花,http://45.11.92.153/lbq/TTBBd5868.php?id=70
 澳亞衛視,http://45.11.92.153/lbq/TTBBd5868.php?id=85
-
 民視,http://45.11.92.153/lbq/TTBBd5868.php?id=26
 民視,http://45.11.92.153/lbq/TTBBd5868.php?id=336
 台視,http://45.11.92.153/lbq/TTBBd5868.php?id=27
@@ -4251,7 +4148,6 @@ NBS한국농업방송,https://media.joycorp.co.kr:4443/live/live_360p/playlist.m
 YTN_sclence,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
 GS My쇼핑,https://livem.gsshop.com/gsmyshop_hd/_definst_/gsmyshop_hd.stream/chunklist.m3u8
 CPBC,https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
-Fashion & Lifestyle (UA),http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 NJPW World,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 EBS1,https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/chunklist_w1075334474.m3u8
 EBS2,https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/chunklist_w1260508075.m3u8
@@ -4269,7 +4165,6 @@ BTN불교TV,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
 GSTV-쇼핑,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
 CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr01/playlist.m3u8
 BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 CGTN,http://39.130.202.114:6610/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
@@ -4290,7 +4185,6 @@ Fashion TV (SK),http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3
 American Horrors,http://170.178.189.66:1935/live/Stream1/.m3u8
 BS TBS,http://203.162.235.41:16913
 BS 日テレ,http://203.162.235.41:16912
-BTB,http://video.vtvplus.com.ua:81/hls/online/index.m3u8
 BTK,http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
 CBC News,https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 CBN Family,https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
@@ -4345,7 +4239,6 @@ ASTRO Naura HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6724
 ASTRO Aura HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6713
 ASTRO Ceria HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6715
 Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6694
-ASTRO AEC HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6701
 ASTRO Colors Tamil,http://iptv.tvmalaysia.cc:80/kl570/kl570/6716
 ASTRO Vaanavil HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6738
 ASTRO Sun TV HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6733
@@ -4375,7 +4268,6 @@ Celestial Movies,http://iptv.tvmalaysia.cc:80/kl570/kl570/7235
 Blue Ant Extreme,http://iptv.tvmalaysia.cc:80/kl570/kl570/8861
 Sony One,http://iptv.tvmalaysia.cc:80/kl570/kl570/8863
 TvN,http://iptv.tvmalaysia.cc:80/kl570/kl570/8865
-Didik TV (NTV 7),http://iptv.tvmalaysia.cc:80/kl570/kl570/8922
 Crime & Investigation.,http://iptv.tvmalaysia.cc:80/kl570/kl570/9009
 Fox Family Movie,http://iptv.tvmalaysia.cc:80/kl570/kl570/9027
 ASTRO Arena HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6707
@@ -4412,7 +4304,6 @@ MUTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/7236
 LFC TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/7237
 Boomerang,http://iptv.tvmalaysia.cc:80/kl570/kl570/7199
 Nickelodeon,http://iptv.tvmalaysia.cc:80/kl570/kl570/7201
-TransTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/8843
 Trans 7,http://iptv.tvmalaysia.cc:80/kl570/kl570/8844
 ANTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/8846
 Metro TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/8848
