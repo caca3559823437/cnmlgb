@@ -259,6 +259,7 @@ CCTV-4,http://111.59.63.32:9901/tsfile/live/1011_1.m3u8
 東方衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
 广東衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
 广東衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+广东房产,http://120.84.96.55:808/hls/77/index.m3u8?blog.ntnas.top
 广東衛視,http://140.207.241.3:8080/live/program/live/gdwshd/4000000/mnf.m3u8
 天津衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225698/index.m3u8
 天津衛視,http://140.207.241.3:8080/live/program/live/tjwshd/4000000/mnf.m3u8
@@ -688,6 +689,15 @@ tvb影視,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865
 澳門衛視,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳門衛視,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 TVB星河,http://27.47.68.22:808/hls/35/index.m3u8
+澳门莲花,http://120.84.96.55:808/hls/24/index.m3u8?blog.ntnas.top
+翡翠台,http://120.84.96.55:808/hls/25/index.m3u8?blog.ntnas.top
+明珠台,http://120.84.96.55:808/hls/26/index.m3u8?blog.ntnas.top
+鳳凰資訊,http://120.84.96.55:808/hls/28/index.m3u8?blog.ntnas.top
+鳳凰衛視,http://120.84.96.55:808/hls/29/index.m3u8?blog.ntnas.top
+星空衛視,http://120.84.96.55:808/hls/79/index.m3u8?blog.ntnas.top
+鳳凰香港,http://120.84.96.55:808/hls/81/index.m3u8?blog.ntnas.top
+天映經典,http://120.84.96.55:808/hls/85/index.m3u8?blog.ntnas.top
+無綫財經,http://120.84.96.55:808/hls/86/index.m3u8?blog.ntnas.top
 翡翠台,rtmp://pull-rtmp-l6.ixigua.com/live/GG分分彩v不v.flv
 J2,rtmp://pull-rtmp-l6.ixigua.com/live/多大的热天府大道hbd.flv
 無綫新聞,rtmp://pull-rtmp-l6.ixigua.com/live/动态图复旦大学宣传广告.flv
@@ -807,9 +817,12 @@ TVBS新聞,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733
 星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 好莱坞電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-HBO 高清,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+東森電影,http://120.84.96.55:808/hls/32/index.m3u8?blog.ntnas.top
+東森洋片,http://120.84.96.55:808/hls/33/index.m3u8?blog.ntnas.top
+龍祥时代,http://120.84.96.55:808/hls/35/index.m3u8?blog.ntnas.top
+HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 HBO 家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-HBO 原创,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+HBO 原創,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
 CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 天映频道,http://173.211.42.73:8278/Celestial/playlist.m3u8?tid=MB0B9965728799657287&ct=19234&tsum=58be4ca2b0bc94038a6bc33b46fcf71f
@@ -2224,6 +2237,82 @@ TVB40,http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074
 96,http://txtest-xp2p.p2p.huya.com/1099531752771-1099531752771-86436195357163520-2199063628998-10057-A-0-1.xs
 
 🐟斗鱼劇场,#genre#
+
+斗鱼4K,https://live.52sf.ga/douyu/9970646
+斗鱼云旅行,https://live.52sf.ga/douyu/9257160
+斗鱼云旅行2,https://live.52sf.ga/douyu/9452399
+斗鱼云旅行3,https://live.52sf.ga/douyu/2591029
+斗鱼云旅行4,https://live.52sf.ga/douyu/9358196
+斗鱼電影1,https://live.52sf.ga/douyu/3637778
+斗鱼電影2,https://live.52sf.ga/douyu/3637726
+斗鱼電影3,https://live.52sf.ga/douyu/8985415
+斗鱼電影4,https://live.52sf.ga/douyu/9650887
+斗鱼電影5,https://live.52sf.ga/douyu/1226741
+斗鱼電影6,https://live.52sf.ga/douyu/36337
+斗鱼電影7,https://live.52sf.ga/douyu/2436390
+斗鱼電影8,https://live.52sf.ga/douyu/6537888
+斗鱼電影9,https://live.52sf.ga/douyu/96577
+斗鱼電影10,https://live.52sf.ga/douyu/9249162
+斗鱼電影11,https://live.52sf.ga/douyu/8770422
+斗鱼電影12,https://live.52sf.ga/douyu/6140589
+斗鱼電影13,https://live.52sf.ga/douyu/20415
+斗鱼電影14,https://live.52sf.ga/douyu/323876
+斗鱼電影15,https://live.52sf.ga/douyu/747764
+斗鱼電影16,https://live.52sf.ga/douyu/85894
+斗鱼電影17,https://live.52sf.ga/douyu/122402
+斗鱼電影18,https://live.52sf.ga/douyu/9292492
+斗鱼電影19,https://live.52sf.ga/douyu/2516864
+斗鱼電影20,https://live.52sf.ga/douyu/4332
+斗鱼電影21,https://live.52sf.ga/douyu/9651304
+斗鱼電影22,https://live.52sf.ga/douyu/8814650
+斗鱼電影23,https://live.52sf.ga/douyu/8945323
+斗鱼電影24,https://live.52sf.ga/douyu/315131
+斗鱼電影25,https://live.52sf.ga/douyu/252802
+斗鱼電影26,https://live.52sf.ga/douyu/218859
+斗鱼電影27,https://live.52sf.ga/douyu/2436390
+斗鱼電視剧HD1,https://live52sf.ga/douyu/7701735
+斗鱼電視剧HD2,https://live52sf.ga/douyu/2838296
+斗鱼電視剧HD3.https://live52sf.ga/douyu/7489563
+斗鱼電視剧HD.4,https://live52sf.ga/douyu/6706214
+斗鱼電視剧HD5,https://live52sf.ga/douyu/6566658
+斗鱼電視剧HD.6,https://live52sf.ga/douyu/6027991
+世界动物世界,https://live.52sfga/douyu/4360438
+和猫住丶,https://live.52sf.ga/douyu/850030
+猫直播,https://live.52sf.ga/douyu/7348194
+宋小宝,https://live.52sf.ga/douyu/9817729
+赵本山,https://live.52sf.ga/douyu/9817716
+尖上的火锅,https://live.52sf.ga/douyu/9650849
+看看世界,https://live.52sf.ga/douyu/442280
+探索宇宙,https://live.52sf.ga/douyu/9456028
+慢直播精编,https://gccncc.v.wscdns.com/gc/wgw05_1/index.m3u8
+虎牙電影1,https://live.52sf.ga/huya/11602058
+虎牙電影2,https://live.52sf.ga/huya/11601968
+虎牙電影3,https://live.52sf.ga/huya/11342412
+虎牙電影4,https://live.52sf.ga/huya/11342386
+虎牙電影5,https://live.52sf.ga/huya/11601986
+虎牙電影6,https://live.52sf.ga/huya/11601971
+虎牙電影7,https://live.52sf.ga/huya/11336592
+虎牙電影8,https://live.52sf.ga/huya/11342390
+虎牙電影9,https://live.52sf.ga/huya/11352941
+虎牙電影10,https://live.52sf.ga/huya/11279251
+虎牙電影11,https://live.52sf.ga/huya/11602041
+虎牙電影12,https://live.52sf.ga/huya/11352963
+虎牙電影13,https://live.52sf.ga/huya/11342414
+虎牙電影14,https://live.52sf.ga/huya/11602075
+虎牙電影15,https://live.52sf.ga/huya/11352962
+虎牙電影16,https://live.52sf.ga/huya/11336571
+虎牙電影17,https://live.52sf.ga/huya/11342427
+虎牙電影18,https://live.52sf.ga/huya/11336719
+虎牙電影19,https://live.52sf.ga/huya/11352894
+虎牙電影20,https://live.52sf.ga/huya/11352877
+虎牙電影21,https://live.52sf.ga/huya/11602077
+虎牙電影22,https://live.52sf.ga/huya/11601960
+虎牙電影23,https://live.52sf.ga/huya/11352965
+虎牙電影24,https://live.52sf.ga/huya/11342435
+虎牙電影25,https://live.52sf.ga/huya/11342423
+虎牙電影26,https://live.52sf.ga/huya/11352909
+虎牙電影27,https://live.52sf.ga/huya/11352886
+虎牙電影28,https://live.52sf.ga/huya/11602044
 女神影院,https://pull.kktv8.com/livekktv/99350550.flv
 午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
 全新影片,http://akm-tct.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
@@ -4553,6 +4642,255 @@ Vod6,https://pornercdns.com/hls/0073000/73272/hd/hd.m3u8
 Vod7,https://pornercdns.com/hls/0073000/73273/hd/hd.m3u8
 
 🔞欧美激情_666,#genre#
+21 Sextury,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/67669
+A3 Bikini,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53808
+Adult Time,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64899
+Alba XXX HD 1,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73192
+Alba XXX HD 2,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73193
+Alex Legend,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89454
+All Anal,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94805
+Amateur Boxxx,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/74080
+Anal 4K,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/91801
+Anal Mom,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93948
+Anal Only,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94806
+Anal Red TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53391
+Anal Teen Angels,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89195
+Anal Time,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93945
+Analized HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60072
+Ass Parade,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/85242
+Asshole Fever,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89193
+AST TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53370
+AST TV 2,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53371
+Babes HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54218
+Babes TV HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53822
+Balkan Erotic,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73208
+Banana Fever,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/74039
+Bang Bros HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54216
+Bang Bros UHD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73191
+Bang Bus,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/85243
+Bang POV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/85245
+Bang!,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64898
+Bang! Real Teens,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73789
+Bang! Surprise,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93966
+Barely Legal TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/63041
+BBC Pie,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/83728
+Beate Uhse,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/81752
+Big Ass Adult TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53392
+Big Dick Red TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53373
+Big Tits Adult TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53394
+Blacked HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54138
+Blonde Adult TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53395
+Blowjob Red TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53375
+Blue Hustler,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53832
+Brand New Amateurs,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89189
+Bratty Sis,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73153
+Brazzers eXXtra,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64892
+Brazzers HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54192
+Brazzers TV Europe,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53834
+Brunette Adult TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53397
+Candy TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53839
+cento x cento,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60218
+Cherry Pimps,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60071
+Club 17,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54304
+Compilation Adult TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53398
+Cuckold Red TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53376
+Cum Louder,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/68164
+Cum Perfection,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/90266
+Cum4k UHD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64900
+Dad Crush,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73148
+Dancing Bear,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94811
+Dane Jones,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89204
+Dark X,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/91983
+Daughter Swap,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54187
+Day with a Pornstar,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64893
+DDF Busty,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/67671
+DDF Network,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54220
+Deep Lush,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73145
+Deep Throat Sirens,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/83726
+Devil's Film,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89732
+Digital Desire HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60070
+Digital Playground HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54142
+Dirty Flix,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89184
+Dirty Masseur,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89202
+Dirty Wives Club,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89201
+Dorcel Club,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54191
+Dorcel HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53851
+Dorcel XXX HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73211
+DP Fanatics,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89199
+Dusk,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53859
+Emanuelle,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/74092
+Erotic Spice,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/90277
+Erotica X,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94808
+EroX HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60213
+EroXXX HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73190
+Euro Girls On Girls,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89196
+Evil Angel HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54193
+Evolved Fights,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64852
+Exotic 4k,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/80797
+Extasy 4k,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/92596
+Extasy HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/63042
+eXXXotica,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93362
+Fake Taxi HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54139
+Family Hookups,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89671
+Family Strokes,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89191
+Family Swap,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94810
+Family XXX,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73147
+Fap TV 2,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/63044
+Fap TV 3,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/63045
+Fap TV 4,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53828
+Fap TV Anal,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53864
+Fap TV BBW,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54111
+Fap TV Compilation,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53831
+Fap TV Lesbian,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54017
+Fap TV Parody,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54059
+Fap TV Teens,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53958
+FemJoy,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64475
+Fetish Red TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53377
+Free-X TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73798
+French Lover,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93363
+FTV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73151
+Gangbang Adult TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53401
+Gay Adult TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53402
+GirlFriends Films,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/90283
+Girls Rimming,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73154
+Glory Hole,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89147
+Got MYLF,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/67668
+Hands on Hardcore,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64895
+Hard X,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/67670
+Hitzefrei HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60109
+Holed,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60211
+Holly Randall,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/91982
+Hookup Hotshot,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94801
+Horny Hostel,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/85239
+Hot,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73200
+Hot Gold,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/85238
+Hot Guys Fuck,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/68163
+House of Fyre,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/71668
+Hustler HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54195
+Hustler TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53964
+Inserted,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93961
+J & M TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73152
+Japan HDV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60110
+Jasmin TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73198
+Jays POV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89630
+Jerk Off with Me,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73160
+Kink,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/85236
+Latina Casting,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94800
+Latina Fuck Tour,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94799
+Latina Red TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53380
+Leo TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93366
+Lesbea,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/63048
+Lesbian Red TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53381
+Lethal Hardcore,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/63182
+Little Asians HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60106
+Little Caprice,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/91985
+Live Cams Adult TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53390
+Love Her Ass,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93942
+Lust Cinema,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/63046
+Lustery,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/83724
+Meiden van Holland,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93364
+MetArt HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60107
+Mia Khalifa HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73199
+MILF Red TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53382
+Milfed,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94798
+Model Time,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89453
+Mofos,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89672
+Mom Swap,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94804
+Moms Teach Sex,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/91981
+Monsters of Cock,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/67659
+My Daughter's Hot Friend,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89200
+My Dirty Maid,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/85244
+My Pervy Family,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/90265
+My Sweet Apple,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94809
+MYLF TV HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60069
+Naughty America,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64901
+nuart,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54010
+Nubile Films,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/83725
+Nubiles TV HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60067
+Nuru Massage,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/91979
+Nympho,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93962
+O-la-la,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60216
+ox-ax HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60215
+Passion HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94802
+Passion XXX,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54018
+Pegas,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/91980
+Penthouse Gold,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53836
+Penthouse Passion,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/69751
+Penthouse Quickies,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54021
+Perv Mom,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89629
+Pink Erotic 1,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73796
+Pink Erotic 2,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73795
+Pink Erotic 3,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/69749
+Pink Erotic 4,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/69750
+Pink Erotic 5,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73797
+Pink Erotic 7,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/74090
+Pink Erotic 8,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/74091
+Pink O Club,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/39373
+Playboy Plus,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60065
+Playboy TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/63043
+Pornstar Red TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53383
+PornWorld,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93941
+POV Adult TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53409
+POVD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/91984
+Princess Cum,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73144
+Private,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54036
+Private HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54219
+Public Agent,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60108
+Pure Taboo,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89185
+Real Girls Gone Bad,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89631
+Real Wife Stories,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/85241
+Reality Kings HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54217
+Redlight HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54045
+RK Prime,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64894
+RK TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/68173
+Rough Adult TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53410
+Russian Adult TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53411
+Russian Night,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54052
+SCT,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60217
+Sex Selector,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94796
+Sex With Muslims,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64853
+sext 6 senso,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54056
+seXtreme,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93365
+SINematica,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64422
+Sinful XXX,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89188
+Sinn Sage,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89628
+Sis Loves Me,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89190
+Sis Swap,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94803
+Slayed,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93943
+Spizoo,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89146
+Super One,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73209
+Taboo,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73210
+Teen Red TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53386
+Thai Girls Wild,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/85237
+The Nudie,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73202
+Threesome Red TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53387
+Tiny4k UHD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54134
+TLE,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/83727
+Trans Angels,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/63358
+True Amateurs,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54190
+True Anal,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/94807
+Tushy HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/60066
+TushyRAW,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/64896
+U Bang,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73201
+Venus,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93367
+Visit-X TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/53414
+Viv Thomas,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/91978
+Vivid Red HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54102
+Vixen,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93368
+Vixen HD,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54194
+Wake Up N Fuck,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/93944
+Wank It Now,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/89627
+We Live Together,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/68172
+White Boxxx,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54311
+Wicked,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/63185
+Wild on Cam,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/85240
+Xpanded TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54188
+XXL,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/73197
+XY Max,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/70135
+XY Mix,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/70134
+XY Plus,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/70136
+YNGR,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/91986
+Шалун TV,http://stream.rediptv.tk:80/AYNqWGV9Ep/jvJwqhrf2R/54125
 MyCamTVAnal,http://live.mycamtv.com/anal.m3u8
 MyCamTVArabGirls,http://live.mycamtv.com/arab.m3u8
 MyCamTVAsianGirls,http://live.mycamtv.com/asian.m3u8
