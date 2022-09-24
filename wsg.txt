@@ -556,37 +556,37 @@ TVB星河(粤),P2p://ns1.hellotvvod.com:9906/ca7f820f9e924ea1acde9f5b68b7e6ec
 RHK31,P2p://ns1.hellotvvod.com:9906/531d238d4b754854925d387326c291a6
 RHK32,P2p://ns1.hellotvvod.com:9906/44e81dd24fce43f8891b1b63ecd269fa
 香港开電視,P2p://ns1.hellotvvod.com:9906/1bef010967f94e4db79ddfc122295306
-﻿翡翠台(备),P2p://ns1.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
+﻿翡翠臺(备),P2p://ns1.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
 J2,P2p://ns1.hellotvvod.com:9906/616e19fec3c0475db88cc23ddde228bc
 無綫新聞(备),P2p://ns1.hellotvvod.com:9906/aa6d38843405411aa2111b762923144f
 無綫新聞,P2p://ns1.hellotvvod.com:9906/1092b398d19b42c6806dc2ec04bb511e
 無綫財經,P2p://ns1.hellotvvod.com:9906/ba9474ae0fe14381be9237b3e85a700a
 ViuTV6,P2p://ns1.hellotvvod.com:9906/1c1ce894e3ff45739b2badcd15e0ec0f
 ViuTV,P2p://ns1.hellotvvod.com:9906/98f64c66543c463ab99ea26e536338a4
-now新聞台,P2p://ns1.hellotvvod.com:9906/eeb32fe00b4e4ef6a6863dbea6f15b8d
-now直播台,P2p://ns1.hellotvvod.com:9906/7c06ed22c9454993a9717d749d409f48
+now新聞臺,P2p://ns1.hellotvvod.com:9906/eeb32fe00b4e4ef6a6863dbea6f15b8d
+now直播臺,P2p://ns1.hellotvvod.com:9906/7c06ed22c9454993a9717d749d409f48
 有線電影,P2p://ns1.hellotvvod.com:9906/3c0eb2fd7f0c4c8ea4c2ab55408bb52f
 鳳凰電影,P2p://ns1.hellotvvod.com:9906/6230f02461f848aa90f08ba6fd8b2a8f
 有線新聞,P2p://ns1.hellotvvod.com:9906/7af6dae4a30d47b68a72161534e9251a
 有線財經,P2p://ns1.hellotvvod.com:9906/f6de0031c13847db913b0c89c55cfadd
-有線18台,P2p://ns1.hellotvvod.com:9906/01468cb56cb4490eaec43acc732a0403
+有線18臺,P2p://ns1.hellotvvod.com:9906/01468cb56cb4490eaec43acc732a0403
 有線603,P2p://ns1.hellotvvod.com:9906/be1b98abd39c4df3bd65dbf46054a27a
 有線體育,P2p://ns1.hellotvvod.com:9906/65074314730a4fdd99b1c30a3b37539b
 有線Sports,P2p://ns1.hellotvvod.com:9906/8976e105848241b6b3f69ab54818947c
 有線娛樂,P2p://ns1.hellotvvod.com:9906/5719826a53974fd2b83c0fb250495f8a
 有線娛樂,P2p://ns1.hellotvvod.com:9906/4079b929351548c5923489e2afbfbbd7
-翡翠台,P2p://ns1.hellotvvod.com:9906/d90b51f967934f94a321babdd5b1bfd0
-TVB经典台,P2p://ns1.hellotvvod.com:9906/934edf90604742edb354ac6342626d28
+翡翠臺,P2p://ns1.hellotvvod.com:9906/d90b51f967934f94a321babdd5b1bfd0
+TVB经典臺,P2p://ns1.hellotvvod.com:9906/934edf90604742edb354ac6342626d28
 Thrill,P2p://ns1.hellotvvod.com:9906/3fb70424599d41419475b07d53512a97
-明珠台,P2p://ns1.hellotvvod.com:9906/f67e007a5c594dc1b66829615d4bb8e3
-18台,P2p://ns1.hellotvvod.com:9906/8dd46bc762274253a9eb6083af2db37b
-爆谷星影台,P2p://ns1.hellotvvod.com:9906/e7d2b721a3ba40d4a6120bd1161d6ab8
+明珠臺,P2p://ns1.hellotvvod.com:9906/f67e007a5c594dc1b66829615d4bb8e3
+18臺,P2p://ns1.hellotvvod.com:9906/8dd46bc762274253a9eb6083af2db37b
+爆谷星影臺,P2p://ns1.hellotvvod.com:9906/e7d2b721a3ba40d4a6120bd1161d6ab8
 美亞電影(粤语),P2p://ns1.hellotvvod.com:9906/6260802bc14243bd98a9c0be6e349725
 Hands Up,P2p://ns1.hellotvvod.com:9906/deab003089244038bcff853c11f9806e
-粤语片台,P2p://ns1.hellotvvod.com:9906/06395cb1f1104e668afc72f24f0641fe
-亞洲剧台,P2p://ns1.hellotvvod.com:9906/e870a0c870a84793b4d34b40b0d444a7
-功夫台,P2p://ns1.hellotvvod.com:9906/976daf11a1d44b5eb675744b64eff202
-爆谷台,P2p://ns1.hellotvvod.com:9906/641d2867950f48cbacf16b0d9a7812c9
+粤语片臺,P2p://ns1.hellotvvod.com:9906/06395cb1f1104e668afc72f24f0641fe
+亞洲剧臺,P2p://ns1.hellotvvod.com:9906/e870a0c870a84793b4d34b40b0d444a7
+功夫臺,P2p://ns1.hellotvvod.com:9906/976daf11a1d44b5eb675744b64eff202
+爆谷臺,P2p://ns1.hellotvvod.com:9906/641d2867950f48cbacf16b0d9a7812c9
 阳光衛視,P2p://ns1.hellotvvod.com:9906/a5cd00b008ee4941a5577347951d694f
 澳门-MACAU,P2p://ns1.hellotvvod.com:9906/9935445e822d448f843687fd4e4e8adf
 澳门莲花,P2p://ns1.hellotvvod.com:9906/90bef3c0ca8b44ac821f79ec7daeb36f
@@ -597,42 +597,57 @@ TVB星河(粤),mitv://ns1.hellotvvod.com:9906/ca7f820f9e924ea1acde9f5b68b7e6ec
 RHK31,mitv://ns1.hellotvvod.com:9906/531d238d4b754854925d387326c291a6
 RHK32,mitv://ns1.hellotvvod.com:9906/44e81dd24fce43f8891b1b63ecd269fa
 香港开電視,mitv://ns1.hellotvvod.com:9906/1bef010967f94e4db79ddfc122295306
-﻿翡翠台(备),mitv://ns1.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
+﻿翡翠臺(备),mitv://ns1.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
 J2,mitv://ns1.hellotvvod.com:9906/616e19fec3c0475db88cc23ddde228bc
 無綫新聞(备),mitv://ns1.hellotvvod.com:9906/aa6d38843405411aa2111b762923144f
 無綫新聞,mitv://ns1.hellotvvod.com:9906/1092b398d19b42c6806dc2ec04bb511e
 無綫財經,mitv://ns1.hellotvvod.com:9906/ba9474ae0fe14381be9237b3e85a700a
 ViuTV6,mitv://ns1.hellotvvod.com:9906/1c1ce894e3ff45739b2badcd15e0ec0f
 ViuTV,mitv://ns1.hellotvvod.com:9906/98f64c66543c463ab99ea26e536338a4
-now新聞台,mitv://ns1.hellotvvod.com:9906/eeb32fe00b4e4ef6a6863dbea6f15b8d
-now直播台,mitv://ns1.hellotvvod.com:9906/7c06ed22c9454993a9717d749d409f48
+now新聞臺,mitv://ns1.hellotvvod.com:9906/eeb32fe00b4e4ef6a6863dbea6f15b8d
+now直播臺,mitv://ns1.hellotvvod.com:9906/7c06ed22c9454993a9717d749d409f48
 有線電影,mitv://ns1.hellotvvod.com:9906/3c0eb2fd7f0c4c8ea4c2ab55408bb52f
 鳳凰電影,mitv://ns1.hellotvvod.com:9906/6230f02461f848aa90f08ba6fd8b2a8f
 有線新聞,mitv://ns1.hellotvvod.com:9906/7af6dae4a30d47b68a72161534e9251a
 有線財經,mitv://ns1.hellotvvod.com:9906/f6de0031c13847db913b0c89c55cfadd
-有線18台,mitv://ns1.hellotvvod.com:9906/01468cb56cb4490eaec43acc732a0403
+有線18臺,mitv://ns1.hellotvvod.com:9906/01468cb56cb4490eaec43acc732a0403
 有線603,mitv://ns1.hellotvvod.com:9906/be1b98abd39c4df3bd65dbf46054a27a
 有線體育,mitv://ns1.hellotvvod.com:9906/65074314730a4fdd99b1c30a3b37539b
 有線Sports,mitv://ns1.hellotvvod.com:9906/8976e105848241b6b3f69ab54818947c
 有線娛樂,mitv://ns1.hellotvvod.com:9906/5719826a53974fd2b83c0fb250495f8a
 有線娛樂,mitv://ns1.hellotvvod.com:9906/4079b929351548c5923489e2afbfbbd7
-翡翠台,mitv://ns1.hellotvvod.com:9906/d90b51f967934f94a321babdd5b1bfd0
-TVB经典台,mitv://ns1.hellotvvod.com:9906/934edf90604742edb354ac6342626d28
+翡翠臺,mitv://ns1.hellotvvod.com:9906/d90b51f967934f94a321babdd5b1bfd0
+TVB经典臺,mitv://ns1.hellotvvod.com:9906/934edf90604742edb354ac6342626d28
 Thrill,mitv://ns1.hellotvvod.com:9906/3fb70424599d41419475b07d53512a97
-明珠台,mitv://ns1.hellotvvod.com:9906/f67e007a5c594dc1b66829615d4bb8e3
-18台,mitv://ns1.hellotvvod.com:9906/8dd46bc762274253a9eb6083af2db37b
-爆谷星影台,mitv://ns1.hellotvvod.com:9906/e7d2b721a3ba40d4a6120bd1161d6ab8
+明珠臺,mitv://ns1.hellotvvod.com:9906/f67e007a5c594dc1b66829615d4bb8e3
+18臺,mitv://ns1.hellotvvod.com:9906/8dd46bc762274253a9eb6083af2db37b
+爆谷星影臺,mitv://ns1.hellotvvod.com:9906/e7d2b721a3ba40d4a6120bd1161d6ab8
 美亞電影(粤语),mitv://ns1.hellotvvod.com:9906/6260802bc14243bd98a9c0be6e349725
 Hands Up,mitv://ns1.hellotvvod.com:9906/deab003089244038bcff853c11f9806e
-粤语片台,mitv://ns1.hellotvvod.com:9906/06395cb1f1104e668afc72f24f0641fe
-亞洲剧台,mitv://ns1.hellotvvod.com:9906/e870a0c870a84793b4d34b40b0d444a7
-功夫台,mitv://ns1.hellotvvod.com:9906/976daf11a1d44b5eb675744b64eff202
-爆谷台,mitv://ns1.hellotvvod.com:9906/641d2867950f48cbacf16b0d9a7812c9
+粤语片臺,mitv://ns1.hellotvvod.com:9906/06395cb1f1104e668afc72f24f0641fe
+亞洲剧臺,mitv://ns1.hellotvvod.com:9906/e870a0c870a84793b4d34b40b0d444a7
+功夫臺,mitv://ns1.hellotvvod.com:9906/976daf11a1d44b5eb675744b64eff202
+爆谷臺,mitv://ns1.hellotvvod.com:9906/641d2867950f48cbacf16b0d9a7812c9
 阳光衛視,mitv://ns1.hellotvvod.com:9906/a5cd00b008ee4941a5577347951d694f
 澳门-MACAU,mitv://ns1.hellotvvod.com:9906/9935445e822d448f843687fd4e4e8adf
 澳门莲花,mitv://ns1.hellotvvod.com:9906/90bef3c0ca8b44ac821f79ec7daeb36f
-
-翡翠台,rtmp://pull-rtmp-l6.ixigua.com/live/GG分分彩v不v.flv
+無綫新聞,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
+有線新聞,http://livetv.dnsfor.me:80/channel.5.m3u8
+有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
+翡翠臺,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
+無綫新聞,http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
+有線新聞,http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
+有線財經,http://98.142.138.122:1631/zhiboyuandakaTV/icable738952.m3u8
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
+香港开电视,http://98.142.138.122:1630/zhiboyuandakaTV/hkopentv745295.m3u8
+J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+面包臺,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+RHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+翡翠臺,rtmp://pull-rtmp-l6.ixigua.com/live/GG分分彩v不v.flv
 J2,rtmp://pull-rtmp-l6.ixigua.com/live/多大的热天府大道hbd.flv
 無綫新聞,rtmp://pull-rtmp-l6.ixigua.com/live/动态图复旦大学宣传广告.flv
 無線財經,rtmp://pull-rtmp-l6.ixigua.com/live/发货打虎上山d.flv
@@ -641,23 +656,24 @@ J2,rtmp://pull-rtmp-l6.ixigua.com/live/多大的热天府大道hbd.flv
 ViuTV,rtmp://pull-rtmp-l6.ixigua.com/live/广告费多大尺寸.flv
 ViuTV6,rtmp://pull-rtmp-l6.ixigua.com/live/防护好搞个vvv菊花.flv
 RHK31,rtmp://pull-rtmp-l6.ixigua.com/live/讴歌挺多的.flv
-Now新聞台,rtmp://pull-rtmp-l6.ixigua.com/live/福特野马.flv
-Now財經台,rtmp://pull-rtmp-l6.ixigua.com/live/大姑父反反复复d.flv
+Now新聞臺,rtmp://pull-rtmp-l6.ixigua.com/live/福特野马.flv
+Now財經臺,rtmp://pull-rtmp-l6.ixigua.com/live/大姑父反反复复d.flv
 有線財經,rtmp://pull-rtmp-l6.ixigua.com/live/粉条豆腐浮浮沉沉.flv
 TVB星河,rtmp://pull-rtmp-l6.ixigua.com/live/贵妃椅地铁大厦.flv
-有線18台,rtmp://59.124.75.138:1935/sat/hk041#rtmp://59.124.75.138:1935/sat/hk041
-有線18台,rtmp://219.80.97.35/sat/hk041
-有線18台,rtmp://59.124.75.138:1935/sat/hk041
+有線18臺,rtmp://59.124.75.138:1935/sat/hk041#rtmp://59.124.75.138:1935/sat/hk041
+有線18臺,rtmp://59.124.75.138/sat/hk041
+有線18臺,rtmp://219.80.97.35/sat/hk041
+有線18臺,rtmp://59.124.75.138:1935/sat/hk041
 有線體育,rtmp://59.124.75.150/sat/hk021
 有線體育,rtmp://59.124.75.150/sat/us281
-翡翠台,http://23.237.10.66:16106
+翡翠臺,http://23.237.10.66:16106
 鳳凰衛視,http://23.237.10.66:16109
 無綫新聞,http://23.237.10.66:16110
 翡翠华丽,http://23.237.10.66:16410
 無綫新聞,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 有線直播新聞,http://98.142.138.122:1639/zhiboyuandakaTV/icablenewslive332296.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+面包臺,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 RHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 有線財經,https://api.leonardpark.dev/live/icable/108
@@ -667,9 +683,9 @@ RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 有線財經,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze3sJQ4oBZg0BBw_FGeGC9os
 有線直播新聞,https://api.leonardpark.dev/live/icable/110
 RHK32,http://livetv.dnsfor.me/channel.2.m3u8
-Now直播台,http://livetv.dnsfor.me/channel.3.m3u8
-Now新聞台,http://livetv.dnsfor.me/channel.4.m3u8
-Now財經台,http://livetv.dnsfor.me/channel.8.m3u8
+Now直播臺,http://livetv.dnsfor.me/channel.3.m3u8
+Now新聞臺,http://livetv.dnsfor.me/channel.4.m3u8
+Now財經臺,http://livetv.dnsfor.me/channel.8.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 TVB影视剧,https://4343183b364422d020a7c5d108e441ec.livehwc3.cn/hw.flv.huya.com/huyalive/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.flv?wsSecret=0bc11248051ea5f349af8a695086d43c&wsTime=6318024e&seqid=3125416731396&ctype=huya_live&ver=1&txyp=o%3Atyeic12%3B&fs=bgct&ratio=2000&u=1462724904347&t=100&sv=2209060937
@@ -701,19 +717,19 @@ HTV3,https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 点掌財經,http://cclive2.aniu.tv/live/anzb.m3u8
 点掌財經,http://cclive.aniu.tv/live/anzb.m3u8
-香港電台,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
-明珠台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-明珠台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+香港電臺,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+明珠臺,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+明珠臺,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w784366279.m3u8
-Now直播台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now直播臺,http://livetv.dnsfor.me:80/channel.3.m3u8
 無綫新聞,http://livetv.dnsfor.me:80/channel.10.m3u8
 無綫財經,http://livetv.dnsfor.me:80/channel.11.m3u8
-Now新闻台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now新闻臺,http://livetv.dnsfor.me:80/channel.4.m3u8
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 澳门莲花,http://120.84.96.55:808/hls/24/index.m3u8?blog.ntnas.top
-翡翠台,http://120.84.96.55:808/hls/25/index.m3u8?blog.ntnas.top
-明珠台,http://120.84.96.55:808/hls/26/index.m3u8?blog.ntnas.top
+翡翠臺,http://120.84.96.55:808/hls/25/index.m3u8?blog.ntnas.top
+明珠臺,http://120.84.96.55:808/hls/26/index.m3u8?blog.ntnas.top
 鳳凰資訊,http://120.84.96.55:808/hls/28/index.m3u8?blog.ntnas.top
 鳳凰衛視,http://120.84.96.55:808/hls/29/index.m3u8?blog.ntnas.top
 星空衛視,http://120.84.96.55:808/hls/79/index.m3u8?blog.ntnas.top
@@ -754,10 +770,10 @@ tvb影視,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865
 澳門衛視,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳門衛視,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 
-🇹🇼台灣频道,#genre#
+🇹🇼臺灣频道,#genre#
 TVBS HD,P2p://ns1.hellotvvod.com:9906/a7700e97b8c04fb4b2f6d2809d6d9b4a
 TVBS新聞,P2p://ns1.hellotvvod.com:9906/8222cff9be4d45dea17dcf500d9b4db9
-壹新聞台,P2p://ns1.hellotvvod.com:9906/eb51f64a5fa247eeb9ee4f2b873a2538
+壹新聞臺,P2p://ns1.hellotvvod.com:9906/eb51f64a5fa247eeb9ee4f2b873a2538
 年代新聞,P2p://ns1.hellotvvod.com:9906/cb9b246b644045d9904bda7cff64700a
 東森新聞,P2p://ns1.hellotvvod.com:9906/693511f4bc16414ea8542504561a9589
 中天新聞,P2p://ns1.hellotvvod.com:9906/1024c12594c343b6af5dff660d002058
@@ -768,13 +784,13 @@ TVBS新聞,P2p://ns1.hellotvvod.com:9906/8222cff9be4d45dea17dcf500d9b4db9
 非凡新聞,P2p://ns1.hellotvvod.com:9906/488033886cea43a0981601bca1285663
 中視新聞,P2p://ns1.hellotvvod.com:9906/49be27fa88b6416ab36e02d8a9087c3f
 寰宇新聞,P2p://ns1.hellotvvod.com:9906/3daa7cb1507342abb8e7034205417060
-寰宇台灣,P2p://ns1.hellotvvod.com:9906/48760fbeb15a4544885642389194a66b
+寰宇臺灣,P2p://ns1.hellotvvod.com:9906/48760fbeb15a4544885642389194a66b
 華視新聞,P2p://ns1.hellotvvod.com:9906/6f3829c6341e474d9c732b3efc9838f5
 NHK新聞,P2p://ns1.hellotvvod.com:9906/0f4208c1e14d4b36babb481f70323c02
 東森新聞(备),P2p://ns1.hellotvvod.com:9906/e911563d661b46258aa7f22df821c9e2
-镜新聞台,P2p://ns1.hellotvvod.com:9906/dcef5b37902b49d0a5d98cd6dea90c59
-台視新聞,P2p://ns1.hellotvvod.com:9906/6a8627dfdd524e9b94d3bd389740a9d2
-台視財經,P2p://ns1.hellotvvod.com:9906/7b5a05c6ca934563926805f9c5ca9624
+镜新聞臺,P2p://ns1.hellotvvod.com:9906/dcef5b37902b49d0a5d98cd6dea90c59
+臺視新聞,P2p://ns1.hellotvvod.com:9906/6a8627dfdd524e9b94d3bd389740a9d2
+臺視財經,P2p://ns1.hellotvvod.com:9906/7b5a05c6ca934563926805f9c5ca9624
 影迷数位電影,P2p://ns1.hellotvvod.com:9906/645c997ba91c492babe0f56dfba3853b
 美亞電影,P2p://ns1.hellotvvod.com:9906/5bcc6ad3465c48d2b9ca0fee348095fc
 龍華電影,P2p://ns1.hellotvvod.com:9906/5eae0178be844ea9b1df4e8764bb9fd9
@@ -790,7 +806,7 @@ HBO 強檔,P2p://ns1.hellotvvod.com:9906/7d3ea99ee7d848d596a3ea052a566cd0
 HBO 原創,P2p://ns1.hellotvvod.com:9906/97d7a522b3b045d0adcf2a717a6f0ff4
 CatchPlay電影,P2p://ns1.hellotvvod.com:9906/62c7b91ecaba4ff7b6413f1d3016d11a
 CinemaWorld,P2p://ns1.hellotvvod.com:9906/46074777cbb340718ff12c32a0f63a00
-壹電影台,P2p://ns1.hellotvvod.com:9906/7a746efb886845d0aa5be759581bd440
+壹電影臺,P2p://ns1.hellotvvod.com:9906/7a746efb886845d0aa5be759581bd440
 衛視電影,P2p://ns1.hellotvvod.com:9906/957901fc9a254dbb91227829d9b995c7
 東森電影,P2p://ns1.hellotvvod.com:9906/94095045274045e1a0d3a328148381f2
 緯來電影,P2p://ns1.hellotvvod.com:9906/c0229f009c174dacaf08710fe71ce2ca
@@ -801,7 +817,7 @@ AXN,P2p://ns1.hellotvvod.com:9906/3d43beba53b54131ad10b2f8a02d3f47
 CINEMAX,P2p://ns1.hellotvvod.com:9906/8ef5dc97e25645be8d4e303cb84b15e1
 TVBS HD,mitv://ns1.hellotvvod.com:9906/a7700e97b8c04fb4b2f6d2809d6d9b4a
 TVBS新聞,mitv://ns1.hellotvvod.com:9906/8222cff9be4d45dea17dcf500d9b4db9
-壹新聞台,mitv://ns1.hellotvvod.com:9906/eb51f64a5fa247eeb9ee4f2b873a2538
+壹新聞臺,mitv://ns1.hellotvvod.com:9906/eb51f64a5fa247eeb9ee4f2b873a2538
 年代新聞,mitv://ns1.hellotvvod.com:9906/cb9b246b644045d9904bda7cff64700a
 東森新聞,mitv://ns1.hellotvvod.com:9906/693511f4bc16414ea8542504561a9589
 中天新聞,mitv://ns1.hellotvvod.com:9906/1024c12594c343b6af5dff660d002058
@@ -812,13 +828,13 @@ TVBS新聞,mitv://ns1.hellotvvod.com:9906/8222cff9be4d45dea17dcf500d9b4db9
 非凡新聞,mitv://ns1.hellotvvod.com:9906/488033886cea43a0981601bca1285663
 中視新聞,mitv://ns1.hellotvvod.com:9906/49be27fa88b6416ab36e02d8a9087c3f
 寰宇新聞,mitv://ns1.hellotvvod.com:9906/3daa7cb1507342abb8e7034205417060
-寰宇台灣,mitv://ns1.hellotvvod.com:9906/48760fbeb15a4544885642389194a66b
+寰宇臺灣,mitv://ns1.hellotvvod.com:9906/48760fbeb15a4544885642389194a66b
 華視新聞,mitv://ns1.hellotvvod.com:9906/6f3829c6341e474d9c732b3efc9838f5
 NHK新聞,mitv://ns1.hellotvvod.com:9906/0f4208c1e14d4b36babb481f70323c02
 東森新聞(备),mitv://ns1.hellotvvod.com:9906/e911563d661b46258aa7f22df821c9e2
-镜新聞台,mitv://ns1.hellotvvod.com:9906/dcef5b37902b49d0a5d98cd6dea90c59
-台視新聞,mitv://ns1.hellotvvod.com:9906/6a8627dfdd524e9b94d3bd389740a9d2
-台視財經,mitv://ns1.hellotvvod.com:9906/7b5a05c6ca934563926805f9c5ca9624
+镜新聞臺,mitv://ns1.hellotvvod.com:9906/dcef5b37902b49d0a5d98cd6dea90c59
+臺視新聞,mitv://ns1.hellotvvod.com:9906/6a8627dfdd524e9b94d3bd389740a9d2
+臺視財經,mitv://ns1.hellotvvod.com:9906/7b5a05c6ca934563926805f9c5ca9624
 影迷数位電影,mitv://ns1.hellotvvod.com:9906/645c997ba91c492babe0f56dfba3853b
 美亞電影,mitv://ns1.hellotvvod.com:9906/5bcc6ad3465c48d2b9ca0fee348095fc
 龍華電影,mitv://ns1.hellotvvod.com:9906/5eae0178be844ea9b1df4e8764bb9fd9
@@ -834,7 +850,7 @@ HBO 強檔,mitv://ns1.hellotvvod.com:9906/7d3ea99ee7d848d596a3ea052a566cd0
 HBO 原創,mitv://ns1.hellotvvod.com:9906/97d7a522b3b045d0adcf2a717a6f0ff4
 CatchPlay電影,mitv://ns1.hellotvvod.com:9906/62c7b91ecaba4ff7b6413f1d3016d11a
 CinemaWorld,mitv://ns1.hellotvvod.com:9906/46074777cbb340718ff12c32a0f63a00
-壹電影台,mitv://ns1.hellotvvod.com:9906/7a746efb886845d0aa5be759581bd440
+壹電影臺,mitv://ns1.hellotvvod.com:9906/7a746efb886845d0aa5be759581bd440
 衛視電影,mitv://ns1.hellotvvod.com:9906/957901fc9a254dbb91227829d9b995c7
 東森電影,mitv://ns1.hellotvvod.com:9906/94095045274045e1a0d3a328148381f2
 緯來電影,mitv://ns1.hellotvvod.com:9906/c0229f009c174dacaf08710fe71ce2ca
@@ -850,22 +866,22 @@ TVBS新聞,P2p://ns1.hellotvvod.com:9906/a46fb523d9c04254953ea68f0223b513
 三立iNEWS,P2p://ns1.hellotvvod.com:9906/8044cd6adaa14a969ee691d58c8eabb9
 三立新聞,P2p://ns1.hellotvvod.com:9906/fceb797446e94ac18dd4791a5d12b440
 三立新聞,http://23.237.10.66:16342
-壹新聞台,P2p://ns1.hellotvvod.com:9906/9f03df5968aa4ddc82b9bf79071971c0
+壹新聞臺,P2p://ns1.hellotvvod.com:9906/9f03df5968aa4ddc82b9bf79071971c0
 年代新聞,P2p://ns1.hellotvvod.com:9906/81409ed6900d4fa183a5069d9e19f808
 東森财经,P2p://ns1.hellotvvod.com:9906/08140d28f7634f31b26776b01ff2013a
 非凡新聞,P2p://ns1.hellotvvod.com:9906/f673cb32c63148eda241ca48287abc1a
 中視新聞,P2p://ns1.hellotvvod.com:9906/35d5951c36b74b808f1c2415b2335f89
 寰宇新聞,P2p://ns1.hellotvvod.com:9906/3ea68d897c5f4d6caeb039de56bfe7bf
 華視新聞,P2p://ns1.hellotvvod.com:9906/4d9b6eef2ca342bc821df84c53fbee86
-台視新聞,P2p://ns1.hellotvvod.com:9906/1109090677cf4568b5d281acaffb16bb
-寰宇台灣,P2p://ns1.hellotvvod.com:9906/9b27b09378424d1a985f6ff508f0f418
+臺視新聞,P2p://ns1.hellotvvod.com:9906/1109090677cf4568b5d281acaffb16bb
+寰宇臺灣,P2p://ns1.hellotvvod.com:9906/9b27b09378424d1a985f6ff508f0f418
 衛視電影,P2p://ns1.hellotvvod.com:9906/8d22d953e4184dbfb3753b093f401769
 衛視電影,http://23.237.10.66:16010
 印度電影,http://23.237.10.66:16054
 東森電影,P2p://ns1.hellotvvod.com:9906/134260b0c79e47599e7be383a16273a2
 緯來電影,P2p://ns1.hellotvvod.com:9906/666e92af6da048e387f28b8e8a1c41f9
 龍祥電影,P2p://ns1.hellotvvod.com:9906/31e1369076a547a18020ea74cb9d6423
-壹電影台,P2p://ns1.hellotvvod.com:9906/773dfbc2517d4720bd4433868831b947
+壹電影臺,P2p://ns1.hellotvvod.com:9906/773dfbc2517d4720bd4433868831b947
 好萊塢電影,P2p://ns1.hellotvvod.com:9906/db5f81637e2a4420a2a59dfc7bacc634
 東森洋片,P2p://ns1.hellotvvod.com:9906/e20a0cbb07184f19a1bc0456a1ec590d
 AXN,P2p://ns1.hellotvvod.com:9906/846585b8fc4e43f1a11294f10a6d6e4e
@@ -877,13 +893,13 @@ CatchPlay電影,P2p://ns1.hellotvvod.com:9906/14458e1447fe4cba8caf28d8cbb2a93e
 CinemaWorld,P2p://ns1.hellotvvod.com:9906/01a6be572b6f44248f6c83ad24eb33cc
 CINEMAX,P2p://ns1.hellotvvod.com:9906/417622ab2be34897bf89e4646367e39f
 民視,mitv://ns1.hellotvvod.com:9906/afb3ce5ff4b343acbd4dcc18e779f000
-台視,mitv://ns1.hellotvvod.com:9906/0f373c618b594cf4a92c0c0d67b4ccff
+臺視,mitv://ns1.hellotvvod.com:9906/0f373c618b594cf4a92c0c0d67b4ccff
 中視,mitv://ns1.hellotvvod.com:9906/b8f6cdb0ade748139fa3e47b63111f78
 華視,mitv://ns1.hellotvvod.com:9906/79e2eae39d1d49e695fa105bfa24a276
 公視,mitv://ns1.hellotvvod.com:9906/cceee06ef3194f1e8a030440d509f48d
 八大第一,mitv://ns1.hellotvvod.com:9906/062cfd1d662c4c568ac777badc14c9b3
 八大综合,mitv://ns1.hellotvvod.com:9906/0a94d77edc744413945ee76857f4f5c5
-三立台灣,mitv://ns1.hellotvvod.com:9906/eee1ccef6c7640eb8425a79922f01130
+三立臺灣,mitv://ns1.hellotvvod.com:9906/eee1ccef6c7640eb8425a79922f01130
 三立都会,mitv://ns1.hellotvvod.com:9906/d03bbc7d90054cefbc582ad12b0892e5
 東森综合,mitv://ns1.hellotvvod.com:9906/5dc361f0f7954841ad9e408dc8946578
 超視,mitv://ns1.hellotvvod.com:9906/ae1f599e86014a88903b828b3782d35f
@@ -902,13 +918,13 @@ TVBS歡樂,mitv://ns1.hellotvvod.com:9906/3d79ebc2dc894aa2855400677a2980bf
 中視经典,mitv://ns1.hellotvvod.com:9906/f1e89df30c8841e3bec492ab4f04620a
 中視菁采,mitv://ns1.hellotvvod.com:9906/5b3a623b59cc4ca485164447a50a50d6
 TVBS精采,mitv://ns1.hellotvvod.com:9906/5583d625f44c42a08c787762d439a928
-壹综合台,mitv://ns1.hellotvvod.com:9906/89ca8b262c174d33bed9dd2d938187dd
+壹综合臺,mitv://ns1.hellotvvod.com:9906/89ca8b262c174d33bed9dd2d938187dd
 緯來精采,mitv://ns1.hellotvvod.com:9906/21d3d32898c044bc9c6a83bee8c37dde
 非凡商业,mitv://ns1.hellotvvod.com:9906/6521b03877e5479d9982fcab29b2e4be
-公視3台,mitv://ns1.hellotvvod.com:9906/7ea63223e87b4dcf9768ae5544b719f6
+公視3臺,mitv://ns1.hellotvvod.com:9906/7ea63223e87b4dcf9768ae5544b719f6
 ETtoday综合,mitv://ns1.hellotvvod.com:9906/d6d614ea121e47ec93126dfe055315dd
 民視第一,mitv://ns1.hellotvvod.com:9906/f7c35013ac12407d924b8238ad5b7cad
-民視台灣,mitv://ns1.hellotvvod.com:9906/1558bbb86bc34a718d5ac897dd0f235c
+民視臺灣,mitv://ns1.hellotvvod.com:9906/1558bbb86bc34a718d5ac897dd0f235c
 国家地理频道,mitv://ns1.hellotvvod.com:9906/a1e66402b91c4f79ad1bf733a7b9c73a
 探索频道,mitv://ns1.hellotvvod.com:9906/77d7615bfb1b4387afa4764c9ba1d243
 动物星球,mitv://ns1.hellotvvod.com:9906/5963414225414a6e9eeb820a7aa7e941
@@ -948,7 +964,7 @@ TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072
 国会频道2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv085&nid=171
 阿里郎频道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
 亞洲旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-镜新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+镜新聞臺,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 民視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
@@ -958,7 +974,7 @@ TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072
 德国之声,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
 民視第一,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-民視台灣,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+民視臺灣,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
 猪哥亮歌厅秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
@@ -979,12 +995,33 @@ LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&ni
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
-台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+臺視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 民視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
 東森財經,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-
+中天新聞,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian98432987.m3u8
+TVBS HD,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
+TVBS新聞,http://98.142.138.122:1633/zhiboyuandakaTV/tvbs562517350.m3u8
+TVBS亞洲,http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
+民视新聞,http://98.142.138.122:1634/zhiboyuandakaTV/mingshi838552450.m3u8 
+臺视新聞,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews92755.m3u8
+民視新聞,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ylYJSBUgaMA&P=1080
+臺視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#
+臺視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+寰宇新聞,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&P=1080
+寰宇新聞,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=qFhAXrviP5g&P=1080
+寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+中視新聞,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=TCnaIE_SAtM&P=1080
+中天新聞,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=_QbRXRnHMVY&P=1080
+中天新聞,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+三立新聞,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=L9cD7ndPGsM&P=1080
+三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=CKjSm5ZeehE&P=1080
+三立iNEWS,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EB4g7wecgTI&P=1080
+壹新聞臺,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹新聞臺,http://stream.nexttv.com.tw/n001/playlist.m3u8
 民視,rtmp://59.124.75.138/sat/tv051
-台視,rtmp://59.124.75.138/sat/tv071
+臺視,rtmp://59.124.75.138/sat/tv071
 中視,rtmp://59.124.75.138/sat/tv091
 華視,rtmp://59.124.75.138/sat/tv111
 TVBS新聞,rtmp://59.124.75.138/sat/tv551
@@ -1001,105 +1038,7 @@ ELTA體育2,rtmp://59.124.75.138/sat/md011
 ELEVEN2,rtmp://59.124.75.138/sat/md021
 ELTA體育3,rtmp://59.124.75.138/sat/md041
 ELTA體育1,rtmp://59.124.75.138/sat/md051
-緯來日本,rtmp://59.124.75.138/sat/tv771
-TVBS歡樂,rtmp://59.124.75.138/sat/tv421
-台視,rtmp://59.124.75.138/sat/tv071
-TUDN體育,rtmp://59.124.75.138/sat/us241
-民視,rtmp://59.124.75.138/sat/tv051
-台視,rtmp://59.124.75.150/sat/tv071
-台視,rtmp://59.124.75.138/sat/tv071
-中視,rtmp://59.124.75.150/sat/tv091
-中視,rtmp://59.124.75.138:1935/sat/tv091
-華視,rtmp://59.124.75.150/sat/tv111
-華視,rtmp://59.124.75.138:1935/sat/tv111
-華視,rtmp://59.124.75.138/sat/tv111
-TVBS新聞,rtmp://59.124.75.150/sat/tv551
-TVBS新聞,rtmp://59.124.75.138/sat/tv551
-TVBS新聞,rtmp://59.124.75.150:1935/sat/tv551
-TVBS歡樂,rtmp://59.124.75.138:1935/sat/tv421
-TVBS歡樂,rtmp://59.124.75.150/sat/tv421
-TVBS歡樂,rtmp://59.124.75.138/sat/tv421
 
-東森財經,rtmp://59.124.75.150/sat/tv571
-東森財經,rtmp://59.124.75.150:1935/sat/tv571
-東森超視,rtmp://59.124.75.150/sat/tv331
-緯來育樂,rtmp://59.124.75.150/sat/tv701
-緯來體育,rtmp://59.124.75.138/sat/tv721
-ELEVEN1,rtmp://59.124.75.150/sat/tv731
-ELEVEN1,rtmp://59.124.75.138/sat/md041
-ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
-ELEVEN1,rtmp://59.124.75.150/sat/md011
-ELEVEN1,rtmp://59.124.75.138/sat/md011
-ELEVEN1,rtmp://59.124.75.138/sat/tv731
-ELEVEN1,rtmp://59.124.75.138/sat/tv741
-ELEVEN1,rtmp://59.124.75.138/sat/md021
-ELEVEN2,rtmp://59.124.75.150/sat/md021
-ELEVEN2,rtmp://59.124.75.138/sat/md021
-ELEVEN2,rtmp://59.124.75.138/sat/tv741
-緯來日本,rtmp://59.124.75.150/sat/tv771
-緯來日本,rtmp://59.124.75.138/sat/tv771
-緯來日本,rtmp://59.124.75.150:1935/sat/tv771
-MOMO综合,rtmp://59.124.75.150/sat//tv761
-MOMO综合,rtmp://59.124.75.138/sat/tv761
-MOMO綜合,rtmp://59.124.75.150:1935/sat/tv761
-博斯网球,rtmp://59.124.75.150/sat/md031
-博斯體育,rtmp://59.124.75.138/sat/jp041
-ELTA體育1,rtmp://59.124.75.138/sat/md051
-ELTA體育2,rtmp://59.124.75.138/sat/md011
-ELTA體育3,rtmp://59.124.75.138/sat/md041
-ELTA體育3,rtmp://59.124.75.138/sat/md051
-中視,rtmp://59.124.75.138:1935/sat/tv091
-華視,rtmp://59.124.75.138:1935/sat/tv111
-台視,rtmp://59.124.75.138:1935/sat/tv071
-民視,rtmp://59.124.75.138:1935/sat/tv051
-TVBS新聞,rtmp://59.124.75.138:1935/sat/tv551
-TVBS歡樂,rtmp://59.124.75.138:1935/sat/tv421
-有綫18台,rtmp://59.124.75.138:1935/sat/hk041
-緯來育樂,rtmp://59.124.75.138:1935/sat/tv701
-緯來體育,rtmp://59.124.75.138:1935/sat/tv721
-緯來日本,rtmp://59.124.75.138:1935/sat/tv771
-東森財經,rtmp://59.124.75.138:1935/sat/tv571
-東森超視,rtmp://59.124.75.138:1935/sat/tv331
-陌陌综合,rtmp://59.124.75.138:1935/sat/tv761
-ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
-ELEVEN2,rtmp://59.124.75.138:1935/sat/tv741
-ELEVEN2,rtmp://59.124.75.138/sat/tv741
-ELEVEN2,rtmp://59.124.75.138/sat/md051
-ELEVEN2,rtmp://59.124.75.150/sat/tv741
-ELTA體育1,rtmp://59.124.75.150/sat/md011
-ELTA體育1,rtmp://59.124.75.138/sat/md011
-ELTA體育2,rtmp://59.124.75.150/sat/md021
-ELTA體育2,rtmp://59.124.75.138/sat/md021
-ELTA體育3,rtmp://59.124.75.150/sat/md041
-ELTA體育3,rtmp://59.124.75.138/sat/md041
-MOMO综合,rtmp://59.124.75.138:1935/sat/tv761
-MOMO综合,rtmp://59.124.75.138/sat/tv761
-MOMO综合,rtmp://59.124.75.150/sat/tv761
-TVBS歡樂,rtmp://59.124.75.138/sat/tv421
-TVBS歡樂,rtmp://59.124.75.150/sat/tv421
-TVBS新聞,rtmp://59.124.75.150/sat/tv551
-TVBS新聞,rtmp://59.124.75.138/sat/tv551
-博斯网球,rtmp://59.124.75.150/sat/md031
-博斯网球,rtmp://59.124.75.138/sat/md031
-博斯运动2,rtmp://59.124.75.138:1935/sat/md021
-東森財經,rtmp://59.124.75.138/sat/tv571
-東森財經,rtmp://59.124.75.150/sat/tv571
-華視,rtmp://59.124.75.138/sat/tv111
-華視,rtmp://59.124.75.150/sat/tv111
-民視,rtmp://59.124.75.138/sat/tv051
-民視,rtmp://59.124.75.150/sat/tv051
-台視,rtmp://59.124.75.150/sat/tv071
-台視,rtmp://59.124.75.138/sat/tv071
-緯來日本,rtmp://59.124.75.138/sat/tv771
-緯來日本,rtmp://59.124.75.150/sat/tv771
-緯來體育,rtmp://59.124.75.138/sat/tv721
-緯來體育,rtmp://59.124.75.150/sat/tv721
-緯來育樂,rtmp://59.124.75.150/sat/tv701
-緯來育樂,rtmp://59.124.75.138/sat/tv701
-中視,rtmp://59.124.75.150/sat/tv091
-中視,rtmp://59.124.75.138/sat/tv091
-TVBS欢乐,rtmp://59.124.75.138/sat/tv421
-TVBS欢乐,rtmp://59.124.75.150/sat/tv421
 中視新聞,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 東森新聞LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 非凡新聞,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
@@ -1117,7 +1056,7 @@ HBO 原創,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D576742
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
 CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 民視,http://23.237.10.66:16334
-台視,http://23.237.10.66:16344
+臺視,http://23.237.10.66:16344
 民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
 民視,http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
 華視,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
@@ -1154,8 +1093,8 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS HD,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
 中天新聞,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+臺視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+臺視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 華语電視,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 華语電視,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
@@ -1168,7 +1107,7 @@ TVBS HD,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5636099579.m3u8
 大愛,http://198.16.64.10:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
 探索科学,http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 探索频道,http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
-民視台灣,http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+民視臺灣,http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 龍華经典,http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
 TVBSG,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
@@ -1207,13 +1146,13 @@ HBO HD,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u
 HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 彭博財經,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 france24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+臺灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+番薯臺,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 新加坡CNA,http://50.7.220.74:8278/cna/playlist.m3u8?tid=m75c258e8db6c&ct=18336&tsum=72391487028dc68a70d050b29c3654ee
-台視新聞,http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+臺視新聞,http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
 ELEVEN 3,http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 HBO HITS,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c10053
 HBO 英文,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
@@ -1405,12 +1344,12 @@ Sky News,P2p://ns1.hellotvvod.com:9906/6bc9f99f7ad948d081e5df3ea8f92df9
 Nat Geo Wild,P2p://ns1.hellotvvod.com:9906/760505f914f347f0810b65dc0c68a5ae
 tvN,P2p://ns1.hellotvvod.com:9906/9e80ca9b9e0d4661bca9520c394a2802
 天映频道,P2p://ns1.hellotvvod.com:9906/4e8ab40b90c2435997c24c1cfb13e05e
-翡翠台(華丽台),P2p://ns1.hellotvvod.com:9906/9a15de42672b48ec93410af38314b0ee
+翡翠臺(華丽臺),P2p://ns1.hellotvvod.com:9906/9a15de42672b48ec93410af38314b0ee
 Astro AOD HD 311,P2p://ns1.hellotvvod.com:9906/eb0df787a2cb4f8e8cace40868c27629
-中天亞洲台,P2p://ns1.hellotvvod.com:9906/b1e3973893a5462fbe0a8b655156f10a
+中天亞洲臺,P2p://ns1.hellotvvod.com:9906/b1e3973893a5462fbe0a8b655156f10a
 TVB星河(粤),P2p://ns1.hellotvvod.com:9906/ca7f820f9e924ea1acde9f5b68b7e6ec
 天映经典,P2p://ns1.hellotvvod.com:9906/470cd03d80584abaa000dc201604ca27
-Astro欢喜台(备),P2p://ns1.hellotvvod.com:9906/0629fdb26f964187bee9fda13e4e4b6b
+Astro欢喜臺(备),P2p://ns1.hellotvvod.com:9906/0629fdb26f964187bee9fda13e4e4b6b
 KBS World,P2p://ns1.hellotvvod.com:9906/e2d0dc98c20d4f1fa69d79d16901c635
 ONE,P2p://ns1.hellotvvod.com:9906/722da6aa288d46dab02d1356f400012d
 Colors Hindi,P2p://ns1.hellotvvod.com:9906/5f864cb444ff49df88d0a8e57d0056d6
@@ -1435,13 +1374,13 @@ DW,P2p://ns1.hellotvvod.com:9906/883cce16471a44efa1302132b0c59e9c
 France24,P2p://ns1.hellotvvod.com:9906/59dca49463dc4dea91f3baf8be007a0b
 SPOTV,P2p://ns1.hellotvvod.com:9906/e2fa1e0ed8884ec5aa636f89edd41be9
 beIN Sports,P2p://ns1.hellotvvod.com:9906/d5f57052ecfe4fcc8caa17c503698cde
-TVB娛樂新聞台,P2p://ns1.hellotvvod.com:9906/4079b929351548c5923489e2afbfbbd7
+TVB娛樂新聞臺,P2p://ns1.hellotvvod.com:9906/4079b929351548c5923489e2afbfbbd7
 Astro AEC,P2p://ns1.hellotvvod.com:9906/6b6ebab8df5143d6bc9485671519090f
 Awesome TV,P2p://ns1.hellotvvod.com:9906/55c09b43fb26480e8ac0d4fbece914da
 ABO Movies Thangathirai HD,P2p://ns1.hellotvvod.com:9906/d2f3d93ac0754c578f6b02921940fbf1
 Colors Tamil,P2p://ns1.hellotvvod.com:9906/4dee74a741f0493aac4d4249240ab7f5
 BOO,P2p://ns1.hellotvvod.com:9906/432be11f4eac4e238d2cd25d64c165c9
-TVB经典台,P2p://ns1.hellotvvod.com:9906/934edf90604742edb354ac6342626d28
+TVB经典臺,P2p://ns1.hellotvvod.com:9906/934edf90604742edb354ac6342626d28
 ABC Australia,P2p://ns1.hellotvvod.com:9906/94a6fca1ef9b42b2bde1c38f89e14092
 Eurosport HD,P2p://ns1.hellotvvod.com:9906/895b6edf81ee4566a89aa9ebcc9e0ace
 Astro Arena 2,P2p://ns1.hellotvvod.com:9906/24a0efaec6c04162bb229e28756743f7
@@ -1465,7 +1404,7 @@ HITS Movies,P2p://ns1.hellotvvod.com:9906/a598c973264e4cb7939b7e0f335cb027
 SHOWCASE MOVIES,P2p://ns1.hellotvvod.com:9906/75c18dc987de4060bb992f13a21af8e2
 PrimeTime Channel,P2p://ns1.hellotvvod.com:9906/85ba72e206ce40079dbb82e7490f4db6
 Golf Channel,P2p://ns1.hellotvvod.com:9906/b64421529d034a3fb2da928238a3de30
-Astro欢喜台,P2p://ns1.hellotvvod.com:9906/6acca014434741f6a7757bb8f4eed3aa
+Astro欢喜臺,P2p://ns1.hellotvvod.com:9906/6acca014434741f6a7757bb8f4eed3aa
 beIN Sports 2,P2p://ns1.hellotvvod.com:9906/d878e7d73489484c9959cbdbd8767c5c
 CNN,mitv://ns1.hellotvvod.com:9906/a7171d39ac4f440b9dfb0168f32fd955
 TV1,mitv://ns1.hellotvvod.com:9906/dc1ddc9d6dca49ec9f4257b31d24611e
@@ -1505,12 +1444,12 @@ Sky News,mitv://ns1.hellotvvod.com:9906/6bc9f99f7ad948d081e5df3ea8f92df9
 Nat Geo Wild,mitv://ns1.hellotvvod.com:9906/760505f914f347f0810b65dc0c68a5ae
 tvN,mitv://ns1.hellotvvod.com:9906/9e80ca9b9e0d4661bca9520c394a2802
 天映频道,mitv://ns1.hellotvvod.com:9906/4e8ab40b90c2435997c24c1cfb13e05e
-翡翠台(華丽台),mitv://ns1.hellotvvod.com:9906/9a15de42672b48ec93410af38314b0ee
+翡翠臺(華丽臺),mitv://ns1.hellotvvod.com:9906/9a15de42672b48ec93410af38314b0ee
 Astro AOD HD 311,mitv://ns1.hellotvvod.com:9906/eb0df787a2cb4f8e8cace40868c27629
-中天亞洲台,mitv://ns1.hellotvvod.com:9906/b1e3973893a5462fbe0a8b655156f10a
+中天亞洲臺,mitv://ns1.hellotvvod.com:9906/b1e3973893a5462fbe0a8b655156f10a
 TVB星河(粤),mitv://ns1.hellotvvod.com:9906/ca7f820f9e924ea1acde9f5b68b7e6ec
 天映经典,mitv://ns1.hellotvvod.com:9906/470cd03d80584abaa000dc201604ca27
-Astro欢喜台(备),mitv://ns1.hellotvvod.com:9906/0629fdb26f964187bee9fda13e4e4b6b
+Astro欢喜臺(备),mitv://ns1.hellotvvod.com:9906/0629fdb26f964187bee9fda13e4e4b6b
 KBS World,mitv://ns1.hellotvvod.com:9906/e2d0dc98c20d4f1fa69d79d16901c635
 ONE,mitv://ns1.hellotvvod.com:9906/722da6aa288d46dab02d1356f400012d
 Colors Hindi,mitv://ns1.hellotvvod.com:9906/5f864cb444ff49df88d0a8e57d0056d6
@@ -1535,13 +1474,13 @@ DW,mitv://ns1.hellotvvod.com:9906/883cce16471a44efa1302132b0c59e9c
 France24,mitv://ns1.hellotvvod.com:9906/59dca49463dc4dea91f3baf8be007a0b
 SPOTV,mitv://ns1.hellotvvod.com:9906/e2fa1e0ed8884ec5aa636f89edd41be9
 beIN Sports,mitv://ns1.hellotvvod.com:9906/d5f57052ecfe4fcc8caa17c503698cde
-TVB娛樂新聞台,mitv://ns1.hellotvvod.com:9906/4079b929351548c5923489e2afbfbbd7
+TVB娛樂新聞臺,mitv://ns1.hellotvvod.com:9906/4079b929351548c5923489e2afbfbbd7
 Astro AEC,mitv://ns1.hellotvvod.com:9906/6b6ebab8df5143d6bc9485671519090f
 Awesome TV,mitv://ns1.hellotvvod.com:9906/55c09b43fb26480e8ac0d4fbece914da
 ABO Movies Thangathirai HD,mitv://ns1.hellotvvod.com:9906/d2f3d93ac0754c578f6b02921940fbf1
 Colors Tamil,mitv://ns1.hellotvvod.com:9906/4dee74a741f0493aac4d4249240ab7f5
 BOO,mitv://ns1.hellotvvod.com:9906/432be11f4eac4e238d2cd25d64c165c9
-TVB经典台,mitv://ns1.hellotvvod.com:9906/934edf90604742edb354ac6342626d28
+TVB经典臺,mitv://ns1.hellotvvod.com:9906/934edf90604742edb354ac6342626d28
 ABC Australia,mitv://ns1.hellotvvod.com:9906/94a6fca1ef9b42b2bde1c38f89e14092
 Eurosport HD,mitv://ns1.hellotvvod.com:9906/895b6edf81ee4566a89aa9ebcc9e0ace
 Astro Arena 2,mitv://ns1.hellotvvod.com:9906/24a0efaec6c04162bb229e28756743f7
@@ -1565,7 +1504,7 @@ HITS Movies,mitv://ns1.hellotvvod.com:9906/a598c973264e4cb7939b7e0f335cb027
 SHOWCASE MOVIES,mitv://ns1.hellotvvod.com:9906/75c18dc987de4060bb992f13a21af8e2
 PrimeTime Channel,mitv://ns1.hellotvvod.com:9906/85ba72e206ce40079dbb82e7490f4db6
 Golf Channel,mitv://ns1.hellotvvod.com:9906/b64421529d034a3fb2da928238a3de30
-Astro欢喜台,mitv://ns1.hellotvvod.com:9906/6acca014434741f6a7757bb8f4eed3aa
+Astro欢喜臺,mitv://ns1.hellotvvod.com:9906/6acca014434741f6a7757bb8f4eed3aa
 beIN Sports 2,mitv://ns1.hellotvvod.com:9906/d878e7d73489484c9959cbdbd8767c5c
 
 📺劇场频道,#genre#
@@ -1738,16 +1677,16 @@ KiD影院10,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318/index.m3u8
 洪金宝,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
 黄渤,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
 刘家辉,http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
-CHC家庭影台院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
-超级電影台,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
+CHC家庭影臺院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
+超级電影臺,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
 杨幂,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542372
 歡笑剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859
-科幻電影台,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
+科幻電影臺,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
 失眠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558
 CHC家庭影院,http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
-CHC電影台,http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
-CHC電影台,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
-CHC電影台,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC電影臺,http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
+CHC電影臺,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
+CHC電影臺,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作電影,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 咏春系列,http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
 黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
@@ -1769,30 +1708,30 @@ CHC动作電影,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 恐惧竞技,http://txtest-xp2p.p2p.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.xs
 白泽字幕,http://txtest-xp2p.p2p.huya.com/src/1199562244544-1199562244544-5439013267869532160-2399124612544-10057-A-0-1.xs
 灵异领域,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
-超级電影台,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
-虎牙電影台,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-喜剧電影台,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-超级電影台,http://39.134.115.163:8080/PLTV/88888910/224/3221225766/index.m3u8
-超级電影台,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
-黑莓電影台,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
-黑莓電影台,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
-黑莓電影台,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
-黑莓電影台,http://39.134.115.163:8080/PLTV/88888910/224/3221225769/index.m3u8
-黑莓電影台,http://39.134.115.163:8080/PLTV/88888910/224/3221225764/index.m3u8
-黑莓電影台,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
-黑莓電影台,http://111.40.196.32/PLTV/88888888/224/3221225610/index.m3u8
-黑莓電影台,http://39.135.138.60:18890/PLTV/88888888/224/3221225718/index.m3u8
-黑莓電影台,http://39.135.138.60:18890/PLTV/88888888/224/3221225764/index.m3u8
-超级電影台,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
+超级電影臺,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
+虎牙電影臺,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+喜剧電影臺,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+超级電影臺,http://39.134.115.163:8080/PLTV/88888910/224/3221225766/index.m3u8
+超级電影臺,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+黑莓電影臺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+黑莓電影臺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
+黑莓電影臺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
+黑莓電影臺,http://39.134.115.163:8080/PLTV/88888910/224/3221225769/index.m3u8
+黑莓電影臺,http://39.134.115.163:8080/PLTV/88888910/224/3221225764/index.m3u8
+黑莓電影臺,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+黑莓電影臺,http://111.40.196.32/PLTV/88888888/224/3221225610/index.m3u8
+黑莓電影臺,http://39.135.138.60:18890/PLTV/88888888/224/3221225718/index.m3u8
+黑莓電影臺,http://39.135.138.60:18890/PLTV/88888888/224/3221225764/index.m3u8
+超级電影臺,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
 CCTV6电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396
 CCTV8電視剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 CHC动作電影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888893/224/3221226465/index.m3u8
 金庸频道,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
 新片放映厅,http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
-高分影台院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
+高分影臺院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
 曾江,http://txtest-xp2p.p2p.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.xs
-经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
-经典功夫台,https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
+经典功夫臺,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/473734/live_179302204_68184269.m3u8
+经典功夫臺,https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/298214/live_179302204_68184269.m3u8
 TVB3,http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
 TVB4,http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
 TVB10,http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
@@ -2233,7 +2172,7 @@ dj网影音,https://vd4.bdstatic.com/mda-mkp41i7243z4s711/sc/cae_h264/1637726363
 七星酒吧舞曲,https://vd2.bdstatic.com/mda-mkq4p7459ade8936/sc/cae_h264/1637813773613914093/mda-mkq4p7459ade8936.mp4
 dj舞曲女人版,https://vd3.bdstatic.com/mda-mkp88kxv6r8y73k9/sc/cae_h264/1637733263867775329/mda-mkp88kxv6r8y73k9.mp4
 金典dj舞曲1,https://vd2.bdstatic.com/mda-mkp44aahyt7hpg4c/sc/cae_h264/1637725301974539655/mda-mkp44aahyt7hpg4c.mp4
-舞台美女dj,https://vd3.bdstatic.com/mda-mkqbe1ef59ez946b/sc/cae_h264/1637833461439457045/mda-mkqbe1ef59ez946b.mp4
+舞臺美女dj,https://vd3.bdstatic.com/mda-mkqbe1ef59ez946b/sc/cae_h264/1637833461439457045/mda-mkqbe1ef59ez946b.mp4
 眉飞色舞dj舞曲,https://vd2.bdstatic.com/mda-mkqi8zsh8r874xii/sc/cae_h264/1637854401020299343/mda-mkqi8zsh8r874xii.mp4
 情歌DJ合集,https://vd4.bdstatic.com/mda-mkp3tpu9ghk2ufev/sc/cae_h264/1637733480141753790/mda-mkp3tpu9ghk2ufev.mp4
 好听的歌dj,https://vd2.bdstatic.com/mda-mkqacs86gs4cgqa6/sc/cae_h264/1637829541379011938/mda-mkqacs86gs4cgqa6.mp4
@@ -2571,7 +2510,7 @@ Laura Marano - Lie to Me-[135M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABU
 韓宝仪經典歌曲十首HD,https://vdse.bdstatic.com//87eec5e3259af99025ce76d06357dab8.mp4
 龙飘飘經典老歌《后悔爱上你》HD,https://vdse.bdstatic.com//bde5b937e292c240a4322d9719deb98b.mp4
 龙飘飘經典歌曲联唱HD,https://vdse.bdstatic.com//ce49716e7087985c189df09abc5face7.mp4
-台灣女歌手龙飘飘珍藏版HD,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
+臺灣女歌手龙飘飘珍藏版HD,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 經典粤语歌曲《上海滩》《铁血丹心》《神情神话》《沧海一声笑》HD,https://vdse.bdstatic.com//f9cda7e70273c267b61a3d0c969d2033.mp4
 爱人跟人走,https://vd3.bdstatic.com/mda-jdvnru13349ke17c/mda-jdvnru13349ke17c.mp4
 真情放水流,https://vd4.bdstatic.com/mda-jdv0dv5eaazejkx8/mda-jdv0dv5eaazejkx8.mp4
@@ -2716,7 +2655,7 @@ sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?au
 杨钰莹-红彤彤的春天,http://vodcdn.video.taobao.com/oss/ali-video/31fcc5242ffc9a00a5a62d89b21c0bea/video.m3u8
 吕方-朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
 吕方-多爱你一天,http://vodcdn.video.taobao.com/oss/ali-video/dcd97358c3e72377932aa883727320f9/video.m3u8
-孟庭苇-冬季到台北来看雨,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
+孟庭苇-冬季到臺北来看雨,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
 孟庭苇-真的还是假的,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/vhJvCIZiDOz7f6VTCON%40%40hd.m3u8
 孟庭苇-风中有朵雨做的云,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
 孟庭苇-没有情人的情人节,http://vodcdn.video.taobao.com/oss/ali-video/c041d5ed45716d7d73233244b528eed6/video.m3u8
@@ -2805,7 +2744,7 @@ lalalove,https://vd2.bdstatic.com:443/mda-madn7rzm8bj2z4ud/v1-cae/1080p/mda-madn
 美酒加咖啡合奏,http://vdown.kuwo.cn:80/resource/t1/16/4b6131102d1a4052a54cc33477c7287e.mp4
 阿瓦人民唱新歌,http://vdown2.kuwo.cn:80/resource/t1/32/ee5f7b386248490aa5d3b9f0ae0a1394.mp4
 荷塘月色,http://vdown.kuwo.cn:80/resource/t1/32/b009027850ba4216816259b786625172.mp4
-站台,http://vdown1.kuwo.cn:80/resource/t1/41/01c7f7dec13c4a2bb3f1aea626b30131.mp4
+站臺,http://vdown1.kuwo.cn:80/resource/t1/41/01c7f7dec13c4a2bb3f1aea626b30131.mp4
 久别的人,http://vdown.kuwo.cn:80/resource/t4/13/21/opWn2sH71D4.mp4
 张三的歌,http://vdown.kuwo.cn:80/resource/t1/35/5cae38f95f0041279344795f54ea7c43.mp4
 走在乡间的小路上,http://vdown.kuwo.cn:80/resource/t1/18/4363ad22ae5d42579329a68b9b4ac510.mp4
@@ -2849,7 +2788,7 @@ lalalove,https://vd2.bdstatic.com:443/mda-madn7rzm8bj2z4ud/v1-cae/1080p/mda-madn
 舞女泪,http://vdown.kuwo.cn:80/resource/t1/39/ce6f66e453794e66a56d513818e28bc1.mp4
 夫妻双双把家还,http://vdown.kuwo.cn:80/resource//t1/37/62ebad2e8d62427180b9777a28257f09.mp4
 读西厢,http://vdown2.kuwo.cn:80/resource/t1/37/95b50c89aebe4aa68cd8f0add64eba57.mp4
-访英台,http://vdown.kuwo.cn:80/resource/t1/32/99267894273042469c070b7f51a411b6.mp4
+访英臺,http://vdown.kuwo.cn:80/resource/t1/32/99267894273042469c070b7f51a411b6.mp4
 扮皇帝,http://vdown.kuwo.cn:80/resource/t4/68/22/JEL_YrSqAgQ.mp4
 车站,http://vdown.kuwo.cn:80/resource//t1/34/d21633fdbb3e4517a2278e9980a67208.mp4
 东北摇篮曲,http://vdown.kuwo.cn:80/resource//t1/25/68360033dfa04cb788d8e07da63a4b77.mp4
@@ -4005,120 +3944,120 @@ AOA - 动摇,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
 美女打碟DJ版,https://vd2.bdstatic.com/mda-mf4kdntvqeg1f57v/hd/cae_h264/1622904368658912065/mda-mf4kdntvqeg1f57v.mp4?auth_key=1631857192-0-0-6395698b60f4e6983ca3a0066abc99c3&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=all
 
 🔞日韓松視_666,#genre#
-松視1台,P2p://ns1.hellotvvod.com:9906/6d4ff039a40a470da10df154f75cf88b
-松視2台,P2p://ns1.hellotvvod.com:9906/70bb5dd46a13492283c13b26c363e0e0
-松視3台,P2p://ns1.hellotvvod.com:9906/c04eae5be9d5426092ab2d354e427097
-香蕉台,P2p://ns1.hellotvvod.com:9906/c178f44b52ee44e3a5a4d3b20f530e11
-彩虹E台,P2p://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc
+松視1臺,P2p://ns1.hellotvvod.com:9906/6d4ff039a40a470da10df154f75cf88b
+松視2臺,P2p://ns1.hellotvvod.com:9906/70bb5dd46a13492283c13b26c363e0e0
+松視3臺,P2p://ns1.hellotvvod.com:9906/c04eae5be9d5426092ab2d354e427097
+香蕉臺,P2p://ns1.hellotvvod.com:9906/c178f44b52ee44e3a5a4d3b20f530e11
+彩虹E臺,P2p://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc
 彩虹電影,P2p://ns1.hellotvvod.com:9906/b30369eac5f34940a9d69cbce1a69cad
 潘朵啦玩美,P2p://ns1.hellotvvod.com:9906/b6b68f2c2c6444108c6125a04904a010
-驚豔電影台,P2p://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e
-JStar極限台,P2p://ns1.hellotvvod.com:9906/682aa83653f148439bff8a335dcf42cc
+驚豔電影臺,P2p://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e
+JStar極限臺,P2p://ns1.hellotvvod.com:9906/682aa83653f148439bff8a335dcf42cc
 K 頻道,P2p://ns1.hellotvvod.com:9906/059ea3eecc1244f0992815346ab94f3d
 Look HD,P2p://ns1.hellotvvod.com:9906/90450f3f6f954f438a01342ce437a53d
 HAPPY,P2p://ns1.hellotvvod.com:9906/e0f27b1dc3f34298b020a47e396471fc
 PLAYBOY,P2p://ns1.hellotvvod.com:9906/e29e313adde24d83b11f8f6d01dd286e
 
-松視1台,mitv://ns1.hellotvvod.com:9906/6d4ff039a40a470da10df154f75cf88b
-松視2台,mitv://ns1.hellotvvod.com:9906/70bb5dd46a13492283c13b26c363e0e0
-松視3台,mitv://ns1.hellotvvod.com:9906/c04eae5be9d5426092ab2d354e427097
-香蕉台,mitv://ns1.hellotvvod.com:9906/c178f44b52ee44e3a5a4d3b20f530e11
-彩虹E台,mitv://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc
+松視1臺,mitv://ns1.hellotvvod.com:9906/6d4ff039a40a470da10df154f75cf88b
+松視2臺,mitv://ns1.hellotvvod.com:9906/70bb5dd46a13492283c13b26c363e0e0
+松視3臺,mitv://ns1.hellotvvod.com:9906/c04eae5be9d5426092ab2d354e427097
+香蕉臺,mitv://ns1.hellotvvod.com:9906/c178f44b52ee44e3a5a4d3b20f530e11
+彩虹E臺,mitv://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc
 彩虹電影,mitv://ns1.hellotvvod.com:9906/b30369eac5f34940a9d69cbce1a69cad
 潘朵啦玩美,mitv://ns1.hellotvvod.com:9906/b6b68f2c2c6444108c6125a04904a010
-驚豔電影台,mitv://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e
-JStar極限台,mitv://ns1.hellotvvod.com:9906/682aa83653f148439bff8a335dcf42cc
+驚豔電影臺,mitv://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e
+JStar極限臺,mitv://ns1.hellotvvod.com:9906/682aa83653f148439bff8a335dcf42cc
 K 頻道,mitv://ns1.hellotvvod.com:9906/059ea3eecc1244f0992815346ab94f3d
 Look HD,mitv://ns1.hellotvvod.com:9906/90450f3f6f954f438a01342ce437a53d
 HAPPY,mitv://ns1.hellotvvod.com:9906/e0f27b1dc3f34298b020a47e396471fc
 PLAYBOY,mitv://ns1.hellotvvod.com:9906/e29e313adde24d83b11f8f6d01dd286e
 
-松視1台,mitv://ns1.hellotvvod.com:9906/5c86b6d2e41a4b33949bc3253bd3659a
-松視2台,mitv://ns1.hellotvvod.com:9906/5da64f1f405840f39749725323546c8d
-松視3台,mitv://ns1.hellotvvod.com:9906/c52b7d4217bb411a855a0a1372a7840a
-香蕉台,mitv://ns1.hellotvvod.com:9906/3a68ef5eb4444efdb58362ff97686789
+松視1臺,mitv://ns1.hellotvvod.com:9906/5c86b6d2e41a4b33949bc3253bd3659a
+松視2臺,mitv://ns1.hellotvvod.com:9906/5da64f1f405840f39749725323546c8d
+松視3臺,mitv://ns1.hellotvvod.com:9906/c52b7d4217bb411a855a0a1372a7840a
+香蕉臺,mitv://ns1.hellotvvod.com:9906/3a68ef5eb4444efdb58362ff97686789
 潘朵啦玩美,mitv://ns1.hellotvvod.com:9906/233e084e1bc3498d97c0c588bc693491
-彩虹E台,mitv://ns1.hellotvvod.com:9906/bd7382c76b88433d8722c26f67363e6b
+彩虹E臺,mitv://ns1.hellotvvod.com:9906/bd7382c76b88433d8722c26f67363e6b
 彩虹電影,mitv://ns1.hellotvvod.com:9906/e0edd767a136470b8200e6e5c03900e8
-驚豔電影台,mitv://ns1.hellotvvod.com:9906/19233616c0a54a0a842a055fc8a27606
-JStar極限台,mitv://ns1.hellotvvod.com:9906/7f05bb13ae114cfebc1b79df6681b0ef
+驚豔電影臺,mitv://ns1.hellotvvod.com:9906/19233616c0a54a0a842a055fc8a27606
+JStar極限臺,mitv://ns1.hellotvvod.com:9906/7f05bb13ae114cfebc1b79df6681b0ef
 K 頻道,mitv://ns1.hellotvvod.com:9906/a7a0b10d12ed4c49bb824983f506b91a
 Look HD,mitv://ns1.hellotvvod.com:9906/e1abfbd511284620a5a8f38bd138f45f
 HAPPY,mitv://ns1.hellotvvod.com:9906/5bc6b29a6e6d454b8fa592aea83222d5
 PLAYBOY,mitv://ns1.hellotvvod.com:9906/1c23371ae43d4ccab637a0ae5d08af5b
 
-松視1台,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2台,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3台,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
+松視1臺,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
+松視2臺,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視3臺,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
 HAPPY,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
-松視1台,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
-松視1台,P2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
-松視1台,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2台,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視2台,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視2台,P2p://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3台,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
-松視3台,P2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
-松視3台,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
+松視1臺,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
+松視1臺,P2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+松視1臺,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
+松視2臺,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視2臺,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視2臺,P2p://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視3臺,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
+松視3臺,P2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
+松視3臺,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
 
-松視1台,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2台,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3台,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
-香蕉台,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
-彩虹E台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
+松視1臺,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+松視2臺,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視3臺,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
+香蕉臺,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
+彩虹E臺,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
 彩虹電影,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
 潘朵啦粉红,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
 潘朵啦玩美,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-驚豔電影台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
-JStar極限台,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+驚豔電影臺,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
+JStar極限臺,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
 K 頻道,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
 Look HD,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 HOT,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
 HAPPY,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 PLAYBOY,mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
 
-松視1台,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2台,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3台,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
-香蕉台,p2p://54.39.16.152:9906/6260e29a0009b4f9172c45ea502a9f98
-彩虹E台,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
+松視1臺,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
+松視2臺,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視3臺,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
+香蕉臺,p2p://54.39.16.152:9906/6260e29a0009b4f9172c45ea502a9f98
+彩虹E臺,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
 彩虹電影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
 潘朵啦粉红,p2p://54.39.16.152:9906/6260e061000b04ae172397987c1e3b34
 潘朵啦玩美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
-驚豔電影台,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
-JStar極限台,p2p://54.39.16.152:9906/6260e2b000004933172c99712568d815
+驚豔電影臺,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
+JStar極限臺,p2p://54.39.16.152:9906/6260e2b000004933172c99712568d815
 K 頻道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
 Look HD,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
 HOT,p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
 HAPPY,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
 PLAYBOY,p2p://54.39.16.152:9906/626b740500067a270c6c3677cce23984
 
-松視1台,P2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2台,P2p://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3台,P2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
-香蕉台,P2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
-彩虹E台,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
+松視1臺,P2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+松視2臺,P2p://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視3臺,P2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
+香蕉臺,P2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
+彩虹E臺,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
 彩虹電影,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
 潘朵啦粉红,P2p://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
 潘朵啦玩美,P2p://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-驚豔電影台,P2p://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
-JStar極限台,P2p://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+驚豔電影臺,P2p://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
+JStar極限臺,P2p://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
 K 頻道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
 Look HD,P2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 HOT,P2p://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
 HAPPY,P2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 PLAYBOY,P2p://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
 
-松視1台,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2台,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3台,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
-香蕉台,mitv://45.92.126.18:9906/6260e29a0009b4f9172c45ea502a9f98
-彩虹E台,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
+松視1臺,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
+松視2臺,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視3臺,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
+香蕉臺,mitv://45.92.126.18:9906/6260e29a0009b4f9172c45ea502a9f98
+彩虹E臺,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
 彩虹電影,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
 潘朵啦粉红,mitv://45.92.126.18:9906/6260e061000b04ae172397987c1e3b34
 潘朵啦玩美,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
-驚豔電影台,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
-JStar極限台,mitv://45.92.126.18:9906/6260e2b000004933172c99712568d815
+驚豔電影臺,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
+JStar極限臺,mitv://45.92.126.18:9906/6260e2b000004933172c99712568d815
 K 頻道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
 Look HD,mitv://45.92.126.18:9906/6260e2e2000f16e6172d608b5505fbdd
 HOT,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
@@ -4214,9 +4153,9 @@ Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Threesome,http://cdn.adultiptv.net/threesome.m3u8
 Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
 
-丝袜台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6237/index.m3u8
-黑人台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6178/index.m3u8
-车震台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6202/index.m3u8
+丝袜臺,http://89.248.160.57/iptv/URFPS4QVV53QPF/6237/index.m3u8
+黑人臺,http://89.248.160.57/iptv/URFPS4QVV53QPF/6178/index.m3u8
+车震臺,http://89.248.160.57/iptv/URFPS4QVV53QPF/6202/index.m3u8
 Brazzers TV,http://89.248.160.57/iptv/URFPS4QVV53QPF/910/index.m3u8
 Brazzers,http://89.248.160.57/iptv/URFPS4QVV53QPF/6182/index.m3u8
 XYMaxHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6286/index.m3u8
@@ -5514,7 +5453,7 @@ cateline485和和爱视频，https：//p.xgkvwoj.cn/watch9/421E02999649132655F13
 近期爆红网络的极品情侣，https://m3u.zztt85.com/watch9/6a5d28d27e91d96ae1964b/6a514a8b9f535d28d27e91d93u8
 宝马销售李思彤，https://p.xgkvwoj.cn/watch9/9e0d4c2bbf6757549d2c5286f4916e92/9e0d4c2bbf6757549d2c5286f4916e92.m3u8
 香港模特儿与非洲床片流出，https://m3u8.zztt8com/watch9/watch9/ed045326b729b7e022822ae5d286d1c3e022822ae5d2286dcf5d1c3026ae.m322b729770286b7286d1c3e022860cf5d1c3e022822ae5d322b72977d0286b729b72977d0286e
-电台主持人私下背着约啪领导儿子视频25安徽流出，https://p.xwoj.cn/watch9/c422c8c715c5b7bced888c715c715c5b7bced885bc4384/c438cc4.mc8c41cc384/c438cc4.mc41
+电臺主持人私下背着约啪领导儿子视频25安徽流出，https://p.xwoj.cn/watch9/c422c8c715c5b7bced888c715c715c5b7bced885bc4384/c438cc4.mc8c41cc384/c438cc4.mc41
 江疏影01,https://p.xgkvwoj.cn/watch9/77adbf93acdf97b0f053b3ef1876fb36/77adbf93acdf97b0f053b3ef1876fb36.m3u8
 江疏影02,https://p.xgkvwoj.cn/watch9/eb5ec7620f0f4d37e996981c91ba4bb7/eb5ec7620f0f4d37e996981c91ba4bb7.m3u8
 江疏影03,https://p.xgkvwoj.cn/watch9/63742a5964b80e9cbf12cddf59e84e2a/63742a5964b80e9cbf12cddf59e84e2a.m3u8
@@ -5589,8 +5528,8 @@ G奶女友性爱记录,https://p.xgkvwoj.cn/watch9/0f31d4eded8c66dc4f0b8ac75b2f4
 马来西亞电竞女神颜妃 Gatitayan 03,https://p.xgkvwoj.cn/watch9/4a1676c1113ae04205085e637f23ac85/4a1676c1113ae04205085e637f23ac85.m3u8
 情侣巷战,https://p.xgkvwoj.cn/watch9/2e6386fae61fc78b632232c39ac361bd/2e6386fae61fc78b632232c39ac361bd.m3u8
 伊春二中 校服 大奶妹啪啪视频,https://p.xgkvwoj.cn/watch9/1c48a67cb441a27a84d58d5ebaef7ba5/1c48a67cb441a27a84d58d5ebaef7ba5.m3u8
-台灣极品身材美女和男友啪啪被曝光,https://m3u8.zztt85.com/watch9/907642d587a10049c03577383d8a3de0/907642d587a10049c03577383d8a3de0.m3u8
-台大医院美女学生与前男友啪啪片流出,https://m3u8.zztt85.com/watch9/e583ba513fa0803ff74ddf4fb02a1edc/e583ba513fa0803ff74ddf4fb02a1edc.m3u8
+臺灣极品身材美女和男友啪啪被曝光,https://m3u8.zztt85.com/watch9/907642d587a10049c03577383d8a3de0/907642d587a10049c03577383d8a3de0.m3u8
+臺大医院美女学生与前男友啪啪片流出,https://m3u8.zztt85.com/watch9/e583ba513fa0803ff74ddf4fb02a1edc/e583ba513fa0803ff74ddf4fb02a1edc.m3u8
 吉林女孩 岳欣玥,https://p.xgkvwoj.cn/watch9/75d069e48c7d172dbd3b1280230f24b6/75d069e48c7d172dbd3b1280230f24b6.m3u8
 红豆饼妹事件,https://m3u8.zztt85.com/watch9/abb207f4452ebec2519f9d91a24648ab/abb207f4452ebec2519f9d91a24648ab.m3u8
 聊斋02孽欲狐鬼,https://vod1.ttbfp2.com/20210929/3huDJht8/index.m3u8
@@ -9521,7 +9460,7 @@ KAWD-853c-専属透明肌の超敏感天然G罩杯妃宮侑里,http://cdnvideo.o
 专业操老外双飞大奶俄妹,https://vod1.ttbfp2.com/20211224/UfyaUUm9/index.m3u8
 赵总丶寻花小天代班昨晚腰很软眼镜少妇,https://vod1.ttbfp2.com/20211224/qlt94Msc/index.m3u8
 小萝莉激情啪啪超粉小嫩穴，炮友肆意玩弄摧残。,https://vod1.ttbfp2.com/20211224/MlMCe5Ev/index.m3u8
-学生装制服空姐酒店出台，嗷嗷大叫表情销魂，旁边炮友朋友在看。,https://vod1.ttbfp2.com/20211223/4m9CoPYM/index.m3u8
+学生装制服空姐酒店出臺，嗷嗷大叫表情销魂，旁边炮友朋友在看。,https://vod1.ttbfp2.com/20211223/4m9CoPYM/index.m3u8
 颜值高少妇黑丝開档袜约啪，后入嗷嗷大叫。,https://vod1.ttbfp2.com/20211223/GGArv5Vs/index.m3u8
 妹子兼职酒店性感情趣装，啪啪加大黑牛自慰器器刺激。,https://vod1.ttbfp2.com/20211223/WBE0cBup/index.m3u8
 妹子声音很尖锐，被各种抬腿动作深插狂草。,https://vod1.ttbfp2.com/20211223/bCV2GRb4/index.m3u8
@@ -9534,7 +9473,7 @@ KAWD-853c-専属透明肌の超敏感天然G罩杯妃宮侑里,http://cdnvideo.o
 素人社自拍：大叔重金约韵味少妇和小嫩妹口交双飞轮肏內射_,https://vod1.ttbfp2.com/20211223/7pUyAdeg/index.m3u8
 私立学校清純学妹舔玩鸡巴无套抽插內射.,https://vod1.ttbfp2.com/20211223/IgKJpuSS/index.m3u8
 小伙约啪两位极品美女直播，轮流操，最后射嘴里。,https://vod1.ttbfp2.com/20211223/zCDHiMsj/index.m3u8
-亞籍网红LuNa領略城邦风光洗漱台激情性愛.,https://vod1.ttbfp2.com/20211223/TA7N7why/index.m3u8
+亞籍网红LuNa領略城邦风光洗漱臺激情性愛.,https://vod1.ttbfp2.com/20211223/TA7N7why/index.m3u8
 颜值超高兼职模特，温柔性感被干到高潮，操到最后都快吃不消了。,https://vod1.ttbfp2.com/20211223/phHd2HTY/index.m3u8
 性感的熟美美遥，亞洲粉丝眼福女优。,https://vod1.ttbfp2.com/20211223/Ee78sj0C/index.m3u8
 约操98年173cm长腿翘臀大学网红女神_開裆黑丝高跟极度诱惑_按在沙发上后入爆操_呻吟娇喘_,https://vod1.ttbfp2.com/20211223/5C5pcXQz/index.m3u8
@@ -9562,7 +9501,7 @@ KAWD-853c-専属透明肌の超敏感天然G罩杯妃宮侑里,http://cdnvideo.o
 漂亮妹子啪啪尖叫声不止，被猛干说好疼。_x264_aac,https://vod1.ttbfp2.com/20211221/OFtQtyih/index.m3u8
 清纯学校妹子，年龄不大奶子却是e罩杯。,https://vod1.ttbfp2.com/20211221/zY0iGYxv/index.m3u8
 双飞美乳网红脸和超喋外围嫩妹.x264.aac,https://vod1.ttbfp2.com/20211221/paCz28sU/index.m3u8
-台灣Swag按摩會所女技师第一天上班就碰到一個大屌男浴室边洗边搞。_x264_aac,https://vod1.ttbfp2.com/20211221/DX6a3oWu/index.m3u8
+臺灣Swag按摩會所女技师第一天上班就碰到一個大屌男浴室边洗边搞。_x264_aac,https://vod1.ttbfp2.com/20211221/DX6a3oWu/index.m3u8
 外表文静漂亮妹子被狂干快哭了，口里还喊着快点受不了了。_x264_aac,https://vod1.ttbfp2.com/20211221/o2JPpb0c/index.m3u8
 乌克兰极品女神西比尔成熟性感妖艳妆扮与老炮友激情肉战画面唯美诱人_x264_aac,https://vod1.ttbfp2.com/20211221/utLdCkZI/index.m3u8
 性感妹子情趣黑丝娃娃音叫床很配合各种动作。_x264_aac,https://vod1.ttbfp2.com/20211221/mS4YjRU8/index.m3u8
@@ -9617,7 +9556,7 @@ S级一级棒身材的超粉美女，一綫美逼，换上女仆丝袜太欠干�
 人造网红美女主播完美露脸约炮富家公子年轻粉丝炮友啪啪啪直播很狂野叫的太骚了,https://cdn-bo3.mangguo-youku.com:5278/20210710/bnrGp82m/index.m3u8
 骚气性感美熟女出租房约粉丝啪啪，看面相就知道是个骚货，舔逼舌吻，淫语挑逗,https://cdn-bo3.mangguo-youku.com:5278/20210710/LhOKpMSz/index.m3u8
 巨乳身材微胖的年轻妹子直播做爱露脸,https://cdn-bo3.mangguo-youku.com:5278/20210706/ljF8yRRM/index.m3u8
-疑似某平台直播主迷了俩少妇？一个拍摄一个干，其中一个剖腹产,https://cdn-bo3.mangguo-youku.com:5278/20210630/2gXWuIrc/index.m3u8
+疑似某平臺直播主迷了俩少妇？一个拍摄一个干，其中一个剖腹产,https://cdn-bo3.mangguo-youku.com:5278/20210630/2gXWuIrc/index.m3u8
 最喜歡朋友老婆那对大咪咪很性感,https://cdn-bo2.mangguo-youku.com:5278/20210509/mu5vz3F3/index.m3u8
 颜值不错红唇骚女【金牌小可】和炮友激情啪啪旁边还有个妹子观战，口交上位骑乘后入猛操非常诱人,https://cdn-bo2.mangguo-youku.com:5278/20210506/vKmSZXq8/index.m3u8
 情趣连體网衣用跳蛋自慰一番再上位骑乘后入,https://cdn-bo2.mangguo-youku.com:5278/20210506/6pcKbo2M/index.m3u8
