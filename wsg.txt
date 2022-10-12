@@ -786,7 +786,7 @@ RAW,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-8633341678977024
 点掌財經,http://cclive.aniu.tv/live/anzb.m3u8
 開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-ViuTV,https://epg.pm/stream/c8360456378d820eb1c5b38c605b44cabab8f6121edcfbb21f21ecb5e6b0b4f3.m3u8
+MYtv,http://pull-l3-cny.douyincdn.com/live/351c9ef063f653c52e75b1b4978119c0.flv
 ViuTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 小太阳,http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
 小太阳,http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
@@ -887,17 +887,21 @@ TVBS HD,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5684849.m3u8
 TVBSG,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBSG,http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
 TVBSG,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS新聞,http://pull-l3-cny.douyincdn.com/live/369998533f5dbe769b45bf2c700da85a.flv
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS歡樂,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+東森新聞,http://pull-l3-cny.douyincdn.com/live/6cced4039e500746f6da2b84d48da20f.flv
 東森新聞,
 http://tv.redrainl.site:9500/live.m3u8?c=5
 東森新聞,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+東森財經,http://pull-l3-cny.douyincdn.com/live/fb7819b657b577d5ce0dbc396d9bdf6d.flv
 東森財經,http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
 東森財經,http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 東森電影,http://120.84.96.62:808/hls/32/index.m3u8?blog.ntnas.top
+東森洋片,http://pull-l3-cny.douyincdn.com/live/eccbc28781dee78119fd79fda4cd5661.flv
 東森洋片,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
 東森洋片,http://120.84.96.62:808/hls/33/index.m3u8?blog.ntnas.top
 東森超視,http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
@@ -907,6 +911,7 @@ http://tv.redrainl.site:9500/live.m3u8?c=5
 東森AMERICA,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森AMERICA,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 中天娛樂,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天新聞,http://pull-l3-cny.douyincdn.com/live/cc7aec93d76ecc8501eb4e7f355234c4.flv
 中天新聞,
 https://git.io/Jgkpy
 
@@ -920,8 +925,11 @@ https://git.io/Jgkpy
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews92755.m3u8
+寰宇新聞,http://pull-l3-cny.douyincdn.com/live/746ee6eb491c38e61d965e6c9e42db3e.flv
 寰宇新聞,https://git.io/JgkpO
 寰宇新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+非凡新聞,https://bstvcdn.ballbar.net/feifannews_twn/playlist-12.m3u8a?t=1665585237&token=86e134b4f64ed3675e9784c348e2b395
+年代新聞,https://bstvcdn.ballbar.net/niandainews_twn/playlist-12.m3u8a?t=1665585318&token=247e6fe85ac1b64fc1056d59b5b99ccf
 公視,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
 華視,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
 中視,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
