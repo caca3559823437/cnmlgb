@@ -620,6 +620,47 @@ tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
 鳳凰衛視,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 鳳凰香港,http://120.84.96.62:808/hls/81/index.m3u8?blog.ntnas.top
 鳳凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+翡翠台,http://23.237.10.66:16106
+翡翠台,http://113.64.147.91:808/hls/67/index.m3u8
+翡翠台,http://jyjxy.7766.org:808/hls/36/index.m3u8
+翡翠華丽,http://23.237.10.66:16410
+TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+TVB星河,http://jyjxy.7766.org:808/hls/35/index.m3u8
+明珠台,http://jyjxy.7766.org:808/hls/37/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84b/index.m3u8
+TVB功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+無綫財經,http://120.84.96.62:808/hls/86/index.m3u8
+無綫財經,http://120.84.96.55:808/hls/86/index.m3u8
+ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
+J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
+J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+RHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+RHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+星空衛視,http://jyjxy.7766.org:808/hls/31/index.m3u8
+有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+八度空间,http://51.79.82.208:16005
+天映频道,http://51.79.82.208:16024
+香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+点掌財經,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
+点掌財經,http://cclive2.aniu.tv/live/anzb.m3u8
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+香港衛視文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+天映經典,http://120.84.96.55:808/hls/85/index.m3u8
+天映經典,http://120.84.96.62:808/hls/85/index.m3u8
+每日影院,http://beifeng.site:4000/udp/239.3.1.111:8001
+幸福剧场,http://beifeng.site:4000/udp/239.3.1.112:8001
+幸福娱乐,http://beifeng.site:4000/udp/239.3.1.113:8001
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+
 香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -756,6 +797,21 @@ TV8,http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225
 澳視葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 
 🇹🇼臺灣频道,#genre#
+華语電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+華语電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+華语電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+中天综合,http://23.237.10.66:16372
+衛視電影,http://23.237.10.66:16010
+原住民台,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+龍祥时代,http://jyjxy.7766.org:808/hls/38/index.m3u8
+龍祥时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
+HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+台視,http://23.237.10.66:16344
+民視,http://23.237.10.66:16334
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 年代新聞,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 非凡新聞,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 民視,http://23.237.10.66:16334
