@@ -594,16 +594,6 @@ RAW,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-8633341678977024
 五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
 
 🇭🇰香港频道,#genre#
-鳳凰衛視,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-鳳凰衛視,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-鳳凰衛視,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-鳳凰衛視,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-鳳凰衛視,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-鳳凰衛視,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
-鳳凰衛視,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
-鳳凰衛視,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-鳳凰衛視,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-鳳凰資訊,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
@@ -615,6 +605,15 @@ RAW,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-8633341678977024
 鳳凰資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 鳳凰資訊,http://198.16.64.10:8278/phoenixinfo_hd/playlist.m3u8?
 tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
+鳳凰衛視,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+鳳凰衛視,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+鳳凰衛視,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+鳳凰衛視,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+鳳凰衛視,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+鳳凰衛視,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
+鳳凰衛視,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
+鳳凰衛視,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+鳳凰衛視,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
 鳳凰衛視,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
 鳳凰衛視,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 鳳凰衛視,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -636,8 +635,8 @@ J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 J2,https://hkanime:hkanime@cdn.hklive.tv/xxxx2/82/index.m3u8
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 開電視,https://cdn.hklive.tv/xxxx/77/index.m3u8
-香港國際財經,https://cdn.hklive.tv/xxxx/76/index.m3u8
-香港國際財經,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/76/index.m3u8
+國際財經,https://cdn.hklive.tv/xxxx/76/index.m3u8
+國際財經,http://hkanime:hkanime@cdn.hklive.tv/xxxx2/76/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,https://hkanime:hkanime@cdn.hklive.tv/xxxx2/81/index.m3u8
 明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
@@ -649,10 +648,10 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 無綫新聞,https://cdn.hklive.tv/xxxx/83/index.m3u8
 無綫新聞,https://hkanime:hkanime@cdn.hklive.tv/xxxx2/83/index.m3u8
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有線新聞,https://api.leonardpark.dev/live/icable/109
 有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w784366279.m3u8
 有線新聞,http://livetv.dnsfor.me:80/channel.5.m3u8
-有線新聞,https://api.leonardpark.dev/live/icable/109
 有線直播新聞,https://api.leonardpark.dev/live/icable/110
 有線直播新聞,https://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8?blog.ntnas.top
 有線財經,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
@@ -660,8 +659,8 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 翡翠台,http://113.64.147.91:808/hls/67/index.m3u8
 翡翠台,http://jyjxy.7766.org:808/hls/36/index.m3u8
 翡翠華丽,http://23.237.10.66:16410
-TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
-TVB星河,http://jyjxy.7766.org:808/hls/35/index.m3u8
+TVB星河台,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+TVB星河台,http://jyjxy.7766.org:808/hls/35/index.m3u8
 明珠台,http://jyjxy.7766.org:808/hls/37/index.m3u8
 TVB功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 無綫財經,http://120.84.96.62:808/hls/86/index.m3u8
@@ -696,11 +695,11 @@ RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 小太阳,http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
 星空衛視,http://120.84.96.62:808/hls/79/index.m3u8?blog.ntnas.top
 環球電視,http://live.cgtn.com/500/prog_index.m3u8
-国际財經,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+國際財經,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 亞洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 塞馬直擊,http://gslb.cdn.hk.chinamobile.com/live/d2afb43f61464fc5a3d3b1b0a4c187a1/11a674a3cca94ceaafab4bd0e2ae634c-2.m3u8
 RHK32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
-TVB星河,http://113.64.147.47:808/hls/35/index.m3u8
+TVB星河台,http://113.64.147.47:808/hls/35/index.m3u8
 ViuTV,http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
 ViuTV,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
 ViuTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
@@ -740,11 +739,11 @@ Now直播台,http://livetv.dnsfor.me/channel.3.m3u8
 鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 RHK32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
-双星臺,http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256
-全佳臺,http://198.16.64.10:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb
-欢喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
+Astro双星,http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256
+Astro全佳,http://198.16.64.10:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb
+Astro欢喜,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 天映經典,http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89
-双星臺,http://23.237.10.66:16495
+Astro双星,http://23.237.10.66:16495
 新加坡8频道,http://23.237.10.66:16150
 翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 RHK32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
