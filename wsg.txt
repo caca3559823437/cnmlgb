@@ -1,4 +1,39 @@
 ﻿🇨🇳大陆频道,#genre#
+CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+CCTV-2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV-2,http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
+CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+CCTV-3,http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8
+CCTV-4,http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV-5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5,http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
+CCTV-5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+CCTV-5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-6,http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+CCTV-6,http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+CCTV-6,http://183.207.248.37/PLTV/3/224/3221227209/index.m3u8
+CCTV-7,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-7,http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
+CCTV-7,http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-7,http://183.207.248.10/PLTV/3/224/3221225546/index.m3u8
+CCTV-8,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+CCTV-8,http://39.135.138.59:18890/PLTV/88888910/224/3221225635/index.m3u8
+CCTV-8,http://183.207.248.12/PLTV/3/224/3221227204/index.m3u8
+CCTV-8,http://183.207.248.35/PLTV/3/224/3221227205/index.m3u8
+CCTV-9,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-9,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
+CCTV-10,http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
+CCTV-11,http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12,http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-12,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
+CCTV-13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-17,http://39.135.138.59:18890/PLTV/88888910/224/3221225907/index.m3u8
 CCTV-1,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
 CCTV-1,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225762/index.m3u8
 CCTV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/index.m3u8
@@ -10,7 +45,6 @@ CCTV-1,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 CCTV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV-1,http://39.135.138.58:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
-CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV-1,http://117.169.120.244:8080/wh7f454c46tw2520989601_203106496/hwrr.jx.chinamobile.com/PLTV/88888910/224/3221225618/index.m3u8?icpid=88888910&RTS=1648965019&from=79102&ocs=2_117.169.120.241_8080&hms_devid=1402&online=1648965019&vqe=3
 CCTV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV-2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225619/index.m3u8
@@ -39,27 +73,11 @@ CCTV-4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/.m3u8
 CCTV-4,http://111.59.189.40:8445/tsfile/live/1003_1.m3u8
 CCTV-4,http://182.151.211.171:808/hls/4/index.m3u8
 CCTV-4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8?icpid=88888888&from=30&hms_devid=1452
-CCTV-5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-CCTV-5,http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
-CCTV-5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-CCTV-5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
-CCTV-6,http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
-CCTV-7,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
-CCTV-7,http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
 CCTV-8,http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-CCTV-8,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
-CCTV-9,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-CCTV-9,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
-CCTV-10,http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
-CCTV-10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
-CCTV-11,http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
-CCTV-12,http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
-CCTV-12,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
 CCTV-13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8?
 CCTV-13,http://111.59.189.40:8445/tsfile/live/1011_1.m3u8
 CCTV-13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
 CCTV-13,http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8codeyj
-CCTV-13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
 CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
 CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
@@ -67,8 +85,6 @@ CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m
 CCTV-15,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-16,http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
 CCTV-16,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-CCTV-17,http://39.135.138.59:18890/PLTV/88888910/224/3221225907/index.m3u8
 CCTV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
 CCTV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
 CCTV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
@@ -140,10 +156,8 @@ CCTV-7,http://222.240.82.92:9901/tsfile/live/0007_1.m3u8
 CCTV-5+,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 CCTV-13,http://183.63.15.42:9901/tsfile/live/0013_1.m3u8
 CETV1,http://111.59.189.40:8445/tsfile/live/1013_1.m3u8
-CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
 CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8
-CCTV-2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 CCTV-13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-16,http://39.134.115.163:8080/PLTV/88888910/224/3221226230/index.m3u8
 CCTV-1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
@@ -151,7 +165,6 @@ CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225909/index.m3u8
 CCTV-2,http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 CCTV-3,http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
 CCTV-3,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
-CCTV-6,http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
 CCTV-2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
 CCTV-7,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
 CCTV-7,http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
@@ -174,8 +187,6 @@ CCTV-风云剧场,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
 CCTV-世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
 CCTV-风云剧场,http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
 GTV网络棋牌,http://42.176.185.28:9901/tsfile/live/1021_1.m3u8
-CCTV-2,http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
-CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 CCTV-5,http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 CCTV-6,http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
 CCTV-7,http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
@@ -200,7 +211,6 @@ CCTV-16,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 CCTV-7,http://183.207.249.9/PLTV/3/224/3221225546/index.m3u8
 CCTV-10,http://183.207.249.34/PLTV/4/224/3221227317/index.m3u8
 CCTV-13,http://117.169.120.140:8080/live/cctv-13/.m3u8
-CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 CCTV-3,http://117.169.120.140:8080/live/cctv-3/.m3u8
 CCTV-10,http://117.169.120.140:8080/live/cctv-10/.m3u8
 CCTV-12,http://39.135.138.59:18890/TVOD/88888910/224/3221225629/index.m3u8
@@ -306,7 +316,6 @@ CCTV-7,http://39.135.138.59:18890/TVOD/88888910/224/3221225644/index.m3u8
 CCTV-8,http://39.135.138.59:18890/TVOD/88888910/224/3221225631/index.m3u8
 CCTV-9,http://39.135.138.59:18890/TVOD/88888910/224/3221225646/index.m3u8
 CCTV-10,http://39.135.138.59:18890/TVOD/88888910/224/3221225636/index.m3u8
-CCTV-11,http://39.135.138.59:18890/TVOD/88888910/224/3221225628/index.m3u8
 CCTV-12,http://39.135.138.59:18890/TVOD/88888910/224/3221225637/index.m3u8
 CCTV-13,http://39.135.138.59:18890/TVOD/88888910/224/3221225638/index.m3u8
 CCTV-14,http://39.135.138.59:18890/TVOD/88888910/224/3221225639/index.m3u8
@@ -373,7 +382,7 @@ CCTV-17,http://39.135.138.59:18890/TVOD/88888910/224/3221225909/index.m3u8
 東方衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
 广東衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
 广東衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
-广东房产,http://120.84.96.55:808/hls/77/index.m3u8?blog.ntnas.top
+广東房产,http://120.84.96.55:808/hls/77/index.m3u8?blog.ntnas.top
 天津衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225698/index.m3u8
 山東衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
 山東衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
@@ -433,8 +442,6 @@ CCTV-4k,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 天津衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225739/index.m3u8
 广東文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?$全网高清720P
 北京衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
-東方衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
-東方衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
 重庆衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
 浙江衛視,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
 山西衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225549/index.m3u8?fmt=ts2hls
@@ -450,6 +457,10 @@ CCTV-4k,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 黑龍江衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225736/index.m3u8?fmt=ts2hls
 西藏衛視,http://117.169.120.140:8080/live/xizangstv/.m3u8
 延边衛視,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+CCTV-5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5,http://39.135.138.59:18890/PLTV/88888888/224/3221225767/index.m3u8
+CCTV-5+,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
+CCTV-5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 
 🇨🇳上海北京,#genre#
 東方衛視,http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
@@ -458,18 +469,12 @@ CCTV-4k,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 外语频道,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 七彩戲劇,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 金山衛視,http://live.mudu.tv/watch/4zbn2f.m3u8
-上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
-北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
-新視听,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 歡笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-足球魅力,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 金色频道,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
 上海教育,http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8
@@ -497,17 +502,11 @@ CCTV-4k,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 新聞综合,http://112.25.48.69/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海都市,http://112.25.48.69/live/program/live/ylpdhd/4000000/mnf.m3u8
 五星體育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
-北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
 魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 留学世界,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 1MV4K,http://136.243.42.146:1499
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-新視觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
 歡笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8?zshangd
 都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
 法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8?zshangd
@@ -525,6 +524,23 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8?zshangd
 上視外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8?zshangd
 纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8?zshangd
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
+广東体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
+超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+東方衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+東方衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
+北京紀實,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+北京紀實,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+影院4k,http://epg.112114.xyz/douyu/9249162
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 東方衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
 東方衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
 東方衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
@@ -547,9 +563,7 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 冬奥纪实,http://39.135.138.60:18890/PLTV/88888888/224/3221225675/index.m3u8?zbeid
 清华电視臺,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8?zbeid
 金山电視,http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
-嘉定電台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
 天水公共,http://stream.tstv.cn/tstc938Yn3ggpd/playlist.m3u8?shanghai
-崇明電視,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 上海实时路况:南北高架延安路高架交汇处,https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng3.m3u8
 上海实时路况:南北高架共和新路,https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng4.m3u8
 上海实时路况:卢浦大桥,https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng1.m3u8
@@ -867,6 +881,13 @@ TVBS新聞,rtmp://9wv7.mine.nu:1935/sat/tv551
 東森財經,rtmp://9wv7.mine.nu/sat/tv571
 緯來育樂,rtmp://9wv7.mine.nu/sat/tv701
 緯來體育,rtmp://9wv7.mine.nu/sat/tv721
+緯來育樂,rtmp://9wv7.mine.nu/sat/tv701
+偉來體育,rtmp://9wv7.mine.nu/sat/tv721
+ELEVEN1體育,rtmp://9wv7.mine.nu/sat/tv731
+ELEVEN2體育,rtmp://9wv7.mine.nu/sat/tv741
+ELEVEN+體育,rtmp://9wv7.mine.nu/sat/md031
+ELT體育2,rtmp://9wv7.mine.nu/sat/md041
+ELT體育3,rtmp://9wv7.mine.nu/sat/md051
 NASA,http://140.238.155.232:9000/jmsytb.m3u8?c=17
 三立inews,http://140.238.155.232:9000/jmsytb.m3u8?c=22
 三立LIVE,http://140.238.155.232:9000/jmsytb.m3u8?c=23
@@ -990,7 +1011,6 @@ MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 MBC,http://123.30.146.172:21585/203/mpegts
 SBS,http://123.30.146.172:21585/202/mpegts
-YTN,http://123.30.146.172:21585/214/mpegts
 235,http://123.30.146.172:21585/235/mpegts
 JTBC,http://123.30.146.172:21585/231/mpegts
 258,http://123.30.146.172:21585/258/mpegts
@@ -1023,7 +1043,6 @@ TAKARAZUKA SKY STAGE,http://123.30.146.172:21585/606/mpegts
 Ginga 高清,http://123.30.146.172:21585/612/mpegts
 LALA 电视高清,http://123.30.146.172:21585/615/mpegts
 [高清],http://123.30.146.172:21585/620/mpegts
-BS 高清,http://123.30.146.172:21585/617/mpegts
 NEXT HD,http://123.30.146.172:21585/623/mpegts
 TWO HD,http://123.30.146.172:21585/622/mpegts
 2 高清,http://123.30.146.172:21585/625/mpegts
@@ -1040,7 +1059,6 @@ WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 Hope,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 KBC 광주방송 (SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
@@ -1048,17 +1066,12 @@ NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_7
 TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
 한국선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
-MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-CTS기독교TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 JIBS SBS,http://123.140.197.22/stream/1/play.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 CBS,http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-KBS-1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-KBS-2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 J体育3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 J体育4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 LaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1067,18 +1080,6 @@ NHK BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=J
 NHK 世界,http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 ゴルフネットワーク,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 YTN,http://210.92.207.38:40001
-JTBC2,http://mytv.dothome.co.kr/ch/catv/282.php
-JTBC4,http://mytv.dothome.co.kr/ch/catv/283.php
-Discovery,http://mytv.dothome.co.kr/ch/catv/285.php
-KBS스포츠,http://mytv.dothome.co.kr/ch/catv/243.php
-MBC스포츠,http://mytv.dothome.co.kr/ch/catv/242.php
-SBS스포츠,http://mytv.dothome.co.kr/ch/catv/241.php
-SKY스포츠,http://mytv.dothome.co.kr/ch/catv/246.php
-IB-스포츠,http://mytv.dothome.co.kr/ch/catv/253.php
-바둑TV,http://mytv.dothome.co.kr/ch/catv/251.php
-빌리어즈TV,http://mytv.dothome.co.kr/ch/catv/252.php
-FTV낚시방송,http://mytv.dothome.co.kr/ch/catv/255.php
-JTBC골프,http://mytv.dothome.co.kr/ch/catv/248.php
 EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 TBS-(서울),https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_mobile_360.smil/playlist.m3u8
 음악방송-2,http://fangsong.live/hls/douyu.php?id=603070
@@ -1102,12 +1103,10 @@ Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/
 Japanet Channel DX,https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8?checkedby:iptvcat.com
 NJPW World,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:iptvcat.com
 Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8?checkedby:iptvcat.com
-Weather News,http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:iptvcat.com
 WeatherNews,http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?checkedby:iptvcat.com
 ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:iptvcat.com
 日本UN WeTV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 韓国-Ajyal TV,http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-韓国-Arirang WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 韓国-ARS,https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
 韓国-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 韓国-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
@@ -1116,13 +1115,13 @@ WeatherNews,http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?chec
 韓国-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 韓国-Luxury World,http://nano.teleservice.su:8080/hls/luxury.m3u8
 otpaha,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
-ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 GugbangTV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 KBSLiveCamDokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 TVWorkNe,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 NHK-日本国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-Arirang Radio,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
 KTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
@@ -1131,7 +1130,7 @@ Running Man-2,http://epg.112114.xyz/douyu/131977
 TBS首尔,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 韓联社,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-韓國-Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
 
 🇺🇸欧美频道,#genre#
 美国中文台,https://jpts.sinovision.net/livestream.m3u8
@@ -1152,25 +1151,6 @@ NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/ma
 美国红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
 美国红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
 亚洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-
-Kabel1 Deutschland,http://91.237.170.202:10000/play/17502
-Pro7 Deutschland,http://91.237.170.202:10000/play/17501
-360 TuneBox,http://91.237.170.202:10000/play/7223
-3sat,http://91.237.170.202:10000/play/17731
-Duna 高清,http://91.237.170.202:10000/play/17729
-Duna 世界高清,http://91.237.170.202:10000/play/177164
-Erox,http://91.237.170.202:10000/play/7222
-Eroxxx HD,http://91.237.170.202:10000/play/7221
-FashionBox,http://91.237.170.202:10000/play/7224
-Nova Action HD,http://91.237.170.202:10000/play/7785
-Nova HD,http://91.237.170.202:10000/play/7782
-Prima HD,http://91.237.170.202:10000/play/7789
-TV Vega,http://91.237.170.202:10000/play/177152
-Travel XP HD,http://91.237.170.202:10000/play/77160
-Viasat 探索高清,http://91.237.170.202:10000/play/77174
-Viasta Nature HD,http://91.237.170.202:10000/play/77176
-ZDF,http://91.237.170.202:10000/play/17732
-telKE (antik),http://91.237.170.202:10000/play/64212
 A&E 高清,http://8.242.187.233:5800/play/a08e/index.m3u8
 动物星球 SD,http://8.242.187.233:5800/play/a0c9/index.m3u8
 动物星球高清,http://8.242.187.233:5800/play/a08c/index.m3u8
@@ -1229,16 +1209,14 @@ tbs,http://8.242.187.233:5800/play/a0bn/index.m3u8
 BTV World,https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 CGTN Documentary,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 Classic Arts Showcase,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-CNA International ,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-ERT World,http://wpso.com:1936/hls/wzra.m3u8
 Euro Music,http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-Euronews German,https://euronews.alteox.app/hls/de_stream.m3u8
 Euronews Italian,https://euronews.alteox.app/hls/it_stream.m3u8
 Euronews Portuguese,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 Fuel TV,http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-Ski TV  ,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+Ski TV,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
 Sofy TV,https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 SPOTV2,https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 Wion,http://210.210.155.37/uq2663/h/h91/index.m3u8
@@ -1277,7 +1255,6 @@ Go Gaaya,http://23.237.10.66:16426
 CGTN,http://23.237.10.66:16428
 TV1,http://51.79.82.208:16001
 TV2,http://51.79.82.208:16002
-TV3,http://51.79.82.208:16003
 9台,http://51.79.82.208:16006
 astro RIA,http://51.79.82.208:16007
 astro PRIMA,http://51.79.82.208:16008
@@ -1285,9 +1262,7 @@ astro OASIS,http://51.79.82.208:16009
 astro體育3,http://51.79.82.208:16062
 bein sports,http://51.79.82.208:16064
 bein sports3,http://51.79.82.208:16065
-astro AEC,http://51.79.82.208:16021
 astro ARENA,http://51.79.82.208:16058
-astro WARNA,http://51.79.82.208:16010
 DIDIK TV,http://51.79.82.208:16004
 HGTV,http://51.79.82.208:16057
 NONAME,http://51.79.82.208:16059
@@ -1305,11 +1280,6 @@ Trojka,http://149.62.177.140:8005/play/a00p/index.m3u8
 Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 EDGE sport,https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 Eurosport1,http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
-TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 Miami TV,https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/playlist.m3u8
 Miami TV Latino,https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 World Fashion Russia,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
@@ -1320,7 +1290,6 @@ QVC Kitchen,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/high
 GEMS TV,http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream/index.m3u8
 World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 World Fashion Russia,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist.m3u8
-World Poker Tour,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 夏季时装秀迈阿密泳装周,https://vd3.bdstatic.com/mda-kd9p9nw65235amji/hd/mda-kd9p9nw65235amji.mp4
 迈阿密泳装周合集,https://vd2.bdstatic.com/mda-kcjmkds5b68q4g5c/v1-cae/hd/mda-kcjmkds5b68q4g5c.mp4
 19年迈阿密泳装周,https://vd4.bdstatic.com/mda-keitd5c5q3b2z5nt/hd/mda-keitd5c5q3b2z5nt.mp4
@@ -1332,7 +1301,6 @@ Astro Supersports3,Http://51.79.82.208:16062
 Astro Oasis,Http://51.79.82.208:16009
 Astro Prima,Http://51.79.82.208:16008
 Astro Ria,Http://51.79.82.208:16007
-Astro Warna,Http://51.79.82.208:16010
 Bbc Golf,Http://51.79.82.208:16059
 Didik Tv,Http://51.79.82.208:16004
 Espn,Http://51.79.82.208:16417
@@ -1343,7 +1311,6 @@ Sportv2,Http://51.79.82.208:16463
 Sportv3,Http://51.79.82.208:16464
 Tv1,Http://51.79.82.208:16001
 Tv2,Http://51.79.82.208:16002
-Tv3,Http://51.79.82.208:16003
 Tv9,Http://51.79.82.208:16006
 ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
@@ -1375,13 +1342,11 @@ C31 Melbourne (240p),https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 Modern Radio,http://play.redefine.ltd/Stream1/FM1058-1.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 New Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
-News98新聞,http://stream.rcs.revma.com/55tyxsy4qtzuv
 Discovery Asia,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 CNN,http://218.202.220.2:5000/nn_live.ts?id=CNN
 PBSAmerica,https://pbs-samsunguk.amagi.tv/playlist.m3u8
 Afrobeats247,https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-AlarabyTV,https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 ALTV,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 Bloomberg TV Europe,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
@@ -3668,155 +3633,6 @@ sm制服控,http://02b.expo-hf.com/live/cx_357227.flv
 红杏小粉妹,http://l1.iiun666.cn/live/cx_15152.flv
 大腿之间,http://la.dn8rg.cn/live/cx_12345.flv
 
- 🔞松視频道_666,#genre#
-HAPPY,mitv://ns1.hellotvvod.com:9906/634f970f0002bd9d50ba50ab13577c0f
-HAPPY,P2p://51.81.90.178:9906/827d787ee94447a7912d7d4e9c261792
-HAPPY,p3p://104.192.224.146:9806/616b79be000a35b17ab2f7b84c325eeb
-K 頻道,mitv://ns1.hellotvvod.com:9906/302db2d2f4c5487bba0c509275e6378e
-K 頻道,P2p://51.81.90.178:9906/0e5867d2753148c6ae0d8aecaec1f1c4
-Look HD,mitv://ns1.hellotvvod.com:9906/88fa25183c9b47d6920987954fbfdcfb
-Look HD,P2p://51.81.90.178:9906/696ef0eedc544326856362f2dfee01e0
-Look HD,p3p://104.192.224.146:9806/606271190002a1266f75aaee0463186a
-PLAYBOY,mitv://ns1.hellotvvod.com:9906/d97f4ae150ba4c6792171c088d1c033f
-PLAYBOY,P2p://51.81.90.178:9906/827d787ee94447a7912d7d4e9c261792
-香蕉臺,mitv://ns1.hellotvvod.com:9906/40968f1afa564083ba7670ec10aabe1a
-香蕉臺,P2p://51.81.90.178:9906/7f07683c361f4dbcb4aaf22ab48e513a
-香蕉臺,p3p://104.192.224.146:9806/60626a760005067e6f5bbecb5816771e
-彩虹E臺,mitv://ns1.hellotvvod.com:9906/fa7914f003954bbea6fb197c9cd57824
-彩虹E臺,P2p://51.81.90.178:9906/eb7a0e51d5204093925f38e0fd298b1b
-彩虹E臺,p3p://104.192.224.146:9806/6062716c0008efc86f76f0c44d55329f
-松視1臺,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6cz4mG4YHs1lZNpGt9QsCejI/m3u8
-松視1臺,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6cz4mG4YHs1lZNpGt9QsCejI/m3u8
-松視1臺,P2p://51.81.90.178:9906/1dd11855e43142d6aec1b7f824097388
-松視1臺,p3p://104.192.224.146:9806/5fe445280008a40682a0367c343436bb
-松視2臺,mitv://ns1.hellotvvod.com:9906/80a9c735329544c9ab7fa3e2425f86cd
-松視2臺,P2p://51.81.90.178:9906/c76a909ae59d4e82ad59a3bc6cb09663
-松視2臺,p3p://104.192.224.146:9806/60232b5f00007bc37850649979e379df
-松視3臺,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6cz0U_Kqy21YHnIb0tc7Q5ak/m3u8
-松視3臺,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6cz0U_Kqy21YHnIb0tc7Q5ak/m3u8
-松視3臺,P2p://51.81.90.178:9906/deceaed6309f406a8670002cf2ce7b9d
-松視3臺,p3p://104.192.224.146:9806/6109e9590001f40bfd9b661109395f3b
-彩虹電影,mitv://ns1.hellotvvod.com:9906/1e28628f429447fb8617c162d4ffdb19
-彩虹電影,P2p://51.81.90.178:9906/c151f129e31846f691cd2b3ae554d4d1
-彩虹電影,p3p://104.192.224.146:9806/6253066c00049259f74b05224cf375e6
-潘朵啦玩美,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c9IkJ9J6_5RJGVqEmlUFfcc/m3u8
-潘朵啦玩美,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c9IkJ9J6_5RJGVqEmlUFfcc/m3u8
-潘朵啦玩美,P2p://51.81.90.178:9906/eecd1c81c5cf469fbb58fda5f0569f07
-潘朵啦玩美,p3p://104.192.224.146:9806/5fe4450c000c918b829fca233c845311
-驚豔電影臺,mitv://ns1.hellotvvod.com:9906/a65bcc137a76418b9f2ef842e6b8ea44
-驚豔電影臺,P2p://51.81.90.178:9906/74d29e2d271948bfa7644c1af47e3b83
-驚豔電影臺,p3p://104.192.224.146:9806/60626a1b00010e3e6f5a5a4f018e5ebe
-JStar極限臺,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8gZqDfvKgxf4SW3f8y8xUA/m3u8
-JStar極限臺,http://64.31.55.222:80/play/9eR3CTrRwII9TyFb5jh6c8gZqDfvKgxf4SW3f8y8xUA/m3u8
-JStar極限臺,P2p://51.81.90.178:9906/ecf8ee53a43545888c55f2c9d4f57f80
-JStar極限臺,p3p://104.192.224.146:9806/6109e9bb0005fd87fd9ce5ea2c1f18d3
-日本加勒比,p3p://104.192.224.146:9806/5fe6d4c0000ea3178ca121c83d4b0a39
-日本一本道,p3p://104.192.224.146:9806/5fe6d4d8000a01508ca17e596611121f
-日本东京热,p3p://104.192.224.146:9806/5fe6d4f10006c6ec8ca1df2d4bd07a2d
-日本天热素人,p3p://104.192.224.146:9806/5fe6d51e0009f6db8ca28fc66a750553
-日本J-Girl,p3p://104.192.224.146:9806/5fe6d5ab000d6dc38ca4b77276be2f75
-日本Heyzo无码,p3p://104.192.224.146:9806/5fe8014b0007228691371ed44a517e44
-日本人妻斩,p3p://104.192.224.146:9806/5fe7fd63000e253a9127de6a777d49b4
-日本猫步毒药,p3p://104.192.224.146:9806/5fe7fe14000bbbb1912a91354e4b5706
-日本人妻熟女,p3p://104.192.224.146:9806/5fe8019000071e4f91382c5b7fef4506
-日本素人动画,p3p://104.192.224.146:9806/5fe7ff6e0001271f912fd60179236471
-日本XXXAV无码,p3p://104.192.224.146:9806/5fe80214000d2ec8913a3189085b6434
-日本平台FC2PPV,p3p://104.192.224.146:9806/5fed5578000e28fba6077f774fba6950
-日本无码破解精选,p3p://104.192.224.146:9806/5fef580000022fb6ade15fa160a61ae1
-日本强奸迷奸无码,p3p://104.192.224.146:9806/5ff201c40003b7e3b8481485121959a6
-日本Sky Angel Blue,p3p://104.192.224.146:9806/6135967b0008b0e7a83579725d7b7ab3
-韩国演艺圈潜规则,p3p://104.192.224.146:9806/5fe6d643000a32ae8ca7085f68304b38
-经典三级片1 HD,p3p://104.192.224.146:9806/62dac52e00087a70098570f12b7962e5
-经典三级片2 HD,p3p://104.192.224.146:9806/607e0dca0005cd6ddb506963435f6f5a
-国产经典麻豆大番,p3p://104.192.224.146:9806/5fee099a000e4a8da8c7244c6ff632e3
-国产经典麻豆导演,p3p://104.192.224.146:9806/5fee723900074e31aa5fcfa0561f1b95
-国产经典麻豆外番,p3p://104.192.224.146:9806/5fee86ee0006ce80aab0b2811d842258
-国产麻豆台湾日本篇,p3p://104.192.224.146:9806/5fef5ed40002a464adfc0be76180670f
-国产麻豆天美传媒,p3p://104.192.224.146:9806/61bff85e00029535c4bd1c4f47fb5400
-大神猫先生千人斩,p3p://104.192.224.146:9806/5fed7efe000093e8a6a9af6f691c7583
-短视频-果冻传媒,p3p://104.192.224.146:9806/5ff5420900039286c4fb220f4b133915
-国产素人约啪,p3p://104.192.224.146:9806/5fea646c000b95d79a89e7ed2c483b7a
-探花干净利索(1月24日被捕),p3p://104.192.224.146:9806/61b4e9970009588e998c4b9532e01f5f
-探花91老金(已被捕),p3p://104.192.224.146:9806/5fee5d4500060214aa0df631581d3164
-探花-鸭总侦探,p3p://104.192.224.146:9806/5fee5d6300022e98aa0e6a660e9f6d9f
-探花金三角猎艳,p3p://104.192.224.146:9806/5fedf9d60007fb5ca8898d0b546620cc
-探花-千人斩,p3p://104.192.224.146:9806/5fee93e80000c61aaae361853fd36c1f
-探花-小宝寻花(已被捕),p3p://104.192.224.146:9806/5fee940f000cad40aae3fce963f95891
-探花-午夜寻花,p3p://104.192.224.146:9806/5ff22f59000ea2d6b8fa255a1d4c635c
-探花-男爵全国探花,p3p://104.192.224.146:9806/62bf9f8c000c9a4c9f7bcb53499c786f
-探花-七天极品探花,p3p://104.192.224.146:9806/62ca5692000275f2c95644b27e04396b
-探花黑人干翻一切,p3p://104.192.224.146:9806/5fedfa1c00068347a88a9e1b1b517e42
-大陆真实迷奸,p3p://104.192.224.146:9806/5ff395d60009ac7fbe727c5c77ee33a8
-大陆SM经典西贡女,p3p://104.192.224.146:9806/5ff92d000005f07cd448f7774faa47bd
-台湾PsychopornTW,p3p://104.192.224.146:9806/5ff399460003af78be7fe8571735593d
-精东影业,p3p://104.192.224.146:9806/6135966100022f18a83512374f864fd8
-波多野结衣(无码),p3p://104.192.224.146:9806/5fe6d96b000d95298cb35d8161902e91
-上原亚衣(无码),p3p://104.192.224.146:9806/5fed670a00074c56a64c200b26e62c10
-古川伊织(有码),p3p://104.192.224.146:9806/5ff7430900000f8fcccf091c30805ccb
-怀旧经典-苍井空,p3p://104.192.224.146:9806/5fea6483000512cf9a8a401a24db1f4e
-日本中文1(有码),p3p://104.192.224.146:9806/5fe790790005783d8f7e6a1d2f8774e6
-日本中文2(有码),p3p://104.192.224.146:9806/5fea645500007b7e9a898b3d6ea244cf
-日本中文3(有码),p3p://104.192.224.146:9806/5ff70064000178a1cbcab4ef4f5f0bd9
-日本情色卡通-1,p3p://104.192.224.146:9806/5ff742d8000bbabbccce4cb0100a31ff
-日本3D-VR精品,p3p://104.192.224.146:9806/5fea649900057d369a8a9626665058f0
-人类高质量玩家,http://cxc.xnpjifd.cn/live/cx_360131.flv
-夜夜淫歌,http://ufo.qxiaolei.top/live/cx_359060.flv
-淫多多,http://l2.iiun666.cn/live/cx_11694.flv
-淫女集中营,http://awnda.dianfenglanqiu.cn/live/cx_358563.flv
-淫女集中营,http://pull.58hsjf.com/live/cx_8433.flv
-小骚哥操逼,http://l4.iiun666.cn/live/cx_15445.flv
-混血美少女战士,http://l4.iiun666.cn/live/cx_14954.flv
-混血美少女战士,http://san.shengshuishi.cn/live/cx_12577.flv
-大大大洋马,http://bter.widtb.cn/live/cx_2563.flv
-大大大洋马,http://add.shiqing01.top/live/cx_353150.flv
-激情少妇,http://awnda.dianfenglanqiu.cn/live/cx_360148.flv
-冰淇淋女孩,http://ufo.qxiaolei.top/live/cx_360406.flv
-冰淇淋女孩,http://awnda.dianfenglanqiu.cn/live/cx_360406.flv
-冰淇淋女孩,http://pull.ylsmdongganfen.com/live/cx_7491.flv
-狐狸不是妖,http://l4.iiun666.cn/live/cx_14674.flv
-泰国鸡鸭鹅啪秀@,http://02b.expo-hf.com/live/cx_349418.flv
-是可可宝贝,http://l5.iiun666.cn/live/cx_16176.flv
-玩嫂子@,http://pull.2shoumi.com/live/cx_9622.flv
-sm制服控,http://02b.expo-hf.com/live/cx_357227.flv
-情趣小姐姐,http://lhuan.huahai58.com/live/cx_361300.flv
-東南亞黄学院,http://ofe.mmsxjs.cn/live/cx_359578.flv
-東南亞美女团,http://01b.expo-hf.com/live/cx_358601.flv
-日式小奶瓶,http://l5.iiun666.cn/live/cx_15520.flv
-哥哥干我,http://sck.ecsawq.cn/live/cx_361757.flv
-萝莉十八岁@,http://l5.iiun666.cn/live/cx_15643.flv
-勾搭专业户@,http://lhuan.huahai58.com/live/cx_361211.flv
-小妹妹水多,http://pull.58hsjf.com/live/cx_7682.flv
-淫不停@,http://01b.expo-hf.com/live/cx_357552.flv
-淫不停@,http://la.dn8rg.cn/live/cx_9960.flv
-十八岁妲己,http://l4.iiun666.cn/live/cx_14947.flv
-金发碧眼大长腿,http://lhuan.huahai58.com/live/cx_358843.flv
-婷婷想要,http://la.dn8rg.cn/live/cx_9079.flv
-泰国成人大秀,http://l2.iiun666.cn/live/cx_963.flv
-风情万种,http://pull.2shoumi.com/live/cx_11115.flv
-四只小母狗,http://lhuan.huahai58.com/live/cx_359982.flv
-四只小母狗,http://sck.ecsawq.cn/live/cx_359982.flv
-小美子,http://pull.58hsjf.com/live/cx_10026.flv
-南巷污女,http://bter.widtb.cn/live/cx_9336.flv
-少女初恋日记,http://lhuan.huahai58.com/live/cx_361207.flv
-骚骚小猫,http://04b.expo-hf.com/live/cx_356672.flv
-一只小野猫,http://san.shengshuishi.cn/live/cx_12640.flv
-一只小野猫,http://crg.yybt.top/live/cx_12640.flv
-淫领全球,http://san.shengshuishi.cn/live/cx_11340.flv
-淫领全球,http://crg.yybt.top/live/cx_11340.flv
-日式小污女,http://add.shiqing01.top/live/cx_360927.flv
-为爱妲己,http://add.shiqing01.top/live/cx_360289.flv
-午夜带你上高速,http://awnda.dianfenglanqiu.cn/live/cx_361610.flv
-東南亞黄学院,http://ufo.qxiaolei.top/live/cx_359578.flv
-有点小任性,http://l2.iiun666.cn/live/cx_15626.flv
-小泽玛利亞,http://ufo.qxiaolei.top/live/cx_360514.flv
-婷婷很风流,http://bter.widtb.cn/live/cx_1377.flv
-云朵上的棉花糖,http://la.dn8rg.cn/live/cx_13177.flv
-西班牙骚逼@,http://02b.expo-hf.com/live/cx_358407.flv
-高质量美女团,http://l3.iiun666.cn/live/cx_15583.flv
-柠檬苏打水,http://l1.iiun666.cn/live/cx_11076.flv
-红杏小粉妹,http://l1.iiun666.cn/live/cx_15152.flv
-大腿之间,http://la.dn8rg.cn/live/cx_12345.flv
-
  🔞欧美松視_666,#genre#
 Hustler TV,http://78.83.191.18:8000/play/a078
 Anal (18+),http://cdn.adultiptv.net/anal.m3u8
@@ -5629,133 +5445,6 @@ enLolitaRoller,http://60106.vod.redtraffic.xyz/ph5c3660a1e86d0/play.m3u8
 黑人的空乘员在航班之间的某些BBC中挤压,http://6122.vod.redtraffic.xyz/ph5b110f3ab904a/play.m3u8
 在米德湖的一座山上他媽的吮吸和指法,http://6122.vod.redtraffic.xyz/ph5b65ef077c39f/play.m3u8
 操传奇金Facesitting放屁,http://6122.vod.redtraffic.xyz/ph5bea5affc9477/play.m3u8
-
-🔞外流视频_666,#genre#
-Twitter 白宝极品粉嫩白虎美女(二)01，https://p.xgkvwoj.cn/watch9/7595760b31edb51ac974906fe6e88458/7595760b31edb51ac974906fe6e88458.m3u8
-Twitter 白宝极品粉嫩白虎美女(二)02，https://p.xgkvwoj.cn/watch9/f1d0387b35180dbfb995bad276a1429f/f1d0387b35180dbfb995bad276a1429f.m3u8
-Twitter 白宝 极品粉嫩白虎美女 (二) 03,https://p.xgkvwoj.cn/watch9/60ee01d12aa87433b3d6288fefbba56e/60ee01d12aa87433b3d6288fefbba56e.m3u8
-杭州母狗王晓冰,https://m3u8.zztt85.com/watch9/49c7d0fa6d6ba972d7c4f7352392d2bc/49c7d0fa6d6ba972d7c4f7352392d2bc.m3u8
-绿帽大神征服事业单位很会含的长腿人妻【子涵】,https://m3u8.zztt85.com/watch9/269d22c1bbc106b9317065cd09bb94b9/269d22c1bbc106b9317065cd09bb94b9.m3u8
-漂亮美女模特柯X 伊被猎人潜规则,https://m3u8.zztt85.com/watch9/ce50c51e20f679075865bc679e315b52/ce50c51e20f679075865bc679e315b52.m3u8
-已婚少妇自己和你电话边边聊聊,https://m3u8.zztt85.com/watch9/1d2c3216a4f52b8d14e0628185629704/1d2c3216a4f52b8d14e0628185629704.m3u8
-房东的爬窗偷窥正在洗鸳浴的小情侣，https://m3u8.zztt85.com/watch9/86edb9c68594582b87f8a4a157abbd3a/86edb9c68594582b87f8a4a157abbd3a.m3u8
-极品网红女神尤秘书,https://p.xgkvwoj.cn/watch9/d2cc34a64df57f1e7c7151befe04f881/d2cc34a64df57f1e7c7151befe04f881.m3u8
-动车卧铺做爱01,https://p.xgkvwoj.cn/watch9/22be161ef39b45f819d874d072e42fc9/22be161ef39b45f819d874d072e42fc9.m3u8
-动车卧铺做爱02,https://p.xgkvwoj.cn/watch9/5bc4e0ba16b34855fed200e5dbd48cd6/5bc4e0ba16b34855fed200e5dbd48cd6.m3u8
-研究生妹子视频d9d 微博Yaiimee,https://p.gkvwoj.cn/watch96b2d1212fb212fbda4dca0919.m3u8
-快手丝爷口爆视频漏，https://p.x.cn/fce89731/fce89731f663ec72ea134f180e82b8f3/fce89731f663ec2ea134f180e82b8f3.m3u8
-南京大二女生叶雨灌性浸入内射出被醉，https://p.xwj.cn/watch9/9907238e371f1d8db2138e371f1d8db2138e371f1d8db21133a3062b1d5a.m3u8
-UC的学生妹子手表第01届视频，https://.gkvwo.cn/watch.cn/watch/gkvwowwo22/64a61628391162d58644a616283911624a606188856911d43911626188856911d43911624a60618856911229.33
-的学生妹子显示器第02届,https://gkk044e.cn/watch9/uc65044e322703a5664141322703a5664141232703a566414b322703a566414b32703a5666414b3227041.m3u8.m3u8
-cateline485和和爱视频，https：//p.xgkvwoj.cn/watch9/421E02999649132655F132936936936938ACB/421E02996649649132655132655555555555555555555555555555555555513299913299999999999ANH
-迷奸还把女生直播脸,https://m3u8.zztt85.com/watch9/8071d9f60a0cf17cb2c22334f4b439d0/8071d9f60a0cf17cb2c22334f4b439d0.m3u8
-江苏母子乱伦事件，https://p.xgkvwoj.cn/watch9/d3ed17cc3a93fb34133416f24f806d07/d3ed17cc3a93fb34133416f24f806d07.m3u8
-妈妈教儿子做爱，不让儿子射出来，https://p.xgkvwoj.cn/watch9/5e49af3e71380a9c82ee1acf7de57922/5e49af3e71380a9c82ee1acf7de57922.m3u8
-湖南高颜值母子，后妈儿子三亞偷情，https://p.xgkvwoj.cn/watch9/8feb29a1bf44bd854d885b8ff5d9125a/8feb29a1bf44bd854d885b8ff5d9125a.m3u8
-真实勾搭小学生女厕所啪，https://m3u8.zztt85.com/watch9/1eec8abe77a8bec5c9ca2aa983dda345/1eec8abe77a8bec5c9ca2aa983dda345.m3u8
-最近挺火的一个反差婊,https: //m3u8.zztt85.com /watch9/ bdde8978fe741caa7db90fe88fa40405/bdde8978fe741caa7db90fe88fa40405 .m3u8
-艾栗栗疯狂5P乱操,https://p.xgkvwoj.cn/watch9/c3751b98008032377e50dd9fdd0e7e47/c3751b98008032377e50dd9fdd0e7e47.m3u8
-极品纹身网红性感克洛伊八月收费福利，https://p.xgkvwoj.cn/watch9/bd6221fbe71b2c66e822ca4a44abd25a/bd6221fbe71b2c66e822ca4a44abd25a.m3u8a44abd25a.m3u8
-许美仁（Christine Grace Co）不雅片脱出，https://m3u8.zz85.com/watch9/53a3d75a9b3739b9d5b59f674/53a3d75a9b3739b9d5eeb59f6742c370.m3u8
-潘甜甜七夕，https://p.xgkvwoj.cn/watch9/6656506384a7825a2970d0f22cfe25a5/6656506384a7825a2970d0f22cfe25a5.m3u8
-潘甜甜手机的秘密,https://p.xgkvwoj.cn/watch9/5b3dca4f1ad9a2df29d0f73d43703af4/5b3dca4f1ad9a2df29d0f73d43703af4.m3u8
-潘甜甜少女的悔悟,https://p.xgkvwoj.cn/watch9/7d705b66711b187a1b1de9eb53159cc1/7d705b66711b187a1b1de9eb53159cc1.m3u8
-老虎菜第25弹去招聘网站套路健身教练张老师拍摄，https://p.xgkvwoj.cn/watch9/a0e1217b95e37fafdf1dfb75cb1ceabd/a0e1217b95e37fafdf1dfb75cb1ceabd
-广州通奸门叶茜，https://p.xgkvwoj.cn/watch9/e7f7d149e853e1bc659f01831fabfbbc/e7f7d149e853e1bc659f01831fabfbbc.m3u8
-内蒙小美女护士,https://m3u8.zztt85.com/watch9/4751ca5345fa0de47818455b125e3ef4/4751ca5345fa0de47818455b125e3ef4.m3u8
-抖音在审美上和妈妈韩视频教育,https://v.shouvod.com/m3u8/0/870/index.m3u8
-面对红脸极品模型网曝X，https://m3u8.zztt85.com/watch9/181622c234848db99b1e0c77cf6ee934/181622c234848db99b1e0c77cf6ee934.m3u8
-知性艺术，王佳仪暗黑往事https://m3u8.zztt85.com/watch490918e87b42afd71/40918e87b42afd71a0ed.m3u8
-安徽寿县中学生同居事件01,https://p.xgkvwoj.cn/watch9/fcc7e41c73c32d184e269a4dae55dc99/fcc7e41c73c32d184e269a4dae55dc99.m3u8
-安徽寿县中学生同居事件02，https://p.xgkvwoj.cn/watch9/35eac28bf58d1cad958d2c9871cc936c/35eac28bf58d1cad958d2c9871cc936c.m3u8
-安徽寿县中学生同居事件03,https://p.xgkvwoj.cn/watch9/95333f81cbf2208eb6a03ff31d86cef0/95333f81cbf2208eb6a03ff31d86cef0.m3u8
-涉谷華01,https://p.xgkvwoj.cn/watch9/f9aa3ba0a0fb7cf03b5951bed8bf3857/f9aa3ba0a0fb7cf03b5951bed8bf3857.m3u8
-涉谷華02,https://p.xgkvwoj.cn/watch9/86524a447cd63a461787ed7bb1e49d8b/86524a447cd63a461787ed7bb1e49d8b.m3u8
-涉谷華03,https://p.xgkvwoj.cn/watch9/ba3c189af62086ad0e150ff95ac68e52/ba3c189af62086ad0e150ff95ac68e52.m3u8
-涉谷華04,https://p.xgkvwoj.cn/watch9/162401d677c8d288d424386269bc32c6/162401d677c8d288d424386269bc32c6.m3u8
-水中做爱，https://m3u8.zztt85.com/watch9/76705042a6ffe04e40e56a184cbd8117/76705042a6ffe04e40e56a184cbd8117.m3u8
-近期爆红网络的极品情侣，https://m3u.zztt85.com/watch9/6a5d28d27e91d96ae1964b/6a514a8b9f535d28d27e91d93u8
-宝马销售李思彤，https://p.xgkvwoj.cn/watch9/9e0d4c2bbf6757549d2c5286f4916e92/9e0d4c2bbf6757549d2c5286f4916e92.m3u8
-香港模特儿与非洲床片流出，https://m3u8.zztt8com/watch9/watch9/ed045326b729b7e022822ae5d286d1c3e022822ae5d2286dcf5d1c3026ae.m322b729770286b7286d1c3e022860cf5d1c3e022822ae5d322b72977d0286b729b72977d0286e
-电臺主持人私下背着约啪领导儿子视频25安徽流出，https://p.xwoj.cn/watch9/c422c8c715c5b7bced888c715c715c5b7bced885bc4384/c438cc4.mc8c41cc384/c438cc4.mc41
-江疏影01,https://p.xgkvwoj.cn/watch9/77adbf93acdf97b0f053b3ef1876fb36/77adbf93acdf97b0f053b3ef1876fb36.m3u8
-江疏影02,https://p.xgkvwoj.cn/watch9/eb5ec7620f0f4d37e996981c91ba4bb7/eb5ec7620f0f4d37e996981c91ba4bb7.m3u8
-江疏影03,https://p.xgkvwoj.cn/watch9/63742a5964b80e9cbf12cddf59e84e2a/63742a5964b80e9cbf12cddf59e84e2a.m3u8
-江疏影,https://m3u8.zztt85.com/watch9/e1d4cec342933a25885d89de985f598d/e1d4cec342933a25885d89de985f598d.m3u8
-黑龙江科技大学教室门，https://p.xgkvwoj.cn/watch9/82f918eddac6bbb4915daf84d21a9f46/82f918eddac6bbb4915daf84d21a9f46.m3u8
-某学校某学校腰翘臀翘臀被强拍出来uxx。
-小冒伙死偷拍隔壁激情做爱,https://m3u8.zztt85.com/watch9/26e30a7f79d8c0ec4b53ab83edfcfa3d/26e30a7f79d8c0ec4b53ab83edfcfa3d.m3u8
-探花极品清纯学妹个苗条抱爆起插，https://m3u8.zztt85.com/watch9/1490e38840bf1da002299b9214c29cd3/1490e38840bf1da002299b9214c29cd3.m3u8
-探花精选 很会玩的一个探主，https://m3u8.zztt85.com/watch9/04169bbd159ade1abda9125461b1600a/04169bbd159ade1abda9125461b1600a.m3u8
-黑龙江科技大学教室门，https://p.xgkvwoj.cn/watch9/82f918eddac6bbb4915daf84d21a9f46/82f918eddac6bbb4915daf84d21a9f46.m3u8
-JK制服黑丝00后学妹01,https://p.xgkvwoj.cn/watch9/2716a1f455dbf99e4e20443c249f68a8/2716a1f455dbf99e4e20443c249f68a8.m3u8
-JK制服黑丝00后学妹02,https://p.xgkvwoj.cn/watch9/d461be49d91888b1e8e85e2fbf364255/d461be49d91888b1e8e85e2fbf364255.m3u8
-警花张津瑜,https://cdn.xueyunongzhuang.com/4m3u8/429.m3u8
-井川里予,https://p.xgkvwoj.cn/watch8/1f373efd0c39045405535155ad2dc159/1f373efd0c39045405535155ad2dc159.m3u8
-草莓妹,https://v.kuaishouvod.com/m3u8/0/872/index.m3u8
-Hannah,https://v.kuaishouvod.com/m3u8/0/870/index.m3u8
-硬气鑫和娇软鹿,https://v.kuaishouvod.com/m3u8/0/866/index.m3u8
-金伊娜,https://v.kuaishouvod.com/m3u8/0/865/index.m3u8
-桜井みる,https://v.kuaishouvod.com/m3u8/0/858/index.m3u8
-卯哥,https://p.xgkvwoj.cn/watch8/f4873aec3f458987725f6f8bc2472e87/f4873aec3f458987725f6f8bc2472e87.m3u8
-人妻小鹿1,https://p.xgkvwoj.cn/watch9/7bf061b27399d7d54cac6c34fb31a62a/7bf061b27399d7d54cac6c34fb31a62a.m3u8
-人妻小鹿2,https://p.xgkvwoj.cn/watch9/9474513cb6aa01be31f4d6e74550260a/9474513cb6aa01be31f4d6e74550260a.m3u8
-邻居姐姐,https://p.xgkvwoj.cn/watch9/f9108156218b15b6bc4ff9c41e741e70/f9108156218b15b6bc4ff9c41e741e70.m3u8
-G奶女友性爱记录,https://p.xgkvwoj.cn/watch9/0f31d4eded8c66dc4f0b8ac75b2f4380/0f31d4eded8c66dc4f0b8ac75b2f4380.m3u8
-秀人网 欣杨 Kitty,https://p.xgkvwoj.cn/watch9/20a1873f510709fd7b5080ef0d6cc230/20a1873f510709fd7b5080ef0d6cc230.m3u8
-韩国江南富豪人妻出轨曝光,https://p.xgkvwoj.cn/watch8/dccec7813054871447818a6aad7c0473/dccec7813054871447818a6aad7c0473.m3u8
-小田菜,https://p.xgkvwoj.cn/watch8/202dc5ff21f5f4790afa770b0b15a8b7/202dc5ff21f5f4790afa770b0b15a8b7.m3u8
-黑鬼干韩国女医生,https://m3u8.zztt85.com/watch9/18ac4a51bc37f5cd3855fa48218394c8/18ac4a51bc37f5cd3855fa48218394c8.m3u8
-海南电音节 8V1,https://p.xgkvwoj.cn/watch8/16e1609bca8aa133692ec2746ef2486b/16e1609bca8aa133692ec2746ef2486b.m3u8
-路虎代言人,https://p.xgkvwoj.cn/watch8/7b08d79d7fcc26ad494a48669cd0596f/7b08d79d7fcc26ad494a48669cd0596f.m3u8
-换妻探花与网上的网友互换老婆,https://t11.cdn2020.com:12336/video/m3u8/2021/09/02/7d38bd2a/index.m3u8
-广州黑道大哥硬上美女领班,https://ckcdnz1.cdn2020.com/video/m3u8/2019/11/25/48f3468f/index.m3u8
-绝对真实少妇在家偷人老公电话查岗,https://v1s.cdn2020.com/video/m3u8/2020/02/19/f9ee4bb5/index.m3u8
-李小璐,https://cdn.xueyunongzhuang.com/4m3u8/428.m3u8
-高端玩家 世妍 sonya 啪啪流出完整版,https://p.xgkvwoj.cn/watch9/e43c6d30c2684463c1432ee23fb98d46/e43c6d30c2684463c1432ee23fb98d46.m3u8
-武汉健身私教,https://p.xgkvwoj.cn/watch9/bea946f43308baca88050fdcebf6882d/bea946f43308baca88050fdcebf6882d.m3u8
-老虎菜第 23 弹 今天遇到玩 JB 的高手做销售的少妇,https://p.xgkvwoj.cn/watch9/7ce3c97bf7a5bc08a28d63e71336b108/7ce3c97bf7a5bc08a28d63e71336b108.m3u8
-老虎菜第 22 弹 她不服？大白天正经约战 99 年眼镜娘，颜射！,https://p.xgkvwoj.cn/watch9/77c1d3f98baa3d8af7aaafa1744bf438/77c1d3f98baa3d8af7aaafa1744bf438.m3u8
-老虎菜第 21 弹 约饭数次后，昨夜灌迷醉操了眼镜娘 (有后续),https://p.xgkvwoj.cn/watch9/78b5ea36de95fcf3c3e9b2a0c9098ce9/78b5ea36de95fcf3c3e9b2a0c9098ce9.m3u8
-老虎菜第 20 弹 喜歡幼师小可爱的兄弟们且看且珍惜了,https://p.xgkvwoj.cn/watch9/0ea53ca472fb592914d1afb41f1aee1a/0ea53ca472fb592914d1afb41f1aee1a.m3u8
-老虎菜第 19 弹 没忍住无套上了陌生女人,https://p.xgkvwoj.cn/watch8/01bce9e4e79e9d61845cd89446fe02f5/01bce9e4e79e9d61845cd89446fe02f5.m3u8
-老虎菜第 18 弹 不要钱拍摄陌生女人,https://p.xgkvwoj.cn/watch8/b8f57c574da78c54694677ab03a40770/b8f57c574da78c54694677ab03a40770.m3u8
-老虎菜第 14 弹 啪啪口爆,https://p.xgkvwoj.cn/watch9/20b13dad7433daeb52dfe0e34253dd8f/20b13dad7433daeb52dfe0e34253dd8f.m3u8
-老虎菜第 14 弹 强插 + 跳舞 + 自慰 （三合一）,https://p.xgkvwoj.cn/watch9/619f2fcd4b628bc3c2e0ae56594de886/619f2fcd4b628bc3c2e0ae56594de886.m3u8
-老虎菜第 13 弹 视频 1、视频 2 （二合一视频 ）,https://p.xgkvwoj.cn/watch9/5d8ab7ea4236ee9772aed01d5113e783/5d8ab7ea4236ee9772aed01d5113e783.m3u8
-老虎菜第 13 弹 视频,3https://p.xgkvwoj.cn/watch9/32cf45801e839d27c7766d9fa5505ccb/32cf45801e839d27c7766d9fa5505ccb.m3u8
-老虎菜第 12 弹 视频一,https://p.xgkvwoj.cn/watch9/2ec004baae8f9d2afc5541bda63c5fee/2ec004baae8f9d2afc5541bda63c5fee.m3u8
-老虎菜第 12 弹 视频二,https://p.xgkvwoj.cn/watch9/9d0aa996c453f7292fcd930cefcd0ebd/9d0aa996c453f7292fcd930cefcd0ebd.m3u8
-老虎菜第 12 弹 视频三,https://p.xgkvwoj.cn/watch9/dffa25cb95be45242db2d912f16c6d23/dffa25cb95be45242db2d912f16c6d23.m3u8
-老虎菜第 11 弹 给幼师做 spa,https://p.xgkvwoj.cn/watch9/965b713f0989f9554c420adec6cdfcda/965b713f0989f9554c420adec6cdfcda.m3u8
-老虎菜第 10 弹 幼师裸舞,https://p.xgkvwoj.cn/watch9/a21cbddfa31329194937aa51df7f9f9e/a21cbddfa31329194937aa51df7f9f9e.m3u8
-老虎菜第 10 弹 幼师跳蛋,https://p.xgkvwoj.cn/watch9/b0c6808925c2e8d5d5000bc9dc8de380/b0c6808925c2e8d5d5000bc9dc8de380.m3u8
-老虎菜第 9 弹 98 幼师小可爱 自摸 + 花絮,https://p.xgkvwoj.cn/watch9/92db3f6c92ad91b854fd204236a5ab6a/92db3f6c92ad91b854fd204236a5ab6a.m3u8
-老虎菜第 8 弹 上,https://p.xgkvwoj.cn/watch8/cd81b5ef4640dfcd58c59e401e471c16/cd81b5ef4640dfcd58c59e401e471c16.m3u8
-老虎菜第 8 弹 下,https://p.xgkvwoj.cn/watch8/2410f081e16205144573360ff480e854/2410f081e16205144573360ff480e854.m3u8
-老虎菜第 7 弹 泡泡,https://p.xgkvwoj.cn/watch8/7b1909fd07c2cfaff0961f4c86af7148/7b1909fd07c2cfaff0961f4c86af7148.m3u8
-老虎菜第 6 弹 洛洛,https://p.xgkvwoj.cn/watch8/f077d3594440a876c70fc1eac14eaf80/f077d3594440a876c70fc1eac14eaf80.m3u8
-老虎菜第 5 弹 董一 * ,https://p.xgkvwoj.cn/watch8/0f323924c878e013dfd59485d188d83d/0f323924c878e013dfd59485d188d83d.m3u8
-老虎菜第 4 弹 丝袜长腿大学生 宋 *,https://p.xgkvwoj.cn/watch8/781cc8aabdd5d0f0ce24114ac292d3b8/781cc8aabdd5d0f0ce24114ac292d3b8.m3u8
-老虎菜第 3 弹 丫丫,https://p.xgkvwoj.cn/watch8/88d94cb8bf8edd4fea1d691c6e17ecd3/88d94cb8bf8edd4fea1d691c6e17ecd3.m3u8
-老虎菜第 2 弹 丫丫,https://p.xgkvwoj.cn/watch8/bf55115884cc13fccdbd594b127bf42c/bf55115884cc13fccdbd594b127bf42c.m3u8
-老虎菜第 1 弹 丫丫,https://p.xgkvwoj.cn/watch8/3c0264261756fb6e253560ac2b774ee6/3c0264261756fb6e253560ac2b774ee6.m3u8
-超嫩萝莉『Yoxi』,https://m3u8.zztt85.com/watch9/402d97813d01cfc2c6245355058b0f62/402d97813d01cfc2c6245355058b0f62.m3u8
-小王祖贤,https://m3u8.zztt85.com/watch8/7d384d65e79dbb04331b02dee1cd75ef/7d384d65e79dbb04331b02dee1cd75ef.m3u8
-泰国豪乳网红 pimnalinn 01,https://p.xgkvwoj.cn/watch9/f4a8452b3c7a991ff6fb85f3913fd2c9/f4a8452b3c7a991ff6fb85f3913fd2c9.m3u8
-泰国豪乳网红 pimnalinn 02,https://p.xgkvwoj.cn/watch9/676b06aa29d28a73add085c51eb68772/676b06aa29d28a73add085c51eb68772.m3u8
-拜金反差大学生美女【冠冠】,https://p.xgkvwoj.cn/watch9/7d92b160a436184694af2b042121fdb9/7d92b160a436184694af2b042121fdb9.m3u8
-艺术学院女神不雅视频泄密,https://m3u8.zztt85.com/watch9/5d61b6aefd47c15b95dbfd7608b527c0/5d61b6aefd47c15b95dbfd7608b527c0.m3u8
-抖音韩婧格,https://p.xgkvwoj.cn/watch9/81b972830ba9ffc94ce65b1fdbde2977/81b972830ba9ffc94ce65b1fdbde2977.m3u8
-马来西亞电竞女神颜妃 Gatitayan 01,https://p.xgkvwoj.cn/watch9/c735d6c93d2669476ecc27acd3e4d4ea/c735d6c93d2669476ecc27acd3e4d4ea.m3u8
-马来西亞电竞女神颜妃 Gatitayan 02,https://p.xgkvwoj.cn/watch9/6bcf7193915ad2f29121291e8919aaea/6bcf7193915ad2f29121291e8919aaea.m3u8
-马来西亞电竞女神颜妃 Gatitayan 03,https://p.xgkvwoj.cn/watch9/4a1676c1113ae04205085e637f23ac85/4a1676c1113ae04205085e637f23ac85.m3u8
-情侣巷战,https://p.xgkvwoj.cn/watch9/2e6386fae61fc78b632232c39ac361bd/2e6386fae61fc78b632232c39ac361bd.m3u8
-伊春二中 校服 大奶妹啪啪视频,https://p.xgkvwoj.cn/watch9/1c48a67cb441a27a84d58d5ebaef7ba5/1c48a67cb441a27a84d58d5ebaef7ba5.m3u8
-臺灣极品身材美女和男友啪啪被曝光,https://m3u8.zztt85.com/watch9/907642d587a10049c03577383d8a3de0/907642d587a10049c03577383d8a3de0.m3u8
-臺大医院美女学生与前男友啪啪片流出,https://m3u8.zztt85.com/watch9/e583ba513fa0803ff74ddf4fb02a1edc/e583ba513fa0803ff74ddf4fb02a1edc.m3u8
-吉林女孩 岳欣玥,https://p.xgkvwoj.cn/watch9/75d069e48c7d172dbd3b1280230f24b6/75d069e48c7d172dbd3b1280230f24b6.m3u8
-红豆饼妹事件,https://m3u8.zztt85.com/watch9/abb207f4452ebec2519f9d91a24648ab/abb207f4452ebec2519f9d91a24648ab.m3u8
 聊斋02孽欲狐鬼,https://vod1.ttbfp2.com/20210929/3huDJht8/index.m3u8
 聊斋03艳蛇,https://vod1.ttbfp2.com/20210928/ycOAu8lj/index.m3u8
 风月宝健01桃源洞,https://vod1.ttbfp2.com/20210928/enI6zGwm/index.m3u8
@@ -9968,501 +9657,3 @@ JUY-484,https://cdn1.cdn9x.com/kkh0s5gv/1080p.m3u8
 美女8,https://8vxdjeo.com:8443/v/7622ac7f8db7e8a48a1b67926309f6b9/index.m3u8
 美女9,https://8vxbnnp.com:8443/v/e4e4a37e0a5659024802ed8ae9618a25/index.m3u8
 美女10,https://8vxcpng.com:8443/v/c1c7356d62ba8b5cd84777375124b894/index.m3u8
-
-🔞同性爆菊_666,#genre#
-[GayBoysTube] Blond Ambition,https://media.gayboystube.com/videos/6/2/6/e/1/626e143a59369.mp4
-[GayBoysTube] There Is Some Good Bareback,https://media.gayboystube.com/videos/6/1/f/4/9/61f499a728cdb.mp4
-[GayBoysTube] Spiderman - A Gay Porn XXX Parody,https://media.gayboystube.com/videos/6/1/2/4/d/6124d439c5d0b.mp4
-[GayBoysTube] Seriously sexy,https://media.gayboystube.com/videos/6/1/7/c/8/617c834d0124c.mp4
-[GayBoysTube] Swimwear sluts,https://media.gayboystube.com/videos/6/1/4/3/f/6143f5ffa822a.mp4
-[GayBoysTube] Bareback Ass Busters,https://media.gayboystube.com/videos/6/2/7/5/a/6275ab37bd54c.mp4
-[GayBoysTube] Size Matters,https://media.gayboystube.com/videos/6/0/2/6/b/6026b7551579c.mp4
-[GayBoysTube] Lust and Innocense 3,https://media.gayboystube.com/videos/6/2/8/6/9/62869290bf993.mp4
-[GayBoysTube] Hungarian heaven two,https://media.gayboystube.com/videos/6/2/8/a/8/628a836632528.mp4
-[GayBoysTube] Jocks in charge 8,https://media.gayboystube.com/videos/6/2/3/d/0/623d0bb14c174.mp4
-[GayBoysTube] Fit for fucking,https://media.gayboystube.com/videos/6/2/9/3/0/62930bb878a60.mp4
-[GayBoysTube] Banana Shake,https://media.gayboystube.com/videos/6/1/5/c/d/615cde814281a.mp4
-[GayBoysTube] Gym Fucker,https://media.gayboystube.com/videos/6/1/f/e/a/61fea0d68b20d.mp4
-[GayBoysTube] Summer story,https://media.gayboystube.com/videos/5/f/5/c/c/5f5ccd1620d16.mp4
-[GayBoysTube] Dirty tube secrets,https://media.gayboystube.com/videos/5/f/0/f/3/5f0f37a21b109.mp4
-[GayBoysTube] Hungry Holes,https://media.gayboystube.com/videos/6/1/a/3/2/61a3289b2741a.mp4
-[GayBoysTube] Jamie Durrell - Muscle Twinks Anal & Facial,https://media.gayboystube.com/videos/5/b/c/7/c/5bc7c2dbc2407.mp4
-[GayBoysTube] Next door Boys Porn get some fun together,https://media.gayboystube.com/videos/5/f/8/d/f/5f8df51d52377.mp4
-[GayBoysTube] Slutty bottom,https://media.gayboystube.com/videos/5/b/e/4/4/5be4434898e3e.mp4
-[GayBoysTube] First anal,https://media.gayboystube.com/videos/5/b/c/2/9/5bc299bcdd37e.mp4
-[1 Boys] 8TB Gay twink scene,https://1boyz.com/contents/videos/0/967/967.mp4
-[GayBoysTube] No taboo,https://media.gayboystube.com/videos/6/0/0/0/6/600062472fbf5.mp4
-[GayBoysTube] Hung blonde tops twink,https://media.gayboystube.com/videos/5/f/3/9/5/5f39576457bf7.mp4
-[GayBoysTube] Satisfy garden boys,https://media.gayboystube.com/videos/6/2/7/3/8/627381769b908.mp4
-[GayBoysTube] Action Two Blond Boys memories of college,https://media.gayboystube.com/videos/6/1/e/7/a/61e7ac3f832e9.mp4
-[GayBoysTube] A helping hand,https://media.gayboystube.com/videos/6/1/e/2/3/61e236756962f.mp4
-[GayBoysTube] Shurik and Andru,https://media.gayboystube.com/videos/6/2/3/e/b/623eb2a1b0e4e.mp4
-[1 Boys] Swiss blond boys,https://media.gayboystube.com/videos/6/1/9/c/6/619c65b660770.mp4
-DR wolf and Austin in hotel,https://media.gayboystube.com/videos/6/0/e/9/e/60e9efaef1cdc.mp4
-Bathroom boys,https://media.gayboystube.com/videos/6/0/0/3/c/6003cb2d13005.mp4
-Superboy got jerked,https://media.gayboystube.com/videos/5/f/a/a/c/5faac4a3f1518.mp4
-Boys deeply,https://media.gayboystube.com/videos/6/2/b/0/0/62b00e9be4028.mp4
-Lets do it,https://media.gayboystube.com/videos/6/2/b/0/2/62b029a90197c.mp4
-Shopping boys,https://media.gayboystube.com/videos/6/2/b/0/2/62b02789b90d5.mp4
-Left a note,https://media.gayboystube.com/videos/6/2/a/9/6/62a969ff4faca.mp4
-Nerdy friends,https://media.gayboystube.com/videos/6/2/a/7/f/62a7f48e94238.mp4
-Danish boys,https://media.gayboystube.com/videos/6/2/a/a/5/62aa5c0d85307.mp4
-School vacation boys,https://media.gayboystube.com/videos/6/2/a/b/e/62abe25ee8545.mp4
-[GayBoysTube] Fuck me raw,https://media.gayboystube.com/videos/6/2/7/1/d/6271df2076b74.mp4
-[1 Boys] Brent and Brent Classics,https://media.gayboystube.com/videos/6/2/7/7/e/6277ea5151c0c.mp4
-[GayBoysTube] Take it like a bitch boy,https://media.gayboystube.com/videos/5/f/d/4/2/5fd428c2b96d9.mp4
-[GayBoysTube] Twinks crave monster cock,https://media.gayboystube.com/videos/6/2/5/f/4/625f4f14ca83d.mp4
-[GayBoysTube] Deep in the woods,https://media.gayboystube.com/videos/6/1/d/7/7/61d77f00e26c7.mp4
-[GayBoysTube] Soccer twinks,https://media.gayboystube.com/videos/6/2/4/1/5/62415c399f112.mp4
-[GayBoysTube] Bare Chat,https://media.gayboystube.com/videos/5/d/4/b/9/5d4b9ff8aae66.mp4
-[GayBoysTube] Bare scouts adventures,https://media.gayboystube.com/videos/6/1/c/7/6/61c76fc1ed9bd.mp4
-[GayBoysTube] Teachers story,https://media.gayboystube.com/videos/6/1/9/9/4/6199427280764.mp4
-[GayBoysTube] Raw study break,https://media.gayboystube.com/videos/6/2/4/3/5/6243511a9f64c.mp4
-[GayBoysTube] Bare study buddies,https://media.gayboystube.com/videos/6/1/e/f/0/61ef021cabbd5.mp4
-[GayBoysTube] Tamed,https://media.gayboystube.com/videos/6/2/7/3/1/62731e2c30d58.mp4
-[GayBoysTube] Partyboy,https://media.gayboystube.com/videos/6/2/6/c/a/626cac3d009cd.mp4
-[GayBoysTube] Straightboy,https://media.gayboystube.com/videos/6/1/b/a/c/61bac42b8b5b5.mp4
-[GayBoysTube] Virgin sinners,https://media.gayboystube.com/videos/6/1/7/0/8/61708b8eddb55.mp4
-[GayBoysTube] Playful twinks,https://media.gayboystube.com/videos/6/2/7/4/6/627462e8c763a.mp4
-[GayBoysTube] Virgin Sinners,https://media.gayboystube.com/videos/6/2/8/0/1/62801140ebdbb.mp4
-[GayBoysTube] Gay Flat Mates,https://media.gayboystube.com/videos/6/2/7/c/6/627c69c6ef990.mp4
-[GayBoysTube] Sexy Twinks,https://media.gayboystube.com/videos/6/2/4/8/1/62481ef779ad3.mp4
-[GayBoysTube] Home Lover,https://media.gayboystube.com/videos/5/f/c/1/2/5fc1262085eb9.mp4
-[GayBoysTube] Haunted holes,https://media.gayboystube.com/videos/6/2/8/3/f/6283f41955b3c.mp4
-[GayBoysTube] Peeping twinks,https://media.gayboystube.com/videos/6/2/6/8/a/6268a1677e870.mp4
-[GayBoysTube] Bigger by the fucking dozen,https://media.gayboystube.com/videos/6/2/6/9/9/6269958d26a34.mp4
-[GayBoysTube] Emo twinks starring,https://media.gayboystube.com/videos/6/1/2/4/a/6124a279116c2.mp4
-[GayBoysTube] Cum Delivery,https://media.gayboystube.com/videos/6/2/6/f/5/626f57adce03a.mp4
-[GayBoysTube] Wild Twinks,https://media.gayboystube.com/videos/6/2/8/5/c/6285cbd92eefd.mp4
-[GayBoysTube] Filthy twinks,https://media.gayboystube.com/videos/6/2/9/1/5/62915e97d010f.mp4
-[GayBoysTube] Raw cum eaters,https://media.gayboystube.com/videos/6/2/8/7/1/62871325359b5.mp4
-[GayBoysTube] Teen boys try BB,https://media.gayboystube.com/videos/6/2/3/9/7/6239760601755.mp4
-[GayBoysTube] 18th birthday fuckfest,https://media.gayboystube.com/videos/6/1/f/9/4/61f94df4e1515.mp4
-[GayBoysTube] brit scally boys,https://media.gayboystube.com/videos/6/1/f/6/b/61f6b25f5ee34.mp4
-[GayBoysTube] mutch bareback boys,https://media.gayboystube.com/videos/5/f/a/1/a/5fa1ac0e064e1.mp4
-[GayBoysTube] Winter break,https://media.gayboystube.com/videos/5/f/c/6/4/5fc64e906a5b5.mp4
-[GayBoysTube] Raging boners,https://media.gayboystube.com/videos/6/2/6/4/3/6264394cca9e6.mp4
-[GayBoysTube] Big dick rider,https://media.gayboystube.com/videos/6/2/4/9/f/6249fcdd3a24a.mp4
-[GayBoysTube] Triple Whammy,https://media.gayboystube.com/videos/6/2/2/c/c/622cc8695c164.mp4
-[GayBoysTube] Cheating boyfriends,https://media.gayboystube.com/videos/6/1/1/1/6/61116d1342224.mp4
-Scout camps,https://media.gayboystube.com/videos/6/0/4/3/b/6043be6a4e2f1.mp4
-All about the gape,https://media.gayboystube.com/videos/6/2/9/7/e/6297e0c3a72ea.mp4
-My boyfriend is gay 8,https://media.gayboystube.com/videos/5/f/b/6/b/5fb6b87d2b99c.mp4
-Cruising gay,https://media.gayboystube.com/videos/6/2/8/8/1/62881b54b88cd.mp4
-Perve over my mate,https://media.gayboystube.com/videos/6/2/6/8/9/62689ac39735d.mp4
-Houseboat adventure,https://media.gayboystube.com/videos/6/1/c/e/1/61ce1931b6947.mp4
-Romantic lover,https://media.gayboystube.com/videos/5/f/6/6/2/5f662105157d2.mp4
-Best of Jessie two,https://media.gayboystube.com/videos/6/2/7/7/d/6277daf0eb098.mp4
-Testing newbies,https://media.gayboystube.com/videos/6/1/1/e/b/611eba1dee8f0.mp4
-Exam hole,https://media.gayboystube.com/videos/6/0/f/9/7/60f97c7570166.mp4
-Slamin twinks,https://media.gayboystube.com/videos/6/0/d/0/d/60d0d7245af9f.mp4
-Schoolboys sodomy,https://media.gayboystube.com/videos/6/1/e/d/5/61ed54064e3cb.mp4
-[GayBoysTube] Censored,https://media.gayboystube.com/videos/6/2/5/f/e/625fe953a6af5.mp4
-[GayBoysTube] Bare Scare,https://media.gayboystube.com/videos/6/2/3/1/3/6231394c6ad6b.mp4
-[GayBoysTube] Forced in forest,https://media.gayboystube.com/videos/6/0/e/4/8/60e48ce5c4084.mp4
-[GayBoysTube] Bareback Games,https://media.gayboystube.com/videos/6/2/2/9/5/62295a1a48c16.mp4
-[GayBoysTube] The bottoming desire,https://media.gayboystube.com/videos/6/2/1/4/3/6214304e7057e.mp4
-[GayBoysTube] Your cock is my cock,https://media.gayboystube.com/videos/6/2/7/7/e/6277ed7e18781.mp4
-[GayBoysTube] Step bro steps in,https://media.gayboystube.com/videos/6/2/7/3/4/62734dae494c9.mp4
-[GayBoysTube] Monster cocked legend,https://media.gayboystube.com/videos/6/2/6/b/6/626b62d779d60.mp4
-[GayBoysTube] George collection,https://media.gayboystube.com/videos/6/2/7/9/a/6279aeeaedb06.mp4
-[GayBoysTube] Bare Affairs,https://media.gayboystube.com/videos/5/f/7/2/0/5f7203a09977a.mp4
-[GayBoysTube] Bare Memories,https://media.gayboystube.com/videos/6/2/3/b/c/623bce95b90c9.mp4
-[GayBoysTube] Summer twinks,https://media.gayboystube.com/videos/6/0/e/2/e/60e2efdac6be3.mp4
-[GayBoysTube] Cum Dance,https://media.gayboystube.com/videos/6/2/8/8/6/62886272b709b.mp4
-[GayBoysTube] Teen Lovers,https://media.gayboystube.com/videos/6/2/8/a/8/628a89cd38182.mp4
-[GayBoysTube] Bare Delights,https://media.gayboystube.com/videos/5/f/d/c/e/5fdce75d577ea.mp4
-[GayBoysTube] Doctor Wolf fucking with his boys,https://media.gayboystube.com/videos/5/e/e/8/b/5ee8b69c13fc4.mp4
-[GayBoysTube] Bareback nights,https://media.gayboystube.com/videos/6/1/f/1/6/61f1686b2498b.mp4
-[GayBoysTube] Bareback POV,https://media.gayboystube.com/videos/6/1/3/f/5/613f57fdf05e7.mp4
-[GayBoysTube] Dirty Games,https://media.gayboystube.com/videos/6/1/1/0/4/6110475018cd8.mp4
-[GayBoysTube] Brother crush 8,https://media.gayboystube.com/videos/6/1/f/b/6/61fb60751fe74.mp4
-[GayBoysTube] Hung Jury,https://media.gayboystube.com/videos/6/1/b/f/8/61bf89c0d0e02.mp4
-Watermelons,https://media.gayboystube.com/videos/6/2/6/1/b/6261b2f6482bd.mp4
-Our gay secret,https://media.gayboystube.com/videos/6/2/a/1/4/62a145ad79fde.mp4
-Smooth rebels,https://media.gayboystube.com/videos/6/1/7/4/9/617492b520b83.mp4
-fight fuck club,https://media.gayboystube.com/videos/6/1/8/a/b/618ab858097d2.mp4
-Birthday mike,https://media.gayboystube.com/videos/6/1/b/2/4/61b24b277ef33.mp4
-Pajama party,https://media.gayboystube.com/videos/6/2/5/4/6/6254679a037a4.mp4
-Thats gonna hurt,https://media.gayboystube.com/videos/6/1/e/a/d/61ead0d6da432.mp4
-Recruit training,https://media.gayboystube.com/videos/6/1/c/2/3/61c238db1618d.mp4
-Barbeback football orgy,https://media.gayboystube.com/videos/6/1/e/a/d/61ead3cc56ecb.mp4
-Inches to spare,https://media.gayboystube.com/videos/6/1/d/2/0/61d20a6662a7b.mp4
-Dirty secrets,https://media.gayboystube.com/videos/6/1/1/9/3/61193be798606.mp4
-Talk nerdy to me,https://media.gayboystube.com/videos/6/1/1/f/f/611ff4c879534.mp4
-Bare lovers,https://media.gayboystube.com/videos/6/2/a/a/4/62aa4ad0387be.mp4
-
-🔞旋风加速_666,#genre#
-Tiny 4K - VOD 01,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-Tiny 4K - VOD 02,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-Tiny 4K - VOD 03,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-Tiny 4K - VOD 04,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-Tiny 4K - VOD 05,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-Tiny 4K - VOD 06,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-Tiny 4K - VOD 07,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-Tiny 4K - VOD 08,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-Tiny 4K - VOD 09,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
-Tiny 4K - VOD 10,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-Tiny 4K - VOD 11,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-Team Skeet - VOD 01 - Exxtra Small - Rissa Maxxx,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_rissa_maxxx_8minutes.mp4
-Team Skeet - VOD 02 - Adriana Lynn,http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_adriana_lynn_12minute.mp4
-Team Skeet - VOD 03 - Allison Banks,http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_allison_banks_12minute.mp4
-Team Skeet - VOD 04 - Amanda,http://tube.paperstreetcash.com/8mins/rubateen/rubateen_amanda_8minute.mp4
-Team Skeet - VOD 05 - Anabela,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_anabela_12minute.mp4
-Team Skeet - VOD 06 - Ariadna,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ariadna_12minute.mp4
-Team Skeet - VOD 07 - Ariana + Gabriella,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_ariana_and_gabriella_8minutes.mp4
-Team Skeet - VOD 08 - Chichi Medina,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
-Team Skeet - VOD 09 - Chloe Foster,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
-Team Skeet - VOD 10 - Dakota Skye,http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
-Team Skeet - VOD 11 - Demida,http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
-Team Skeet - VOD 12 - Dusya,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
-Team Skeet - VOD 13 - Gerta,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_gerta_12minute.mp4
-Team Skeet - VOD 14 - Irina,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ilina_12minute.mp4
-Team Skeet - VOD 15 - Jane,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_jane_12minute.mp4
-Team Skeet - VOD 16 - Lacie Channing,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_lacie_channing_8minutes.mp4
-Team Skeet - VOD 17 - Mirabella,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_mirabella_12minute.mp4
-Team Skeet - VOD 19 - Neona,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_neona_12minute.mp4
-Team Skeet - VOD 20 - Sara Luvv,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_sara_luvv_8minutes.mp4
-Team Skeet - VOD 21 - Sasha,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_sasha_12minute.mp4
-Brazzers - VOD 001,http://static.brazzers.com/scenes/3351/180sec.flv
-Brazzers - VOD 002,http://static.brazzers.com/scenes/3352/180sec.flv
-Brazzers - VOD 003,http://static.brazzers.com/scenes/3353/180sec.flv
-Brazzers - VOD 004,http://static.brazzers.com/scenes/3354/180sec.flv
-Brazzers - VOD 005,http://static.brazzers.com/scenes/3355/180sec.flv
-Brazzers - VOD 006,http://static.brazzers.com/scenes/3356/180sec.flv
-Brazzers - VOD 007,http://static.brazzers.com/scenes/3357/180sec.flv
-Brazzers - VOD 008,http://static.brazzers.com/scenes/3358/180sec.flv
-Brazzers - VOD 009,http://static.brazzers.com/scenes/3359/180sec.flv
-Brazzers - VOD 010,http://static.brazzers.com/scenes/3360/180sec.flv
-Brazzers - VOD 011,http://static.brazzers.com/scenes/3361/180sec.flv
-Brazzers - VOD 012,http://static.brazzers.com/scenes/3362/180sec.flv
-Brazzers - VOD 013,http://static.brazzers.com/scenes/3489/180sec.flv
-Brazzers - VOD 014,http://static.brazzers.com/scenes/3488/180sec.flv
-Brazzers - VOD 015,http://static.brazzers.com/scenes/3365/180sec.flv
-Brazzers - VOD 016,http://static.brazzers.com/scenes/3366/180sec.flv
-Brazzers - VOD 017,http://static.brazzers.com/scenes/3367/180sec.flv
-Brazzers - VOD 018,http://static.brazzers.com/scenes/3368/180sec.flv
-Brazzers - VOD 019,http://static.brazzers.com/scenes/3369/180sec.flv
-Brazzers - VOD 020,http://static.brazzers.com/scenes/3487/180sec.flv
-Brazzers - VOD 021,http://static.brazzers.com/scenes/3371/180sec.flv
-Brazzers - VOD 022,http://static.brazzers.com/scenes/3372/180sec.flv
-Brazzers - VOD 023,http://static.brazzers.com/scenes/3373/180sec.flv
-Brazzers - VOD 024,http://static.brazzers.com/scenes/3374/180sec.flv
-Brazzers - VOD 025,http://static.brazzers.com/scenes/3375/180sec.flv
-Brazzers - VOD 026,http://static.brazzers.com/scenes/3376/180sec.flv
-Brazzers - VOD 027,http://static.brazzers.com/scenes/3377/180sec.flv
-Brazzers - VOD 028,http://static.brazzers.com/scenes/3378/180sec.flv
-Brazzers - VOD 029,http://static.brazzers.com/scenes/3379/180sec.flv
-Brazzers - VOD 030,http://static.brazzers.com/scenes/3380/180sec.flv
-Brazzers - VOD 031,http://static.brazzers.com/scenes/3381/180sec.flv
-Brazzers - VOD 032,http://static.brazzers.com/scenes/3382/180sec.flv
-Brazzers - VOD 033,http://static.brazzers.com/scenes/3383/180sec.flv
-Brazzers - VOD 034,http://static.brazzers.com/scenes/3384/180sec.flv
-Brazzers - VOD 035,http://static.brazzers.com/scenes/3385/180sec.flv
-Brazzers - VOD 036,http://static.brazzers.com/scenes/3386/180sec.flv
-Brazzers - VOD 037,http://static.brazzers.com/scenes/3387/180sec.flv
-Brazzers - VOD 038,http://static.brazzers.com/scenes/3388/180sec.flv
-Brazzers - VOD 039,http://static.brazzers.com/scenes/3485/180sec.flv
-Brazzers - VOD 040,http://static.brazzers.com/scenes/3389/180sec.flv
-Brazzers - VOD 041,http://static.brazzers.com/scenes/3390/180sec.flv
-Brazzers - VOD 042,http://static.brazzers.com/scenes/3391/180sec.flv
-Brazzers - VOD 043,http://static.brazzers.com/scenes/3392/180sec.flv
-Brazzers - VOD 044,http://static.brazzers.com/scenes/3393/180sec.flv
-Brazzers - VOD 045,http://static.brazzers.com/scenes/3394/180sec.flv
-Brazzers - VOD 046,http://static.brazzers.com/scenes/3395/180sec.flv
-Brazzers - VOD 047,http://static.brazzers.com/scenes/3396/180sec.flv
-Brazzers - VOD 048,http://static.brazzers.com/scenes/3397/180sec.flv
-Brazzers - VOD 049,http://static.brazzers.com/scenes/3398/180sec.flv
-Brazzers - VOD 050,http://static.brazzers.com/scenes/3483/180sec.flv
-Brazzers - VOD 051,http://static.brazzers.com/scenes/3400/180sec.flv
-Brazzers - VOD 052,http://static.brazzers.com/scenes/3401/180sec.flv
-Brazzers - VOD 053,http://static.brazzers.com/scenes/3402/180sec.flv
-Brazzers - VOD 054,http://static.brazzers.com/scenes/3482/180sec.flv
-Brazzers - VOD 055,http://static.brazzers.com/scenes/3404/180sec.flv
-Brazzers - VOD 056,http://static.brazzers.com/scenes/3405/180sec.flv
-Brazzers - VOD 057,http://static.brazzers.com/scenes/3406/180sec.flv
-Brazzers - VOD 058,http://static.brazzers.com/scenes/3407/180sec.flv
-Brazzers - VOD 059,http://static.brazzers.com/scenes/3408/180sec.flv
-Brazzers - VOD 060,http://static.brazzers.com/scenes/3409/180sec.flv
-Brazzers - VOD 061,http://static.brazzers.com/scenes/3410/180sec.flv
-Brazzers - VOD 062,http://static.brazzers.com/scenes/3411/180sec.flv
-Brazzers - VOD 063,http://static.brazzers.com/scenes/3412/180sec.flv
-Brazzers - VOD 064,http://static.brazzers.com/scenes/3413/180sec.flv
-Brazzers - VOD 065,http://static.brazzers.com/scenes/3414/180sec.flv
-Brazzers - VOD 066,http://static.brazzers.com/scenes/3415/180sec.flv
-Brazzers - VOD 067,http://static.brazzers.com/scenes/3416/180sec.flv
-Brazzers - VOD 068,http://static.brazzers.com/scenes/3417/180sec.flv
-Brazzers - VOD 069,http://static.brazzers.com/scenes/3418/180sec.flv
-Brazzers - VOD 070,http://static.brazzers.com/scenes/3419/180sec.flv
-Brazzers - VOD 071,http://static.brazzers.com/scenes/3420/180sec.flv
-Brazzers - VOD 072,http://static.brazzers.com/scenes/3421/180sec.flv
-Brazzers - VOD 073,http://static.brazzers.com/scenes/3422/180sec.flv
-Brazzers - VOD 074,http://static.brazzers.com/scenes/3423/180sec.flv
-Brazzers - VOD 075,http://static.brazzers.com/scenes/3424/180sec.flv
-Brazzers - VOD 076,http://static.brazzers.com/scenes/3425/180sec.flv
-Brazzers - VOD 077,http://static.brazzers.com/scenes/3426/180sec.flv
-Brazzers - VOD 078,http://static.brazzers.com/scenes/3427/180sec.flv
-Brazzers - VOD 079,http://static.brazzers.com/scenes/3428/180sec.flv
-Brazzers - VOD 080,http://static.brazzers.com/scenes/3429/180sec.flv
-Brazzers - VOD 081,http://static.brazzers.com/scenes/3430/180sec.flv
-Brazzers - VOD 082,http://static.brazzers.com/scenes/3431/180sec.flv
-Brazzers - VOD 083,http://static.brazzers.com/scenes/3432/180sec.flv
-Brazzers - VOD 084,http://static.brazzers.com/scenes/3433/180sec.flv
-Brazzers - VOD 085,http://static.brazzers.com/scenes/3434/180sec.flv
-Brazzers - VOD 086,http://static.brazzers.com/scenes/3435/180sec.flv
-Brazzers - VOD 087,http://static.brazzers.com/scenes/3436/180sec.flv
-Brazzers - VOD 088,http://static.brazzers.com/scenes/3437/180sec.flv
-Brazzers - VOD 089,http://static.brazzers.com/scenes/3438/180sec.flv
-Brazzers - VOD 090,http://static.brazzers.com/scenes/3439/180sec.flv
-Brazzers - VOD 091,http://static.brazzers.com/scenes/3440/180sec.flv
-Brazzers - VOD 092,http://static.brazzers.com/scenes/3441/180sec.flv
-Brazzers - VOD 093,http://static.brazzers.com/scenes/3442/180sec.flv
-Brazzers - VOD 094,http://static.brazzers.com/scenes/3443/180sec.flv
-Brazzers - VOD 095,http://static.brazzers.com/scenes/3444/180sec.flv
-Brazzers - VOD 096,http://static.brazzers.com/scenes/3445/180sec.flv
-Brazzers - VOD 097,http://static.brazzers.com/scenes/3446/180sec.flv
-Brazzers - VOD 098,http://static.brazzers.com/scenes/3447/180sec.flv
-Brazzers - VOD 099,http://static.brazzers.com/scenes/3448/180sec.flv
-Brazzers - VOD 100,http://static.brazzers.com/scenes/3449/180sec.flv
-Brazzers - VOD 101,http://static.brazzers.com/scenes/3450/180sec.flv
-Brazzers - VOD 102,http://static.brazzers.com/scenes/3451/180sec.flv
-Brazzers - VOD 103,http://static.brazzers.com/scenes/3481/180sec.flv
-Brazzers - VOD 104,http://static.brazzers.com/scenes/3453/180sec.flv
-Brazzers - VOD 105,http://static.brazzers.com/scenes/3454/180sec.flv
-Brazzers - VOD 106,http://static.brazzers.com/scenes/3455/180sec.flv
-Brazzers - VOD 107,http://static.brazzers.com/scenes/3480/180sec.flv
-Brazzers - VOD 108,http://static.brazzers.com/scenes/3479/180sec.flv
-Brazzers - VOD 109,http://static.brazzers.com/scenes/3458/180sec.flv
-Brazzers - VOD 110,http://static.brazzers.com/scenes/3459/180sec.flv
-Brazzers - VOD 111,http://static.brazzers.com/scenes/3460/180sec.flv
-Brazzers - VOD 112,http://static.brazzers.com/scenes/3461/180sec.flv
-Brazzers - VOD 113,http://static.brazzers.com/scenes/3462/180sec.flv
-Brazzers - VOD 114,http://static.brazzers.com/scenes/3463/180sec.flv
-Brazzers - VOD 115,http://static.brazzers.com/scenes/3478/180sec.flv
-Brazzers - VOD 116,http://static.brazzers.com/scenes/3465/180sec.flv
-Brazzers - VOD 117,http://static.brazzers.com/scenes/3350/180sec.flv
-Brazzers - VOD 118,http://static.brazzers.com/scenes/3291/180sec.flv
-Brazzers - VOD 119,http://static.brazzers.com/scenes/3292/180sec.flv
-Brazzers - VOD 120,http://static.brazzers.com/scenes/3293/180sec.flv
-Brazzers - VOD 121,http://static.brazzers.com/scenes/3294/180sec.flv
-Brazzers - VOD 122,http://static.brazzers.com/scenes/3295/180sec.flv
-Brazzers - VOD 123,http://static.brazzers.com/scenes/3296/180sec.flv
-Brazzers - VOD 124,http://static.brazzers.com/scenes/3297/180sec.flv
-Brazzers - VOD 125,http://static.brazzers.com/scenes/3298/180sec.flv
-Brazzers - VOD 126,http://static.brazzers.com/scenes/3477/180sec.flv
-Brazzers - VOD 127,http://static.brazzers.com/scenes/3300/180sec.flv
-Brazzers - VOD 128,http://static.brazzers.com/scenes/3301/180sec.flv
-Brazzers - VOD 129,http://static.brazzers.com/scenes/3302/180sec.flv
-Brazzers - VOD 130,http://static.brazzers.com/scenes/3303/180sec.flv
-Brazzers - VOD 131,http://static.brazzers.com/scenes/3304/180sec.flv
-Brazzers - VOD 132,http://static.brazzers.com/scenes/3305/180sec.flv
-Brazzers - VOD 133,http://static.brazzers.com/scenes/3306/180sec.flv
-Brazzers - VOD 134,http://static.brazzers.com/scenes/3307/180sec.flv
-Brazzers - VOD 135,http://static.brazzers.com/scenes/3308/180sec.flv
-Brazzers - VOD 136,http://static.brazzers.com/scenes/3309/180sec.flv
-Brazzers - VOD 137,http://static.brazzers.com/scenes/3310/180sec.flv
-Brazzers - VOD 138,http://static.brazzers.com/scenes/3311/180sec.flv
-Brazzers - VOD 139,http://static.brazzers.com/scenes/3312/180sec.flv
-Brazzers - VOD 140,http://static.brazzers.com/scenes/3313/180sec.flv
-Brazzers - VOD 141,http://static.brazzers.com/scenes/3314/180sec.flv
-Brazzers - VOD 142,http://static.brazzers.com/scenes/3315/180sec.flv
-Brazzers - VOD 143,http://static.brazzers.com/scenes/3316/180sec.flv
-Brazzers - VOD 144,http://static.brazzers.com/scenes/3317/180sec.flv
-Brazzers - VOD 145,http://static.brazzers.com/scenes/3318/180sec.flv
-Brazzers - VOD 146,http://static.brazzers.com/scenes/3475/180sec.flv
-Brazzers - VOD 147,http://static.brazzers.com/scenes/3474/180sec.flv
-Brazzers - VOD 148,http://static.brazzers.com/scenes/3321/180sec.flv
-Brazzers - VOD 149,http://static.brazzers.com/scenes/3471/180sec.flv
-Brazzers - VOD 150,http://static.brazzers.com/scenes/3323/180sec.flv
-Brazzers - VOD 151,http://static.brazzers.com/scenes/3324/180sec.flv
-Brazzers - VOD 152,http://static.brazzers.com/scenes/3325/180sec.flv
-Brazzers - VOD 153,http://static.brazzers.com/scenes/3326/180sec.flv
-Brazzers - VOD 154,http://static.brazzers.com/scenes/3327/180sec.flv
-Brazzers - VOD 155,http://static.brazzers.com/scenes/3328/180sec.flv
-Brazzers - VOD 156,http://static.brazzers.com/scenes/3469/180sec.flv
-Brazzers - VOD 157,http://static.brazzers.com/scenes/3330/180sec.flv
-Brazzers - VOD 158,http://static.brazzers.com/scenes/3331/180sec.flv
-Brazzers - VOD 159,http://static.brazzers.com/scenes/3332/180sec.flv
-Brazzers - VOD 160,http://static.brazzers.com/scenes/3333/180sec.flv
-Brazzers - VOD 161,http://static.brazzers.com/scenes/3334/180sec.flv
-Brazzers - VOD 162,http://static.brazzers.com/scenes/3335/180sec.flv
-Brazzers - VOD 163,http://static.brazzers.com/scenes/3336/180sec.flv
-Brazzers - VOD 164,http://static.brazzers.com/scenes/3337/180sec.flv
-Brazzers - VOD 165,http://static.brazzers.com/scenes/3338/180sec.flv
-Brazzers - VOD 166,http://static.brazzers.com/scenes/3339/180sec.flv
-Brazzers - VOD 167,http://static.brazzers.com/scenes/3340/180sec.flv
-Brazzers - VOD 168,http://static.brazzers.com/scenes/3468/180sec.flv
-Brazzers - VOD 169,http://static.brazzers.com/scenes/3342/180sec.flv
-Brazzers - VOD 170,http://static.brazzers.com/scenes/3343/180sec.flv
-Brazzers - VOD 171,http://static.brazzers.com/scenes/3344/180sec.flv
-Brazzers - VOD 172,http://static.brazzers.com/scenes/3345/180sec.flv
-Brazzers - VOD 173,http://static.brazzers.com/scenes/3466/180sec.flv
-Brazzers - VOD 174,http://static.brazzers.com/scenes/3347/180sec.flv
-Brazzers - VOD 175,http://static.brazzers.com/scenes/3348/180sec.flv
-Brazzers - VOD 176,http://static.brazzers.com/scenes/3349/180sec.flv
-Brazzers - VOD 177,http://static.brazzers.com/scenes/3490/180sec.flv
-Brazzers - VOD 178,http://static.brazzers.com/scenes/3491/180sec.flv
-Brazzers - VOD 179,http://static.brazzers.com/scenes/3492/180sec.flv
-Brazzers - VOD 180,http://static.brazzers.com/scenes/3493/180sec.flv
-Brazzers - VOD 181,http://static.brazzers.com/scenes/3494/180sec.flv
-Brazzers - VOD 182,http://static.brazzers.com/scenes/3495/180sec.flv
-Brazzers - VOD 183,http://static.brazzers.com/scenes/3496/180sec.flv
-Brazzers - VOD 184,http://static.brazzers.com/scenes/3497/180sec.flv
-Brazzers - VOD 185,http://static.brazzers.com/scenes/3498/180sec.flv
-Brazzers - VOD 186,http://static.brazzers.com/scenes/3499/180sec.flv
-Brazzers - VOD 187,http://static.brazzers.com/scenes/3500/180sec.flv
-Brazzers - VOD 188,http://static.brazzers.com/scenes/3501/180sec.flv
-Brazzers - VOD 189,http://static.brazzers.com/scenes/3503/180sec.flv
-Brazzers - VOD 190,http://static.brazzers.com/scenes/3504/180sec.flv
-Brazzers - VOD 191,http://static.brazzers.com/scenes/3505/180sec.flv
-Brazzers - VOD 192,http://static.brazzers.com/scenes/3507/180sec.flv
-Brazzers - VOD 193,http://static.brazzers.com/scenes/3508/180sec.flv
-Brazzers - VOD 194,http://static.brazzers.com/scenes/3509/180sec.flv
-Brazzers - VOD 195,http://static.brazzers.com/scenes/3510/180sec.flv
-Brazzers - VOD 196,http://static.brazzers.com/scenes/3511/180sec.flv
-Brazzers - VOD 197,http://static.brazzers.com/scenes/3512/180sec.flv
-Brazzers - VOD 198,http://static.brazzers.com/scenes/3513/180sec.flv
-Brazzers - VOD 199,http://static.brazzers.com/scenes/3514/180sec.flv
-Brazzers - VOD 200,http://static.brazzers.com/scenes/3515/180sec.flv
-Brazzers - VOD 201,http://static.brazzers.com/scenes/3516/180sec.flv
-Brazzers - VOD 202,http://static.brazzers.com/scenes/3517/180sec.flv
-Brazzers - VOD 203,http://static.brazzers.com/scenes/3518/180sec.flv
-Brazzers - VOD 204,http://static.brazzers.com/scenes/3520/180sec.flv
-Brazzers - VOD 205,http://static.brazzers.com/scenes/3521/180sec.flv
-Brazzers - VOD 206,http://static.brazzers.com/scenes/3522/180sec.flv
-Brazzers - VOD 207,http://static.brazzers.com/scenes/3526/180sec.flv
-Brazzers - VOD 208,http://static.brazzers.com/scenes/3527/180sec.flv
-Brazzers - VOD 209,http://static.brazzers.com/scenes/3528/180sec.flv
-Brazzers - VOD 210,http://static.brazzers.com/scenes/3529/180sec.flv
-Brazzers - VOD 211,http://static.brazzers.com/scenes/3530/180sec.flv
-Brazzers - VOD 212,http://static.brazzers.com/scenes/3531/180sec.flv
-Brazzers - VOD 213,http://static.brazzers.com/scenes/3534/180sec.flv
-Brazzers - VOD 214,http://static.brazzers.com/scenes/3535/180sec.flv
-Brazzers - VOD 215,http://static.brazzers.com/scenes/3536/180sec.flv
-Brazzers - VOD 216,http://static.brazzers.com/scenes/3537/180sec.flv
-Brazzers - VOD 217,http://static.brazzers.com/scenes/3538/180sec.flv
-Brazzers - VOD 218,http://static.brazzers.com/scenes/3539/180sec.flv
-Brazzers - VOD 219,http://static.brazzers.com/scenes/3540/180sec.flv
-Brazzers - VOD 220,http://static.brazzers.com/scenes/3541/180sec.flv
-Brazzers - VOD 221,http://static.brazzers.com/scenes/3542/180sec.flv
-Brazzers - VOD 222,http://static.brazzers.com/scenes/3543/180sec.flv
-Brazzers - VOD 223,http://static.brazzers.com/scenes/3544/180sec.flv
-Brazzers - VOD 224,http://static.brazzers.com/scenes/3545/180sec.flv
-Brazzers - VOD 225,http://static.brazzers.com/scenes/3546/180sec.flv
-Brazzers - VOD 226,http://static.brazzers.com/scenes/7119/180sec.flv
-Brazzers - VOD 227,http://static.brazzers.com/scenes/3547/180sec.flv
-Brazzers - VOD 228,http://static.brazzers.com/scenes/3548/180sec.flv
-Brazzers - VOD 229,http://static.brazzers.com/scenes/3549/180sec.flv
-Brazzers - VOD 230,http://static.brazzers.com/scenes/3550/180sec.flv
-Brazzers - VOD 231,http://static.brazzers.com/scenes/3551/180sec.flv
-Brazzers - VOD 232,http://static.brazzers.com/scenes/3552/180sec.flv
-Brazzers - VOD 233,http://static.brazzers.com/scenes/3553/180sec.flv
-Brazzers - VOD 234,http://static.brazzers.com/scenes/3554/180sec.flv
-Brazzers - VOD 235,http://static.brazzers.com/scenes/3555/180sec.flv
-Brazzers - VOD 236,http://static.brazzers.com/scenes/3556/180sec.flv
-Brazzers - VOD 237,http://static.brazzers.com/scenes/3557/180sec.flv
-Brazzers - VOD 238,http://static.brazzers.com/scenes/3558/180sec.flv
-Brazzers - VOD 239,http://static.brazzers.com/scenes/3559/180sec.flv
-Brazzers - VOD 240,http://static.brazzers.com/scenes/3560/180sec.flv
-Brazzers - VOD 241,http://static.brazzers.com/scenes/3561/180sec.flv
-Brazzers - VOD 242,http://static.brazzers.com/scenes/3562/180sec.flv
-Brazzers - VOD 243,http://static.brazzers.com/scenes/3563/180sec.flv
-Brazzers - VOD 244,http://static.brazzers.com/scenes/3564/180sec.flv
-Brazzers - VOD 245,http://static.brazzers.com/scenes/3565/180sec.flv
-Brazzers - VOD 246,http://static.brazzers.com/scenes/3566/180sec.flv
-Brazzers - VOD 247,http://static.brazzers.com/scenes/3567/180sec.flv
-Brazzers - VOD 248,http://static.brazzers.com/scenes/3568/180sec.flv
-Brazzers - VOD 249,http://static.brazzers.com/scenes/3569/180sec.flv
-Brazzers - VOD 250,http://static.brazzers.com/scenes/3570/180sec.flv
-Brazzers - VOD 251,http://static.brazzers.com/scenes/3571/180sec.flv
-Brazzers - VOD 252,http://static.brazzers.com/scenes/3572/180sec.flv
-Brazzers - VOD 253,http://static.brazzers.com/scenes/3573/180sec.flv
-Brazzers - VOD 254,http://static.brazzers.com/scenes/3575/180sec.flv
-Brazzers - VOD 255,http://static.brazzers.com/scenes/3576/180sec.flv
-Brazzers - VOD 256,http://static.brazzers.com/scenes/3577/180sec.flv
-Brazzers - VOD 257,http://static.brazzers.com/scenes/3586/180sec.flv
-Brazzers - VOD 258,http://static.brazzers.com/scenes/3588/180sec.flv
-Brazzers - VOD 259,http://static.brazzers.com/scenes/3589/180sec.flv
-Brazzers - VOD 260,http://static.brazzers.com/scenes/3590/180sec.flv
-Brazzers - VOD 261,http://static.brazzers.com/scenes/3591/180sec.flv
-Brazzers - VOD 262,http://static.brazzers.com/scenes/3592/180sec.flv
-Brazzers - VOD 263,http://static.brazzers.com/scenes/3593/180sec.flv
-Brazzers - VOD 264,http://static.brazzers.com/scenes/3594/180sec.flv
-Brazzers - VOD 265,http://static.brazzers.com/scenes/3595/180sec.flv
-Brazzers - VOD 266,http://static.brazzers.com/scenes/3596/180sec.flv
-Brazzers - VOD 267,http://static.brazzers.com/scenes/3597/180sec.flv
-Brazzers - VOD 268,http://static.brazzers.com/scenes/3598/180sec.flv
-Brazzers - VOD 269,http://static.brazzers.com/scenes/3599/180sec.flv
-Brazzers - VOD 270,http://static.brazzers.com/scenes/3600/180sec.flv
-Brazzers - VOD 271,http://static.brazzers.com/scenes/3601/180sec.flv
-Brazzers - VOD 272,http://static.brazzers.com/scenes/3602/180sec.flv
-Brazzers - VOD 273,http://static.brazzers.com/scenes/3603/180sec.flv
-Brazzers - VOD 274,http://static.brazzers.com/scenes/3604/180sec.flv
-Brazzers - VOD 275,http://static.brazzers.com/scenes/3605/180sec.flv
-Brazzers - VOD 276,http://static.brazzers.com/scenes/3606/180sec.flv
-Brazzers - VOD 277,http://static.brazzers.com/scenes/3607/180sec.flv
-Brazzers - VOD 278,http://static.brazzers.com/scenes/3608/180sec.flv
-Brazzers - VOD 279,http://static.brazzers.com/scenes/3609/180sec.flv
-Brazzers - VOD 280,http://static.brazzers.com/scenes/3610/180sec.flv
-Brazzers - VOD 281,http://static.brazzers.com/scenes/3611/180sec.flv
-Brazzers - VOD 282,http://static.brazzers.com/scenes/3612/180sec.flv
-Brazzers - VOD 283,http://static.brazzers.com/scenes/3613/180sec.flv
-Brazzers - VOD 284,http://static.brazzers.com/scenes/3614/180sec.flv
-Brazzers - VOD 285,http://static.brazzers.com/scenes/3615/180sec.flv
-Brazzers - VOD 286,http://static.brazzers.com/scenes/3616/180sec.flv
-Brazzers - VOD 287,http://static.brazzers.com/scenes/3617/180sec.flv
-Brazzers - VOD 288,http://static.brazzers.com/scenes/3619/180sec.flv
-Brazzers - VOD 289,http://static.brazzers.com/scenes/3620/180sec.flv
-Brazzers - VOD 290,http://static.brazzers.com/scenes/3621/180sec.flv
-Brazzers - VOD 291,http://static.brazzers.com/scenes/3622/180sec.flv
-Brazzers - VOD 292,http://static.brazzers.com/scenes/3623/180sec.flv
-Brazzers - VOD 293,http://static.brazzers.com/scenes/3625/180sec.flv
-Brazzers - VOD 294,http://static.brazzers.com/scenes/3626/180sec.flv
-Brazzers - VOD 295,http://static.brazzers.com/scenes/3627/180sec.flv
-Brazzers - VOD 296,http://static.brazzers.com/scenes/3628/180sec.flv
-Brazzers - VOD 297,http://static.brazzers.com/scenes/3629/180sec.flv
-Brazzers - VOD 298,http://static.brazzers.com/scenes/3630/180sec.flv
-Brazzers - VOD 299,http://static.brazzers.com/scenes/3631/180sec.flv
-Brazzers - VOD 300,http://static.brazzers.com/scenes/3632/180sec.flv
-Brazzers - VOD 301,http://static.brazzers.com/scenes/5457/180sec.flv
-A3Bikini TV,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
-FTV Midnight Secrets (SD),https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-FTV Midnight Secrets (HD),https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-FTV Midnight Secrets (UHD),http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-Miami TV,http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8?fluxuslust.m3u8
-Miami TV Live,http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
-Shemale Tube TV 1,http://www.ast.tv/stream/1/master.m3u8?fluxuslust.m3u8
-Shemale Tube TV 2,http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
-Visit-X TV (Opt-1),http://stream.visit-x.tv/vxtv/live/playlist.m3u8?fluxuslust.m3u8
-Visit-X TV (Opt-2),http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8?fluxuslust.m3u8
-Other - Seventeen Video 01,http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
-Other - Blacked.com - Two White Chicks,http://iptvnation.com/porn/video1080p.mp4
-Other - Yanks.com - Blonde Solo,http://iptvnation.com/porn/video.mp4
-Paradise Hill - VOD 054 - My Sexy Kittens 14 Part 1,https://v1.paradisehill.cc/video/5a48156599baa_My-Sexy-Kittens-14_part1.mp4
-Paradise Hill - VOD 055 - My Sexy Kittens 14 Part 2,https://v1.paradisehill.cc/video/5a48156599baa_My-Sexy-Kittens-14_part2.mp4
-Paradise Hill - VOD 056 - My Sexy Kittens 14 Part 3,https://v1.paradisehill.cc/video/5a48156599baa_My-Sexy-Kittens-14_part3.mp4
-Paradise Hill - VOD 057 - My Sexy Kittens 14 Part 4,https://v1.paradisehill.cc/video/5a48156599baa_My-Sexy-Kittens-14_part4.mp4
-Paradise Hill - VOD 058 - My Sexy Kittens 29 Part 1,https://v1.paradisehill.cc/video/5a48156599d26_My-Sexy-Kittens-29_part1.mp4
-Paradise Hill - VOD 059 - My Sexy Kittens 29 Part 2,https://v1.paradisehill.cc/video/5a48156599d26_My-Sexy-Kittens-29_part2.mp4
-Paradise Hill - VOD 060 - My Sexy Kittens 29 Part 3,https://v1.paradisehill.cc/video/5a48156599d26_My-Sexy-Kittens-29_part3.mp4
-Paradise Hill - VOD 061 - My Sexy Kittens 45 Part 1,https://v1.paradisehill.cc/video/5a481565ab853_Seventeen-My-Sexy-Kittens-45_part1.mp4
-Paradise Hill - VOD 062 - My Sexy Kittens 45 Part 2,https://v1.paradisehill.cc/video/5a481565ab853_Seventeen-My-Sexy-Kittens-45_part2.mp4
-Paradise Hill - VOD 063 - My Sexy Kittens 45 Part 3,https://v1.paradisehill.cc/video/5a481565ab853_Seventeen-My-Sexy-Kittens-45_part3.mp4
-Paradise Hill - VOD 064 - My Sexy Kittens 45 Part 4,https://v1.paradisehill.cc/video/5a481565ab853_Seventeen-My-Sexy-Kittens-45_part4.mp4
-Paradise Hill - VOD 065 - Hentai Inshitsu Otaku Ni Ikareru Kanojo 1 - 3,https://v1.paradisehill.cc/video/300415-1355-10_part1.mp4
-Paradise Hill - VOD 066 - Hentai Inshitsu Otaku Ni Ikareru Kanojo 1 - 3,https://v1.paradisehill.cc/video/300415-1355-12_part1.mp4
-Paradise Hill - VOD 067 - Hentai Inshitsu Otaku Ni Ikareru Kanojo 1 - 3,https://v1.paradisehill.cc/video/300415-1355-11_part1.mp4
-Paradise Hill - VOD 068 - Hentai The Animation: Honoo no Haramase Paidol My Star Gakuen Z Part 1,https://v1.paradisehill.cc/video/300415-1355-9_part1.mp4
-Paradise Hill - VOD 070 - Hentai Naruto: Love Ninja,https://v1.paradisehill.cc/video/naruto-love_ninja.mp4
-Paradise Hill - VOD 071 - Hentai Cosplay Sex Machine Part 1,https://v1.paradisehill.cc/video/5a481565e4aa7_Cosplay-Sex-Machine_part1.mp4
-Paradise Hill - VOD 072 - Hentai Cosplay Sex Machine Part 2,https://v1.paradisehill.cc/video/5a481565e4aa7_Cosplay-Sex-Machine_part2.mp4
-Porneq - VOD 01,http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
-Porneq - VOD 02,http://porneq.com/media/porn2/videos/904/Blonde-Hottie-Fucking-with-Asslicking-Front-Hidden-Webcam-Cumshot-on-Ass-360p-MuRBZyuxvaa.mp4
-Porneq - VOD 03,http://porneq.com/media/porn7/videos/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.mp4
-Porneq - VOD 06,http://porneq.com/media/porn7/videos/1876/Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-PIR-TE-Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-360p-FfBh6youF6y.mp4
-Fine Vids - VOD 01,http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4
-Fine Vids - VOD 02,http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4
-Fine Vids - VOD 03,http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4
-Fine Vids - VOD 04,http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4
-Fine Vids - VOD 05,http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
-Fine Vids - VOD 06,http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
