@@ -38,6 +38,19 @@ CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 五星體育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 五星體育,http://223.109.123.11/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星體育,http://183.204.192.173/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+爱尔达体育1台,P2p://generationnexxxt.com:9906/4e3174196c97404b93c900c8345829e6
+爱尔达体育2台,P2p://generationnexxxt.com:9906/6e40fb3903bc44f6a1177e38900cb6a8
+爱尔达体育3台,P2p://generationnexxxt.com:9906/23df327eab3c4ae2baf75251b7104512
+TRACE Sport Stars,P2p://generationnexxxt.com:9906/53641859f8124fc9b1d86a0a331fef41
+博斯高球,P2p://generationnexxxt.com:9906/e6ec39f26aed405fb2830aae1e47c267
+博斯高球二台,P2p://generationnexxxt.com:9906/5008062ce9c8465c84d2c61841520a35
+博斯网球台,P2p://generationnexxxt.com:9906/97cfb540e10b4bc79fa927d0dd12c0a6
+博斯魅力网,P2p://generationnexxxt.com:9906/d45f5e1669784f79bb08f9138fa15dd2
+博斯无限台,P2p://generationnexxxt.com:9906/81307e12da9f46c986560c133a2655d3
+博斯无限二台,P2p://generationnexxxt.com:9906/3765ec18172046eab2d98e1c79741e91
+博斯运动,P2p://generationnexxxt.com:9906/8fc3c2e8c30e45e79336ee673c65e858
+博斯运动二台,P2p://generationnexxxt.com:9906/a433a7eabc5942c08299614f893dc98c
+智林体育台,P2p://generationnexxxt.com:9906/da5a9cb4b0bb45f6b2d14bd05552acb7
 廣東體育,http://121.51.249.19/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 廣東體育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 廣東體育,http://120.84.96.73:808/hls/22/index.m3u8
@@ -411,53 +424,58 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 贵州衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8
 
 🇨🇳上海北京,#genre#
+東方衛視,http://58.34.204.67:9901/tsfile/live/0107_1.m3u8
 東方衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
 東方衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
-
+東方影視,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 東方影視,http://111.40.196.28/PLTV/88888888/224/3221225615/index.m3u8
+東方影視,http://117.136.154.205/0000000000001001/1/index.m3u8?Contentid=5000000010000032212&livemode=1&stbId=10&channel-id=bestzb
 
 東方財經,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 東方財經,http://112.25.48.70/live/program/live/dfcj/1300000/mnf.m3u8
-
+第一財經,http://58.34.204.67:9901/tsfile/live/1018_1.m3u8
 第一財經,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6617141658685778844&livemode=1&stbId=4
-
+上海都市,http://58.34.204.67:9901/tsfile/live/1017_1.m3u8
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海都市,http://112.25.48.69/live/program/live/ylpdhd/4000000/mnf.m3u8
 
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
-
+新聞综合,http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 新聞综合,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=7487426726248458200&livemode=1&stbId=4
-
+新聞综合,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+新聞综合,http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/d1.m3u8
+新聞综合,http://140.207.241.3:8080/live/program/live/xwzhhd/2300000/d1.m3u8
+外语频道,http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
 外语频道,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 外语频道,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6032059665143203976&livemode=1&stbId=4
 外语频道,http://112.25.48.70/live/program/live/wypdhd/4000000/mnf.m3u8
-
+紀實人文,http://58.34.204.67:9901/tsfile/live/1013_1.m3u8
 紀實人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 紀實人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 紀實人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 紀實人文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
 
 全紀實,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
-
+生活时尚,http://58.34.204.67:9901/tsfile/live/1020_1.m3u8
 生活时尚,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&stbId=4
 生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-
+歡笑劇场,http://58.34.204.67:9901/tsfile/live/1012_1.m3u8
 歡笑劇场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-
+都市劇场,http://58.34.204.67:9901/tsfile/live/1008_1.m3u8
 都市劇场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 
 法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
-
+游戏风云,http://58.34.204.67:9901/tsfile/live/1006_1.m3u8
 游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-
+动漫秀场,http://58.34.204.67:9901/tsfile/live/1009_1.m3u8
 极速汽车,
 
 七彩戲劇,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 
-幸福彩,
-
+幸福彩,,http://58.34.204.67:9901/tsfile/live/1007_1.m3u8
+新視觉,http://58.34.204.67:9901/tsfile/live/1011_1.m3u8
 新視觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-
+魅力足球,http://58.34.204.67:9901/tsfile/live/1004_1.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球,http://112.25.48.70/live/program/live/mlyyhd/4000000/mnf.m3u8
 
@@ -466,7 +484,7 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 超级體育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 
 劲爆體育,
-
+五星體育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
 五星體育,http://223.109.123.11/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星體育,http://183.204.192.173/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 
@@ -478,7 +496,7 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 北京衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
 
 北京新聞,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
-
+北京紀實,http://58.34.204.67:9901/tsfile/live/1002_1.m3u8
 北京紀實,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
 北京紀實,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 北京紀實,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
@@ -525,7 +543,6 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 凤凰資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 凤凰資訊,http://140.238.155.232:9000/jmsytb.m3u8?c=54
-
 凤凰衛視,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰衛視,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰衛視,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -533,36 +550,43 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 凤凰衛視,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 凤凰衛視,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
 凤凰衛視,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
-
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+凤凰香港,P2p://generationnexxxt.com:9906/02a9cb9ec6974c35b45c0376ff4efeab
+凤凰電影,P2p://generationnexxxt.com:9906/669a8e49dc4a4643a08e17939920d781
 凤凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 衛視電影,https://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/index.m3u8
-美亞電影,P2p://ns3.hellotvvod.com:9906/ff4dfbdb186d4a14a74b8df101909eb2
-
+美亞電影,P2p://generationnexxxt.com:9906/be9b9969c2874973873a0aee3341b93d
+美亞電影,P2p://generationnexxxt.com:9906/ff4dfbdb186d4a14a74b8df101909eb2
+美亞電影(粤语),P2p://generationnexxxt.com:9906/3a62ddd011a0496d95c1e5852369601b
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+無綫新聞,P2p://generationnexxxt.com:9906/ecadb578528244d58766f6e969d279b5
+無綫新聞,P2p://generationnexxxt.com:9906/1101dac1296f40e089b92553c823a0e6
+無綫新聞,https://nettvpro.live/hls/tvb.php?id=1
 無綫新聞,http://103.214.71.71:1633/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,https://cdn.hklive.tv/xxxx/83/index.m3u8
 無綫新聞,http://120.132.122.244:59845/hls/82/index.m3u8
 無綫新聞海外,https://epg.pm/stream/e40dc3ab00116d986f9a71dd08180fe687925e5ab096b43f371d561782e63d49.ctv
-
+無綫財經,https://nettvpro.live/hls/tvb.php?id=2
+無綫財經,P2p://generationnexxxt.com:9906/7589ad7d4a2f4c87884807f7eff51942
 無綫財經,https://epg.pm/stream/6741947fac8a0fc4b29e4f39c4cec36b13e54494262128a461282acc608ddfdc.ctv
 無綫財經,http://120.84.96.161:808/hls/86/index.m3u8
 無綫財經,http://120.84.96.62:808/hls/86/index.m3u8
 無綫財經,http://120.84.96.50:808/hls/86/index.m3u8
 無綫財經,http://120.84.96.33:808/hls/86/index.m3u8
 無綫財經,http://120.84.96.78:808/hls/86/index.m3u8
-
-粤语歌曲,https://epg.pm/stream/39501bc13e55213a26a9645ec1ddcf5eba10fc6b545858ff08b05354a6df188d.ctv
-
+無線娛樂,http://315600.xyz/nm.php?id=88e968ae-cd43-4b8f-95c3-592a5e04f0de
+無線娛樂,P2p://generationnexxxt.com:9906/1fc20d0f346a41c9a8b462c6903500f0
+有線新聞,P2p://generationnexxxt.com:9906/0e0e68987cd24063895cf76df3c25d34
 有線新聞,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有線新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
 有線新聞,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有線新聞,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
+有線財經,P2p://generationnexxxt.com:9906/24a33cdea71f48eb87771b446f8ed66d
 有線財經,http://103.214.71.71:1651/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 有線財經,https://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
 有線財經,http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
@@ -570,97 +594,107 @@ CCTV17HD,http://39.134.115.163:8080/TVOD/88888910/224/3221225908/index.m3u8
 香港国际財經,http://103.214.71.71:1645/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 有線直播新聞,https://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
 有線直播新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
-有線電影,P2p://ns3.hellotvvod.com:9906/772f3c92423b4c1f904c1c1c829ca048
-有線18台,P2p://ns3.hellotvvod.com:9906/d8cd184ed0d548d78d2cc091ccbfc242
-有線18台,P2p://ns3.hellotvvod.com:9906/20f8a67cf811447e81ab0fe62a215815
-有線體育,P2p://ns3.hellotvvod.com:9906/f029ee9884aa4f50ac74fb03e191731b
-有線 603,P2p://ns3.hellotvvod.com:9906/80a6a0614b7b4655abf1dc25f4829c08
-有線Sports Plus 1,P2p://ns3.hellotvvod.com:9906/91f4740131fe40ee88ed231c99733b56
-有線综合,P2p://ns3.hellotvvod.com:9906/a2cb3031c73f456d99a95168dcc82735
-有線娱乐,P2p://ns3.hellotvvod.com:9906/cc9aa0780d4b4d949de136ed83185d33
-
+有線電影,P2p://generationnexxxt.com:9906/7200dbd246164ca5b4804830fb5e28fd
+有線電影,P2p://generationnexxxt.com:9906/772f3c92423b4c1f904c1c1c829ca048
+18台,P2p://generationnexxxt.com:9906/2a3ec0216b474d02bafb577221bc5d98
+有線18台,P2p://generationnexxxt.com:9906/6356935c81bb47dea01725800367d230
+有線18台,P2p://generationnexxxt.com:9906/d8cd184ed0d548d78d2cc091ccbfc242
+有線18台,P2p://generationnexxxt.com:9906/20f8a67cf811447e81ab0fe62a215815
+有線體育,P2p://generationnexxxt.com:9906/8e5201bac7e84508a226a289978db63e
+有線體育,P2p://generationnexxxt.com:9906/f029ee9884aa4f50ac74fb03e191731b
+有線 603,P2p://generationnexxxt.com:9906/f9997cd5f533461a9fc39e911d9e09d8
+有線 603,P2p://generationnexxxt.com:9906/80a6a0614b7b4655abf1dc25f4829c08
+有線Sports Plus 1,P2p://generationnexxxt.com:9906/01b55db4e80046f29f736c7cc1b5c53e
+有線Sports Plus 1,P2p://generationnexxxt.com:9906/91f4740131fe40ee88ed231c99733b56
+有線综合,P2p://generationnexxxt.com:9906/a2cb3031c73f456d99a95168dcc82735
+有線娱乐,P2p://generationnexxxt.com:9906/cc9aa0780d4b4d949de136ed83185d33
+有線娱乐,P2p://generationnexxxt.com:9906/cd5327509a0d407f952ecef7ebe6d901
 翡翠華丽台,https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 翡翠華丽台,https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 翡翠華丽台,http://23.237.10.66:16410
+翡翠台,P2p://generationnexxxt.com:9906/bebf0169c9ab4d6599eb6cd9fadb8afb
+翡翠台,P2p://generationnexxxt.com:9906/027f96540c5b4d4cb04fce43dddec24a
 翡翠台,http://103.214.71.71:1631/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://baidu.douyincdn.freetvtv.com/jade2/index.m3u8
 翡翠台,http://113.117.74.10:808/hls/67/index.m3u8
 翡翠台,http://113.117.74.37:808/hls/67/index.m3u8
 翡翠台,http://23.237.10.66:16106
-
+明珠台,P2p://generationnexxxt.com:9906/035c03a9aed84593a3e4c9cecde00eae
+明珠台,http://315600.xyz/nm.php?id=ac6803d0-ef17-4454-aaef-bb8221de43ff
+明珠台,http://315600.xyz/nm.php?id=e23f6359-99ea-43ad-8bd3-41dbf3ed4b20
 明珠台,http://120.132.122.244:59845/hls/84/index.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
-
+J2,P2p://generationnexxxt.com:9906/574f908877f34fb89f4d4baf61c59e68
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
-
 點掌財經,http://cclive.aniu.tv/live/anzb.m3u8
 點掌財經,http://cclive2.aniu.tv/live/anzb.m3u8
-
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 開電視,http://103.214.71.71:1637/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 開電視,https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/693740340
-
+開電視,P2p://ns3.hellotvvod.com:9906/aa58959f267f4401b785cd655b050025
+HOY資訊,P2p://generationnexxxt.com:9906/0bf5c859c0ee4a32846dd985e8ae1b1c
 RHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
 RHK31,http://120.132.122.244:59845/hls/89/index.m3u8
 RHK32,http://103.214.71.71:1648/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 RHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 RHK32,http://120.132.122.244:59845/hls/90/index.m3u8
 RHK32,http://radius.8866.org:800/hls/90/index.m3u8
-
 RHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
 RHK33,http://120.132.122.244:59845/hls/91/index.m3u8
 RHK33,http://radius.8866.org:800/hls/91/index.m3u8
-
 RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
-
+ViuTV,P2p://generationnexxxt.com:9906/f21f4132b2304bbcb3531e9d837d0bc4
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTV6,P2p://generationnexxxt.com:9906/9411ab8d23264d7db8efaf1a41023105
 ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
-
+Now直播台,P2p://generationnexxxt.com:9906/4d57ffad50984d26b12f8dac2519d0cc
 Now直播台,https://pull-l3-cny.douyincdn.com/live/fc910419627cee83895e03d74029cbb4.m3u8
+Now新聞台,P2p://generationnexxxt.com:9906/b79fedebf5094806a89555c1afe77763
 Now新聞台,https://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160bc8.m3u8
 Now財經台,https://pull-l3-cny.douyincdn.com/live/60b4bda9cef7c62d547a8c2ca1ca9c2c.m3u8
-TVB星河台,P2p://ns3.hellotvvod.com:9906/d19067d3e427420b8044f23f64f80338
+TVB星河台,P2p://generationnexxxt.com:9906/2cbd6ffa893347de81529e644be10ac2
+TVB星河台,P2p://generationnexxxt.com:9906/d19067d3e427420b8044f23f64f80338
+TVB经典台,P2p://generationnexxxt.com:9906/28a11e673c574b948b3a7986fc6784f5
+TVB经典台,P2p://generationnexxxt.com:9906/287c6b04debd46128b696db5ffc8d6be
 TVB经典台,https://epg.pm/stream/2d5d62807b689266ef0f0c7a15b6ed7c78210dbcd07bd6adab599a768778f42c.ctv
-TVB经典台,P2p://ns3.hellotvvod.com:9906/287c6b04debd46128b696db5ffc8d6be
-TVB功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-
+TVB功夫台,P2p://generationnexxxt.com:9906/3ea383e69c5849cc8480307714784a0e
+经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+粤语片台,P2p://generationnexxxt.com:9906/08324fae45ac4b0392e5c92b1d83f37d
+亚洲剧台,P2p://generationnexxxt.com:9906/52a791dc62624341afea2b5b6ab7600a
 麵包台,http://103.214.71.71:1639/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
-Thrill,P2p://ns3.hellotvvod.com:9906/2c323e61b2d449f9abe78e344c1e2653
-
+Hands Up,P2p://generationnexxxt.com:9906/2add08eef835449b8f02c01b138fa264
+Thrill,P2p://generationnexxxt.com:9906/9cb1055b5b8f4512a94401f22e848884
+Thrill,P2p://generationnexxxt.com:9906/2c323e61b2d449f9abe78e344c1e2653
 八度空間,http://51.79.82.208:16005
-
 天映频道,http://51.79.82.208:16024
-
 天映經典,http://120.84.96.62:808/hls/85/index.m3u8
 天映經典,http://120.84.96.50:808/hls/85/index.m3u8
 天映經典,http://120.84.96.78:808/hls/85/index.m3u8
-
 星空衛視,http://120.84.96.62:808/hls/79/index.m3u8
 星空衛視,http://120.84.96.62:808/hls/79/index.m3u8?blog.ntnas.top
 星空衛視,http://120.84.96.50:808/hls/79/index.m3u8
-
-阳光衛視,P2p://ns3.hellotvvod.com:9906/9a31a3bb54dc436aa262d1a92c0fbb83
+星空衛視,https://www.56ku.ml/gudou.php?id=xingkong_1500
+阳光衛視,P2p://generationnexxxt.com:9906/9a31a3bb54dc436aa262d1a92c0fbb83
+阳光衛視,P2p://generationnexxxt.com:9906/33aa35d916a24ea18c5afd74edabb618
+澳門莲花,P2p://generationnexxxt.com:9906/a53c00a5be5b4d39a3ca0c1ea354daf8
 澳門莲花,https://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
 澳門莲花,http://120.84.96.62:808/hls/24/index.m3u8?blog.ntnas.top
-
+澳門-MACAU,P2p://generationnexxxt.com:9906/8d73e8e5b3d74d0685dfdd5619ffa3b7
 澳門-MACAU,http://61.244.22.5/ch3/ch3.live/playlist.m3u8
 澳門-MACAU,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳門-MACAU,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳門-MACAU,https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/693740338
-
 澳門資訊,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
 澳門資訊,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 
 🇹🇼台灣频道,#genre#
 TVBS HD,http://103.214.71.71:1657/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 TVBS HD,http://140.238.155.232:9000/jmsytb.m3u8?c=29
-
 TVBS新聞,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=31
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
@@ -673,44 +707,48 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-民視,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
-民視,http://23.237.10.66:16334
 民視新聞,http://103.214.71.71:1660/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 民視新聞,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-
-台視,http://23.237.10.66:16344
-
+台視新聞,P2p://generationnexxxt.com:9906/5ed2b2925399473e908b0b94263ba939
 台視新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=26
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台視財經,P2p://generationnexxxt.com:9906/329afe66060441a38d583c6f262e936b
+中天新聞,http://123.58.201.173:52411/test/lshotel.php?id=40
 中天新聞,http://103.214.71.71:1654/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 中天新聞,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 中天新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=24
+東森新聞,http://123.58.201.173:52411/test/lshotel.php?id=39
 東森新聞,http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+中視新聞,P2p://generationnexxxt.com:9906/39f3aa7f798b42ca8c9053a47d84f0ab
 中視新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=25
 中視新聞,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+寰宇新聞,P2p://generationnexxxt.com:9906/ef726aab37d6409488079ba00b79ed7e
 寰宇新聞,http://103.214.71.71:1672/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 寰宇新聞,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 寰宇新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=27
-
+壹新聞台,http://123.58.201.173:52411/test/lshotel.php?id=47
+華視新聞,P2p://generationnexxxt.com:9906/b999166c01764721bef5be7ffe2007cd
 華視新聞,http://stream.dsichannel.com/hls/cts-news.m3u8
 華視新聞,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 東森財經,https://pull-l3-cny.douyincdn.com/live/80d54eadb8f343a8b837c22e336155d1.m3u8
 東森財經,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 東森財經,http://140.238.155.232:9000/jmsytb.m3u8?c=35
 東森財經,http://140.238.155.232:9000/jmsytb.m3u8?c=36
-
 三立 LIVE,http://140.238.155.232:9000/jmsytb.m3u8?c=23
 三立 iNEWS,http://103.214.71.71:1663/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 三立 iNEWS,http://140.238.155.232:9000/jmsytb.m3u8?c=22
-
 鏡新聞台,http://140.238.155.232:9000/jmsytb.m3u8?c=38
-
-TAIWAN,http://140.238.155.232:9000/jmsytb.m3u8?c=55
-中天综合,https://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
+TAIWAN+,P2p://generationnexxxt.com:9906/69a8d2afd599467b941ac3cc99fa6556
+TAIWAN+,http://140.238.155.232:9000/jmsytb.m3u8?c=55
+民視,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+民視,http://23.237.10.66:16334
+公視,http://123.58.201.173:52411/test/lshotel.php?id=5
+台視,http://23.237.10.66:16344
+東森電影,http://zb.iptv6.top/gg/gg1/dsm.m3u8
 東森電影,http://120.84.96.33:808/hls/32/index.m3u8
 東森電影,http://120.84.96.50:808/hls/32/index.m3u8
 東森電影,http://120.84.96.55:808/hls/32/index.m3u8
@@ -728,7 +766,6 @@ TAIWAN,http://140.238.155.232:9000/jmsytb.m3u8?c=55
 東森洋片,http://120.84.96.78:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.161:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.161:808/hls/33/index.m3u8
-
 東森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
@@ -738,25 +775,37 @@ TAIWAN,http://140.238.155.232:9000/jmsytb.m3u8?c=55
 龍祥時代,http://120.84.96.62:808/hls/35/index.m3u8
 龍祥時代,http://120.84.96.66:808/hls/35/index.m3u8
 龍祥時代,http://120.84.96.161:808/hls/35/index.m3u8
-
-龍祥電影,
+龍華電影,P2p://generationnexxxt.com:9906/60532d4425c942989bc6d82c774f7097
+衛視電影,http://123.58.201.173:52411/test/lshotel.php?id=51
+星衛電影,P2p://generationnexxxt.com:9906/ea747c2047eb4942a2ad519b5475235f
+壹電影台,P2p://generationnexxxt.com:9906/b0a71c0806794b91920ebc4d92b387df
+靖天電影,P2p://generationnexxxt.com:9906/4126963d63054239a069815b3224515c
 天映經典,https://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
 天映經典,http://120.84.96.31:808/hls/85/index.m3u8
 天映經典,http://120.84.96.33:808/hls/85/index.m3u8
 天映經典,http://120.84.96.50:808/hls/85/index.m3u8
 天映經典,http://120.84.96.78:808/hls/85/index.m3u8
-
+AXN電影,http://123.58.201.173:52411/test/lshotel.php?id=56
 CATCHPLAY電影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
-Cinemax ActionMax,http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/11916.m3u8
+CinemaWorld,http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/11916.m3u8
+CinemaWorld,P2p://generationnexxxt.com:9906/e8ea7d970983414988ec2cc579c481f1
+AMC最爱電影,P2p://generationnexxxt.com:9906/296bfad47d7a478eb65d9f09a7cbb590
+影迷数位電影,P2p://generationnexxxt.com:9906/7b32b8df78cb4194bdf45c785f81d453
+好萊塢電影,http://123.58.201.173:52411/test/lshotel.php?id=52
 好萊塢電影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 好萊塢電影,http://www.372583307.top:4022/udp/233.50.201.228:5140
+WARNER TV,P2p://generationnexxxt.com:9906/96a5352f8ed042bbbef54acd9223aba6
+Star Movies,P2p://generationnexxxt.com:9906/32acba01da4e4fae8dfc7c543becb40b
 Star Movies,https://epg.pm/stream/c6682ed87d9677837d5c053274c850a4fcc27393b961301785e9fe5b3f591e04.ctv
 Boo電影,https://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
 Boo電影,http://23.237.10.66:16420
-
 RPC電影,http://23.237.10.66:16082
+DMAX,P2p://generationnexxxt.com:9906/6ac5f64820b04584bd59ccdf076f22bc
 HBO HD,http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/10407.m3u8
 HBO HD,http://45.174.84.154:8000/play/a00r/index.m3u8
+HBO 强档,P2p://generationnexxxt.com:9906/f7c03395d4d84cb68dd1c0f92193ed76
+HBO 原创,P2p://generationnexxxt.com:9906/112d4767d383487bb9eb66667ed97ae0
+HBO 家庭,P2p://generationnexxxt.com:9906/e18731d88a8c4a51a44140cce3741235
 HBO 家庭,http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/45795.m3u8
 HBO 家庭,http://45.174.84.154:8000/play/a00u/index.m3u8
 HBO Plus+,http://45.174.84.154:8000/play/a00t/index.m3u8
@@ -784,30 +833,26 @@ HBO MAX F,https://epg.pm/stream/403db2db95477969fb20e58489ce6c0d05933c49be73ad84
 NETFLIX 3,https://epg.pm/stream/b5e051e8906d488afd86699dac45ad95a14e8bcf350b025be4696452bd2dffaf.ctv
 Action Movies - Rakuten TV,https://epg.pm/stream/9fecabbc602813de09ec8e3241a4bffe7875391ce796441545e3966c2ba6a8f1.m3u8
 Star Movies,https://epg.pm/stream/c6682ed87d9677837d5c053274c850a4fcc27393b961301785e9fe5b3f591e04.ctv
-
+中天綜合,https://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天綜合,http://23.237.10.66:16372
-
+衛視中文,http://123.58.201.173:52411/test/lshotel.php?id=23
+东风37,http://123.58.201.173:52411/test/lshotel.php?id=28
 華語電視1,http://38.64.72.148/hls/modn/list/4001/chunklist1.m3u8
 華語電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 華語電視1,http://38.64.72.148:80/hls/modn/list/4001/chunklist1.m3u8
-
 華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
 華語電視2,http://38.64.72.148/hls/modn/list/4002/chunklist1.m3u8
-
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
 華語電視3,http://38.64.72.148/hls/modn/list/4003/chunklist1.m3u8
-
 长城精品,http://38.64.72.148/hls/modn/list/4008/chunklist0.m3u8
 长城精品,http://38.64.72.148/hls/modn/list/4008/chunklist1.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-
 原住民,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 原住民,http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
-
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -823,8 +868,75 @@ Star Movies,https://epg.pm/stream/c6682ed87d9677837d5c053274c850a4fcc27393b96130
 求索動物,http://111.11.123.30:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 求索動物,http://111.11.123.33:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 求索動物,http://111.11.123.36:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+动物星球,http://123.58.201.173:52411/test/lshotel.php?id=12
+探索频道,http://123.58.201.173:52411/test/lshotel.php?id=10
+国家地理,http://123.58.201.173:52411/test/lshotel.php?id=9
 
 🇯🇵日韓频道,#genre#
+NHK-G综合,P2p://generationnexxxt.com:9906/7ef0ab4427e64b34acf8a837de454a34
+NHK-E教育,P2p://generationnexxxt.com:9906/981dc19b14414bd9b347afbe3920c569
+日本テレビ,P2p://generationnexxxt.com:9906/08bf8f9a0d5d4d8b83206f214491f0bb
+TBSテレビ,P2p://generationnexxxt.com:9906/c817858f191b4616861894423e626f73
+テレビ東京,P2p://generationnexxxt.com:9906/cc02599dd54c422ab644e7420cc62b6b
+フジテレビ,P2p://generationnexxxt.com:9906/b767523ee5244b6a85e130a15ef454de
+読売テレビ,P2p://generationnexxxt.com:9906/1214f40356424a94a3acc3947aa9255a
+関西テレビ,P2p://generationnexxxt.com:9906/f4f5ea2304f2444c96b414081b77e58b
+KBS京都,P2p://generationnexxxt.com:9906/cf8d5767f3434968b45bffdbec49dab4
+毎日放送,P2p://generationnexxxt.com:9906/58f6a4cbabd84e9596874af44ece4595
+朝日放送,P2p://generationnexxxt.com:9906/9043e575e7544ff5ab9851b4d22cd262
+テレビ大阪,P2p://generationnexxxt.com:9906/738718d5548748bf8fdbb1e157c4e91a
+テレビ朝日,P2p://generationnexxxt.com:9906/d33010b969e04702a2802cd8608e98ac
+BS-1,P2p://generationnexxxt.com:9906/8fdd1614228440e6a413b43510f532f3
+BS釣りビジョン,P2p://generationnexxxt.com:9906/9b9f89113d124d0bb97acab32a1fc3b8
+BS日テレ,P2p://generationnexxxt.com:9906/6deb432bf20e4b3ab0784978a1c9b471
+BS朝日,P2p://generationnexxxt.com:9906/631be32f87d7489f965f53d727b4bce7
+BS-TBS,P2p://generationnexxxt.com:9906/b7c823707cee47b689a34a4051c13acd
+BS11,P2p://generationnexxxt.com:9906/9327c80a646548ff85fba62548e011df
+BSフジ,P2p://generationnexxxt.com:9906/06cd78a16c204005812e4bad8d104096
+WOWOWプライム,P2p://generationnexxxt.com:9906/5b14881409144790b02e657e714e1efa
+WOWOWライブ,P2p://generationnexxxt.com:9906/6308b52a7ad8429bb667a04e82dc259c
+WOWOWシネマ,P2p://generationnexxxt.com:9906/8547e68d467147b99a3c2ee56f6478a0
+スター・チャンネル1,P2p://generationnexxxt.com:9906/271d2f5f8fe547f1b5b94e2b17f43fc4
+スター・チャンネル2,P2p://generationnexxxt.com:9906/69ac8f2356674330bf305a2370b201dd
+スター・チャンネル3,P2p://generationnexxxt.com:9906/9bd9c9822e3b47e0872b871278e3583c
+BSアニマックス,P2p://generationnexxxt.com:9906/07afb1dc664d4ccbb929276ae80a2de7
+J Sports 1,P2p://generationnexxxt.com:9906/57fc2bd0bcb94a3da14d753087aae9b0
+J Sports 2,P2p://generationnexxxt.com:9906/cd45a6df95734047b63036d5e7675f28
+J Sports 3,P2p://generationnexxxt.com:9906/69258ddedfe54148bc62299b391495b1
+J Sports 4,P2p://generationnexxxt.com:9906/38214adc6f674a46a4375e0108ee7bb0
+BS12,P2p://generationnexxxt.com:9906/ddd80aa985b540a880a914c9ca6b2247
+ゴルフネットワークHD,P2p://generationnexxxt.com:9906/aa4d59d0dff649dba11f33f88c59b1c4
+時代劇専門チャンネル,P2p://generationnexxxt.com:9906/16528cf87bad4e13b53b7c8dc7dba2d6
+Music Japan TV,P2p://generationnexxxt.com:9906/db948b75cd9c49b1b5a1de354af2313f
+キッズステーションHD,P2p://generationnexxxt.com:9906/c31f1f782fa34abf85de26183742f08e
+ディスカバリーチャンネル,P2p://generationnexxxt.com:9906/37facd0fff8240d38dfc33e72c968d42
+ナショナルジオグラフィック,P2p://generationnexxxt.com:9906/6a6fe09b502f4da5ae5fda62ff7d9b1a
+日テレNEWS 24,P2p://generationnexxxt.com:9906/50405fbe2db140138096b5e65cbdf257
+旅チャンネル,P2p://generationnexxxt.com:9906/103a4efbe93d40d9b4c1c2d4ba69c80f
+チャンネル銀河,P2p://generationnexxxt.com:9906/59b82fd645d74a78b82e788d849b0ac5
+
+Arirang,P2p://generationnexxxt.com:9906/35536c62fd914aeda839d176daa4e55b
+KBS1,P2p://generationnexxxt.com:9906/2c04acea05eb49019c37362c6663baf5
+KBS2,P2p://generationnexxxt.com:9906/02a2b115818040ba9f41636593d29e1c
+KBS Drama,P2p://generationnexxxt.com:9906/e69b925c1eb2447aa132b99e82eb07a9
+KBS Joy,P2p://generationnexxxt.com:9906/6747cbbaf97c45a9a32007c0fdd588ff
+SBS,P2p://generationnexxxt.com:9906/e0a9f201cdd54dd6b5018c7ef7b2522c
+SBS Biz,P2p://generationnexxxt.com:9906/60d5046ce148498688cccd17c2a5a319
+JTBC,P2p://generationnexxxt.com:9906/57fdebd503364f0e8faee0a3a2975510
+EBS,P2p://generationnexxxt.com:9906/a470bc3a294948c588111f6035ef4d4a
+YTN,P2p://generationnexxxt.com:9906/76ab342918f145299f9acc8b8bb66acb
+Mnet,P2p://generationnexxxt.com:9906/04687af0a01a4dbab9b6a52844eb4f5f
+tvN,P2p://generationnexxxt.com:9906/c2fd571ddc2042789390b3fb38c43160
+OCN,P2p://generationnexxxt.com:9906/5a669a4eecd94de985374b9a7802336c
+OCN Movies,P2p://generationnexxxt.com:9906/bca97ff9c02b47318ee29f5b1c560d4d
+TV Chosun,P2p://generationnexxxt.com:9906/07306e18da4f40f3bc6b241833b1fcde
+MBC,P2p://generationnexxxt.com:9906/367efc3fbffd4a35956f3b9dc850c0ce
+MBN,P2p://generationnexxxt.com:9906/369c90f366f741ce9f56c8a6a07e4d6d
+Tooniverse,P2p://generationnexxxt.com:9906/be1e52bf3176468eb533fcf0dd1512fd
+SPOTV,P2p://generationnexxxt.com:9906/ccb2decfadb346339338101471a3f502
+SPOTV 2,P2p://generationnexxxt.com:9906/259a69135378450aa4df25f87407f976
+JTBC GOLF,P2p://generationnexxxt.com:9906/6179c11589294249b583637b83430d2b
+NHK新聞資訊,P2p://generationnexxxt.com:9906/83d8c8efe21741c6b13a69f4b715959c
 웰메이드,https://pull-l3-cny.douyincdn.com/live/eac374df3c06e8985d587224a056f483.m3u8
 액션영화,https://pull-l3-cny.douyincdn.com/live/41f29bf461ffa99e595f70b9593c61aa.m3u8
 힐링영화,https://pull-l3-cny.douyincdn.com/live/ea6907626f7d64aa61e5ebf88180e43d.m3u8
@@ -861,7 +973,6 @@ J體育4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=
 電視上的音乐！,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ゴルフネットワーク,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 日本UN WeTV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 KBS KOREA,http://140.238.155.232:9000/jmsytb.m3u8?c=14
@@ -1149,6 +1260,8 @@ CHC家庭影臺,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
 超级電影臺,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
 CHC電影臺,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 CHC電影臺,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://58.34.204.67:9901/tsfile/live/1001_1.m3u8
+CHC動作電影,http://58.34.204.67:9901/tsfile/live/1005_1.m3u8
 CHC家庭影院,http://120.84.96.161:808/hls/36/index.m3u8
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
 CHC高清電影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
@@ -3234,245 +3347,33 @@ M2音乐,http://live.m2.tv/hls3/stream.m3u8
 舞蹈14,https://vd2.bdstatic.com/mda-kfe1a8yh7afkkxv0/mda-kfe1a8yh7afkkxv0.mp4
 舞蹈15,https://vd2.bdstatic.com/mda-jd4gj9ayvymk0vg9/hd/mda-jd4gj9ayvymk0vg9.mp4
 
- 🔞老外成人_666,#genre#
-XXX - A3 BIKINI TV,http://line.premiumpowers.net:80/Manuel/1234567/774065
-XXX - A3 BIKINI TV (S),http://line.premiumpowers.net:80/Manuel/1234567/138504
-XXX - ALBA XXX 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/309867
-XXX - ASMR FANTASY,http://line.premiumpowers.net:80/Manuel/1234567/777865
-XXX - BABES TV,http://line.premiumpowers.net:80/Manuel/1234567/777863
-XXX - BABES TV,http://line.premiumpowers.net:80/Manuel/1234567/773971
-XXX - BABES TV (S),http://line.premiumpowers.net:80/Manuel/1234567/128761
-XXX - BABES UNLEASHED,http://line.premiumpowers.net:80/Manuel/1234567/777862
-XXX - BAD DADDY POV,http://line.premiumpowers.net:80/Manuel/1234567/777860
-XXX - BAEB,http://line.premiumpowers.net:80/Manuel/1234567/777859
-XXX - BALKAN EROTIC,http://line.premiumpowers.net:80/Manuel/1234567/774047
-XXX - BALKAN HOT TV 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/309869
-XXX - BANG U,http://line.premiumpowers.net:80/Manuel/1234567/774002
-XXX - BANG U EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/774003
-XXX - BANGERZ,http://line.premiumpowers.net:80/Manuel/1234567/774050
-XXX - BANGERZ (H),http://line.premiumpowers.net:80/Manuel/1234567/309870
-XXX - BARELY LEGAL TV,http://line.premiumpowers.net:80/Manuel/1234567/777856
-XXX - BARELY LEGAL TV,http://line.premiumpowers.net:80/Manuel/1234567/774015
-XXX - BARELY LEGAL TV (S),http://line.premiumpowers.net:80/Manuel/1234567/128764
-XXX - BASHMENT,http://line.premiumpowers.net:80/Manuel/1234567/533615
-XXX - BASHMENT 2,http://line.premiumpowers.net:80/Manuel/1234567/533616
-XXX - BEATE-UHSE.TV,http://line.premiumpowers.net:80/Manuel/1234567/774033
-XXX - BELLESA FILMS,http://line.premiumpowers.net:80/Manuel/1234567/777854
-XXX - BIG ASS,http://line.premiumpowers.net:80/Manuel/1234567/777853
-XXX - BLUE HUSTLER,http://line.premiumpowers.net:80/Manuel/1234567/774011
-XXX - BLUE HUSTLER EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/774012
-XXX - BLUE HUSTLER,http://line.premiumpowers.net:80/Manuel/1234567/774010
-XXX - BLUE HUSTLER TV (S),http://line.premiumpowers.net:80/Manuel/1234567/128770
-XXX - BLUE HUSTLER TV EUROPE (S),http://line.premiumpowers.net:80/Manuel/1234567/131876
-XXX - BRAZZERS EN ESPAÑOL,http://line.premiumpowers.net:80/Manuel/1234567/777848
-XXX - BRAZZERS TV,http://line.premiumpowers.net:80/Manuel/1234567/773984
-XXX - BRAZZERS TV EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/773985
-XXX - BRAZZERS TV EUROPE RUSSIA,http://line.premiumpowers.net:80/Manuel/1234567/773986
-XXX - BROKEN MILF,http://line.premiumpowers.net:80/Manuel/1234567/777844
-XXX - BUNGA BUNGA,http://line.premiumpowers.net:80/Manuel/1234567/777843
-XXX - CANDY TV (S),http://line.premiumpowers.net:80/Manuel/1234567/138526
-XXX - CANDYMAN,http://line.premiumpowers.net:80/Manuel/1234567/774070
-XXX - CENTO CENTO,http://line.premiumpowers.net:80/Manuel/1234567/777841
-XXX - CENTO X CENTO,http://line.premiumpowers.net:80/Manuel/1234567/774031
-XXX - CENTO X CENTO (H),http://line.premiumpowers.net:80/Manuel/1234567/131882
-XXX - COLLEGE RULES,http://line.premiumpowers.net:80/Manuel/1234567/777840
-XXX - COSMID 2,http://line.premiumpowers.net:80/Manuel/1234567/777838
-XXX - CUCKOLD,http://line.premiumpowers.net:80/Manuel/1234567/777837
-XXX - CZECH STREETS,http://line.premiumpowers.net:80/Manuel/1234567/777832
-XXX - DANCING BEAR,http://line.premiumpowers.net:80/Manuel/1234567/777830
-XXX - DAUGHTER SWAP,http://line.premiumpowers.net:80/Manuel/1234567/777827
-XXX - DAY WITH A PORNSTAR,http://line.premiumpowers.net:80/Manuel/1234567/777826
-XXX - DEEPER,http://line.premiumpowers.net:80/Manuel/1234567/777824
-XXX - DESTINY 2 TV,http://line.premiumpowers.net:80/Manuel/1234567/777823
-XXX - DICK DRAINERS,http://line.premiumpowers.net:80/Manuel/1234567/777822
-XXX - DORCEL,http://line.premiumpowers.net:80/Manuel/1234567/777819
-XXX - DORCEL,http://line.premiumpowers.net:80/Manuel/1234567/773962
-XXX - DORCEL TV (H),http://line.premiumpowers.net:80/Manuel/1234567/53070
-XXX - DORCEL TV XXX (H),http://line.premiumpowers.net:80/Manuel/1234567/267612
-XXX - DORCEL XXX,http://line.premiumpowers.net:80/Manuel/1234567/773963
-XXX - DREAM PORN,http://line.premiumpowers.net:80/Manuel/1234567/774025
-XXX - DUSK!,http://line.premiumpowers.net:80/Manuel/1234567/773978
-XXX - EMANUELLE,http://line.premiumpowers.net:80/Manuel/1234567/774058
-XXX - EMANUELLE (S),http://line.premiumpowers.net:80/Manuel/1234567/309862
-XXX - ERO X (S),http://line.premiumpowers.net:80/Manuel/1234567/53066
-XXX - EROX,http://line.premiumpowers.net:80/Manuel/1234567/774035
-XXX - EROX XXX,http://line.premiumpowers.net:80/Manuel/1234567/774036
-XXX - EROX XXX,http://line.premiumpowers.net:80/Manuel/1234567/773967
-XXX - EROXXX,http://line.premiumpowers.net:80/Manuel/1234567/777815
-XXX - EVIL ANGEL,http://line.premiumpowers.net:80/Manuel/1234567/773992
-XXX - EVIL ANGEL EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/773993
-XXX - EVIL ANGEL TV,http://line.premiumpowers.net:80/Manuel/1234567/777814
-XXX - EVOLVED FIGHTS,http://line.premiumpowers.net:80/Manuel/1234567/777813
-XXX - EXTASY,http://line.premiumpowers.net:80/Manuel/1234567/774069
-XXX - EXTREME,http://line.premiumpowers.net:80/Manuel/1234567/774056
-XXX - EXXXOTICA (S),http://line.premiumpowers.net:80/Manuel/1234567/309863
-XXX - EXXXOTICA TV,http://line.premiumpowers.net:80/Manuel/1234567/774020
-XXX - FAP TV ANAL,http://line.premiumpowers.net:80/Manuel/1234567/777807
-XXX - FASHION TV,http://line.premiumpowers.net:80/Manuel/1234567/774063
-XXX - FILMON TV,http://line.premiumpowers.net:80/Manuel/1234567/774067
-XXX - FILMON TV 2,http://line.premiumpowers.net:80/Manuel/1234567/774068
-XXX - FILMON TV MAN2MAN,http://line.premiumpowers.net:80/Manuel/1234567/774062
-XXX - FREE X TV,http://line.premiumpowers.net:80/Manuel/1234567/774029
-XXX - FREE X TV 2,http://line.premiumpowers.net:80/Manuel/1234567/774030
-XXX - FREE X TV HQ,http://line.premiumpowers.net:80/Manuel/1234567/774028
-XXX - FREE-X TV 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/309874
-XXX - FRENCH LOVER (S),http://line.premiumpowers.net:80/Manuel/1234567/138523
-XXX - FRENCH LOVER TV,http://line.premiumpowers.net:80/Manuel/1234567/774017
-XXX - GIRLS OUT WEST,http://line.premiumpowers.net:80/Manuel/1234567/777798
-XXX - HOLED,http://line.premiumpowers.net:80/Manuel/1234567/777794
-XXX - HOT (H),http://line.premiumpowers.net:80/Manuel/1234567/138478
-XXX - HOT KINKY JO,http://line.premiumpowers.net:80/Manuel/1234567/777792
-XXX - HOT PLEASURE,http://line.premiumpowers.net:80/Manuel/1234567/774053
-XXX - HOT PLEASURE TV (H),http://line.premiumpowers.net:80/Manuel/1234567/309876
-XXX - HOT TV,http://line.premiumpowers.net:80/Manuel/1234567/773987
-XXX - HOT TV (H),http://line.premiumpowers.net:80/Manuel/1234567/128788
-XXX - HOT XXL,http://line.premiumpowers.net:80/Manuel/1234567/774044
-XXX - HOT XXL (H),http://line.premiumpowers.net:80/Manuel/1234567/309877
-XXX - HUSTLER,http://line.premiumpowers.net:80/Manuel/1234567/773959
-XXX - HUSTLER TV,http://line.premiumpowers.net:80/Manuel/1234567/773979
-XXX - JASMIN,http://line.premiumpowers.net:80/Manuel/1234567/777784
-XXX - JASMIN TV,http://line.premiumpowers.net:80/Manuel/1234567/774064
-XXX - JIMSLIP,http://line.premiumpowers.net:80/Manuel/1234567/777783
-XXX - JUICY,http://line.premiumpowers.net:80/Manuel/1234567/309922
-XXX - LEGAL TV,http://line.premiumpowers.net:80/Manuel/1234567/774045
-XXX - LEO TV,http://line.premiumpowers.net:80/Manuel/1234567/777780
-XXX - LEO TV,http://line.premiumpowers.net:80/Manuel/1234567/774034
-XXX - LEO TV (H),http://line.premiumpowers.net:80/Manuel/1234567/138529
-XXX - LESBIAN AFFAIR (H),http://line.premiumpowers.net:80/Manuel/1234567/138506
-XXX - LUST PUR TV,http://line.premiumpowers.net:80/Manuel/1234567/774032
-XXX - MEIDEN VAN HOLLAND (H),http://line.premiumpowers.net:80/Manuel/1234567/138482
-XXX - MEIDEN VAN HOLLAND HARD,http://line.premiumpowers.net:80/Manuel/1234567/773991
-XXX - MEIDEN VAN HOLLAND HARD,http://line.premiumpowers.net:80/Manuel/1234567/777777
-XXX - MIA KHALIFA,http://line.premiumpowers.net:80/Manuel/1234567/777776
-XXX - MIAMI,http://line.premiumpowers.net:80/Manuel/1234567/777774
-XXX - MILF TV,http://line.premiumpowers.net:80/Manuel/1234567/774054
-XXX - MiLF TV (H),http://line.premiumpowers.net:80/Manuel/1234567/309879
-XXX - MOFOS LAB,http://line.premiumpowers.net:80/Manuel/1234567/777772
-XXX - MONSTERS OF COCK,http://line.premiumpowers.net:80/Manuel/1234567/777769
-XXX - N1 ADULT - BABES 1,http://line.premiumpowers.net:80/Manuel/1234567/777766
-XXX - N1 ADULT - BABES 2,http://line.premiumpowers.net:80/Manuel/1234567/777765
-XXX - N1 ADULT - BABES 3,http://line.premiumpowers.net:80/Manuel/1234567/777735
-XXX - N1 ADULT - BANGBROS 2,http://line.premiumpowers.net:80/Manuel/1234567/777764
-XXX - N1 ADULT - BANGBROS,http://line.premiumpowers.net:80/Manuel/1234567/777763
-XXX - N1 ADULT - BLACKED,http://line.premiumpowers.net:80/Manuel/1234567/777762
-XXX - N1 ADULT - BLACKED 2,http://line.premiumpowers.net:80/Manuel/1234567/777761
-XXX - N1 ADULT - BLACKED 3,http://line.premiumpowers.net:80/Manuel/1234567/777760
-XXX -UGHTY TV,http://line.premiumpowers.net:80/Manuel/1234567/774046
-XXX - NET VIDEO GIRLS,http://line.premiumpowers.net:80/Manuel/1234567/777756
-XXX - NET XXX,http://line.premiumpowers.net:80/Manuel/1234567/774051
-XXX - NUART TV,http://line.premiumpowers.net:80/Manuel/1234567/774018
-XXX - NUART TV,http://line.premiumpowers.net:80/Manuel/1234567/777753
-XXX - NUART TV EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/774019
-XXX - O LA LA,http://line.premiumpowers.net:80/Manuel/1234567/777752
-XXX - O LA LA TV,http://line.premiumpowers.net:80/Manuel/1234567/774016
-XXX - O LA LA TV (S),http://line.premiumpowers.net:80/Manuel/1234567/138522
-XXX - OLDTIMER,http://line.premiumpowers.net:80/Manuel/1234567/774049
-XXX - PASSIE XXX,http://line.premiumpowers.net:80/Manuel/1234567/773981
-XXX - PASSION XXX,http://line.premiumpowers.net:80/Manuel/1234567/773982
-XXX - PASSION XXX 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/138469
-XXX - PENTHOUSE GOLD,http://line.premiumpowers.net:80/Manuel/1234567/774037
-XXX - PENTHOUSE GOLD,http://line.premiumpowers.net:80/Manuel/1234567/777747
-XXX - PENTHOUSE GOLD,http://line.premiumpowers.net:80/Manuel/1234567/773968
-XXX - PENTHOUSE GOLD (H),http://line.premiumpowers.net:80/Manuel/1234567/138452
-XXX - PINK EROTIC,http://line.premiumpowers.net:80/Manuel/1234567/773994
-XXX - PINK EROTIC 2,http://line.premiumpowers.net:80/Manuel/1234567/773995
-XXX - PINK EROTIC 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/131888
-XXX - PINK EROTIC 3,http://line.premiumpowers.net:80/Manuel/1234567/773996
-XXX - PINK EROTIC 4,http://line.premiumpowers.net:80/Manuel/1234567/773997
-XXX - PINK EROTIC 4 (H),http://line.premiumpowers.net:80/Manuel/1234567/138490
-XXX - PINK EROTIC 5,http://line.premiumpowers.net:80/Manuel/1234567/773998
-XXX - PINK EROTIC 5 (H),http://line.premiumpowers.net:80/Manuel/1234567/131890
-XXX - PINK EROTIC 6,http://line.premiumpowers.net:80/Manuel/1234567/773999
-XXX - PINK EROTIC 6 (H),http://line.premiumpowers.net:80/Manuel/1234567/131891
-XXX - PINK EROTIC 7,http://line.premiumpowers.net:80/Manuel/1234567/774000
-XXX - PINK EROTIC 7 (H),http://line.premiumpowers.net:80/Manuel/1234567/131892
-XXX - PINK O CLUB (H),http://line.premiumpowers.net:80/Manuel/1234567/131875
-XXX - PINK O CLUB 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/53053
-XXX - PINKO CLUB,http://line.premiumpowers.net:80/Manuel/1234567/774023
-XXX - PINKO CLUB 2,http://line.premiumpowers.net:80/Manuel/1234567/774024
-XXX - PLAYBOY,http://line.premiumpowers.net:80/Manuel/1234567/774006
-XXX - PLAYBOY EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/774009
-XXX - PLAYBOY EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/774008
-XXX - PLAYBOY EUROPE (S),http://line.premiumpowers.net:80/Manuel/1234567/309865
-XXX - PLAYBOY TV 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/128812
-XXX - PLAYBOY TV,http://line.premiumpowers.net:80/Manuel/1234567/777745
-XXX - PLAYHOUSE,http://line.premiumpowers.net:80/Manuel/1234567/774052
-XXX - PLAYHOUSE (H),http://line.premiumpowers.net:80/Manuel/1234567/138512
-XXX - PRIVATE SPICE,http://line.premiumpowers.net:80/Manuel/1234567/774066
-XXX - PRIVATE TV,http://line.premiumpowers.net:80/Manuel/1234567/773961
-XXX - PRIVATE TV (H),http://line.premiumpowers.net:80/Manuel/1234567/128813
-XXX - PURE BABES (S),http://line.premiumpowers.net:80/Manuel/1234567/309866
-XXX - PURE BABES TV,http://line.premiumpowers.net:80/Manuel/1234567/774022
-XXX - PUTALOCURA,http://line.premiumpowers.net:80/Manuel/1234567/777741
-XXX - REALITY KINGS TV,http://line.premiumpowers.net:80/Manuel/1234567/777740
-XXX - REALITY SEX,http://line.premiumpowers.net:80/Manuel/1234567/777739
-XXX - REDHOT,http://line.premiumpowers.net:80/Manuel/1234567/550702
-XXX - REDLIGHT,http://line.premiumpowers.net:80/Manuel/1234567/777738
-XXX - REDLIGHT,http://line.premiumpowers.net:80/Manuel/1234567/773960
-XXX - REDLIGHT (H),http://line.premiumpowers.net:80/Manuel/1234567/128817
-XXX - RUSSIAN NIGHT EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/774014
-XXX - RUSSIAN NIGHT,http://line.premiumpowers.net:80/Manuel/1234567/774013
-XXX - SATISFACTION,http://line.premiumpowers.net:80/Manuel/1234567/777736
-XXX - SECRET CIRCLE TV,http://line.premiumpowers.net:80/Manuel/1234567/774021
-XXX - SEX ATION,http://line.premiumpowers.net:80/Manuel/1234567/774059
-XXX - SEX PRIVE,http://line.premiumpowers.net:80/Manuel/1234567/774038
-XXX - SEXTREME TV,http://line.premiumpowers.net:80/Manuel/1234567/773989
-XXX - SEXY HOT,http://line.premiumpowers.net:80/Manuel/1234567/773990
-XXX - SEXY HOT,http://line.premiumpowers.net:80/Manuel/1234567/777732
-XXX - SEXY HOT TV (H),http://line.premiumpowers.net:80/Manuel/1234567/138472
-XXX - SKINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/550703
-XXX - SUPER ONE (H),http://line.premiumpowers.net:80/Manuel/1234567/128829
-XXX - SUPER ONE,http://line.premiumpowers.net:80/Manuel/1234567/773970
-XXX - TABOO,http://line.premiumpowers.net:80/Manuel/1234567/774048
-XXX - TABOO TV (H),http://line.premiumpowers.net:80/Manuel/1234567/309885
-XXX - TUSHY 2 TV,http://line.premiumpowers.net:80/Manuel/1234567/777725
-XXX - VIVID RED,http://line.premiumpowers.net:80/Manuel/1234567/773964
-XXX - VIVID TOUCH,http://line.premiumpowers.net:80/Manuel/1234567/773977
-XXX - VIVID TV EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/773975
-XXX - VIXEN,http://line.premiumpowers.net:80/Manuel/1234567/773965
-XXX - X BUNGA BUNGA,http://line.premiumpowers.net:80/Manuel/1234567/774042
-XXX - X-DREAM 2 TV (H),http://line.premiumpowers.net:80/Manuel/1234567/309887
-XXX - X-DREAM TV,http://line.premiumpowers.net:80/Manuel/1234567/774026
-XXX - X-DREAM TV (H),http://line.premiumpowers.net:80/Manuel/1234567/309886
-XXX - X1,http://line.premiumpowers.net:80/Manuel/1234567/774039
-XXX - XTASY,http://line.premiumpowers.net:80/Manuel/1234567/550704
-XXX - XXL,http://line.premiumpowers.net:80/Manuel/1234567/773980
-XXX - XXL (H),http://line.premiumpowers.net:80/Manuel/1234567/53055
-XXX - XXX MAX,http://line.premiumpowers.net:80/Manuel/1234567/777716
-XXX - XY MAX (H),http://line.premiumpowers.net:80/Manuel/1234567/128794
-XXX - XY MIX,http://line.premiumpowers.net:80/Manuel/1234567/773974
-XXX - XY MIX (H),http://line.premiumpowers.net:80/Manuel/1234567/138461
-XXX - XY PLUS,http://line.premiumpowers.net:80/Manuel/1234567/773972
-XXX - ШЁЛК TV,http://line.premiumpowers.net:80/Manuel/1234567/774005
-XXX - ШАЛУН TV,http://line.premiumpowers.net:80/Manuel/1234567/774004
-
  🔞日韩松視_666,#genre#
-松視1臺,P2p://ns3.hellotvvod.com:9906/b220e1df95e141188def1de2d1a3507e
-松視2臺,P2p://ns3.hellotvvod.com:9906/d4e997cdc91b4506bf391e7222b77abc
-松視3臺,P2p://ns3.hellotvvod.com:9906/6c96963b9c974eb88da6ff55f3b77773
-彩虹E臺,P2p://ns3.hellotvvod.com:9906/f25bdd85818748688189670f3a6b22c2
-香蕉臺,P2p://ns3.hellotvvod.com:9906/91088314de8b461ba3aaa1f27ae3732b
-彩虹電影,P2p://ns3.hellotvvod.com:9906/3d057a573d1f443e9b5b875de1bdf608
-潘朵啦玩美,P2p://ns3.hellotvvod.com:9906/920530a511934ff980a0bc4ffb64f51c
-驚豔電影臺,P2p://ns3.hellotvvod.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
-JStar極限臺,P2p://ns3.hellotvvod.com:9906/9ca49d959a29450fbc3f7766f7769e54
-HAPPY,P2p://ns3.hellotvvod.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
-K 頻道,P2p://ns3.hellotvvod.com:9906/59281d33d7d24944abcf3d4aa0ed524c
-Look HD,P2p://ns3.hellotvvod.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
-PLAYBOY,P2p://ns3.hellotvvod.com:9906/a5480458bcb946b18d21b751db08a8e1
-松視1臺,mitv://ns3.hellotvvod.com:9906/b220e1df95e141188def1de2d1a3507e
-松視2臺,mitv://ns3.hellotvvod.com:9906/d4e997cdc91b4506bf391e7222b77abc
-松視3臺,mitv://ns3.hellotvvod.com:9906/6c96963b9c974eb88da6ff55f3b77773
-彩虹E臺,mitv://ns3.hellotvvod.com:9906/f25bdd85818748688189670f3a6b22c2
-香蕉臺,mitv://ns3.hellotvvod.com:9906/91088314de8b461ba3aaa1f27ae3732b
-彩虹電影,mitv://ns3.hellotvvod.com:9906/3d057a573d1f443e9b5b875de1bdf608
-潘朵啦玩美,mitv://ns3.hellotvvod.com:9906/920530a511934ff980a0bc4ffb64f51c
-驚豔電影臺,mitv://ns3.hellotvvod.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
-JStar極限臺,mitv://ns3.hellotvvod.com:9906/9ca49d959a29450fbc3f7766f7769e54
-HAPPY,mitv://ns3.hellotvvod.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
-K 頻道,mitv://ns3.hellotvvod.com:9906/59281d33d7d24944abcf3d4aa0ed524c
-Look HD,mitv://ns3.hellotvvod.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
-PLAYBOY,mitv://ns3.hellotvvod.com:9906/a5480458bcb946b18d21b751db08a8e1
+松視1臺,P2p://generationnexxxt.com:9906/b220e1df95e141188def1de2d1a3507e
+松視2臺,P2p://generationnexxxt.com:9906/d4e997cdc91b4506bf391e7222b77abc
+松視3臺,P2p://generationnexxxt.com:9906/6c96963b9c974eb88da6ff55f3b77773
+彩虹E臺,P2p://generationnexxxt.com:9906/f25bdd85818748688189670f3a6b22c2
+香蕉臺,P2p://generationnexxxt.com:9906/91088314de8b461ba3aaa1f27ae3732b
+彩虹電影,P2p://generationnexxxt.com:9906/3d057a573d1f443e9b5b875de1bdf608
+潘朵啦玩美,P2p://generationnexxxt.com:9906/920530a511934ff980a0bc4ffb64f51c
+驚豔電影臺,P2p://generationnexxxt.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
+JStar極限臺,P2p://generationnexxxt.com:9906/9ca49d959a29450fbc3f7766f7769e54
+HAPPY,P2p://generationnexxxt.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
+K 頻道,P2p://generationnexxxt.com:9906/59281d33d7d24944abcf3d4aa0ed524c
+Look HD,P2p://generationnexxxt.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
+PLAYBOY,P2p://generationnexxxt.com:9906/a5480458bcb946b18d21b751db08a8e1
+松視1臺,mitv://generationnexxxt.com:9906/b220e1df95e141188def1de2d1a3507e
+松視2臺,mitv://generationnexxxt.com:9906/d4e997cdc91b4506bf391e7222b77abc
+松視3臺,mitv://generationnexxxt.com:9906/6c96963b9c974eb88da6ff55f3b77773
+彩虹E臺,mitv://generationnexxxt.com:9906/f25bdd85818748688189670f3a6b22c2
+香蕉臺,mitv://generationnexxxt.com:9906/91088314de8b461ba3aaa1f27ae3732b
+彩虹電影,mitv://generationnexxxt.com:9906/3d057a573d1f443e9b5b875de1bdf608
+潘朵啦玩美,mitv://generationnexxxt.com:9906/920530a511934ff980a0bc4ffb64f51c
+驚豔電影臺,mitv://generationnexxxt.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
+JStar極限臺,mitv://generationnexxxt.com:9906/9ca49d959a29450fbc3f7766f7769e54
+HAPPY,mitv://generationnexxxt.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
+K 頻道,mitv://generationnexxxt.com:9906/59281d33d7d24944abcf3d4aa0ed524c
+Look HD,mitv://generationnexxxt.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
+PLAYBOY,mitv://generationnexxxt.com:9906/a5480458bcb946b18d21b751db08a8e1
 
  🔞欧美松視_666,#genre#
 K频道欧美媒,http://live.redtraffic.xyz:80/threesome.m3u8
@@ -3814,6 +3715,218 @@ XXX Show de Bundas 02,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/807
 XXX Thammy Gretchen,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/808
 XXX Wanessa Boyer,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/809
 XXX Yara Rocha,http://op.cdloop.eu:80/6596595426ronison/wf92hjn299/810
+
+ 🔞老外成人_666,#genre#
+XXX - A3 BIKINI TV,http://line.premiumpowers.net:80/Manuel/1234567/774065
+XXX - A3 BIKINI TV (S),http://line.premiumpowers.net:80/Manuel/1234567/138504
+XXX - ALBA XXX 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/309867
+XXX - ASMR FANTASY,http://line.premiumpowers.net:80/Manuel/1234567/777865
+XXX - BABES TV,http://line.premiumpowers.net:80/Manuel/1234567/777863
+XXX - BABES TV,http://line.premiumpowers.net:80/Manuel/1234567/773971
+XXX - BABES TV (S),http://line.premiumpowers.net:80/Manuel/1234567/128761
+XXX - BABES UNLEASHED,http://line.premiumpowers.net:80/Manuel/1234567/777862
+XXX - BAD DADDY POV,http://line.premiumpowers.net:80/Manuel/1234567/777860
+XXX - BAEB,http://line.premiumpowers.net:80/Manuel/1234567/777859
+XXX - BALKAN EROTIC,http://line.premiumpowers.net:80/Manuel/1234567/774047
+XXX - BALKAN HOT TV 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/309869
+XXX - BANG U,http://line.premiumpowers.net:80/Manuel/1234567/774002
+XXX - BANG U EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/774003
+XXX - BANGERZ,http://line.premiumpowers.net:80/Manuel/1234567/774050
+XXX - BANGERZ (H),http://line.premiumpowers.net:80/Manuel/1234567/309870
+XXX - BARELY LEGAL TV,http://line.premiumpowers.net:80/Manuel/1234567/777856
+XXX - BARELY LEGAL TV,http://line.premiumpowers.net:80/Manuel/1234567/774015
+XXX - BARELY LEGAL TV (S),http://line.premiumpowers.net:80/Manuel/1234567/128764
+XXX - BASHMENT,http://line.premiumpowers.net:80/Manuel/1234567/533615
+XXX - BASHMENT 2,http://line.premiumpowers.net:80/Manuel/1234567/533616
+XXX - BEATE-UHSE.TV,http://line.premiumpowers.net:80/Manuel/1234567/774033
+XXX - BELLESA FILMS,http://line.premiumpowers.net:80/Manuel/1234567/777854
+XXX - BIG ASS,http://line.premiumpowers.net:80/Manuel/1234567/777853
+XXX - BLUE HUSTLER,http://line.premiumpowers.net:80/Manuel/1234567/774011
+XXX - BLUE HUSTLER EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/774012
+XXX - BLUE HUSTLER,http://line.premiumpowers.net:80/Manuel/1234567/774010
+XXX - BLUE HUSTLER TV (S),http://line.premiumpowers.net:80/Manuel/1234567/128770
+XXX - BLUE HUSTLER TV EUROPE (S),http://line.premiumpowers.net:80/Manuel/1234567/131876
+XXX - BRAZZERS EN ESPAÑOL,http://line.premiumpowers.net:80/Manuel/1234567/777848
+XXX - BRAZZERS TV,http://line.premiumpowers.net:80/Manuel/1234567/773984
+XXX - BRAZZERS TV EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/773985
+XXX - BRAZZERS TV EUROPE RUSSIA,http://line.premiumpowers.net:80/Manuel/1234567/773986
+XXX - BROKEN MILF,http://line.premiumpowers.net:80/Manuel/1234567/777844
+XXX - BUNGA BUNGA,http://line.premiumpowers.net:80/Manuel/1234567/777843
+XXX - CANDY TV (S),http://line.premiumpowers.net:80/Manuel/1234567/138526
+XXX - CANDYMAN,http://line.premiumpowers.net:80/Manuel/1234567/774070
+XXX - CENTO CENTO,http://line.premiumpowers.net:80/Manuel/1234567/777841
+XXX - CENTO X CENTO,http://line.premiumpowers.net:80/Manuel/1234567/774031
+XXX - CENTO X CENTO (H),http://line.premiumpowers.net:80/Manuel/1234567/131882
+XXX - COLLEGE RULES,http://line.premiumpowers.net:80/Manuel/1234567/777840
+XXX - COSMID 2,http://line.premiumpowers.net:80/Manuel/1234567/777838
+XXX - CUCKOLD,http://line.premiumpowers.net:80/Manuel/1234567/777837
+XXX - CZECH STREETS,http://line.premiumpowers.net:80/Manuel/1234567/777832
+XXX - DANCING BEAR,http://line.premiumpowers.net:80/Manuel/1234567/777830
+XXX - DAUGHTER SWAP,http://line.premiumpowers.net:80/Manuel/1234567/777827
+XXX - DAY WITH A PORNSTAR,http://line.premiumpowers.net:80/Manuel/1234567/777826
+XXX - DEEPER,http://line.premiumpowers.net:80/Manuel/1234567/777824
+XXX - DESTINY 2 TV,http://line.premiumpowers.net:80/Manuel/1234567/777823
+XXX - DICK DRAINERS,http://line.premiumpowers.net:80/Manuel/1234567/777822
+XXX - DORCEL,http://line.premiumpowers.net:80/Manuel/1234567/777819
+XXX - DORCEL,http://line.premiumpowers.net:80/Manuel/1234567/773962
+XXX - DORCEL TV (H),http://line.premiumpowers.net:80/Manuel/1234567/53070
+XXX - DORCEL TV XXX (H),http://line.premiumpowers.net:80/Manuel/1234567/267612
+XXX - DORCEL XXX,http://line.premiumpowers.net:80/Manuel/1234567/773963
+XXX - DREAM PORN,http://line.premiumpowers.net:80/Manuel/1234567/774025
+XXX - DUSK!,http://line.premiumpowers.net:80/Manuel/1234567/773978
+XXX - EMANUELLE,http://line.premiumpowers.net:80/Manuel/1234567/774058
+XXX - EMANUELLE (S),http://line.premiumpowers.net:80/Manuel/1234567/309862
+XXX - ERO X (S),http://line.premiumpowers.net:80/Manuel/1234567/53066
+XXX - EROX,http://line.premiumpowers.net:80/Manuel/1234567/774035
+XXX - EROX XXX,http://line.premiumpowers.net:80/Manuel/1234567/774036
+XXX - EROX XXX,http://line.premiumpowers.net:80/Manuel/1234567/773967
+XXX - EROXXX,http://line.premiumpowers.net:80/Manuel/1234567/777815
+XXX - EVIL ANGEL,http://line.premiumpowers.net:80/Manuel/1234567/773992
+XXX - EVIL ANGEL EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/773993
+XXX - EVIL ANGEL TV,http://line.premiumpowers.net:80/Manuel/1234567/777814
+XXX - EVOLVED FIGHTS,http://line.premiumpowers.net:80/Manuel/1234567/777813
+XXX - EXTASY,http://line.premiumpowers.net:80/Manuel/1234567/774069
+XXX - EXTREME,http://line.premiumpowers.net:80/Manuel/1234567/774056
+XXX - EXXXOTICA (S),http://line.premiumpowers.net:80/Manuel/1234567/309863
+XXX - EXXXOTICA TV,http://line.premiumpowers.net:80/Manuel/1234567/774020
+XXX - FAP TV ANAL,http://line.premiumpowers.net:80/Manuel/1234567/777807
+XXX - FASHION TV,http://line.premiumpowers.net:80/Manuel/1234567/774063
+XXX - FILMON TV,http://line.premiumpowers.net:80/Manuel/1234567/774067
+XXX - FILMON TV 2,http://line.premiumpowers.net:80/Manuel/1234567/774068
+XXX - FILMON TV MAN2MAN,http://line.premiumpowers.net:80/Manuel/1234567/774062
+XXX - FREE X TV,http://line.premiumpowers.net:80/Manuel/1234567/774029
+XXX - FREE X TV 2,http://line.premiumpowers.net:80/Manuel/1234567/774030
+XXX - FREE X TV HQ,http://line.premiumpowers.net:80/Manuel/1234567/774028
+XXX - FREE-X TV 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/309874
+XXX - FRENCH LOVER (S),http://line.premiumpowers.net:80/Manuel/1234567/138523
+XXX - FRENCH LOVER TV,http://line.premiumpowers.net:80/Manuel/1234567/774017
+XXX - GIRLS OUT WEST,http://line.premiumpowers.net:80/Manuel/1234567/777798
+XXX - HOLED,http://line.premiumpowers.net:80/Manuel/1234567/777794
+XXX - HOT (H),http://line.premiumpowers.net:80/Manuel/1234567/138478
+XXX - HOT KINKY JO,http://line.premiumpowers.net:80/Manuel/1234567/777792
+XXX - HOT PLEASURE,http://line.premiumpowers.net:80/Manuel/1234567/774053
+XXX - HOT PLEASURE TV (H),http://line.premiumpowers.net:80/Manuel/1234567/309876
+XXX - HOT TV,http://line.premiumpowers.net:80/Manuel/1234567/773987
+XXX - HOT TV (H),http://line.premiumpowers.net:80/Manuel/1234567/128788
+XXX - HOT XXL,http://line.premiumpowers.net:80/Manuel/1234567/774044
+XXX - HOT XXL (H),http://line.premiumpowers.net:80/Manuel/1234567/309877
+XXX - HUSTLER,http://line.premiumpowers.net:80/Manuel/1234567/773959
+XXX - HUSTLER TV,http://line.premiumpowers.net:80/Manuel/1234567/773979
+XXX - JASMIN,http://line.premiumpowers.net:80/Manuel/1234567/777784
+XXX - JASMIN TV,http://line.premiumpowers.net:80/Manuel/1234567/774064
+XXX - JIMSLIP,http://line.premiumpowers.net:80/Manuel/1234567/777783
+XXX - JUICY,http://line.premiumpowers.net:80/Manuel/1234567/309922
+XXX - LEGAL TV,http://line.premiumpowers.net:80/Manuel/1234567/774045
+XXX - LEO TV,http://line.premiumpowers.net:80/Manuel/1234567/777780
+XXX - LEO TV,http://line.premiumpowers.net:80/Manuel/1234567/774034
+XXX - LEO TV (H),http://line.premiumpowers.net:80/Manuel/1234567/138529
+XXX - LESBIAN AFFAIR (H),http://line.premiumpowers.net:80/Manuel/1234567/138506
+XXX - LUST PUR TV,http://line.premiumpowers.net:80/Manuel/1234567/774032
+XXX - MEIDEN VAN HOLLAND (H),http://line.premiumpowers.net:80/Manuel/1234567/138482
+XXX - MEIDEN VAN HOLLAND HARD,http://line.premiumpowers.net:80/Manuel/1234567/773991
+XXX - MEIDEN VAN HOLLAND HARD,http://line.premiumpowers.net:80/Manuel/1234567/777777
+XXX - MIA KHALIFA,http://line.premiumpowers.net:80/Manuel/1234567/777776
+XXX - MIAMI,http://line.premiumpowers.net:80/Manuel/1234567/777774
+XXX - MILF TV,http://line.premiumpowers.net:80/Manuel/1234567/774054
+XXX - MiLF TV (H),http://line.premiumpowers.net:80/Manuel/1234567/309879
+XXX - MOFOS LAB,http://line.premiumpowers.net:80/Manuel/1234567/777772
+XXX - MONSTERS OF COCK,http://line.premiumpowers.net:80/Manuel/1234567/777769
+XXX - N1 ADULT - BABES 1,http://line.premiumpowers.net:80/Manuel/1234567/777766
+XXX - N1 ADULT - BABES 2,http://line.premiumpowers.net:80/Manuel/1234567/777765
+XXX - N1 ADULT - BABES 3,http://line.premiumpowers.net:80/Manuel/1234567/777735
+XXX - N1 ADULT - BANGBROS 2,http://line.premiumpowers.net:80/Manuel/1234567/777764
+XXX - N1 ADULT - BANGBROS,http://line.premiumpowers.net:80/Manuel/1234567/777763
+XXX - N1 ADULT - BLACKED,http://line.premiumpowers.net:80/Manuel/1234567/777762
+XXX - N1 ADULT - BLACKED 2,http://line.premiumpowers.net:80/Manuel/1234567/777761
+XXX - N1 ADULT - BLACKED 3,http://line.premiumpowers.net:80/Manuel/1234567/777760
+XXX -UGHTY TV,http://line.premiumpowers.net:80/Manuel/1234567/774046
+XXX - NET VIDEO GIRLS,http://line.premiumpowers.net:80/Manuel/1234567/777756
+XXX - NET XXX,http://line.premiumpowers.net:80/Manuel/1234567/774051
+XXX - NUART TV,http://line.premiumpowers.net:80/Manuel/1234567/774018
+XXX - NUART TV,http://line.premiumpowers.net:80/Manuel/1234567/777753
+XXX - NUART TV EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/774019
+XXX - O LA LA,http://line.premiumpowers.net:80/Manuel/1234567/777752
+XXX - O LA LA TV,http://line.premiumpowers.net:80/Manuel/1234567/774016
+XXX - O LA LA TV (S),http://line.premiumpowers.net:80/Manuel/1234567/138522
+XXX - OLDTIMER,http://line.premiumpowers.net:80/Manuel/1234567/774049
+XXX - PASSIE XXX,http://line.premiumpowers.net:80/Manuel/1234567/773981
+XXX - PASSION XXX,http://line.premiumpowers.net:80/Manuel/1234567/773982
+XXX - PASSION XXX 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/138469
+XXX - PENTHOUSE GOLD,http://line.premiumpowers.net:80/Manuel/1234567/774037
+XXX - PENTHOUSE GOLD,http://line.premiumpowers.net:80/Manuel/1234567/777747
+XXX - PENTHOUSE GOLD,http://line.premiumpowers.net:80/Manuel/1234567/773968
+XXX - PENTHOUSE GOLD (H),http://line.premiumpowers.net:80/Manuel/1234567/138452
+XXX - PINK EROTIC,http://line.premiumpowers.net:80/Manuel/1234567/773994
+XXX - PINK EROTIC 2,http://line.premiumpowers.net:80/Manuel/1234567/773995
+XXX - PINK EROTIC 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/131888
+XXX - PINK EROTIC 3,http://line.premiumpowers.net:80/Manuel/1234567/773996
+XXX - PINK EROTIC 4,http://line.premiumpowers.net:80/Manuel/1234567/773997
+XXX - PINK EROTIC 4 (H),http://line.premiumpowers.net:80/Manuel/1234567/138490
+XXX - PINK EROTIC 5,http://line.premiumpowers.net:80/Manuel/1234567/773998
+XXX - PINK EROTIC 5 (H),http://line.premiumpowers.net:80/Manuel/1234567/131890
+XXX - PINK EROTIC 6,http://line.premiumpowers.net:80/Manuel/1234567/773999
+XXX - PINK EROTIC 6 (H),http://line.premiumpowers.net:80/Manuel/1234567/131891
+XXX - PINK EROTIC 7,http://line.premiumpowers.net:80/Manuel/1234567/774000
+XXX - PINK EROTIC 7 (H),http://line.premiumpowers.net:80/Manuel/1234567/131892
+XXX - PINK O CLUB (H),http://line.premiumpowers.net:80/Manuel/1234567/131875
+XXX - PINK O CLUB 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/53053
+XXX - PINKO CLUB,http://line.premiumpowers.net:80/Manuel/1234567/774023
+XXX - PINKO CLUB 2,http://line.premiumpowers.net:80/Manuel/1234567/774024
+XXX - PLAYBOY,http://line.premiumpowers.net:80/Manuel/1234567/774006
+XXX - PLAYBOY EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/774009
+XXX - PLAYBOY EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/774008
+XXX - PLAYBOY EUROPE (S),http://line.premiumpowers.net:80/Manuel/1234567/309865
+XXX - PLAYBOY TV 2 (H),http://line.premiumpowers.net:80/Manuel/1234567/128812
+XXX - PLAYBOY TV,http://line.premiumpowers.net:80/Manuel/1234567/777745
+XXX - PLAYHOUSE,http://line.premiumpowers.net:80/Manuel/1234567/774052
+XXX - PLAYHOUSE (H),http://line.premiumpowers.net:80/Manuel/1234567/138512
+XXX - PRIVATE SPICE,http://line.premiumpowers.net:80/Manuel/1234567/774066
+XXX - PRIVATE TV,http://line.premiumpowers.net:80/Manuel/1234567/773961
+XXX - PRIVATE TV (H),http://line.premiumpowers.net:80/Manuel/1234567/128813
+XXX - PURE BABES (S),http://line.premiumpowers.net:80/Manuel/1234567/309866
+XXX - PURE BABES TV,http://line.premiumpowers.net:80/Manuel/1234567/774022
+XXX - PUTALOCURA,http://line.premiumpowers.net:80/Manuel/1234567/777741
+XXX - REALITY KINGS TV,http://line.premiumpowers.net:80/Manuel/1234567/777740
+XXX - REALITY SEX,http://line.premiumpowers.net:80/Manuel/1234567/777739
+XXX - REDHOT,http://line.premiumpowers.net:80/Manuel/1234567/550702
+XXX - REDLIGHT,http://line.premiumpowers.net:80/Manuel/1234567/777738
+XXX - REDLIGHT,http://line.premiumpowers.net:80/Manuel/1234567/773960
+XXX - REDLIGHT (H),http://line.premiumpowers.net:80/Manuel/1234567/128817
+XXX - RUSSIAN NIGHT EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/774014
+XXX - RUSSIAN NIGHT,http://line.premiumpowers.net:80/Manuel/1234567/774013
+XXX - SATISFACTION,http://line.premiumpowers.net:80/Manuel/1234567/777736
+XXX - SECRET CIRCLE TV,http://line.premiumpowers.net:80/Manuel/1234567/774021
+XXX - SEX ATION,http://line.premiumpowers.net:80/Manuel/1234567/774059
+XXX - SEX PRIVE,http://line.premiumpowers.net:80/Manuel/1234567/774038
+XXX - SEXTREME TV,http://line.premiumpowers.net:80/Manuel/1234567/773989
+XXX - SEXY HOT,http://line.premiumpowers.net:80/Manuel/1234567/773990
+XXX - SEXY HOT,http://line.premiumpowers.net:80/Manuel/1234567/777732
+XXX - SEXY HOT TV (H),http://line.premiumpowers.net:80/Manuel/1234567/138472
+XXX - SKINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/550703
+XXX - SUPER ONE (H),http://line.premiumpowers.net:80/Manuel/1234567/128829
+XXX - SUPER ONE,http://line.premiumpowers.net:80/Manuel/1234567/773970
+XXX - TABOO,http://line.premiumpowers.net:80/Manuel/1234567/774048
+XXX - TABOO TV (H),http://line.premiumpowers.net:80/Manuel/1234567/309885
+XXX - TUSHY 2 TV,http://line.premiumpowers.net:80/Manuel/1234567/777725
+XXX - VIVID RED,http://line.premiumpowers.net:80/Manuel/1234567/773964
+XXX - VIVID TOUCH,http://line.premiumpowers.net:80/Manuel/1234567/773977
+XXX - VIVID TV EUROPE,http://line.premiumpowers.net:80/Manuel/1234567/773975
+XXX - VIXEN,http://line.premiumpowers.net:80/Manuel/1234567/773965
+XXX - X BUNGA BUNGA,http://line.premiumpowers.net:80/Manuel/1234567/774042
+XXX - X-DREAM 2 TV (H),http://line.premiumpowers.net:80/Manuel/1234567/309887
+XXX - X-DREAM TV,http://line.premiumpowers.net:80/Manuel/1234567/774026
+XXX - X-DREAM TV (H),http://line.premiumpowers.net:80/Manuel/1234567/309886
+XXX - X1,http://line.premiumpowers.net:80/Manuel/1234567/774039
+XXX - XTASY,http://line.premiumpowers.net:80/Manuel/1234567/550704
+XXX - XXL,http://line.premiumpowers.net:80/Manuel/1234567/773980
+XXX - XXL (H),http://line.premiumpowers.net:80/Manuel/1234567/53055
+XXX - XXX MAX,http://line.premiumpowers.net:80/Manuel/1234567/777716
+XXX - XY MAX (H),http://line.premiumpowers.net:80/Manuel/1234567/128794
+XXX - XY MIX,http://line.premiumpowers.net:80/Manuel/1234567/773974
+XXX - XY MIX (H),http://line.premiumpowers.net:80/Manuel/1234567/138461
+XXX - XY PLUS,http://line.premiumpowers.net:80/Manuel/1234567/773972
+XXX - ШЁЛК TV,http://line.premiumpowers.net:80/Manuel/1234567/774005
+XXX - ШАЛУН TV,http://line.premiumpowers.net:80/Manuel/1234567/774004
 
 🔞美妞直播_666,#genre#
 成人抖音01,https://ttpng.34885.xyz/duanpian/douyin/m3u8/202210/%E9%BB%84%E7%93%9C%E6%8A%BD%E6%8F%92%E6%B7%AB%E7%A9%B4%E9%AB%98%E8%B7%9F%E5%B0%8F%E5%B0%91%E5%A6%87/%E9%BB%84%E7%93%9C%E6%8A%BD%E6%8F%92%E6%B7%AB%E7%A9%B4%E9%AB%98%E8%B7%9F%E5%B0%8F%E5%B0%91%E5%A6%87.m3u8
