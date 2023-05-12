@@ -7,25 +7,60 @@
             "name": "🤪饭太硬线路"
         },
 {
-            "url": "http://api.wemtime.com/TVBOX/b.json",
-            "name": "外星人黑科技小屋"
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "😺肥猫线路"
         },
-        
 {
             "url": "http://api.wemtime.com/TVBOX/b.json",
             "name": "🪐阿星线路"
         },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
+            "name": "🌸激情影视壹"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo1.json",
+            "name": "🌸激情影视贰"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo2.json",
+            "name": "🌸激情影视叁"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo3.json",
+            "name": "🌸激情影视肆"
+        },
+{
+            "url": "https://raw.iqiq.io/shiran588/m3u/main/maoCR.txt",
+            "name": "🌸激情影视伍"
+        },
+{
+            "url": "https://raw.iqiq.io/lexzd/fuli/master/cr1.json",
+            "name": "🌸激情影视陆"
+        },
+{
+            "url": "https://raw.iqiq.io/lexzd/fuli/master/cr2.json",
+            "name": "🌸激情影视柒"
+        },
+{
+            "url": "https://raw.iqiq.io/lexzd/fuli/master/cr3.json",
+            "name": "🌸激情影视捌"
+        },
+{
+            "url": "https://raw.iqiq.io/yschaizhen/xian/master/hh",
+            "name": "🌸激情影视玖"
+        },
+{
+            "url": "http://api.wemtime.com/TVBOX/b.json",
+            "name": "黑科技小屋"
+        },
         
+
 {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🌀南风线路"
         },
     
-{
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "😺肥猫线路"
-        },     
-        
 {
             "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
             "name": "☘蚂蚁线路"
@@ -120,26 +155,6 @@
 {
             "url": "https://tvbox.cainisi.cf",
             "name": "🌸菜妮丝线路"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
-            "name": "🌸激情影视壹"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo1.json",
-            "name": "🌸激情影视贰"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo2.json",
-            "name": "🌸激情影视叁"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo3.json",
-            "name": "🌸激情影视肆"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt",
-            "name": "🌸全球直播"
         },
 {
             "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
