@@ -51,6 +51,10 @@
             "name": "🌸激情影视玖"
         },
 {
+            "url": "https://raw.iqiq.io/szxinhui508/tvbox1024/main/18+.json",
+            "name": "🌸激情影视拾"
+        },
+{
             "url": "http://api.wemtime.com/TVBOX/b.json",
             "name": "黑科技小屋"
         },
