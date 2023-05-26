@@ -3,282 +3,168 @@
     "urls": [
         
 {
-            "url": "http://饭太硬.ga/x/b.json",
-            "name": "😺饭太硬"
-        },
-{
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "😺肥猫线路"
+            "name": "😺电影合集1"
         },
 {
             "url": "http://api.wemtime.com/TVBOX/b.json",
-            "name": "🪐阿星线路"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
-            "name": "🌸激情影视壹"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo1.json",
-            "name": "🌸激情影视贰"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo2.json",
-            "name": "🌸激情影视叁"
-        },
-{
-            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo3.json",
-            "name": "🌸激情影视肆"
-        },
-{
-            "url": "https://raw.iqiq.io/shiran588/m3u/main/maoCR.txt",
-            "name": "🌸激情影视伍"
-        },
-{
-            "url": "https://raw.iqiq.io/lexzd/fuli/master/cr1.json",
-            "name": "🌸激情影视陆"
-        },
-{
-            "url": "https://raw.iqiq.io/lexzd/fuli/master/cr2.json",
-            "name": "🌸激情影视柒"
-        },
-{
-            "url": "https://raw.iqiq.io/lexzd/fuli/master/cr3.json",
-            "name": "🌸激情影视捌"
-        },
-{
-            "url": "https://raw.iqiq.io/yschaizhen/xian/master/hh",
-            "name": "🌸激情影视玖"
-        },
-{
-            "url": "https://raw.iqiq.io/szxinhui508/tvbox1024/main/18+.json",
-            "name": "🌸激情影视拾"
-        },
-{
-            "url": "https://raw.kgithub.com/mengzehe/TVBox/main/18.json",
-            "name": "😺 激情mengzehe_18 "
+            "name": "🪐电影合集2"
         },
 {
             "url": "https://raw.kgithub.com/mengzehe/TVBox/main/luxian.json",
-            "name": "😺 激情mengzehe_luxian "
+            "name": "😺 电影合集3"
         },
-{
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json",
-            "name": "😺激情分享者18+ "
-        },
-{
-            "url": "https://agit.ai/376242575/zzh/raw/branch/master/A.txt",
-            "name": "😺激情私人影院"
-        },
-{
-            "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json",
-            "name": "😺激情无痕线路"
-        },
-{
-            "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
-            "name": "😺激情花花世界"
-        },
-{
-            "url": "https://raw.githubusercontent.com/xcxc8/xc8/main/hot",
-            "name": "😺激情蜜蜜在线"
-        },
-{
-            "url": "http://52bsj.vip:98/18dxwoai",
-            "name": "😺激情吾爱在线"
-        },
-{
-            "url": "https://raw.iqiq.io/jie20091116/cat/main/TVBOX/se.json",
-            "name": "😺激情星云线路"
-        },
-{
-            "url": "https://codeberg.org/caic/a/raw/branch/main/不正经.json",
-            "name": "😺激情不正经线"
-        },
-{
-            "url": "https://agit.ai/SexTVBox/TVBox/raw/branch/master/18sex.txt",
-            "name": "😺激情性爱线路"
-        },
-{
-            "url": "https://huhujunxx.neocities.org/AV.json",
-            "name": "😺激情呼呼军线"
-        },
-{
-            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/九影/BBB.json",
-            "name": "😺激情九影线"
-        },
-{
-            "url": "https://agit.ai/ccy/MHQTV/raw/branch/master/sm.json",
-            "name": "😺 激情MHQTV线路"
-        },
-{
-            "url": "https://raw.kgithub.com/cloudplains/jnsj/main/out/tvbox.txt",
-            "name": "😺激情cloudplains线路1"
-        },
-{
-            "url": "https://raw.kgithub.com/cloudplains/jnsj/main/out/tvbox.txt",
-            "name": "😺激情cloudplains线路2"
-        },
-{
-            "url": "https://cloudplains.github.io/jnsj/out/tvbox.txt",
-            "name": "😺激情cloudplains线路3"
-        },
-{
-            "url": "https://raw.kgithub.com/ifkid/Free-TVUrl/main/out/tvbox.txt",
-            "name": "😺激情ifkid_Free-TVUrl"
-        },
-{
-            "url": "https://raw.kgithub.com/li5bo5/tvbox/main/text.json",
-            "name": "😺激情li5bo5-text"
-        },
-{
-            "url": "https://raw.kgithub.com/Guard-H/tvbox/main/fj.json",
-            "name": "😺激情Guard-H线路"
-        },
-{
-            "url": "https://raw.kgithub.com/cyao2q/files/master/n.json",
-            "name": "😺激情cyao2q-n线路"
-        },
-{
-            "url": "https://raw.kgithub.com/cyao2q/files/master/m.json",
-            "name": "😺激情cyao2q-m线路"
-        },
-{
-            "url": "https://raw.kgithub.com/2hacc/TVBox/main/tvbox",
-            "name": "😺激情2哈社区线路1"
-        },
-{
-            "url": "https://raw.kgithub.com/2hacc/TVBox/main/drpy/xiaoya.json",
-            "name": "😺激情2哈社区线路2"
-        },
-{
-            "url": "https://raw.kgithub.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
-            "name": "😺激情一木自用"
-        },
-{
-            "url": "https://raw.kgithub.com/xianyuyimu/TVBOX-/main/TVBox/%E5%A4%87%E7%94%A8.json",
-            "name": "😺激情一木备用"
-        },
-{
-            "url": "https://raw.kgithub.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8cs.json",
-            "name": "😺激情一木cs"
-        },
-{
-            "url": "https://raw.kgithub.com/T00700/TVBoxSE/master/FongMi.json",
-            "name": "😺激情FongMi"
-        },
-{
-            "url": "https://raw.kgithub.com/tuji-2015/miao/main/TVBox/tvbox.json",
-            "name": "😺激情tuji-2015"
-        },
-{
-            "url": "http://api.wemtime.com/TVBOX/b.json",
-            "name": "黑科技小屋"
-        },
-        
-
 {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🌀南风线路"
+            "name": "😺 电影合集4"
         },
     
 {
             "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
-            "name": "☘蚂蚁线路"
-        },  
-        
-
-{
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "🍎小苹果线路"
+            "name": "😺 电影合集5"
         },
-        
 {
             "url": "https://raw.liucn.cc/box/m.json",
-            "name": "💛老刘备线路"
+            "name": "😺 电影合集6"
         },
-        
-{
-            "url": "http://101.34.67.237/config/3",
-            "name": "🚀小雅线路"
-        }, 
-        
 {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
-            "name": "🌙月光线路"
+            "name": "😺 电影合集7"
         },
         
 {
             "url": "http://home.jundie.top:81/top98.json",
-            "name": "🚀俊佬线路"
+            "name": "😺 电影合集8"
         },
         
 {
             "url": "http://52bsj.vip:98/wuai",
-            "name": "🌹吾爱线路"
+            "name": "😺 电影合集9"
         },   
         
 {
-            "url": "http://9xi4o.tk/0725.json",
-            "name": "🎬4K线路"
-        },           
-        
-{
             "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt",
-            "name": "🌈影视线路"
-        },
-        
-{
-            "url": "https://download.kstore.space/download/3313/mao/ymz",
-            "name": "😻夜猫子线路"
+            "name": "😺 电影合集10"
         },
         
 {
             "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "🐒道长线路"
+            "name": "😺 电影合集11"
         },
         
 {
             "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀巧儿线路"
+            "name": "😺 电影合集12"
         },
-        
-{
-            "url": "https://源享家.ml/45127",
-            "name": "🐹源享家线路"
-        },
-        
-{
-            "url":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-            "name": "🚀荷城茶秀"
-        }, 
-          
-{
-            "url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🏄️高天流云"
-        }, 
-          
 {
             "url":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/2023.json",
-            "name": "🐹Yosakoii"
+            "name": "😺 电影合集13"
         },
-          
-{
-            "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
-            "name": "🏄️胖鸭线路"
-        },
-          
+
 {
             "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "💎元兴线路"
+            "name": "😺 电影合集14"
         },   
         
 {
             "url": "https://tvbox.cainisi.cf",
-            "name": "🌸菜妮丝线路"
+            "name": "😺 电影合集15"
         },
 {
             "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "🥳巧技线路"
+            "name": "😺 电影合集16"
+        }, 
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
+            "name": "🌸激情影视1"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo1.json",
+            "name": "🌸激情影视2"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo2.json",
+            "name": "🌸激情影视3"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo3.json",
+            "name": "🌸激情影视4"
+        },
+{
+            "url": "https://raw.iqiq.io/shiran588/m3u/main/maoCR.txt",
+            "name": "🌸激情影视5"
+        },
+{
+            "url": "https://raw.iqiq.io/lexzd/fuli/master/cr1.json",
+            "name": "🌸激情影视6"
+        },
+{
+            "url": "https://raw.iqiq.io/lexzd/fuli/master/cr2.json",
+            "name": "🌸激情影视7"
+        },
+{
+            "url": "https://raw.iqiq.io/lexzd/fuli/master/cr3.json",
+            "name": "🌸激情影视8"
+        },
+{
+            "url": "https://raw.iqiq.io/yschaizhen/xian/master/hh",
+            "name": "🌸激情影视9"
+        },
+{
+            "url": "https://raw.iqiq.io/szxinhui508/tvbox1024/main/18+.json",
+            "name": "🌸激情影视10"
+        },
+{
+            "url": "http://饭太硬.ga/x/b.json",
+            "name": "🌸激情影视11"
+        },
+{
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json",
+            "name": "🌸激情影视12"
+        },
+{
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/A.txt",
+            "name": "🌸激情影视13"
+        },
+{
+            "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json",
+            "name": "🌸激情影视14"
+        },
+{
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
+            "name": "🌸激情影视15"
+        },
+{
+            "url": "http://52bsj.vip:98/18dxwoai",
+            "name": "🌸激情影视16"
+        },
+{
+            "url": "https://raw.iqiq.io/jie20091116/cat/main/TVBOX/se.json",
+            "name": "🌸激情影视17"
+        },
+{
+            "url": "https://codeberg.org/caic/a/raw/branch/main/不正经.json",
+            "name": "🌸激情影视18"
+        },
+{
+            "url": "https://agit.ai/SexTVBox/TVBox/raw/branch/master/18sex.txt",
+            "name": "🌸激情影视19"
+        },
+{
+            "url": "https://huhujunxx.neocities.org/AV.json",
+            "name": "🌸激情影视20"
+        },
+{
+            "url": "https://agit.ai/ccy/MHQTV/raw/branch/master/sm.json",
+            "name": "🌸激情影视21"
+        },
+{
+            "url": "https://raw.kgithub.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
+            "name": "🌸激情影视22"
+        },
+{
+            "url": "https://raw.kgithub.com/T00700/TVBoxSE/master/FongMi.json",
+            "name": "🌸激情影视23"
         }
     ]
 }
