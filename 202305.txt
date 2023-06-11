@@ -74,11 +74,7 @@
             "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
             "name": "😺 电影合集16"
         },
-{
-            "url": "http://饭太硬.ga/x/o.json",
-            "name": "😺 电影饭太硬17"
-        }, 
-{
+ {
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
             "name": "🌸激情影视1"
         },
