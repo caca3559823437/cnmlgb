@@ -11,7 +11,7 @@
             "name": "😺电影合集2"
         },
 {
-            "url": "https://raw.kgithub.com/mengzehe/TVBox/main/luxian.json",
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json",
             "name": "😺 电影合集3"
         },
 {
