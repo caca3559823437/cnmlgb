@@ -219,8 +219,12 @@
             "name": "🌸激情影视22"
         },
 {
-            "url": "https://raw.kgithub.com/T00700/TVBoxSE/master/FongMi.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Soar1989/tv/main/18.json",
             "name": "🌸激情影视23"
+        },
+{
+            "url": "https://raw.kgithub.com/T00700/TVBoxSE/master/FongMi.json",
+            "name": "🌸激情影视24"
         }
     ]
 }
