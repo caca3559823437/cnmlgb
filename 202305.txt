@@ -7,7 +7,7 @@
             "name": "😺电影合集01"
         },
 {
-            "url": "http://饭太硬.top/tv",
+            "url": "http://饭太硬.ml/tv",
             "name": "😺电影合集02"
         },
 {
@@ -15,7 +15,7 @@
             "name": "😺 电影合集03"
         },
 {
-            "url": "https://agit.ai/hellocupe/vue-element-admin/raw/branch/master/t.json",
+            "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "😺 电影合集04"
         },
 {
@@ -50,7 +50,7 @@
             "name": "😺 电影合集11"
         },
 {
-            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "url": "https://kjsc0310.github.io/tvy/jk9.json",
             "name": "😺 电影合集12"
         },
 {
