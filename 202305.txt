@@ -101,6 +101,14 @@
             "name": "😺 电影合集23"
         },
 {
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/bh2h.json",
+            "name": "😺 电影合集24"
+        },
+{
+            "url": "http://52bsj.vip:81/api/v3/file/get/83755/ygbb.json?sign=FBi4GjvM3YtR6kHqrAARbLH-RUkB30oE3DcHxygS3tE%3D%3A0",
+            "name": "😺 电影合集25"
+        },
+{
             "url": "https://p.ntnas.top/https://raw.githubusercontent.com/caca3559823437/2022/main/xxoo.json",
             "name": "🌸激情影视01"
         },
