@@ -11,11 +11,11 @@
             "name": "😺电影合集02"
         },
 {
-            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
             "name": "😺 电影合集03"
         },
 {
-            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "url": "https://qu.ax/VfUg.json",
             "name": "😺 电影合集04"
         },
 {
@@ -29,7 +29,7 @@
         },
  
 {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
             "name": "😺 电影合集07"
         },
 {
@@ -59,7 +59,7 @@
         },   
         
 {
-            "url": "http://api.wemtime.com/TVBOX/b.json",
+            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
             "name": "😺 电影合集14"
         },
 {
@@ -81,11 +81,11 @@
         },
  
 {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "url": "https://download.kstore.space/download/3313/mao/ymxx",
             "name": "😺 电影合集19"
         },
 {
-            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/xpg.json",
+            "url": "https://fastly.jsdelivr.net/gh/ysztcn/ysztcn.github.io@master/biubiu/zhushou.json",
             "name": "😺 电影合集20"
         },
 {
@@ -101,7 +101,7 @@
             "name": "😺 电影合集23"
         },
 {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/pg/main/苹果源.json",
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json",
             "name": "😺 电影合集24"
         },
 {
