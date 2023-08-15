@@ -67,6 +67,14 @@
             "name": "🌸🔞影视06"
         },
 {
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/tiantuhao/tvinterface/main/xhr.json",
+            "name": "🌸🔞影视07"
+        },
+{
+            "url": "https://p.ntnas.top/https://raw.githubusercontent.com/w2594190605/tvbox/main/1.txt",
+            "name": "🌸🔞影视08"
+        },
+{
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "😺 影视综合1"
         },
