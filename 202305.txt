@@ -1,7 +1,16 @@
 ﻿//新贰叁影视。
 {
     "urls": [
+ 
+{
+            "url": "https://agit.ai/gk0746/pxy/raw/branch/master/hechengchaxiu.json",
+            "name": "荷城7"
+        },
         
+{
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "😺 影视云星"
+        },
 {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
             "name": "😺影视肥猫"
@@ -13,10 +22,6 @@
 {
             "url": "https://tvbox.cainisi.cf",
             "name": "😺 影视菜尼丝"
-        },
-{
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "😺 影视云星"
         },
 {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
@@ -232,11 +237,6 @@
 {
             "url": "https://agit.ai/gk0746/pxy/raw/branch/master/js3.json",
             "name": "蚂蚁6"
-        },
-        
-{
-            "url": "https://agit.ai/gk0746/pxy/raw/branch/master/hechengchaxiu.json",
-            "name": "荷城7"
         },
         
 {
