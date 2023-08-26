@@ -549,6 +549,31 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 金山電視,http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
 金山電視,http://live.mudu.tv/watch/4zbn2f.m3u8
 
+北京衛視,https://cntv.sbs/tv?auth=230813&id=bjws
+東方衛視,https://cntv.sbs/tv?auth=230813&id=dfws
+北京纪实,https://cntv.sbs/tv?auth=230813&id=bjjskj
+五星體育,https://cntv.sbs/tv?auth=230813&id=wxty
+東方財經,https://cntv.sbs/tv?auth=230813&id=dfcj
+第一財經,https://cntv.sbs/tv?auth=230813&id=dycj
+法治天地,https://cntv.sbs/tv?auth=230813&id=fztd
+歡笑劇场,https://cntv.sbs/tv?auth=230813&id=hxjc
+都市劇场,https://cntv.sbs/tv?auth=230813&id=dsjc
+七彩戏劇,https://cntv.sbs/tv?auth=230813&id=qcxj
+劲爆體育,https://cntv.sbs/tv?auth=230813&id=jbty
+新视觉,https://cntv.sbs/tv?auth=230813&id=xsj
+生活时尚,https://cntv.sbs/tv?auth=230813&id=shss
+魅力足球,https://cntv.sbs/tv?auth=230813&id=mlzq
+茶频道,https://cntv.sbs/tv?auth=230813&id=cpd
+快乐垂钓,https://cntv.sbs/tv?auth=230813&id=klcd
+财富天下,https://cntv.sbs/tv?auth=230813&id=cftx
+华语影院,https://cntv.sbs/tv?auth=230813&id=hyyy
+星光影院,https://cntv.sbs/tv?auth=230813&id=xgyy
+谍战劇场,https://cntv.sbs/tv?auth=230813&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=230813&id=qqdp
+热门劇场,https://cntv.sbs/tv?auth=230813&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=230813&id=rmzy
+上海教育,https://cntv.sbs/tv?auth=230813&id=shjy
+
 上海都市,http://cfss.cc/ds/bst.php?id=Cf-51
 東方影視,http://cfss.cc/ds/bst.php?id=Cf-53
 紀實人文,http://cfss.cc/ds/bst.php?id=Cf-52
@@ -615,15 +640,12 @@ ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
 🇭🇰香港频道,#genre#
 鳳凰資訊,http://180.143.112.210:8181/tsfile/live/1000_1.m3u8
 鳳凰資訊,http://175.13.226.6:8888/udp/239.76.246.8:1234
-
 鳳凰資訊,http://175.13.226.6:8888/udp/239.76.246.7:1234
-
 
 鳳凰衛視,http://180.143.112.210:8181/tsfile/live/1001_1.m3u8
 鳳凰衛視,http://175.13.226.6:8888/udp/239.76.253.135:9000
-
+鳳凰衛視,http://r.jdshipin.com/cCCzW
 鳳凰衛視,http://175.13.226.6:8888/udp/239.76.253.134:9000
-
 
 鳳凰香港,http://180.143.112.210:8181/tsfile/live/1002_1.m3u8
 
@@ -637,10 +659,21 @@ ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=ec991d84cbef928ab3a882ad-165166992977141&wsIPSercert=315bc45f13e35a4a62376fd85478636c&wsMonitor=0
 
-翡翠台,https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
-翡翠台,https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
+翡翠台,https://epg.pw/stream/531835a4364877a08c4abed27fbc8c692c9383080a2f55838408be805ba91898.ctv
+翡翠台,https://epg.pw/stream/1fbab856b95f1ee5eed372ecef4a3c30b658c4e39a73734f0292ce7635ac0248.ctv
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8
+翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
+翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
+翡翠台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153505&extension=ts&play_token=u4yRheiuaw
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+翡翠台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334206
 
-明珠台,https://dispatchnew.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&token=c0vzuc7wqkzk
+明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8?zgangd
+明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
+明珠台,http://113.117.74.12:8081/hls/26/index.m3u8
 
 無綫新聞,https://dispatchnew.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&token=c0vzuc7wqkzk
 
@@ -666,10 +699,14 @@ Now爆谷台,https://us.dispatch.ulivetv.net/v/live/crq3y08d6hq8.m3u8?stream_id=
 
 TVB經典台,https://us.dispatch.ulivetv.net/v/live/cfxtubeazlc0.m3u8?stream_id=cfxtubeazlc0&token=c0vzuc7wqkzk
 
+TVB星河台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
+TVB星河台,http://103.112.191.9:880/LAOSAT1092.m3u8
+TVB星河台,http://113.117.74.12:8081/hls/135/index.m3u8
+TVB星河台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153506&extension=ts&play_token=oBUI7V2RM0
+
 TVB華语台,https://us.dispatch.ulivetv.net/v/live/ciw8gobsylds.m3u8?stream_id=ciw8gobsylds&token=c0vzuc7wqkzk
 TVB華语台,https://us.dispatch.ulivetv.net/v/live/crxn7hd4vz9c.m3u8?stream_id=crxn7hd4vz9c&token=c0vzuc7wqkzk
 
-TVB星河台,https://us.dispatch.ulivetv.net/v/live/cl7c95iovqo0.m3u8?stream_id=cl7c95iovqo0&token=c0vzuc7wqkzk
 TVB千禧台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
 TVB娱樂台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
 TVB娱樂台,https://us.dispatch.ulivetv.net/v/live/cnkh00kniz0g.m3u8?stream_id=cnkh00kniz0g&token=c0vzuc7wqkzk
@@ -729,26 +766,6 @@ HOY資訊台,http://119.123.212.99:9003/bysid/78
 
 有線新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 有線新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8
-翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
-翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
-翡翠台,https://epg.pw/stream/1fbab856b95f1ee5eed372ecef4a3c30b658c4e39a73734f0292ce7635ac0248.ctv
-翡翠台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153505&extension=ts&play_token=u4yRheiuaw
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-翡翠台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334206
-
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8?zgangd
-明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
-明珠台,http://113.117.74.12:8081/hls/26/index.m3u8
-
-TVB星河台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
-TVB星河台,http://103.112.191.9:880/LAOSAT1092.m3u8
-TVB星河台,http://113.117.74.12:8081/hls/135/index.m3u8
-TVB星河台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153506&extension=ts&play_token=oBUI7V2RM0
 
 TVB千禧台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
 TVB娱樂台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153504&extension=ts&play_token=9urlq5p625
