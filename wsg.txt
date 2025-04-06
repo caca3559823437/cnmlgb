@@ -1471,6 +1471,9 @@ BRTV财经,http://drive.mxmy.net:8888/udp/239.3.1.116:8000
 BRTV生活,http://drive.mxmy.net:8888/udp/239.3.1.117:8000
 BRTV体育休闲,http://drive.mxmy.net:8888/udp/239.3.1.243:8000
 BRTV国际频道,http://drive.mxmy.net:8888/udp/239.3.1.235:8000
+Love Nature 4K[3840x2160],https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe 4K[3840x2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion 4K[3840x2160],https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 🇨🇳浙江频道,#genre#
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -1635,11 +1638,7 @@ BRTV国际频道,http://drive.mxmy.net:8888/udp/239.3.1.235:8000
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
-凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?
-凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv
-凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
@@ -1647,17 +1646,13 @@ BRTV国际频道,http://drive.mxmy.net:8888/udp/239.3.1.235:8000
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 
 凤凰衛視,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰衛視,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰衛視,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰衛視,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰衛視,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
 凤凰衛視,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰衛視,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 凤凰衛視,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/phoenixtv_hd/playlist.m3u8
-凤凰衛視,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv
 凤凰衛視,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?
-凤凰衛視,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰衛視,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
 凤凰衛視,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰衛視,http://wouu.net:9977/rtp/239.93.0.162:2192?cf=cfss.cc
 凤凰衛視,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
@@ -1857,13 +1852,6 @@ RTHK34,https://rthktv34-live.akamaized.net:443/hls/live/2101642/RTHKTV34/stream0
 澳门macau,http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8
 
 🇹🇼台湾频道,#genre#
-寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
-寰宇新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-中天新闻,http://222.128.55.152:9080/live/fc.m3u8
-中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
-东森新闻,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 中天新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctinews/playlist.m3u8
 寰宇新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyuxinwen_twn/playlist.m3u8
 TVBS新闻,http://122.117.71.103:8543/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
@@ -1882,7 +1870,11 @@ TVBS新闻,http://122.117.71.103:8543/http/61.222.53.250:8081/hls/75/817/ch59.m3
 TVBS新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
-TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+寰宇新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
+东森新闻,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
 龍華电影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
 HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
@@ -2228,49 +2220,89 @@ HBO2,http://170.254.18.106/HBO2/index.m3u8
 HBO+,http://170.254.18.106/HBO_PLUS/index.m3u8
 
 🇭🇰AKTV,#genre#
-鳳凰中文,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-黃金翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-明珠剧集台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-無線新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-翡翠综合台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
-千禧經典台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-東方衛視國際頻道,http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-Love Nature HD,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-Love_The_Planet,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
-无线新闻台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-28 AI 智慧賽馬,http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
-Channel 5 HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台,http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-tvN,http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-中天新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-東森新聞,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-亞洲新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-AXN,http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-Animax(HK),http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-DW,http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-France 24,http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
-KIX,http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-NHK World-Japan,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
-NHK東京総合,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
-Nick Jr,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-Thrill,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-Xite_Hits,http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
-ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+黃金翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+明珠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+千禧經典台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+娛樂新聞台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+翡翠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+翡翠台 4K,http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+翡翠综合台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+美亞電影台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+Love Nature HD,http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+无线新闻台(北美),http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+28 AI 智慧賽馬,http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
+Channel 5 HD,http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv-stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv-stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+tvN,http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+AXN,http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+東森新聞,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+三立新聞iNEWS,http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
+中視,http://aktv-stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
+中視新聞,http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+台視,http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+台視新聞,http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+華視,http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+龍華偶像台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+龍華日韓台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+龍華經典台,http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+龍華電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+Animax(HK),http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+DW,http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+France 24,http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+KIX,http://aktv-stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+NHK World-Japan,http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+Nick Jr,http://aktv-stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv-stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+Thrill,http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+Xite Hits,http://aktv-stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
+Xite Rock,http://aktv-stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
+ZooMoo,http://aktv-stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+亞洲新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+無線衛星新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+Celestial Movies,http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+CINEMAWORLD,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+FIGHT SPORTS,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+Mediacorp Entertainment Chinese,http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
+NBA TV,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+Sukan,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
+TV9,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
+TVB Jade,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+TVB Xing He,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+Unifi Sport,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+曼聯電視頻道,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+朝鮮恩情台,http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
+ELTV生活英語台,http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
+beIN SPORTS XTRA,http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
+PAC12,http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
+Tennis Channel DE,http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
+緯來體育,http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+Astro Football,http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+Astro IQIYI,http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+Astro QJ,http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
+Astro 欢喜台,http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
+Red Bull Sports,http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+YES network,http://aktv-stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
+CBS SPORTS NETWORK,http://aktv-stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
+ESPN,http://aktv-stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
+ESPN NEWS,http://aktv-stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
+Tennis Channel 2 US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
+Tennis Channel US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
+US MTV LIVE,http://aktv-stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
+viuTV,http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
 🇯🇵日本频道,#genre#
 日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -2368,47 +2400,6 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 🇺🇸欧美频道,#genre#
-Afghanistan International ,https://hls.afintl.com/hls/stream.m3u8
-Ahlulbayt TV,https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8
-AlbUK TV,http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-Alhiwar TV,https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-Anand TV,https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-BBC News (North America),https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-BBC News Asia Pacific ,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-BBC One,https://x.canlitvapp.com/u-bbc-1/index.m3u8
-BBC One Yorkshire & Lincolnshire ,http://92.114.85.72:8000/play/a0mp
-BBC Two,https://x.canlitvapp.com/u-bbc2/index.m3u8
-Bridezillas,https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
-Channel S,https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
-Deen TV,https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-Eman Channel,https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-Garshom TV,https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-Gems TV,https://lo2-1.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
-Hadi TV French ,https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8
-Hadi TV Indonesian and Thai ,https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
-Hadi TV Turkish and Kurdish ,https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
-Horse & Country TV,https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-iON T,https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
-Iran International,https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-Iran International,https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
-Iran International,https://live.playstop.me/1816184091/index.m3u8
-Iran International,https://live.playstop.me/LS-63503-4/index.m3u8
-Islam Channel Urdu,https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
-ITV2,http://92.114.85.77:8000/play/a041
-Kalsan TV,https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
-Kanal Jadid ,https://kjhls.wns.live/hls/stream.m3u8
-KICCTV ,https://live.mdc.akamaized.net/hls/livestream/kicctv/playlist.m3u8
-Loveworld TV,https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
-Magna Vision,https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
-NOW Rock,https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
-QVC UK Beauty ,https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
-QVC UK Extra ,https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
-QVC UK Style ,https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
-Sheffield Live TV,http://tv.sheffieldlive.org/hls/main.m3u8
-Takbeer TV ,https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
-TRT WORLD,http://61.221.215.25:8800/hls/0/index.m3u8
-TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-Skynews,http://50.7.234.10:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
 AxnHD,http://50.7.234.10:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
 BBC1,http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
 CNBC,http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
@@ -2555,44 +2546,6 @@ INVESTIGATIONDISCOVERY,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5
 MAGIC DISNEY HD,http://85chlkto.otttv.pw/iptv/2XGCY732NCTX4V/18064/index.m3u8
 
 🎦斗鱼电影,#genre#
-贝爷影厅,http://www.douzhicloud.site:35455/douyu/252802
-漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
-MAX电影,http://www.douzhicloud.site:35455/douyu/4332
-科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
-喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
-蓝光影院,http://www.douzhicloud.site:35455/douyu/7882691
-魔幻影院,http://www.douzhicloud.site:35455/douyu/1274132
-漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
-魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
-华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
-高分电影,http://www.douzhicloud.site:35455/douyu/431460
-豆瓣高分,http://www.douzhicloud.site:35455/douyu/74374
-香港电影,http://www.douzhicloud.site:35455/douyu/6079455
-动作电影,http://www.douzhicloud.site:35455/douyu/36337
-经典电影,http://www.douzhicloud.site:35455/douyu/96577
-国产电影,http://www.douzhicloud.site:35455/douyu/122402
-专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
-恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
-周末影院,http://www.douzhicloud.site:35455/douyu/315457
-贝爷影厅,http://b.zgjok.com:35455/douyu/252802
-漫威电影,http://b.zgjok.com:35455/douyu/6140589
-MAX电影,http://b.zgjok.com:35455/douyu/4332
-科幻电影,http://b.zgjok.com:35455/douyu/9651304
-喜剧电影,http://b.zgjok.com:35455/douyu/323876
-蓝光影院,http://b.zgjok.com:35455/douyu/7882691
-魔幻影院,http://b.zgjok.com:35455/douyu/1274132
-漫威宇宙,http://b.zgjok.com:35455/douyu/11673725
-魔幻大片,http://b.zgjok.com:35455/douyu/52787
-华语喜剧,http://b.zgjok.com:35455/douyu/276200
-高分电影,http://b.zgjok.com:35455/douyu/431460
-豆瓣高分,http://b.zgjok.com:35455/douyu/74374
-香港电影,http://b.zgjok.com:35455/douyu/6079455
-动作电影,http://b.zgjok.com:35455/douyu/36337
-经典电影,http://b.zgjok.com:35455/douyu/96577
-国产电影,http://b.zgjok.com:35455/douyu/122402
-专辑影院,http://b.zgjok.com:35455/douyu/3811092
-恐怖电影,http://b.zgjok.com:35455/douyu/263824
-周末影院,http://b.zgjok.com:35455/douyu/315457
 周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 恐怖故事,http://zzy789.xyz/douyu1.php?id=2337939
@@ -2657,12 +2610,6 @@ MAX电影,http://b.zgjok.com:35455/douyu/4332
 斗鱼电影130,http://zzy789.xyz/douyu1.php?id=8014467
 斗鱼电影137,http://zzy789.xyz/douyu1.php?id=1274132
 斗鱼电影158,http://zzy789.xyz/douyu1.php?id=8788687
-欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/2793084rVcn0bpOP_2000.xs?wsAuth=ee24c53c245042c6cbfa3534947d96b8&token=web-h5-0-2793084-3f569b7e953394a785b003eef6cc72ba8e4a45f83b21cd8a&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701&origin=tct
-斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-欧美影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-神乐影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_4000.xs?wsAuth=ba1c90644d5727f7eff2d821807aceb6&token=web-h5-90270207-85894-853ec75fcb0c6ecaca17aa65580152fde64a0f1c44c269f0&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
-冰冰影厅,http://1.94.31.214:35455/douyu/74374
-奶虫影院,http://1.94.31.214:35455/douyu/263824
 
 📽️剧场频道,#genre#
 超清电影,http://[2409:8087:1:20:20::27]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur =-1&tenantId=8601&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~Q8NsqL2Ii48SUgC4QMl6h h6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Z r0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2% 2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=3
@@ -2727,178 +2674,6 @@ CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-
-🎦虎牙轮播,#genre#
-星爷,https://www.goodiptv.club/huya/11342412
-星爷,http://www.douzhicloud.site:35455/huya/11342412
-英叔,https://www.goodiptv.club/huya/11342421
-英叔,http://www.douzhicloud.site:35455/huya/11342421
-发哥,https://www.goodiptv.club/huya/11342387
-发哥,http://www.douzhicloud.site:35455/huya/11342387
-成龙,https://www.goodiptv.club/huya/11342386
-成龙,http://www.douzhicloud.site:35455/huya/11342386
-王晶,https://www.goodiptv.club/huya/11602058
-王晶,http://www.douzhicloud.site:35455/huya/11602058
-沈腾,https://www.goodiptv.club/huya/11601968
-沈腾,http://www.douzhicloud.site:35455/huya/11601968
-黄渤,https://www.goodiptv.club/huya/11352876
-黄渤,http://www.douzhicloud.site:35455/huya/11352876
-强森,https://www.goodiptv.club/huya/21059581
-强森,http://www.douzhicloud.site:35455/huya/21059581
-漫威,https://www.goodiptv.club/huya/11602034
-漫威,http://www.douzhicloud.site:35455/huya/11602034
-许冠英,https://www.goodiptv.club/huya/11601972
-许冠英,http://www.douzhicloud.site:35455/huya/11601972
-五福星,https://www.goodiptv.club/huya/11282233
-五福星,http://www.douzhicloud.site:35455/huya/11282233
-邱淑贞,https://www.goodiptv.club/huya/11352949
-邱淑贞,http://www.douzhicloud.site:35455/huya/11352949
-古天乐,https://www.goodiptv.club/huya/11602041
-古天乐,http://www.douzhicloud.site:35455/huya/11602041
-徐克,https://www.goodiptv.club/huya/11352909
-冯小刚,https://www.goodiptv.club/huya/11352906
-冯小刚,http://www.douzhicloud.site:35455/huya/11352906
-甄子丹,https://www.goodiptv.club/huya/11352935
-甄子丹,http://www.douzhicloud.site:35455/huya/11352935
-周星星,https://www.goodiptv.club/huya/11336587
-周星星,http://www.douzhicloud.site:35455/huya/11336587
-李连杰,https://www.goodiptv.club/huya/11342390
-李连杰,http://www.douzhicloud.site:35455/huya/11342390
-洪金宝,https://www.goodiptv.club/huya/11279251
-洪金宝,http://www.douzhicloud.site:35455/huya/11279251
-梁家辉,https://www.goodiptv.club/huya/11342429
-梁家辉,http://www.douzhicloud.site:35455/huya/11342429
-刘德华,https://www.goodiptv.club/huya/11342424
-刘德华,http://www.douzhicloud.site:35455/huya/11342424
-斯坦森,https://www.goodiptv.club/huya/21059588
-斯坦森,http://www.douzhicloud.site:35455/huya/21059588
-曾江,https://www.goodiptv.club/huya/11601981
-曾江,http://www.douzhicloud.site:35455/huya/11601981
-周海媚,https://www.goodiptv.club/huya/11279247
-周海媚,http://www.douzhicloud.site:35455/huya/11279247
-宇宙,https://www.goodiptv.club/huya/11342428
-宇宙,http://www.douzhicloud.site:35455/huya/11342428
-怪兽,https://www.goodiptv.club/huya/21059577
-怪兽,http://www.douzhicloud.site:35455/huya/21059577
-武侠,https://www.goodiptv.club/huya/11342427
-武侠,http://www.douzhicloud.site:35455/huya/11342427
-警匪,https://www.goodiptv.club/huya/11352886
-警匪,http://www.douzhicloud.site:35455/huya/11352886
-罪犯,https://www.goodiptv.club/huya/11352962
-罪犯,http://www.douzhicloud.site:35455/huya/11352962
-枪战,https://www.goodiptv.club/huya/21059579
-枪战,http://www.douzhicloud.site:35455/huya/21059579
-海盗,https://www.goodiptv.club/huya/21059595
-海盗,http://www.douzhicloud.site:35455/huya/21059595
-推荐,https://www.goodiptv.club/huya/11602041
-推荐,http://www.douzhicloud.site:35455/huya/11602041
-救援,https://www.goodiptv.club/huya/21059594
-救援,http://www.douzhicloud.site:35455/huya/21059594
-热血,https://www.goodiptv.club/huya/11352934
-热血,http://www.douzhicloud.site:35455/huya/11352934
-盗墓,https://www.goodiptv.club/huya/21059552
-盗墓,http://www.douzhicloud.site:35455/huya/21059552
-贺岁,https://www.goodiptv.club/huya/11601971
-玄幻,https://www.goodiptv.club/huya/11342414
-玄幻,http://www.douzhicloud.site:35455/huya/11342414
-谍战,https://www.goodiptv.club/huya/21059585
-谍战,http://www.douzhicloud.site:35455/huya/21059585
-战争,https://www.goodiptv.club/huya/21059592
-喜剧,https://www.goodiptv.club/huya/11352877
-喜剧,http://www.douzhicloud.site:35455/huya/11352877
-港片,https://www.goodiptv.club/huya/11602043
-港片,http://www.douzhicloud.site:35455/huya/11602043
-国产,https://www.goodiptv.club/huya/11352973
-国产,http://www.douzhicloud.site:35455/huya/11352973
-蜘蛛侠,https://www.goodiptv.club/huya/21059599
-蜘蛛侠,http://www.douzhicloud.site:35455/huya/21059599
-贺岁片,https://www.goodiptv.club/huya/11601986
-贺岁片,http://www.douzhicloud.site:35455/huya/11601986
-功夫片,https://www.goodiptv.club/huya/11352941
-功夫片,http://www.douzhicloud.site:35455/huya/11352941
-黑帮片,https://www.goodiptv.club/huya/11336719
-黑帮片,http://www.douzhicloud.site:35455/huya/11336719
-灾难片,https://www.goodiptv.club/huya/11602075
-灾难片,http://www.douzhicloud.site:35455/huya/11602075
-谍战片,https://www.goodiptv.club/huya/21059587
-谍战片,http://www.douzhicloud.site:35455/huya/21059587
-战争片,https://www.goodiptv.club/huya/21059574
-战争片,http://www.douzhicloud.site:35455/huya/21059574
-犯罪片,https://www.goodiptv.club/huya/11352974
-犯罪片,http://www.douzhicloud.site:35455/huya/11352974
-古装片,https://www.goodiptv.club/huya/11336590
-古装片,http://www.douzhicloud.site:35455/huya/11336590
-高分动作,https://www.goodiptv.club/huya/11352884
-高分动作,http://www.douzhicloud.site:35455/huya/11352884
-动作电影,https://www.goodiptv.club/huya/11602077
-动作电影,http://www.douzhicloud.site:35455/huya/11602077
-搞笑喜剧,https://www.goodiptv.club/huya/11342423
-搞笑喜剧,http://www.douzhicloud.site:35455/huya/11342423
-喜剧专场,https://www.goodiptv.club/huya/11602044
-喜剧专场,http://www.douzhicloud.site:35455/huya/11602044
-欢笑影院,https://www.goodiptv.club/huya/11352894
-欢笑影院,http://www.douzhicloud.site:35455/huya/11352894
-不挤影院,https://www.goodiptv.club/huya/11352897
-不挤影院,http://www.douzhicloud.site:35455/huya/11352897
-国产悬疑,https://www.goodiptv.club/huya/11342395
-国产悬疑,http://www.douzhicloud.site:35455/huya/11342395
-快意江湖,https://www.goodiptv.club/huya/11342435
-快意江湖,http://www.douzhicloud.site:35455/huya/11342435
-黑帮斗争,https://www.goodiptv.club/huya/11342419
-黑帮斗争,http://www.douzhicloud.site:35455/huya/11342419
-嫣然影厅,https://www.goodiptv.club/huya/11601977
-嫣然影厅,http://www.douzhicloud.site:35455/huya/11601977
-许氏三杰,https://www.goodiptv.club/huya/11602033
-许氏三杰,http://www.douzhicloud.site:35455/huya/11602033
-经典港片,https://www.goodiptv.club/huya/11352965
-经典港片,http://www.douzhicloud.site:35455/huya/11352965
-镖行天下,https://www.goodiptv.club/huya/11352969
-镖行天下,http://www.douzhicloud.site:35455/huya/11352969
-高能反转,http://www.douzhicloud.site:35455/huya/11352887
-喜乐影院,https://www.goodiptv.club/huya/21059580
-喜乐影院,http://www.douzhicloud.site:35455/huya/21059580
-蘑菇影厅,https://www.goodiptv.club/huya/11601981
-蘑菇影厅,http://www.douzhicloud.site:35455/huya/11601981
-搞笑恐怖,https://www.goodiptv.club/huya/11601960
-搞笑恐怖,http://www.douzhicloud.site:35455/huya/11601960
-死神来了,https://www.goodiptv.club/huya/11352903
-死神来了,http://www.douzhicloud.site:35455/huya/11352903
-变形金刚,https://www.goodiptv.club/huya/21059596
-变形金刚,http://www.douzhicloud.site:35455/huya/21059596
-怪兽系列,https://www.goodiptv.club/huya/21059554
-怪兽系列,http://www.douzhicloud.site:35455/huya/21059554
-老三国,https://www.goodiptv.club/huya/11602081
-老三国,http://www.douzhicloud.site:35455/huya/11602081
-新三国,https://www.goodiptv.club/huya/11352944
-新三国,http://www.douzhicloud.site:35455/huya/11352944
-新水浒,https://www.goodiptv.club/huya/11342384
-新水浒,http://www.douzhicloud.site:35455/huya/11342384
-纪晓岚,https://www.goodiptv.club/huya/11342396
-纪晓岚,http://www.douzhicloud.site:35455/huya/11342396
-庆余年,https://www.goodiptv.club/huya/11352960
-庆余年,http://www.douzhicloud.site:35455/huya/11352960
-雍正王朝,https://www.goodiptv.club/huya/11342439
-雍正王朝,http://www.douzhicloud.site:35455/huya/11342439
-八点档,https://www.goodiptv.club/huya/880261
-八点档,http://www.douzhicloud.site:35455/huya/880261
-超异能族,https://www.goodiptv.club/huya/21059586
-超异能族,http://www.douzhicloud.site:35455/huya/21059586
-古墓系列,https://www.goodiptv.club/huya/11352913
-周星驰,http://1.94.31.214:35455/huya/11342412
-林正英,http://1.94.31.214:35455/huya/11342421
-刘德华,http://1.94.31.214:35455/huya/11342424
-古天乐,http://1.94.31.214:35455/huya/29982675
-成龙,http://1.94.31.214:35455/douyu/3379942
-李连杰,http://1.94.31.214:35455/huya/11342390
-甄子丹,http://1.94.31.214:35455/huya/11352935
-沈腾,http://1.94.31.214:35455/huya/11601968
-黄渤,http://1.94.31.214:35455/huya/11352876
-强森,http://1.94.31.214:35455/huya/21059581
-王晶,http://1.94.31.214:35455/huya/11602058
-功夫,http://1.94.31.214:35455/huya/11352941
-贺岁,http://1.94.31.214:35455/huya/11601986
-末日电影,http://1.94.31.214:35455/yy/1354889019
-宇宙科幻,http://1.94.31.214:35455/huya/11342428
 
 💃好看DJ,#genre#
 👯好听歌曲2,https://vd3.bdstatic.com/mda-nau8s6nsyj96mffw/480p/h264_delogo/1643441061627872991/mda-nau8s6nsyj96mffw.mp4
@@ -5349,7 +5124,7 @@ K望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2Mz
 言而无信,https://alimov2.a.kwimgs.com/upic/2022/08/12/05/BMjAyMjA4MTIwNTU5MzRfOTU2MzA3MDg4XzgxNjAwMDc0MjU2XzJfMw==_b_B2492e7b01f10643031272d09126c1fb2.mp4?clientCacheKey=3xmwdvdqjuacb6e_b.mp4&tt=b&di=24710b75&bp=10000
 九月九的酒\\\',https://alimov2.a.kwimgs.com/upic/2022/08/13/05/BMjAyMjA4MTMwNTI5NDNfOTU2MzA3MDg4XzgxNjgyMzI0MTA0XzJfMw==_b_B47520b4e5303dd59437f957e1cf4c9e3.mp4?clientCacheKey=3xhgeusyevt5a86_b.mp4&tt=b&di=24710b75&bp=10000
 
-🔞欧美激情_666,#genre#
+🔞欧美激情,#genre#
 欧美版K频道,http://live.redtraffic.xyz:80/threesome.m3u8
 欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8
 欧美版K频道,http://cdn.adultiptv.net/threesome.m3u8
@@ -5545,7 +5320,7 @@ girls live,https://live.mycamtv.com/stream.m3u8
 Eropulse TV,http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 Miami TV Latino,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
 
-🔞日韓AV01_666,#genre#
+🔞日韓AV01,#genre#
 日本AV23,http://12156.vod.redtraffic.xyz/ph5b548f6dd8941/play.m3u8
 日本AV24,http://12156.vod.adultiptv.net/ph5b8c902e07283/play.m3u8
 日本AV25,http://6122.vod.adultiptv.net/ph57dc082d2e128/play.m3u8
@@ -6112,7 +5887,7 @@ Miami TV Latino,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_
 日韓AV498,https://video2.51daao.com/btt1/2021/10/20211014/mhW3gT7c/index.m3u8
 日韓AV499,https://vip2.lbbf9.com/20211102/FUBEor7Z/index.m3u8
 日韓AV500,https://vip5.ddyunbo.com/20230303/xBNgL1hT/index.m3u8
-🔞日韓AV02_666,#genre#
+🔞日韓AV02,#genre#
 日韓AV501,https://vip6.ljbfbf.com/20230321/85lYozTb/index.m3u8
 日韓AV502,https://jkunbf.com/20230303/gOSYMXz2/index.m3u8
 日韓AV503,https://vip6.ljbfbf.com/20221005/UkL0IjvK/index.m3u8
@@ -6578,7 +6353,7 @@ Miami TV Latino,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_
 日韓AV998,https://video.myzybo.com/20220814/MzUyNWU5MT/075734/1280/hls/encrypt/index.m3u8
 日韓AV999,https://video.myzybo.com/20221030/MzdlZjMyNj/090758/1280/hls/encrypt/index.m3u8
 日韓AV1000,https://video.bttbo.com/20221206/NmNhYTg4YT/050835/1280/hls/encrypt/index.m3u8
-🔞日韓AV03_666,#genre#
+🔞日韓AV03,#genre#
 日韓AV1001,https://video.myzybo.com/20230210/MTcwMDBiMm/074157/1280/hls/encrypt/index.m3u8
 日韓AV1002,https://video.myzybo.com/20230210/NjA3OTgzNm/074555/1280/hls/encrypt/index.m3u8
 日韓AV1003,https://video.myzybo.com/20230210/OWU0YTFjOW/074941/1280/hls/encrypt/index.m3u8
@@ -7037,3 +6812,450 @@ Miami TV Latino,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_
 日韓AV1498,https://vip2.slbfsl.com/20230120/SuU8qSzB/index.m3u8
 日韓AV1499,https://video1.rhsj520.com/nyrm3/20190112/axxy/MDS-865/index.m3u8
 日韓AV1500,https://video.myzybo.com/20230413/MzdlZDE5Mj/091744/1280/hls/encrypt/index.m3u8
+🔞日韓AV04,#genre#
+日韓AV1503,https://videomy.yongaomy.com/20211106/00s0jYJy/index.m3u8
+日韓AV1504,https://video.myzybo.com/20230220/YzJhNDRjM2/074226/1280/hls/encrypt/index.m3u8
+日韓AV1505,https://videomy.yongaomy.com/20220417/9yLdRtYh/index.m3u8
+日韓AV1506,https://vip6.ljbfbf.com/20230630/qjdmLAEy/index.m3u8
+日韓AV1507,https://videocdnbaidu.rhsj520.com/rbny/20180915/dgx/MILD-969/index.m3u8
+日韓AV1509,https://videomy.yongaomy.com/20211106/Pt59d8LP/index.m3u8
+日韓AV1510,https://video.myzybo.com/20220704/ZmQ3MWYyYm/084443/1280/hls/encrypt/index.m3u8
+日韓AV1511,https://video.myzybo.com/20221017/MGYwYmIzYz/110409/1280/hls/encrypt/index.m3u8
+日韓AV1512,https://vip2.slbfsl.com/20230125/Zwb0Wvfl/index.m3u8
+日韓AV1513,https://video.myzybo.com/20230804/NGUwMTg1Yz/181443/720/hls/encrypt/index.m3u8
+日韓AV1514,https://jkunbf.com/20230304/GYRNrzsA/index.m3u8
+日韓AV1515,https://videomy.yongaomy.com/20210721/x3jkJQXO/index.m3u8
+日韓AV1516,https://videomy.yongaomy.com/20220130/4mMHrVCn/index.m3u8
+日韓AV1517,https://video.myzybo.com/20221229/ZDk0NGI3MW/074757/1280/hls/encrypt/index.m3u8
+日韓AV1518,https://videomy.yongaomy.com/20211213/RixKV8NE/index.m3u8
+日韓AV1519,https://video1.rhsj520.com/nyrm3/20190112/axxy/MUM-148/index.m3u8
+日韓AV1521,https://askzybf.com/20221222/ooM7h5IR/index.m3u8
+日韓AV1522,https://askzybf.com/20221222/eYb8YNCQ/index.m3u8
+日韓AV1523,https://askzybf.com/20221222/hBgTmnZn/index.m3u8
+日韓AV1524,https://askzybf.com/20221222/DcQGWdt5/index.m3u8
+日韓AV1525,https://askzybf.com/20221222/2BAppDbH/index.m3u8
+日韓AV1526,https://askzybf.com/20221223/GVCxgAIC/index.m3u8
+日韓AV1527,https://askzybf.com/20230624/f9cX4aSK/index.m3u8
+日韓AV1528,https://askzybf.com/20230624/NSp9u0So/index.m3u8
+日韓AV1529,https://askzybf.com/20230624/tvxrdVVm/index.m3u8
+日韓AV1530,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/7/djr/n0809/index.m3u8
+日韓AV1531,https://videomy.yongaomy.com/20200531/XfTY9pp2/index.m3u8
+日韓AV1532,https://videomy.yongaomy.com/20200531/JoN8DEoF/index.m3u8
+日韓AV1533,https://videomy.yongaomy.com/20220113/20ydwKyw/index.m3u8
+日韓AV1534,https://videomy.yongaomy.com/20210629/5CApA0is/index.m3u8
+日韓AV1535,https://video1.rhsj520.com/nyrm3/2011225/lyaml/NHDTA-639/index.m3u8
+日韓AV1536,https://videomy.yongaomy.com/20191223/oq3Xaxfw/index.m3u8
+日韓AV1537,https://videomy.yongaomy.com/20191223/XH00SCoB/index.m3u8
+日韓AV1538,https://video.lllwo2o.com/20180615/NJK0OER102/index.m3u8
+日韓AV1539,https://videomy.yongaomy.com/20200319/NeHMIjyK/index.m3u8
+日韓AV1540,https://videomy.yongaomy.com/20211012/Cq5EmkFI/index.m3u8
+日韓AV1541,https://videomy.yongaomy.com/20191206/wKiprSdF/index.m3u8
+日韓AV1542,https://videomy.yongaomy.com/20191223/pxMvfcR2/index.m3u8
+日韓AV1543,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181201/new/nhdtb-201-a/index.m3u8
+日韓AV1545,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181201/new/nhdtb-204-a/index.m3u8
+日韓AV1546,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181201/new/nhdtb-204-b/index.m3u8
+日韓AV1547,https://videomy.yongaomy.com/20220223/et3uNhfk/index.m3u8
+日韓AV1548,https://videomy.yongaomy.com/20220228/eg40ye10/index.m3u8
+日韓AV1549,https://bf1.semaobf1.com/20220427/E3DDBB3658969FB9/hls/1000k/index.m3u8
+日韓AV1550,https://videomy.yongaomy.com/20220113/7tQABtMz/index.m3u8
+日韓AV1551,https://vip5.bobolj.com/20210627/WbMNMSku/index.m3u8
+日韓AV1552,https://videomy.yongaomy.com/20220113/cYEfhPou/index.m3u8
+日韓AV1553,https://vip6.ljbfbf.com/20220809/x3iooejy/index.m3u8
+日韓AV1554,https://videomy.yongaomy.com/20220113/4Ju5xCfy/index.m3u8
+日韓AV1555,https://videomy.yongaomy.com/20220113/3BewwcBf/index.m3u8
+日韓AV1556,https://video.zmwbf.com/20220811/ZTQyMzYwNj/144140/1280/hls/encrypt/index.m3u8
+日韓AV1559,https://vip6.ljbfbf.com/20230405/3UnwsYYw/index.m3u8
+日韓AV1561,https://videomy.yongaomy.com/20220131/SzN8Ti4g/index.m3u8
+日韓AV1562,https://videomy.yongaomy.com/20220131/DvA2FLr4/index.m3u8
+日韓AV1563,https://videomy.yongaomy.com/20220228/0ZbQH4ML/index.m3u8
+日韓AV1564,https://videomy.yongaomy.com/20220228/gtS6bvsZ/index.m3u8
+日韓AV1565,https://videomy.yongaomy.com/20220113/mnn8s173/index.m3u8
+日韓AV1566,https://videomy.yongaomy.com/20220113/gnXMMk61/index.m3u8
+日韓AV1567,https://videomy.yongaomy.com/20211112/ZgGN3VMS/index.m3u8
+日韓AV1568,https://videomy.yongaomy.com/20211112/r88jbsYj/index.m3u8
+日韓AV1569,https://videomy.yongaomy.com/20211112/Dl7p0LK6/index.m3u8
+日韓AV1570,https://video.myzybo.com/20230316/YzI3Y2UxM2/080252/1280/hls/encrypt/index.m3u8
+日韓AV1571,https://video.zmwbf.com/20221025/NzJiOGMxN2/085130/1280/hls/encrypt/index.m3u8
+日韓AV1572,https://video.myzybo.com/20230129/M2VkOThhMz/090825/1280/hls/encrypt/index.m3u8
+日韓AV1573,https://video.zmwbf.com/20221103/MWU3YWQzNz/085724/1280/hls/encrypt/index.m3u8
+日韓AV1574,https://video.zmwbf.com/20221103/ZjZlZjRlZT/090008/1280/hls/encrypt/index.m3u8
+日韓AV1575,https://video.zmwbf.com/20221103/ZDQ3NjAzNG/083818/1280/hls/encrypt/index.m3u8
+日韓AV1576,https://video.myzybo.com/20230129/ZjRiMTM1Zj/091634/1280/hls/encrypt/index.m3u8
+日韓AV1577,https://video.zmwbf.com/20221121/NjM2YjVhYT/133510/1280/hls/encrypt/index.m3u8
+日韓AV1578,https://videomy.yongaomy.com/20220425/xdMfx54j/index.m3u8
+日韓AV1579,https://video.myzybo.com/20221231/M2NhZDMyMW/082659/1280/hls/encrypt/index.m3u8
+日韓AV1580,https://videomy.yongaomy.com/20220425/uJkU9H8n/index.m3u8
+日韓AV1581,https://videomy.yongaomy.com/20220604/oLG9QenD/index.m3u8
+日韓AV1582,https://videomy.yongaomy.com/20220426/oYKeMOml/index.m3u8
+日韓AV1584,https://videomy.yongaomy.com/20220506/ww3HVNJy/index.m3u8
+日韓AV1585,https://videomy.yongaomy.com/20220613/8LUGfMGA/index.m3u8
+日韓AV1586,https://videomy.yongaomy.com/20220626/5ZcJQUJK/index.m3u8
+日韓AV1587,https://video.myzybo.com/20220721/ZDJiYzJhMD/091616/1280/hls/encrypt/index.m3u8
+日韓AV1588,https://video.myzybo.com/20220722/Yjg1ZGFjOG/084518/1280/hls/encrypt/index.m3u8
+日韓AV1589,https://video.myzybo.com/20220913/MTAwYzFiMj/080006/1280/hls/encrypt/index.m3u8
+日韓AV1590,https://vip1.slbfsl.com/20220809/1I24AEqS/index.m3u8
+日韓AV1592,https://vod1.ttbfp2.com/20220330/GtS6KlWO/index.m3u8
+日韓AV1593,https://vip2.slbfsl.com/20230128/VFUO7acF/index.m3u8
+日韓AV1594,https://video.myzybo.com/20221018/OGU4MDFhMD/083236/1280/hls/encrypt/index.m3u8
+日韓AV1595,https://video.myzybo.com/20221018/Y2IwNGQxMW/083249/1280/hls/encrypt/index.m3u8
+日韓AV1596,https://vip2.slbfsl.com/20230128/rHCGOp0S/index.m3u8
+日韓AV1597,https://videomy.yongaomy.com/20200810/KzgtLQfh/index.m3u8
+日韓AV1598,https://videomy.yongaomy.com/20200328/w4sIawPn/index.m3u8
+日韓AV1599,https://video1.rhsj520.com/nyrm3/snis/1/ofje-170-1/1500kb/hls/index.m3u8
+日韓AV1600,https://videocdnbaidu.rhsj520.com/3/MRHQL/ofje-170B/1500kb/hls/index.m3u8
+日韓AV1601,https://video1.rhsj520.com/nyrm3/nvyou/7b7y3ULb/1500kb/hls/index.m3u8
+日韓AV1602,https://video1.rhsj520.com/nyrm3/nvyou/18QItz7n/1500kb/hls/index.m3u8
+日韓AV1603,https://video1.rhsj520.com/nyrm3/nvyou/19gzhQAE/1500kb/hls/index.m3u8
+日韓AV1604,https://video1.rhsj520.com/nyrm3/snis/1/ofje-175-1/1500kb/hls/index.m3u8
+日韓AV1605,https://videocdnbaidu.rhsj520.com/3/MRHQL/ofje-175B/1500kb/hls/index.m3u8
+日韓AV1606,https://videocdnbaidu.rhsj520.com/3/MRHQL/OFJE-177/1500kb/hls/index.m3u8
+日韓AV1607,https://video1.rhsj520.com/nyrm3/nvyou/19XsHjkf/1500kb/hls/index.m3u8
+日韓AV1608,https://video1.rhsj520.com/nyrm3/nvyou/Qc8QHjV7/1500kb/hls/index.m3u8
+日韓AV1609,https://video1.rhsj520.com/nyrm3/nvyou/4uZKccw2/1500kb/hls/index.m3u8
+日韓AV1610,https://video1.rhsj520.com/nyrm3/nvyou/HXxYjM2z/1500kb/hls/index.m3u8
+日韓AV1611,https://video1.rhsj520.com/nyrm3/nvyou/46LPBcHf/1500kb/hls/index.m3u8
+日韓AV1612,https://video1.rhsj520.com/nyrm3/nvyou/F2QX94As/1500kb/hls/index.m3u8
+日韓AV1613,https://video1.rhsj520.com/nyrm3/nvyou/d9U7jdCg/1500kb/hls/index.m3u8
+日韓AV1614,https://video1.rhsj520.com/nyrm3/nvyou/yJsFKb8x/1500kb/hls/index.m3u8
+日韓AV1615,https://video1.rhsj520.com/nyrm3/nvyou/Xjmt5tLR/1500kb/hls/index.m3u8
+日韓AV1616,https://video1.rhsj520.com/nyrm3/nvyou/0QTaWF3v/1500kb/hls/index.m3u8
+日韓AV1617,https://videocdnbaidu.rhsj520.com/rbny/20180915/dgx/OKAD-458/index.m3u8
+日韓AV1618,https://videocdnbaidu.rhsj520.com/rbny/20180915/dgx/OKAX-022/index.m3u8
+日韓AV1619,https://videocdnbaidu.rhsj520.com/rbny/20180915/dgx/OKAX-033/index.m3u8
+日韓AV1620,https://video1.rhsj520.com/nyrm3/ny9/ONED-912-2/1500kb/hls/index.m3u8
+日韓AV1621,https://videocdnbaidu.rhsj520.com/rbny/20180915/dgx/ONGP-003/index.m3u8
+日韓AV1622,https://video1.rhsj520.com/nyrm3/jdmx/ovg-100/1500kb/hls/index.m3u8
+日韓AV1623,https://vip2.slbfsl.com/20230129/3nLMHQfB/index.m3u8
+日韓AV1624,https://videomy.yongaomy.com/20200426/R0KDlSTx/index.m3u8
+日韓AV1625,https://videomy.yongaomy.com/20220524/2QtAJWCv/index.m3u8
+日韓AV1626,https://videomy.yongaomy.com/20220626/5teWL6uT/index.m3u8
+日韓AV1627,https://video.myzybo.com/20220824/ZDhjMDUwNW/100748/1280/hls/encrypt/index.m3u8
+日韓AV1628,https://video.myzybo.com/20230418/ZDZjNWEzZD/095755/1280/hls/encrypt/index.m3u8
+日韓AV1629,https://videocdnbaidu.rhsj520.com/3/xtll/RCT-720/1500kb/hls/index.m3u8
+日韓AV1630,https://video.lllwo2o.com/20180615/TMZ8HRI850/index.m3u8
+日韓AV1631,https://videomy.yongaomy.com/20210901/zQymcgrU/index.m3u8
+日韓AV1632,https://videomy.yongaomy.com/20220316/i2J40rdJ/index.m3u8
+日韓AV1633,https://cdnvideo99.52homedecor.com/99920180601/RTP-072c/index.m3u8
+日韓AV1634,https://videomy.yongaomy.com/20210504/RTcJdYuu/index.m3u8
+日韓AV1635,https://cdn3.lajiao-bo.com/20191204/1GBsZP0O/index.m3u8
+日韓AV1636,https://cdn.yrplay2.com/20230503/1Ux5U70F/index.m3u8
+日韓AV1637,https://cdn.yrplay2.com/20230504/ITJUihBR/index.m3u8
+日韓AV1638,https://cdn.yrplay3.com/20230622/0wbFHw8E/index.m3u8
+日韓AV1640,https://askzybf.com/20230115/Hnt7YLZs/index.m3u8
+日韓AV1642,https://cdn.yrplay2.com/20230413/lL29GKQK/index.m3u8
+日韓AV1643,https://videomy.yongaomy.com/20220118/2q4ihM0S/index.m3u8
+日韓AV1644,https://video.myzybo.com/20221019/MWUwNDk5OG/083603/1280/hls/encrypt/index.m3u8
+日韓AV1645,https://video.myzybo.com/20230519/YmM1ZjlhMD/091321/720/hls/encrypt/index.m3u8
+日韓AV1646,https://videomy.yongaomy.com/20200426/1nA0RYDB/index.m3u8
+日韓AV1647,https://videomy.yongaomy.com/20200518/whIF6eeo/index.m3u8
+日韓AV1648,https://videomy.yongaomy.com/20200426/v7yzcD6U/index.m3u8
+日韓AV1649,https://videomy.yongaomy.com/20200426/zakeABjP/index.m3u8
+日韓AV1650,https://videomy.yongaomy.com/20200305/mPI6Nyhr/index.m3u8
+日韓AV1651,https://videomy.yongaomy.com/20200328/APV6XFFE/index.m3u8
+日韓AV1652,https://videomy.yongaomy.com/20200328/YZ3d3GQ9/index.m3u8
+日韓AV1653,https://video1.rhsj520.com/nyrm3/zynly/SDDE-261/1500kb/hls/index.m3u8
+日韓AV1654,https://videomy.yongaomy.com/20200126/SDDE-336/index.m3u8
+日韓AV1655,https://videocdn.quweikm.com/20180730/SDDE-355c/index.m3u8
+日韓AV1656,https://videomy.yongaomy.com/20200305/iuDVG5NH/index.m3u8
+日韓AV1657,https://videocdnbaidu.rhsj520.com/rbny/20180915/xty/SDDE-389/index.m3u8
+日韓AV1658,https://videocdnbaidu.rhsj520.com/rbny/20180915/bdyjy/SDDE-395/index.m3u8
+日韓AV1659,https://videocdnbaidu.rhsj520.com/rbny/20180915/dgx/SDDE-403/index.m3u8
+日韓AV1660,https://videomy.yongaomy.com/20200126/SDDE-425/index.m3u8
+日韓AV1661,https://videomy.yongaomy.com/20200126/SDDE-490/index.m3u8
+日韓AV1662,https://video.lllwo2o.com/20180601/SKP6RYL530/index.m3u8
+日韓AV1663,https://videomy.yongaomy.com/20211013/9FOG5z3n/index.m3u8
+日韓AV1664,https://videomy.yongaomy.com/20191113/SDDE-544/1500kb/hls/index.m3u8
+日韓AV1665,https://videomy.yongaomy.com/20200221/mUUjGfH0/index.m3u8
+日韓AV1666,https://videomy.yongaomy.com/20220228/m5NyFWTF/index.m3u8
+日韓AV1667,https://videomy.yongaomy.com/20200605/wLkLEYOa/index.m3u8
+日韓AV1668,https://videomy.yongaomy.com/20200509/pePVRyL3/index.m3u8
+日韓AV1669,https://videomy.yongaomy.com/20200605/8KEFbzTN/index.m3u8
+日韓AV1670,https://videomy.yongaomy.com/20200605/4ncSeuYT/index.m3u8
+日韓AV1671,https://vip6.ljbfbf.com/20220809/UzdFTjq7/index.m3u8
+日韓AV1673,https://video2.51daao.com/btt1/2020/08/20200812/JQCQdDxa/index.m3u8
+日韓AV1674,https://data2.huakuibf3.com/20221124/DAD02DC70980D1D2/hls/1000k/index.m3u8
+日韓AV1675,https://video.zmwbf.com/20221006/M2UzNGEyYm/110917/1280/hls/encrypt/index.m3u8
+日韓AV1676,https://videomy.yongaomy.com/20220228/DRv1J3Yb/index.m3u8
+日韓AV1677,https://videomy.yongaomy.com/20220118/eB8MNWnd/index.m3u8
+日韓AV1678,https://videomy.yongaomy.com/20200222/YCPCmkLj/index.m3u8
+日韓AV1679,https://videomy.yongaomy.com/20220118/xoE1KYUG/index.m3u8
+日韓AV1680,https://videomy.yongaomy.com/20210721/JtZYawoz/index.m3u8
+日韓AV1681,https://videomy.yongaomy.com/20210721/QjaJKioG/index.m3u8
+日韓AV1682,https://videos3.naibago.com/20211209/SDDE-618/index.m3u8
+日韓AV1683,https://videomy.yongaomy.com/20211112/eVxdXtsG/index.m3u8
+日韓AV1684,https://videomy.yongaomy.com/20211112/jaFlpIbl/index.m3u8
+日韓AV1685,https://videomy.yongaomy.com/20210901/y6PXa7qO/index.m3u8
+日韓AV1686,https://videomy.yongaomy.com/20210629/ufYIC2Xz/index.m3u8
+日韓AV1687,https://videomy.yongaomy.com/20220316/8h1sFgNt/index.m3u8
+日韓AV1688,https://video.myzybo.com/20230130/NGQ4MDIyMm/092811/1280/hls/encrypt/index.m3u8
+日韓AV1689,https://video.myzybo.com/20230102/Y2FmMGU3Mz/073824/1280/hls/encrypt/index.m3u8
+日韓AV1690,https://video.myzybo.com/20230130/Zjk5ODljMT/094200/1280/hls/encrypt/index.m3u8
+日韓AV1692,https://video.myzybo.com/20230102/YjBiZmZlZW/073940/1280/hls/encrypt/index.m3u8
+日韓AV1693,https://videomy.yongaomy.com/20220316/PX0NwIJ2/index.m3u8
+日韓AV1694,https://videomy.yongaomy.com/20220429/4nywVsbc/index.m3u8
+日韓AV1695,https://videomy.yongaomy.com/20220525/4sZqfBD8/index.m3u8
+日韓AV1696,https://videomy.yongaomy.com/20220627/x9vASkjG/index.m3u8
+日韓AV1697,https://video.myzybo.com/20221119/M2FhOGE2Zm/170337/1280/hls/encrypt/index.m3u8
+日韓AV1698,https://video.myzybo.com/20221002/MzIyMGJiN2/075004/1280/hls/encrypt/index.m3u8
+日韓AV1699,https://video.myzybo.com/20221119/OTdmMmMyMD/170417/1280/hls/encrypt/index.m3u8
+日韓AV1700,https://video.myzybo.com/20221119/N2NmNjRmNT/170434/1280/hls/encrypt/index.m3u8
+日韓AV1701,https://video.myzybo.com/20230701/ZWVlZmI2YW/085732/720/hls/encrypt/index.m3u8
+日韓AV1702,https://video.lllwo2o.com/20180615/SJI8HQT014/index.m3u8
+日韓AV1703,https://videomy.yongaomy.com/20200426/tLNsmvMJ/index.m3u8
+日韓AV1704,https://videomy.yongaomy.com/20200426/2c88hNOt/index.m3u8
+日韓AV1705,https://video1.rhsj520.com/nyrm3/20190112/axxy/SDMU-170/index.m3u8
+日韓AV1706,https://videomy.yongaomy.com/20191223/P32Ycrgl/index.m3u8
+日韓AV1707,https://video.myzybo.com/20230427/MWEwODAzZG/103611/1280/hls/encrypt/index.m3u8
+日韓AV1708,https://videocdn.quweikm.com/20180730/SGV-013c/index.m3u8
+日韓AV1709,https://video1.rhsj520.com/nyrm3/20190109/abjc/SIS-091/index.m3u8
+日韓AV1710,https://video.feimanzb.com/20171120/SNIS-573-C/550kb/hls/index.m3u8
+日韓AV1711,https://cdn.yrplay4.com/20231124/clDvBfit/index.m3u8
+日韓AV1712,https://videomy.yongaomy.com/20191118/SSNI-333/1500kb/hls/index.m3u8
+日韓AV1714,https://videomy.yongaomy.com/20220228/JbPH2Les/index.m3u8
+日韓AV1715,https://videomy.yongaomy.com/20211117/fEUleh3B/index.m3u8
+日韓AV1716,https://videos3.naibago.com/20211209/STARS-120/index.m3u8
+日韓AV1717,https://videomy.yongaomy.com/20211117/YS24KVQK/index.m3u8
+日韓AV1718,https://video1.rhsj520.com/nyrm3/2011225/mlxl/2/svs-058/index.m3u8
+日韓AV1719,https://video1.rhsj520.com/nyrm3/2011225/mlxl/2/svs-058-2/index.m3u8
+日韓AV1720,https://videomy.yongaomy.com/20200304/wgbCFngj/index.m3u8
+日韓AV1721,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/12/SW-424/index.m3u8
+日韓AV1722,https://vip2.slbfsl.com/20230207/mTkPMKLp/index.m3u8
+日韓AV1723,https://videomy.yongaomy.com/20200304/2PLhFIVP/index.m3u8
+日韓AV1724,https://videomy.yongaomy.com/20200304/4G0cH5WF/index.m3u8
+日韓AV1725,https://video.myzybo.com/20230131/NTQyYmFhNT/093937/1280/hls/encrypt/index.m3u8
+日韓AV1726,https://videomy.yongaomy.com/20220123/ocvaVhbT/index.m3u8
+日韓AV1727,https://videomy.yongaomy.com/20220316/59DL9uNO/index.m3u8
+日韓AV1728,https://jkunbf.com/20230304/LaanIa9M/index.m3u8
+日韓AV1729,https://videomy.yongaomy.com/20200808/xitt6n1z/index.m3u8
+日韓AV1731,https://videocdnbaidu.rhsj520.com/rbny/20180915/dgx/WANZ-276/index.m3u8
+日韓AV1732,https://videocdnbaidu.rhsj520.com/3/MRHQL/YRZ-069A/1500kb/hls/index.m3u8
+日韓AV1733,https://videocdnbaidu.rhsj520.com/3/MRHQL/YRZ-069B/1500kb/hls/index.m3u8
+日韓AV1734,https://videomy.yongaomy.com/20200921/pemymMSc/index.m3u8
+日韓AV1735,https://vod1.ttbfp2.com/20210818/8kmDXybX/index.m3u8
+日韓AV1736,https://vip6.ljbfbf.com/20230205/EGnY7vrP/index.m3u8
+日韓AV1737,https://videomy.yongaomy.com/20200319/KOAE693P/index.m3u8
+日韓AV1738,https://jkunbf.com/20230303/w40uQ7PT/index.m3u8
+日韓AV1739,https://jkunbf.com/20230303/iW476pUi/index.m3u8
+日韓AV1740,https://videomy.yongaomy.com/20210713/AWP0YWeC/index.m3u8
+日韓AV1741,https://jkunbf.com/20230302/nLF2E4GC/index.m3u8
+日韓AV1742,https://bf1.semaobf1.com/20230428/AFB011DF29394A84/hls/1500k/index.m3u8
+日韓AV1743,https://video31.zdavsp.com/video/20220529/bb8b63eb3a6b0af40049157b697b0a67/index.m3u8
+日韓AV1744,https://caoliuzywcdn.com:188/20230730/sSnJZZa4/index.m3u8
+日韓AV1745,https://jkunbf.com/20230303/sqQvW88K/index.m3u8
+日韓AV1746,https://putaozywcdn.com:166/20230101/321DB40D45DACFF1/hls/1000k/index.m3u8
+日韓AV1747,https://putaozywcdn.com:166/20221231/EA7C73FF53BE7CC8/hls/1000k/index.m3u8
+日韓AV1748,https://videomy.yongaomy.com/20211028/B264gVfg/index.m3u8
+日韓AV1749,https://play1.laoyacdn.com/20220426/Hi9qbFJG/index.m3u8
+日韓AV1750,https://lajiao-bo.com/20190627/hdWMjvBm/index.m3u8
+日韓AV1751,https://videocdnbaidu.rhsj520.com/3/RY/CESD-676/1500kb/hls/index.m3u8
+日韓AV1752,https://videocdnbaidu.rhsj520.com/3/RY/cesd-704/1500kb/hls/index.m3u8
+日韓AV1753,https://videocdnbaidu.rhsj520.com/3/RY/cesd-749/1500kb/hls/index.m3u8
+日韓AV1754,https://videomy.yongaomy.com/20200509/Dgtt5XlN/index.m3u8
+日韓AV1755,https://cdn3.lajiao-bo.com/20191219/MXYzUAlh/index.m3u8
+日韓AV1757,https://jkunbf.com/20230303/iMiZxfZm/index.m3u8
+日韓AV1759,https://lajiao-bo.com/20190701/RZpF0A0n/index.m3u8
+日韓AV1760,https://bobolj.com/20200228/vUe14PdU/index.m3u8
+日韓AV1761,https://bobolj.com/20210121/VP7pU6dH/index.m3u8
+日韓AV1762,https://videos3.jianzhuluntan.com/20210308/pts-472-1/index.m3u8
+日韓AV1763,https://videos3.jianzhuluntan.com/20210308/pts-472-2/index.m3u8
+日韓AV1766,https://video.jcwbf.com/20220702/Zjk5ODIyMT/010745/1280/hls/encrypt/index.m3u8
+日韓AV1767,https://video1.rhsj520.com/nyrm3/20190111/tcd-200/1500kb/hls/index.m3u8
+日韓AV1768,https://videocdnbaidu.rhsj520.com/3/RY/TCD-204/1500kb/hls/index.m3u8
+日韓AV1769,https://lajiao-bo.com/20190517/qDy4L44Y/index.m3u8
+日韓AV1770,https://videomy.yongaomy.com/20200307/fEZdCszs/index.m3u8
+日韓AV1773,https://video21.balecao.com/video/20220326/c03848b8219b7ba2b99edb099e784f96/index.m3u8
+日韓AV1774,https://video23.balecao.com/video/20220504/178219eca3a1675c897002208480bbf9/index.m3u8
+日韓AV1775,https://play3.sewobofang.com/20230520/B4dpD7DD/index.m3u8
+日韓AV1777,https://vip5.ddyunbo.com/20221202/XJQJsbfl/index.m3u8
+日韓AV1778,https://videomy.yongaomy.com/20210627/oE0kkqZY/index.m3u8
+日韓AV1779,https://videomy.yongaomy.com/20211123/dQh5x2MY/index.m3u8
+日韓AV1780,https://video1.rhsj520.com/nyrm3/cjod/cjod-173/1500kb/hls/index.m3u8
+日韓AV1781,https://putaozywcdn.com:166/20221222/1997C1E1076ED9C5/hls/1000k/index.m3u8
+日韓AV1782,https://videomy.yongaomy.com/20191223/5gbiWKlK/index.m3u8
+日韓AV1783,https://videomy.yongaomy.com/20220127/PQSV1ztr/index.m3u8
+日韓AV1784,https://videomy.yongaomy.com/20220213/kSWqpWBK/index.m3u8
+日韓AV1785,https://play1.laoyacdn.com/20220215/dTVMUsOA/index.m3u8
+日韓AV1786,https://video.myzybo.com/20221215/YTQ2NWExZm/082420/1280/hls/encrypt/index.m3u8
+日韓AV1787,https://video.myzybo.com/20221028/MWFmN2I3NT/090203/1280/hls/encrypt/index.m3u8
+日韓AV1788,https://video.myzybo.com/20221028/ZGNiYjg0MD/090308/1280/hls/encrypt/index.m3u8
+日韓AV1789,https://videomy.yongaomy.com/20220209/2gmaahvh/index.m3u8
+日韓AV1790,https://video.myzybo.com/20230316/NTBmYmNlNz/080159/1280/hls/encrypt/index.m3u8
+日韓AV1792,https://cdn.yrplay4.com/20231119/lvturlDK/index.m3u8
+日韓AV1793,https://video.bttbo.com/20230208/NmQ5ZGYwNj/162932/1280/hls/encrypt/index.m3u8
+日韓AV1794,https://bobolj.com/20200824/bWaT9n7k/index.m3u8
+日韓AV1795,https://videocdn.quweikm.com/20180730/SHKD-549c/index.m3u8
+日韓AV1796,https://bf1.semaobf1.com/20221112/57B221EC1991E10A/hls/1000k/index.m3u8
+日韓AV1797,https://videocdn.quweikm.com/20180730/SHKD-600c/index.m3u8
+日韓AV1798,https://videomy.yongaomy.com/20200104/Sbq7Mcv0/index.m3u8
+日韓AV1799,https://video2.51daao.com/btt1/2021/02/20210217/N4Qvy5o2/index.m3u8
+日韓AV1800,https://data2.huakuibf3.com/20221129/3E60A6505A4E0377/hls/1000k/index.m3u8
+日韓AV1801,https://video.feimanzb.com/20180301/DJ7KORY737/650kb/hls/index.m3u8
+日韓AV1802,https://video2.51daao.com/btt1/2021/02/20210210/OhaZVqtb/index.m3u8
+日韓AV1803,https://cdnvideos.52homedecor.com/99920190215/999201902150335/index.m3u8
+日韓AV1804,https://videomy.yongaomy.com/20220323/QyRHbxBd/index.m3u8
+日韓AV1805,https://video.myzybo.com/20221220/OTU2NjViYT/085321/1280/hls/encrypt/index.m3u8
+日韓AV1806,https://videomy.yongaomy.com/20220514/e7MTISWJ/index.m3u8
+日韓AV1807,https://videomy.yongaomy.com/20211117/lbzN6YyL/index.m3u8
+日韓AV1808,https://videomy.yongaomy.com/20210930/2UfBuKjJ/index.m3u8
+日韓AV1809,https://videomy.yongaomy.com/20210710/Tv6cleUk/index.m3u8
+日韓AV1810,https://video.myzybo.com/20230403/MGU0OWRkZD/100124/1280/hls/encrypt/index.m3u8
+日韓AV1811,https://video.myzybo.com/20230131/M2I4NDk1Mj/100026/1280/hls/encrypt/index.m3u8
+日韓AV1812,https://video.myzybo.com/20230103/NDQyYTI2ND/073504/1280/hls/encrypt/index.m3u8
+日韓AV1813,https://vip5.ddyunbo.com/20230607/108Oeiva/index.m3u8
+日韓AV1814,https://videomy.yongaomy.com/20220630/skVLdZwD/index.m3u8
+日韓AV1815,https://video.zmwbf.com/20230810/Yzc2NzczMz/101003/720/hls/encrypt/index.m3u8
+日韓AV1816,https://vip5.ddyunbo.com/20230610/SN1mYdBO/index.m3u8
+日韓AV1817,https://vip5.ddyunbo.com/20230611/RJNfpmlO/index.m3u8
+日韓AV1818,https://videomy.yongaomy.com/20210628/1dnvlVt3/index.m3u8
+日韓AV1819,https://video.myzybo.com/20230407/YTdhZDU5Ym/073705/1280/hls/encrypt/index.m3u8
+日韓AV1820,https://askzybf.com/20230612/kAT4SQDJ/index.m3u8
+日韓AV1821,https://video.myzybo.com/20230531/ZDkzM2UyYT/090822/720/hls/encrypt/index.m3u8
+日韓AV1822,https://videomy.yongaomy.com/20191213/8hb5B5IZ/index.m3u8
+日韓AV1823,https://videomy.yongaomy.com/20191213/EHZrpORI/index.m3u8
+日韓AV1824,https://videomy.yongaomy.com/20211028/9qeLoIfB/index.m3u8
+日韓AV1825,https://videomy.yongaomy.com/20220213/NCzoQmQT/index.m3u8
+日韓AV1826,https://bf1.semaobf1.com/20221113/986D425D5E8035B5/hls/1000k/index.m3u8
+日韓AV1827,https://video.myzybo.com/20220802/YThiMGNhNG/094311/1280/hls/encrypt/index.m3u8
+日韓AV1828,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/12/GVG-263/index.m3u8
+日韓AV1829,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/12/GVG-348/index.m3u8
+日韓AV1830,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/12/GVG-407/index.m3u8
+日韓AV1831,https://videomy.yongaomy.com/20200409/AT4DoKp5/index.m3u8
+日韓AV1832,https://videomy.yongaomy.com/20200126/GVG-481/index.m3u8
+日韓AV1833,https://videomy.yongaomy.com/20210628/MJ1Agp4S/index.m3u8
+日韓AV1834,https://videomy.yongaomy.com/20220522/coxoFJis/index.m3u8
+日韓AV1835,https://bf1.semaobf1.com/20220802/D3623E9BF03EE67E/hls/2000k/index.m3u8
+日韓AV1836,https://videomy.yongaomy.com/20220622/L5WA72xL/index.m3u8
+日韓AV1837,https://video.myzybo.com/20220814/NjY2Mzc2NG/074225/1280/hls/encrypt/index.m3u8
+日韓AV1839,https://videomy.yongaomy.com/20191223/nqb8HLZZ/index.m3u8
+日韓AV1840,https://play3.laoyacdn.com/20230122/UDmOALqm/index.m3u8
+日韓AV1841,https://videomy.yongaomy.com/20220127/bmZackjN/index.m3u8
+日韓AV1842,https://videomy.yongaomy.com/20211008/h49KIbkp/index.m3u8
+日韓AV1843,https://videomy.yongaomy.com/20210814/UMmBrvQB/index.m3u8
+日韓AV1844,https://videomy.yongaomy.com/20211123/a4cI8Mt5/index.m3u8
+日韓AV1845,https://videomy.yongaomy.com/20210728/BINlGasn/index.m3u8
+日韓AV1846,https://videomy.yongaomy.com/20210827/cKxIxIFb/index.m3u8
+日韓AV1847,https://video.myzybo.com/20221228/MjhlMTdjNG/083618/1280/hls/encrypt/index.m3u8
+日韓AV1848,https://video.myzybo.com/20221102/MmRlYWViMT/075247/1280/hls/encrypt/index.m3u8
+日韓AV1849,https://vip6.ljbfbf.com/20220929/MbGdPmh7/index.m3u8
+日韓AV1850,https://video.zmwbf.com/20220619/ODQxY2M0OD/134830/1280/hls/encrypt/index.m3u8
+日韓AV1851,https://videomy.yongaomy.com/20191223/VjlPlVlD/index.m3u8
+日韓AV1852,https://videomy.yongaomy.com/20220130/74clwd4M/index.m3u8
+日韓AV1853,https://videomy.yongaomy.com/20220208/70De13rL/index.m3u8
+日韓AV1854,https://video2.51daao.com/btt1/2021/03/20210315/kYLZCpo8/index.m3u8
+日韓AV1856,https://video2.51daao.com/btt1/2021/06/20210609/MZVA80CM/index.m3u8
+日韓AV1857,https://video.zmwbf.com/20221109/NzJlZTY3OW/122800/1280/hls/encrypt/index.m3u8
+日韓AV1858,https://askzybf.com/20230529/JnRCY5T3/index.m3u8
+日韓AV1859,https://videomy.yongaomy.com/20211106/rgNmbTQp/index.m3u8
+日韓AV1860,https://video.zmwbf.com/20220722/YTQwZWJmOT/141112/1280/hls/encrypt/index.m3u8
+日韓AV1861,https://videomy.yongaomy.com/20200307/ykhqciXl/index.m3u8
+日韓AV1862,https://vip1.slbfsl.com/20221223/AzO2pWQy/index.m3u8
+日韓AV1863,https://video.myzybo.com/20230414/NTc1MmI3MD/092026/1280/hls/encrypt/index.m3u8
+日韓AV1864,https://video.myzybo.com/20230516/NWZmNzQ2YW/080732/720/hls/encrypt/index.m3u8
+日韓AV1865,https://video2.51daao.com/btt1/2021/06/20210601/rFzG3XfP/index.m3u8
+日韓AV1866,https://videomy.yongaomy.com/20210907/6MjCENhT/index.m3u8
+日韓AV1867,https://videomy.yongaomy.com/20220613/yrsEI9lW/index.m3u8
+日韓AV1868,https://videomy.yongaomy.com/20210901/a810Cqc6/index.m3u8
+日韓AV1870,https://videomy.yongaomy.com/20200804/36FQ9qiH/index.m3u8
+日韓AV1871,https://awslsn1.sisuoyun.com/81820201128/YM0908418/1000kb/hls/index.m3u8
+日韓AV1872,https://videomy.yongaomy.com/20220113/InhooUcu/index.m3u8
+日韓AV1873,https://video.myzybo.com/20220723/MTIwNzMxZG/110329/1280/hls/encrypt/index.m3u8
+日韓AV1874,https://video2.posh-hotels.com/20210815/118ppt00009/index.m3u8
+日韓AV1875,https://videomy.yongaomy.com/20220604/g8PXPpaL/index.m3u8
+日韓AV1876,https://videomy.yongaomy.com/20220627/L4lnDB56/index.m3u8
+日韓AV1877,https://videomy.yongaomy.com/20220429/mmWjjcI9/index.m3u8
+日韓AV1878,https://videomy.yongaomy.com/20200426/lHcVQJk7/index.m3u8
+日韓AV1879,https://videomy.yongaomy.com/20220525/v2vyExAv/index.m3u8
+日韓AV1880,https://video.myzybo.com/20220725/ZjI2NzMyNj/094418/1280/hls/encrypt/index.m3u8
+日韓AV1881,https://video.myzybo.com/20221119/YzA5MTllMj/170612/1280/hls/encrypt/index.m3u8
+日韓AV1882,https://videomy.yongaomy.com/20220131/Zriws6Wo/index.m3u8
+日韓AV1883,https://video.myzybo.com/20230702/OGQ5ZjNjY2/020019/720/hls/encrypt/index.m3u8
+日韓AV1885,https://videocdn.quweikm.com/20180730/SHKD-518c/index.m3u8
+日韓AV1886,https://video2.51daao.com/btt1/2020/11/20201101/DG85SlUX/index.m3u8
+日韓AV1887,https://video.myzybo.com/20230427/NDkwMGI0OT/104153/1280/hls/encrypt/index.m3u8
+日韓AV1888,https://videomy.yongaomy.com/20200307/H8m5nSdG/index.m3u8
+日韓AV1889,https://video.myzybo.com/20220730/YTI0OWIyNj/101615/1280/hls/encrypt/index.m3u8
+日韓AV1890,https://vip1.slbfsl.com/20220807/HpCbAYnN/index.m3u8
+日韓AV1892,https://cdn2.shayubf.com/20200315/KXjWZPLM/index.m3u8
+日韓AV1893,https://bf1.semaobf1.com/20221219/36A63A2BA776C108/hls/1000k/index.m3u8
+日韓AV1894,https://vip3.lbbf9.com/20220206/4LWJAoLk/index.m3u8
+日韓AV1896,https://video2.51daao.com/btt1/2020/08/20200818/7x4yC4z6/index.m3u8
+日韓AV1898,https://play.hgm4u9.com/20221105/t3wyCgrX/index.m3u8
+日韓AV1899,https://bobolj.com/20200307/zKdCaElC/index.m3u8
+日韓AV1900,https://bf1.semaobf1.com/20211105/2A2AD46380B2B67C/hls/2000k/index.m3u8
+日韓AV1901,https://bobolj.com/20210116/yVYDH2Bt/index.m3u8
+日韓AV1902,https://cdn2.shayubf.com/20200227/2vMqVm7B/index.m3u8
+日韓AV1903,https://vod2.ttbfp4.com/20220824/xR0w5JIt/index.m3u8
+日韓AV1904,https://vip3.slbfsl.com/20230706/wwiOxwPl/index.m3u8
+日韓AV1906,https://video2.posh-hotels.com/20200315/fsdss-004/index.m3u8
+日韓AV1907,https://bf1.semaobf1.com/20211116/9E7238025660C99B/hls/2000k/index.m3u8
+日韓AV1908,https://videomy.yongaomy.com/20191227/3uGEgpuB/index.m3u8
+日韓AV1909,https://videomy.yongaomy.com/20191227/4ke0ZxI3/index.m3u8
+日韓AV1920,https://video.feimanzb.com/20180701/VKER5QW772/index.m3u8
+日韓AV1921,https://video.feimanzb.com/20180701/SNK4LGR043/index.m3u8
+日韓AV1923,https://video2.51daao.com/btt1/2022/12/20221208/JOQ07Upi/index.m3u8
+日韓AV1924,https://play1.laoyacdn.com/20220313/ku6OOK6w/index.m3u8
+日韓AV1925,https://2.ddyunbo.com/20200204/HmwrLUfl/index.m3u8
+日韓AV1926,https://vip2.bfbfhao.com/20220222/B8yvtu3O/index.m3u8
+日韓AV1927,https://vip3.lbbf9.com/20220218/qAXAl9BH/index.m3u8
+日韓AV1932,https://cdn1.sewozyplay.com/20220621/ypovQLwt/index.m3u8
+日韓AV1933,https://play2.laoyacdn.com/20220728/6aQLjY5k/index.m3u8
+日韓AV1934,https://putaozywcdn.com:166/20220603/7E7C0EDBAFCF8E4C/hls/1500k/index.m3u8
+日韓AV1935,https://video1.rhsj520.com/nyrm3/nvyou/0510/XV-966/1500kb/hls/index.m3u8
+日韓AV1936,https://video1.rhsj520.com/nyrm3/nvyou/0510/XV-973/1500kb/hls/index.m3u8
+日韓AV1937,https://play1.laoyacdn.com/20220419/Xl2ido3h/index.m3u8
+日韓AV1938,https://play1.laoyacdn.com/20220419/VFFcVw9l/index.m3u8
+日韓AV1939,https://play1.laoyacdn.com/20220407/EKXCEHit/index.m3u8
+日韓AV1940,https://play1.laoyacdn.com/20220405/bMRrgD3V/index.m3u8
+日韓AV1941,https://putaozywcdn.com:166/20220608/8AA0A47606AC60EB/hls/2000k/index.m3u8
+日韓AV1942,https://putaozywcdn.com:166/20220806/54F76A420C76F842/hls/1000k/index.m3u8
+日韓AV1943,https://vod1.ttbfp2.com/20210822/hVWMxztT/index.m3u8
+日韓AV1944,https://vod1.ttbfp2.com/20210817/a3SImI23/index.m3u8
+日韓AV1945,https://vod1.ttbfp2.com/20210822/ZEODhqOk/index.m3u8
+日韓AV1950,https://ginocdn.bybzj.com/zimu/20180520/ABP-682c/650kb/hls/index.m3u8
+日韓AV1951,https://ginocdn.bybzj.com/zimu/20180520/ABP-683c/650kb/hls/index.m3u8
+日韓AV1952,https://ginocdn.bybzj.com/zimu/20180520/ABP-684c/650kb/hls/index.m3u8
+日韓AV1953,https://ginocdn.bybzj.com/zimu/20180520/ABP-685c/650kb/hls/index.m3u8
+日韓AV1954,https://ginocdn.bybzj.com/zimu/20180520/ABP-687c/650kb/hls/index.m3u8
+日韓AV1955,https://ginocdn.bybzj.com/zimu/20180520/ABP-688c/650kb/hls/index.m3u8
+日韓AV1956,https://ginocdn.bybzj.com/20180529/xOL7YJoe/index.m3u8
+日韓AV1957,https://ginocdn.bybzj.com/20180529/Uhr7HTwu/index.m3u8
+日韓AV1958,https://ginocdn.bybzj.com/20180531/QmuDB2lo/index.m3u8
+日韓AV1959,https://ginocdn.bybzj.com/20180531/MwZvIKKS/index.m3u8
+日韓AV1960,https://ginocdn.bybzj.com/zimu/20180520/ADN-152c/650kb/hls/index.m3u8
+日韓AV1961,https://ginocdn.bybzj.com/zimu/20180520/AKA-054c/650kb/hls/index.m3u8
+日韓AV1962,https://ginocdn.bybzj.com/zimu/20180520/AKID-050c/650kb/hls/index.m3u8
+日韓AV1963,https://ginocdn.bybzj.com/20180531/AGUjACLo/index.m3u8
+日韓AV1964,https://video1.rhsj520.com/nyrm3/nvyou/WY4DXMje/1500kb/hls/index.m3u8
+日韓AV1965,https://ginocdn.bybzj.com/20180531/59g6Qosf/index.m3u8
+日韓AV1966,https://ginocdn.bybzj.com/zimu/20180520/BF-534c/650kb/hls/index.m3u8
+日韓AV1967,https://ginocdn.bybzj.com/zimu/20180520/BF-535c/650kb/hls/index.m3u8
+日韓AV1968,https://ginocdn.bybzj.com/20180601/2naot21F/index.m3u8
+日韓AV1970,https://ginocdn.bybzj.com/zimu/20180520/CEAD-047c/650kb/hls/index.m3u8
+日韓AV1971,https://ginocdn.bybzj.com/zimu/20180520/CEAD-049c/650kb/hls/index.m3u8
+日韓AV1972,https://ginocdn.bybzj.com/zimu/20180520/CEAD-050c/650kb/hls/index.m3u8
+日韓AV1973,https://ginocdn.bybzj.com/20180601/9ZNCbVdf/index.m3u8
+日韓AV1974,https://ginocdn.bybzj.com/20180601/RBv0oHpw/index.m3u8
+日韓AV1975,https://ginocdn.bybzj.com/20180601/sON3IK1b/index.m3u8
+日韓AV1976,https://ginocdn.bybzj.com/20180601/F9x7uadj/index.m3u8
+日韓AV1977,https://ginocdn.bybzj.com/20180602/xALsoxry/index.m3u8
+日韓AV1978,https://ginocdn.bybzj.com/20180602/fQun6XaI/index.m3u8
+日韓AV1979,https://ginocdn.bybzj.com/20180602/bd6DeTEA/index.m3u8
+日韓AV1980,https://ginocdn.bybzj.com/20180602/yYKNXoOr/index.m3u8
+日韓AV1981,https://ginocdn.bybzj.com/20180602/V0QiZTLk/index.m3u8
+日韓AV1982,https://ginocdn.bybzj.com/20180602/KvcrBk9S/index.m3u8
+日韓AV1983,https://ginocdn.bybzj.com/20180602/uXg70enG/index.m3u8
+日韓AV1984,https://ginocdn.bybzj.com/20180602/p96GHK8R/index.m3u8
+日韓AV1986,https://ginocdn.bybzj.com/20180602/Ae1GuK57/index.m3u8
+日韓AV1987,https://videomy.yongaomy.com/20200324/9SehKWxi/index.m3u8
+日韓AV1988,https://videomy.yongaomy.com/20200324/z777KSu8/index.m3u8
+日韓AV1989,https://videomy.yongaomy.com/20200324/CfGBWtVK/index.m3u8
+日韓AV1990,https://videomy.yongaomy.com/20200324/jYpT6CC8/index.m3u8
+日韓AV1992,https://fc.imgscloud.com/e/dslsaxfjsp/dslsaxfjsp.m3u8
+日韓AV1993,https://fc.imgscloud.com/c/edgnokzuzi/edgnokzuzi.m3u8
+日韓AV1994,https://fc.imgscloud.com/n/lbbcyteloq/lbbcyteloq.m3u8
+日韓AV1995,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1979_full/1500kb/hls/index.m3u8
+日韓AV1996,https://videomy.yongaomy.com/20220217/y4nfkWAB/index.m3u8
+日韓AV1997,https://videomy.yongaomy.com/20220408/rVVADOwS/index.m3u8
+日韓AV1998,https://videomy.yongaomy.com/20220621/jFume6D5/index.m3u8
+日韓AV1999,https://video.myzybo.com/20220803/NjM3MDc3MW/092443/1280/hls/encrypt/index.m3u8
+日韓AV2000,https://video.myzybo.com/20230408/NWI2Y2EzZT/202911/1280/hls/encrypt/index.m3u8
